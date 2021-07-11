@@ -1,6 +1,6 @@
-name: 進捗管理TEST
+name: TEST
 on:
-  push:
+#   push:
   schedule:
     # *はYAMLにおける特殊文字なので、この文字列はクオートしなければならない
     - cron:  '0 19 * * *' #JST +0900 23:55
