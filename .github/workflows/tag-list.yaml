@@ -1,0 +1,19 @@
+name: 進捗管理TEST
+on:
+  # push:
+  schedule:
+    # *はYAMLにおける特殊文字なので、この文字列はクオートしなければならない
+    - cron:  '55 14 * * *' #JST +0900 23:55
+
+jobs:
+  job_1:
+    name: git log repo
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Clone another repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python gettags.py
