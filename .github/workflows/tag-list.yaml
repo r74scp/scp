@@ -10,10 +10,27 @@ jobs:
     name: git log repo
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
 
-      - name: Clone another repository
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Setup python # ワークフローのセクションごとに設定する名前。特に設定する必要はないが、どこでエラーが起きているかを把握する為にも設定しておいた方が良い。
+        uses: actions/setup-python@v2 # Pythonのセットアップ
+        with:
+          python-version: "3.8" # Pythonのバージョン指定
+
+      - name: Install dependencies # Pythonの依存環境のインストール
+        run: | #このような書き方で複数行を一気に実行することができる。
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run main.py # Pythonファイルの実行
         run: |
-          python gettags.py
+          python main.py
+
+      - name: Commit and Push # 実行した結果をプッシュして変更をレポジトリに反映
+        run: |
+          git config user.name "RTa-technology"
+          git config user.email "scpfoundationidcardmaker@gmail.com"
+          git add .
+          git commit -m "Commit Message"
+          git pull
+          git push origin main
