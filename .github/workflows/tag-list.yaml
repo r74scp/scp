@@ -1,6 +1,6 @@
-name: TEST
+name: Tag list
 on:
-  push:
+#   push:
   schedule:
     # *はYAMLにおける特殊文字なので、この文字列はクオートしなければならない
     - cron:  '0 19 * * *' #JST +0900 23:55
@@ -31,6 +31,6 @@ jobs:
           git config user.name "RTa-technology"
           git config user.email "scpfoundationidcardmaker@gmail.com"
           git add .
-          git commit -m "Commit Message"
+          git commit -m "tag-list更新"
           git pull
           git push origin main
