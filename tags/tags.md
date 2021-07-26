@@ -207,6 +207,7 @@
  * **[[[/system:page-tags/tag/tr|tr]]]** - SCP-TR(トルコ語版サイト)から翻訳されたページに付けられるタグです。
  * **[[[/system:page-tags/tag/nd|nd]]]** - SCP-ND(北欧諸言語版サイト)から翻訳されたページに付けられるタグです。
  * **[[[/system:page-tags/tag/el|el]]]** - SCP-EL(ギリシャ語版サイト)から翻訳されたページに付けられるタグです。
+ * **[[[/system:page-tags/tag/id|id]]]** - SCP-ID(インドネシア語版サイト)から翻訳されたページに付けられるタグです。
 
 * 翻訳プロジェクト
  * **[[[/system:page-tags/tag/int|int]]]** - SCP-INT(国際英訳アーカイヴ)から翻訳されたページに付けられるタグです。
