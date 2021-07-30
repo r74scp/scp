@@ -817,6 +817,7 @@ SCP-ENで作成された要注意団体に関するタグです。
 * **[[[/system:page-tags/tag/サメ殴りセンター|サメ殴りセンター]]]**//(shark-punching-center)// - [[[spc-hub|サメ殴りセンター(SPC)]]]に関係するタグです。
 * **[[[/system:page-tags/tag/三ツ月イニシアチブ|三ツ月イニシアチブ]]]**//(three-moons-initiative)// - [[[three-moons-initiative-hub|三ツ月イニシアチブ]]]に関係するタグです。
 * **[[[/system:page-tags/tag/異常事件課|異常事件課]]]**//(unusual-incidents-unit)// - [[[unusual-incidents-unit-hub|連邦捜査局(FBI) 異常事件課(UIU)]]]に関係するタグです。
+* **[[[/system:page-tags/tag/ヴィキャンデル・ニード|ヴィキャンデル・ニード]]]**//(vikander-kneed)// - [[[vikander-kneed-technical-media-hub|ヴィキャンデル=ニード・テクニカル・メディア]]]に関連するタグです。
 * **[[[/system:page-tags/tag/ウィルソンズ・ワイルドライフ|ウィルソンズ・ワイルドライフ]]]**//(wilsons-wildlife)// - [[[wilson-s-wildlife-solutions-hub|ウィルソンズ・ワイルドライフ・ソリューションズ]]]に関係するタグです。
 
 [[/div]]
@@ -1130,7 +1131,6 @@ SCP-ENで作成された準要注意団体に関するタグです。
 * **[[[/system:page-tags/tag/aw教授|aw教授]]]**//(professor-aw)// - aw教授の発明物に関係するタグです。
 * **[[[/system:page-tags/tag/シュガーコム製菓|シュガーコム製菓]]]**//(sugarcomb-confectionery)// - シュガーコム製菓に関係するタグです。
 * **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]**//(tactical-theology)// - 戦術神学部門に関係するタグです。
-* **[[[/system:page-tags/tag/ヴィキャンデル・ニード|ヴィキャンデル・ニード]]]**//(vikander-kneed)// - ヴィキャンデル=ニード・テクニカル・メディアに関連するタグです。
 * **[[[/system:page-tags/tag/ウェストヘッド・メディア|ウェストヘッド・メディア]]]**//(westhead-media)// - ウェストヘッド・メディアに関係するタグです。
 * **[[[/system:page-tags/tag/夏王朝|夏王朝]]]**//(xia-dynasty)// - 夏王朝に関係するタグです。
 
