@@ -1698,6 +1698,7 @@ SCP-JPの各コンテストに関連する記事に付けられるタグです�
 * **[[[/system:page-tags/tag/af2021|af2021]]]** - 2021エイプリルフールのタグです。
 * **[[[/system:page-tags/tag/三題噺言霊競演21|三題噺言霊競演21]]]** - [[[kotodama-contest-2021|令和三年度三題噺言霊競演]]]のタグです。
 * **[[[/system:page-tags/tag/夜コン21|夜コン21]]]** -  [[[yorucontest2021-hub|夜のコンテスト2021]]]のタグです。
+* **[[[/system:page-tags/tag/お団子21|お団子21]]]** - [[[pile-up-dumplings-2021|十五夜お団子フェスティバル2021]]]のタグです。
 [[/div]]
 
 ------
