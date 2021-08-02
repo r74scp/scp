@@ -855,7 +855,8 @@ SCP-JPで作成された要注意団体に関するタグです。
 * **[[[/system:page-tags/tag/imaginanimal|imaginanimal]]]** - [[[*groups-of-interest-jp#toc22|Imaginanimal]]]に関係するタグです。
 * **[[[/system:page-tags/tag/遠野妖怪保護区|遠野妖怪保護区]]]** - [[[toyoho-hub|遠野妖怪保護区]]]に関係するタグです。
 * **[[[/system:page-tags/tag/弟の食料品 | 弟の食料品]]]** - [[[brothers-restaurant-hub|弟の食料品]]]に関係するタグです。
-* **[[[/system:page-tags/tag/aki商事|aki商事]]]** - AKI商事に関係するタグです。
+* **[[[/system:page-tags/tag/aki商事|aki商事]]]** - [[[groups-of-interest-jp#aki-shoji|AKI商事]]]に関係するタグです。
+* **[[[/system:page-tags/tag/日奉一族|日奉一族]]]** - [[[groups-of-interest-jp#isanagi|日奉一族]]]に関係するタグです。
 
 [[/div]]
 
@@ -1169,7 +1170,6 @@ SCP-JPで作成された準要注意団体に関するタグです。
 * **[[[/system:page-tags/tag/だいすきなせかい|だいすきなせかい]]]** - だいすきなせかいに関係するタグです。
 * **[[[/system:page-tags/tag/夢売り|夢売り]]]** - 夢売りに関係するタグです。
 * **[[[/system:page-tags/tag/五行結社|五行結社]]]** - 五行結社に関係するタグです。
-* **[[[/system:page-tags/tag/日奉一族|日奉一族]]]** - 日奉一族に関係するタグです。
 * **[[[/system:page-tags/tag/蛸葦廃船|蛸葦廃船]]]** - 蛸葦廃船に関係するタグです。
 * **[[[/system:page-tags/tag/pamwac|pamwac]]]** - PAMWACに関係するタグです。
 * **[[[/system:page-tags/tag/旧南関東奇譚会界隈|旧南関東奇譚会界隈]]]** - 旧南関東奇譚会界隈に関係するタグです。
