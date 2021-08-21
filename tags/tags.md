@@ -818,6 +818,7 @@ SCP-ENで作成された要注意団体に関するタグです。
 * **[[[/system:page-tags/tag/三ツ月イニシアチブ|三ツ月イニシアチブ]]]**//(three-moons-initiative)// - [[[three-moons-initiative-hub|三ツ月イニシアチブ]]]に関係するタグです。
 * **[[[/system:page-tags/tag/異常事件課|異常事件課]]]**//(unusual-incidents-unit)// - [[[unusual-incidents-unit-hub|連邦捜査局(FBI) 異常事件課(UIU)]]]に関係するタグです。
 * **[[[/system:page-tags/tag/ヴィキャンデル・ニード|ヴィキャンデル・ニード]]]**//(vikander-kneed)// - [[[vikander-kneed-technical-media-hub|ヴィキャンデル=ニード・テクニカル・メディア]]]に関連するタグです。
+* **[[[/system:page-tags/tag/堂守連盟|堂守連盟]]]**//(wandsmen)// - [[[wandsmen-hub|堂守連盟]]]に関係するタグです。
 * **[[[/system:page-tags/tag/ウィルソンズ・ワイルドライフ|ウィルソンズ・ワイルドライフ]]]**//(wilsons-wildlife)// - [[[wilson-s-wildlife-solutions-hub|ウィルソンズ・ワイルドライフ・ソリューションズ]]]に関係するタグです。
 
 [[/div]]
