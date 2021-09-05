@@ -1831,13 +1831,13 @@ SCP-ENで作成されたキャラクターに関するタグです。
 * **[[[/system:page-tags/tag/エージェント・メルロ|エージェント・メルロ]]]**//(agent-merlo)// - エージェント・サシャ・メルロ。
 * **[[[/system:page-tags/tag/エージェント・ナヴァッロ|エージェント・ナヴァッロ]]]**//(agent-navarro)// - エージェント・ダニエル・ナヴァッロ。
 * **[[[/system:page-tags/tag/エージェント・ストレルニコフ|エージェント・ストレルニコフ]]]**//(agent-strelnikov)// - エージェント・ストレルニコフ。
+* **[[[/system:page-tags/tag/エージェント・トラウス|エージェント・トラウス]]]**//(agent-trauss)// - エージェント・トラウス、もしくはC-51174。
 * **[[[/system:page-tags/tag/エージェント・ヨリック|エージェント・ヨリック]]]**//(agent-yoric)// - エージェント・ヨリック・エルロイ、またの名をジャック・"ダメなヨリック"・ドーキンス。
 * **[[[/system:page-tags/tag/アレクサンドラ|アレクサンドラ]]]**//(alexandra)// - AIユニットのアレクサンドラ。
 * **[[[/system:page-tags/tag/アレクセイ・ベリトロフ|アレクセイ・ベリトロフ]]]**//(alexei-belitrov)// - アレクセイ・ベリトロフ。
 * **[[[/system:page-tags/tag/ビッグチーズ・ホレス|ビッグチーズ・ホレス]]]**//(big-cheese-horace)// - 第五主義者のビッグチーズ・ホレス。
 * **[[[/system:page-tags/tag/ピエロのボブル|ピエロのボブル]]]**//(bobble-the-clown)// - ピエロのボブル、もしくはSCP-993。
 * **[[[/system:page-tags/tag/bones|bones]]]**//(bones)// - Bones、またの名をSCP-2721-LORD、もしくはイーライ。
-* **[[[/system:page-tags/tag/c-51174|c-51174]]]**//(c-51174)// - C-51174。
 * **[[[/system:page-tags/tag/カイン|カイン]]]**//(cain)// - カイン、もしくはSCP-073。
 * **[[[/system:page-tags/tag/チャズ・アンブローズ|チャズ・アンブローズ]]]**//(chaz-ambrose)// - アンブローズ・レストランの創始者、チャズ・アンブローズ。
 * **[[[/system:page-tags/tag/従兄弟のジョニー|従兄弟のジョニー]]]**//(cousin-johnny)// - 従兄弟のジョニー、もしくはSCP-2852。
