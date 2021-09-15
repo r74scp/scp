@@ -760,6 +760,8 @@
  * 必ず//公安部特事課//タグと併用してください。
 * **[[[/system:page-tags/tag/_恋昏崎新聞社|_恋昏崎新聞社]]]** - 恋昏崎新聞社のGoIフォーマット記事に付与されるタグです。
  * 必ず//恋昏崎新聞社//タグと併用してください。
+* **[[[/system:page-tags/tag/_五行結社|_五行結社]]]** - 五行結社のGoIフォーマット記事に付与されるタグです。
+ * 必ず//五行結社//タグと併用してください。
 * **[[[/system:page-tags/tag/_犀賀派|_犀賀派]]]** - 犀賀派のGoIフォーマット記事に付与されるタグです。
  * 必ず//犀賀派//タグと併用してください。
 * **[[[/system:page-tags/tag/_蒐集院|_蒐集院]]]** - 蒐集院のGoIフォーマット記事に付与されるタグです。
@@ -1395,6 +1397,7 @@
 * **[[[/system:page-tags/tag/弟の食料品|弟の食料品]]]** - [[[brothers-restaurant-hub|弟の食料品]]]。
 * **[[[/system:page-tags/tag/aki商事|aki商事]]]** - AKI商事。
 * **[[[/system:page-tags/tag/日奉一族|日奉一族]]]** - 日奉一族。
+* **[[[/system:page-tags/tag/五行結社|五行結社]]]** - 五行結社。
 
 @@ @@
 
@@ -1408,7 +1411,6 @@
 * **[[[/system:page-tags/tag/andersen|andersen]]]** - Andersen。
 * **[[[/system:page-tags/tag/だいすきなせかい|だいすきなせかい]]]** - だいすきなせかい。
 * **[[[/system:page-tags/tag/夢売り|夢売り]]]** - 夢売り。
-* **[[[/system:page-tags/tag/五行結社|五行結社]]]** - 五行結社。
 * **[[[/system:page-tags/tag/蛸葦廃船|蛸葦廃船]]]** - 蛸葦廃船。
 * **[[[/system:page-tags/tag/pamwac|pamwac]]]** - アニメキャラクターと結婚するための研究計画局(PAMWAC)。
 * **[[[/system:page-tags/tag/旧南関東奇譚会界隈|旧南関東奇譚会界隈]]]** - 旧南関東奇譚会界隈。
@@ -1765,6 +1767,10 @@ SCP-ENではキャラクターに分類されています。
 
 * **[[[/system:page-tags/tag/形式部門|形式部門]]]** - [[[formality-department-hub|形式部門]]]。
 * **[[[/system:page-tags/tag/対話部門|対話部門]]]** - 対話部門。[!-- ハブはあるが設定集ではない --]
+
++++ フロント-JP
+
+* **[[[/system:page-tags/tag/プリチャード学院|プリチャード学院]]]** - プリチャード学院。
 
 [!--
 ★"信濃中央新聞"は連作タグなのでひとまずは掲載していない。
