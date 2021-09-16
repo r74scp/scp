@@ -1,6 +1,6 @@
 name: Tag list
 on:
-#   push:
+  push:
   schedule:
     # *はYAMLにおける特殊文字なので、この文字列はクオートしなければならない
     - cron:  '0 19 * * *' #JST +0900 23:55
@@ -28,9 +28,24 @@ jobs:
 
       - name: Commit and Push # 実行した結果をプッシュして変更をレポジトリに反映
         run: |
-          git config user.name "RTa-technology"
-          git config user.email "scpfoundationidcardmaker@gmail.com"
-          git add .
-          git commit -m "tag-list更新"
-          git pull
-          git push origin main
+          function main() {
+            trap catch ERR
+            echo "[INFO]Main"
+            git config user.name "RTa-technology"
+            git config user.email "scpfoundationidcardmaker@gmail.com"
+            git add .
+            git commit -m "tag-list更新"
+            git pull
+            git push origin main
+            return 0
+          }
+          function catch() {
+                  echo "[ERROR]Fail"
+          }
+          function finally() {
+                  echo "[INFO]Finish"
+          }
+          # Entry Point
+          set -eu
+          trap finally EXIT
+          main
