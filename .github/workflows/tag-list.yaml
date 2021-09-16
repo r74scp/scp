@@ -28,25 +28,20 @@ jobs:
 
       - name: Commit and Push # 実行した結果をプッシュして変更をレポジトリに反映
         run: |
-          function main() {
-            trap catch ERR
-            echo "[INFO]Main"
+          raise(){
+             echo "raise exception"
+             exit 1
+          }
+          # try
+          (
+            git config user.name "RTa-technology"
+            git config user.email "scpfoundationidcardmaker@gmail.com"
+            git add .
+            git commit -m "tag-list更新"
+            git pull
             git push origin main
-            return 0
+          ) || {
+          # catch
+            echo "Finalization"
+            exit 1
           }
-          function catch() {
-            exit 0
-          }
-          function finally() {
-                  echo "[INFO]Finish"
-          }
-          git config user.name "RTa-technology"
-          git config user.email "scpfoundationidcardmaker@gmail.com"
-          git add .
-          git commit -m "tag-list更新"
-          git pull
-                    
-          # Entry Point
-          set -eu
-          trap finally EXIT
-          main
