@@ -31,20 +31,21 @@ jobs:
           function main() {
             trap catch ERR
             echo "[INFO]Main"
-            git config user.name "RTa-technology"
-            git config user.email "scpfoundationidcardmaker@gmail.com"
-            git add .
-            git commit -m "tag-list更新"
-            git pull
             git push origin main
             return 0
           }
           function catch() {
-                  echo "[ERROR]Fail"
+            exit 0
           }
           function finally() {
                   echo "[INFO]Finish"
           }
+          git config user.name "RTa-technology"
+          git config user.email "scpfoundationidcardmaker@gmail.com"
+          git add .
+          git commit -m "tag-list更新"
+          git pull
+                    
           # Entry Point
           set -eu
           trap finally EXIT
