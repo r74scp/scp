@@ -1904,6 +1904,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/崇高なるカルキスト・イオン|崇高なるカルキスト・イオン]]]** //(grand-karcist-ion)// - 崇高なるカルキスト・イオン。
 * **[[[/system:page-tags/tag/ハリーナ・イエヴァ|ハリーナ・イエヴァ]]]** //(halyna-ieva)// - カルキスト・ハリーナ・イエヴァ、またの名を”趾を求む母”。
 * **[[[/system:page-tags/tag/吊られた王|吊られた王]]]** //(hanged-king)// - 吊られた王。
+* **[[[/system:page-tags/tag/不死身の爬虫類|不死身の爬虫類]]]** //(hard-to-kill-reptile)// - SCP-682、"不死身の爬虫類"。
 * **[[[/system:page-tags/tag/ヘザー・メイソン|ヘザー・メイソン]]]** //(heather-mason)// - ヘザー・メイソン、またの名を"ミズ・ビデオゲーム狂"あるいは"SCP-3090"。
 * **[[[/system:page-tags/tag/アイリス・ダーク|アイリス・ダーク]]]** //(iris-dark)// - アイリス・ダーク。
 * **[[[/system:page-tags/tag/アイリス・トンプソン|アイリス・トンプソン]]]** //(iris-thompson)// - アイリス・トンプソン、通称SCP-105。
@@ -2006,6 +2007,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/karkaroff|karkaroff]]]** - karkaroff。
 * **[[[/system:page-tags/tag/川獺丸従業員|川獺丸従業員]]]** - 川獺丸従業員。
 * **[[[/system:page-tags/tag/串間保育士|串間保育士]]]** - 串間保育士。
+* **[[[/system:page-tags/tag/くだん・バンシー|くだん・バンシー]]]** - [[[SCP-1146-JP]]]で登場する存在、通称「くだん・バンシー」。
 * **[[[/system:page-tags/tag/久能尚史|久能尚史]]]** - 久能 尚史。
 * **[[[/system:page-tags/tag/桑名博士|桑名博士]]]** - 桑名博士。
 * **[[[/system:page-tags/tag/咬冴隊員|咬冴隊員]]]** - 咬冴隊員。
