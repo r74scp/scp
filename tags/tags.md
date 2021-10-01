@@ -1086,7 +1086,7 @@
 [[/tab]][!--ES--]
 [[tab TH]]
 +++ カノン-TH
-それぞれの概要は[[[canon-hub-th|]]]を参照してください。
+それぞれの概要は[[[th-canon-hub|]]]を参照してください。
 
 * **[[[/system:page-tags/tag/ホラーな財団|ホラーな財団]]]** //(horror-foundation)// - [[[horror-foundation|ホラーな財団]]]。
 
