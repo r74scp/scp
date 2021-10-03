@@ -2008,6 +2008,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/久能尚史|久能尚史]]]** - 久能 尚史。
 * **[[[/system:page-tags/tag/桑名博士|桑名博士]]]** - 桑名博士。
 * **[[[/system:page-tags/tag/咬冴隊員|咬冴隊員]]]** - 咬冴隊員。
+* **[[[/system:page-tags/tag/犀賀六巳|犀賀六巳]]]** - 犀賀六巳。
 * **[[[/system:page-tags/tag/西行|西行]]]** - [[[SCP-571-JP]]]。
 * **[[[/system:page-tags/tag/しぃカウンセラー|しぃカウンセラー]]]** - しぃカウンセラー。
 * **[[[/system:page-tags/tag/諸知博士|諸知博士]]]** - 諸知博士。
