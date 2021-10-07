@@ -1989,6 +1989,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/scp-014-jp-j|scp-014-jp-j]]]** - [[[SCP-014-JP-J]]]。
 * **[[[/system:page-tags/tag/scp-210-jp|scp-210-jp ]]]** - [[[SCP-210-JP]]]。
 * **[[[/system:page-tags/tag/scp-964-jp|scp-964-jp]]]** - [[[SCP-964-JP]]]。
+* **[[[/system:page-tags/tag/scp-1134-jp|scp-1134-jp]]]** - 勝、または[[[SCP-1134-JP]]]。
 * **[[[/system:page-tags/tag/scp-2050-jp-a|scp-2050-jp-a]]]** - [[[SCP-2050-JP]]]-A。
 * **[[[/system:page-tags/tag/大和博士|大和博士]]]** - 大和博士。
 * **[[[/system:page-tags/tag/御先管理員|御先管理員]]]** - 御先管理員。
@@ -1996,7 +1997,6 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/御蓮寺恋治|御蓮寺恋治]]]** - 御蓮寺恋治。
 * **[[[/system:page-tags/tag/カイ|カイ]]]** - カイ、あるいはD-1228。
 * **[[[/system:page-tags/tag/隠し包丁のスニーク|隠し包丁のスニーク]]]** - 隠し包丁のスニーク。
-* **[[[/system:page-tags/tag/勝|勝]]]** - 勝、または[[[SCP-1134-JP]]]。
 * **[[[/system:page-tags/tag/金崎研究員|金崎研究員]]]** - 金崎研究員。
 * **[[[/system:page-tags/tag/神山博士|神山博士]]]** - 神山博士。
 * **[[[/system:page-tags/tag/神恵研究員|神恵研究員]]]** - 神恵研究員。
@@ -2041,7 +2041,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/三国技師|三国技師]]]** - 三国技師。
 * **[[[/system:page-tags/tag/飯尾博士|飯尾博士]]]** - 飯尾博士。
 * **[[[/system:page-tags/tag/萌里菻|萌里菻]]]** - 萌里菻。
-* **[[[/system:page-tags/tag/闇|闇]]]** - 闇、あるいは栄。
+* **[[[/system:page-tags/tag/闇親方|闇親方]]]** - 闇、あるいは栄。
 
 [!--
 ★「PoI-1933 ハブ」は連作であり、設定集でないのでリンクは付けない。
