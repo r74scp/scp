@@ -973,9 +973,10 @@
 * **[[[/system:page-tags/tag/ドレッド&サーカス|ドレッド&サーカス]]]** //(dread&circuses)// - [[[dread-circuses-hub|ドレッド&サーカス]]]。
 * **[[[/system:page-tags/tag/死の終焉|死の終焉]]]** //(end-of-death)// - [[[end-of-death-hub|死の終焉]]]。
 * **[[[/system:page-tags/tag/etdp|etdp]]]** //(etdp)// - [[[etdp-hub-page|そして私は神を求めた]]]。
+* **[[[/system:page-tags/tag/120の史料館より|120の史料館より]]]** //(from-120s-archives)// - [[[from-120-s-archives-hub|120の史料館より]]]。
 * **[[[/system:page-tags/tag/翠の王|翠の王]]]** //(green-king)// - [[[codename-green-king-hub|コードネーム：翠の王]]]。
 * **[[[/system:page-tags/tag/ヘイムダル|ヘイムダル]]]** //(heimdall)// - [[[project-heimdall|ヘイムダル計画]]]。
-* **[[[/system:page-tags/tag/insect-hell|insect-hell]]]** //(insect-hell)// - [[[arbh-class-hub|Insect Hell]]]。
+* **[[[/system:page-tags/tag/insect-hell|insect-hell]]]** //(insect-hell)// - [[[arbh-class-hub|”昆虫地獄”]]]。
 * **[[[/system:page-tags/tag/たのしいざいだん|たのしいざいだん]]]** //(lolfoundation)// - [[[lolfoundation-hub-page|たのしいざいだん]]]。
 * **[[[/system:page-tags/tag/存在しなかった者|存在しなかった者]]]** //(man-who-wasnt-there)// - [[[the-man-who-wasnt-there-hub|存在しなかった者]]]。
 * **[[[/system:page-tags/tag/追憶のアディトゥム|追憶のアディトゥム]]]** //(memoria-adytum)// - [[[memoria-adytum|追憶のアディトゥム]]]。
