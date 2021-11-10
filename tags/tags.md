@@ -2402,7 +2402,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/uac2014|uac2014]]]** //(uac2014)// - [[[under-appreciated-contest|2014年”正しく評価されていないSCP”コンテスト]]]。
 
-* **[[[/system:page-tags/tag/memecon2021-unofficial|memecon2021-unofficial]]]** //(memecon2021-unofficial)// - 非公式の[[[memecon-unofficial|2021年ミームコンテスト]]]。
+* **[[[/system:page-tags/tag/memecon2021-unofficial|memecon2021-unofficial]]]** //(memecon2021-unofficial)// - 非公式企画の[[[memecon-unofficial|2021年ミームコンテスト]]]。
 
 以下のタグについては、特定の他支部の項を参照してください。
 
@@ -2421,6 +2421,11 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/project-crossover|project-crossover]]]** //(project-crossover)// - [[[crossoverprojectindex|クロスオーバープロジェクト]]]。
 
 * **[[[/system:page-tags/tag/game-day|game-day]]]** //(game-day)// - [[[gamedayindex|Game Day]]]。
+
+* **[[[/system:page-tags/tag/nightmarefest|nightmarefest]]]** (//nightmarefest//) - 非公式企画の[[[nightmarefest|ナイトメアフェスト]]]。
+ * **[[[/system:page-tags/tag/_タウンハウス|_タウンハウス]]]** (//_townhouse//) - "タウンハウス"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_お役人|_お役人]]]** (//_the-bureaucrat//) - "お役人"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_夜勤|_夜勤]]]** (//_graveyard-shift//) - "夜勤"カテゴリへの参加作。
 
 [[/tab]][!--EN--]
 [[tab JP]]
