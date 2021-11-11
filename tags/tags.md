@@ -2422,10 +2422,10 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/game-day|game-day]]]** //(game-day)// - [[[gamedayindex|Game Day]]]。
 
-* **[[[/system:page-tags/tag/nightmarefest|nightmarefest]]]** (//nightmarefest//) - 非公式企画の[[[nightmarefest|ナイトメアフェスト]]]。
- * **[[[/system:page-tags/tag/_タウンハウス|_タウンハウス]]]** (//_townhouse//) - "タウンハウス"カテゴリへの参加作。
- * **[[[/system:page-tags/tag/_お役人|_お役人]]]** (//_the-bureaucrat//) - "お役人"カテゴリへの参加作。
- * **[[[/system:page-tags/tag/_夜勤|_夜勤]]]** (//_graveyard-shift//) - "夜勤"カテゴリへの参加作。
+* **[[[/system:page-tags/tag/nightmarefest|nightmarefest]]]** (//nightmarefest//) -- 非公式企画の[[[nightmarefest|ナイトメアフェスト]]]。
+ * **[[[/system:page-tags/tag/_タウンハウス|_タウンハウス]]]** (//_townhouse//) -- "タウンハウス"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_お役人|_お役人]]]** (//_the-bureaucrat//) -- "お役人"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_夜勤|_夜勤]]]** (//_graveyard-shift//) -- "夜勤"カテゴリへの参加作。
 
 [[/tab]][!--EN--]
 [[tab JP]]
