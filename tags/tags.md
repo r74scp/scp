@@ -1459,6 +1459,7 @@
 +++ 正要注意団体-KO
 それぞれの詳細は[[[groups-of-interest-ko|]]]を参照してください。
 
+* **[[[/system:page-tags/tag/路地道|路地道]]]** //(골목길)// - [[[the-alleys-hub|路地道]]]。
 * **[[[/system:page-tags/tag/国家超常防災院|国家超常防災院]]]** //(국가초상방재원)// - [[[npes-hub|国家超常防災院]]]。
 * **[[[/system:page-tags/tag/赤斑蛇の手|赤斑蛇の手]]]** //(능구렁이-손)// - [[[dinodon-s-hand|赤斑蛇の手]]]。
 * **[[[/system:page-tags/tag/エントロピーを越えて|エントロピーを越えて]]]** //(엔트로피를-넘어서)// - [[[beyond-entropy-hub|エントロピーを越えて]]]。
@@ -2506,6 +2507,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/三題噺言霊競演21|三題噺言霊競演21]]]** - [[[kotodama-contest-2021|令和三年度三題噺言霊競演]]]。
 
 * **[[[/system:page-tags/tag/夜コン21|夜コン21]]]** -  [[[yorucontest2021-hub|夜のコンテスト2021]]]。
+
+* **[[[/system:page-tags/tag/リサイクル2021|リサイクル2021]]]** - [[[recyclecontest21|リサイクルコンテスト2021]]]。
 
 @@ @@
 
