@@ -985,6 +985,7 @@
 * **[[[/system:page-tags/tag/ゴルゴタの丘で|ゴルゴタの丘で]]]** //(on-mount-golgotha)// - [[[on-mount-golgotha-hub|ゴルゴタの丘で]]]。
 * **[[[/system:page-tags/tag/最上の事|最上の事]]]** //(only-game-in-town)// - [[[only-game-in-town-hub|最上の事]]]。
 * **[[[/system:page-tags/tag/オルカディア|オルカディア]]]** //(orcadia)// - オルカディアの海。
+* **[[[/system:page-tags/tag/pitch-haven|pitch-haven]]]** //(pitch-haven)// - [[[pitch-haven-hub|Pitch Haven]]]。
 * **[[[/system:page-tags/tag/ぼさぐちゃ|ぼさぐちゃ]]]** //(rats-nest)// - [[[rat-s-nest-hub|ぼさぐちゃ]]]。
 * **[[[/system:page-tags/tag/リザレクション|リザレクション]]]** //(resurrection)// - [[[resurrection|甦──リザレクション]]]。
 * **[[[/system:page-tags/tag/s&cプラスチック|s&cプラスチック]]]** //(s&c-plastics)// - [[[the-s-c-plastics-hub|S & Cプラスチック]]]。
@@ -1338,11 +1339,11 @@
 * **[[[/system:page-tags/tag/hmfscp|hmfscp]]]** //(hmfscp)// - 超常現象の確保収容に関する王立財団 / 珍品と過ぎ往く幻想の研究の為の王立財団 (HMFSCP)。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。要注意領域-ENの項目も参照してください。
 * **[[[/system:page-tags/tag/名もなきもの|名もなきもの]]]** //(nameless)// - [[[SCP-4000]]]に登場する”名もなきもの”あるいは”妖精”。
+* **[[[/system:page-tags/tag/監督真司令部|監督真司令部]]]** //(obearwatch)// - [[span class="ruby"]]監督真司令部[[span class="rt"]]かんと**くま**しれいぶ[[/span]][[/span]]
 * **[[[/system:page-tags/tag/オブスクラ|オブスクラ]]]** //(obskura)// - アーネンエルベ・オブスクラ軍団、またはその後継組織であるオブスクラ。
 * **[[[/system:page-tags/tag/パングロス|パングロス]]]** //(pangloss)// - パングロス。
 * **[[[/system:page-tags/tag/pattern-screamer|pattern-screamer]]]** //(pattern-screamer)// - パターン・スクリーマーズ。
 * **[[[/system:page-tags/tag/ペンタグラム|ペンタグラム]]]** //(pentagram)// - ペンタグラム。
-* **[[[/system:page-tags/tag/pitch-haven|pitch-haven]]]** //(pitch-haven)// - Pitch Haven。
 * **[[[/system:page-tags/tag/aw教授|aw教授]]]** //(professor-aw)// - aw教授の発明物。
 * **[[[/system:page-tags/tag/シュガーコム製菓|シュガーコム製菓]]]** //(sugarcomb-confectionery)// - シュガーコム製菓。
 [!-- unusual-calgo 未訳--]
