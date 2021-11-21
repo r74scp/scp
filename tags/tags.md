@@ -1330,6 +1330,7 @@
 * **[[[/system:page-tags/tag/accelerate-the-future|accelerate-the-future]]]** //(accelerate-the-future)// - Accelerate the Future。
 * **[[[/system:page-tags/tag/asci|asci]]]** //(asci)// - 全米確保収容イニシアチブ (ASCI)。
 * **[[[/system:page-tags/tag/blackwood|blackwood]]]** //(blackwood)// - blackwood卿の冒険譚。
+* **[[[/system:page-tags/tag/british-occult-service|british-occult-service]]]** //(british-occult-service)// - 英国オカルト庁/英国オカルト局 (MI666)。
 * **[[[/system:page-tags/tag/brothers-of-death|brothers-of-death]]]** //(brothers-of-death)// - brothers-of-death。
 * **[[[/system:page-tags/tag/夜闇の子ら|夜闇の子ら]]]** //(children-of-the-night)// - 夜闇の子ら(参照: [[[scp-1000|]]])。
 * **[[[/system:page-tags/tag/松明の子供達|松明の子供達]]]** //(children-of-the-torch)// - 松明の子供達。
