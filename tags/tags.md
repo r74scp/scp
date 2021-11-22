@@ -677,6 +677,8 @@
  * 必ず//第二ハイトス教会//タグと併用してください。
 * **[[[/system:page-tags/tag/_ディア大学|_ディア大学]]]** //(_deer-college)// - [[[deer-college-hub|ディア大学]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//ディア大学//タグと併用してください。
+* **[[[/system:page-tags/tag/_エリック|_エリック]]]** //(_eric)// - エリックのGoIフォーマット記事に付与されるタグです。
+ * 必ず//エリック//タグと併用してください。
 * **[[[/system:page-tags/tag/_ワンダーテインメント博士|_ワンダーテインメント博士]]]** //(_dr-wondertainment)// - [[[dr-wondertainment-hub|ワンダーテインメント博士]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//ワンダーテインメント博士//タグと併用してください。
 * **[[[/system:page-tags/tag/_ファクトリー|_ファクトリー]]]** //(_factory)// - [[[factory-hub|ザ・ファクトリー]]]のGoIフォーマット記事に付与されるタグです。
@@ -693,6 +695,8 @@
  * 必ず//ハーマン・フラー//タグと併用してください。
 * **[[[/system:page-tags/tag/_境界線イニシアチブ|_境界線イニシアチブ]]]** //(_horizon-initiative)// - [[[horizon-initiative-hub|境界線イニシアチブ]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//境界線イニシアチブ//タグと併用してください。
+* **[[[/system:page-tags/tag/_icsut|_icsut]]]** //(_icsut)// - 国際統一奇跡論研究センター (ICSUT) のGoIフォーマット記事に付与されるタグです。
+ * 必ず//icsut//タグと併用してください。
 * **[[[/system:page-tags/tag/_ijamea|_ijamea]]]** //(_ijamea)// - [[[ijamea-hub|大日本帝国異常事例調査局 (IJAMEA)]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//ijamea//タグと併用してください。
 * **[[[/system:page-tags/tag/_ラ・リュー・マカーブラー|_ラ・リュー・マカーブラー]]]** //(_la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]のGoIフォーマット記事に付与されるタグです。
@@ -1030,6 +1034,8 @@
 それぞれの概要は[[[canon-hub-ru|]]]を参照してください。
 
 * **[[[/system:page-tags/tag/サイト-7|サイト-7]]]** //(Хаб_3оны_7)// - [[[site-7-hub|サイト-7]]]。
+* **[[[/system:page-tags/tag/scp-h|scp-h]]]** //(h)// - [[[h|H (ホープタウン)]]]。
+* **[[[/system:page-tags/tag/dira|dira]]]** //(dira)// - [[[dira-hub|内部調査分析部門 (DIRA)]]]。
 
 [[/tab]][!--RU--]
 [[tab KO]]
@@ -1150,6 +1156,7 @@
 [[tab EN]]
 +++ Taleシリーズ-EN
 
+* **[[[/system:page-tags/tag/ao-tale|ao-tale]]]** //(ao-tale)// - [[[ao-hub|Anomalousアイテムの物語]]]。
 * **[[[/system:page-tags/tag/classical-revival|classical-revival]]]** //(classical-revival)// - [[[classicalrevivalindex|クラシカル・リバイバル]]]。
 * **[[[/system:page-tags/tag/コレクターtale|コレクターtale]]]** //(collector-tale)// - ミスター・コレクター(参照: //mister//タグ)。
 * **[[[/system:page-tags/tag/kiryu-labs|kiryu-labs]]]** //(kiryu-labs)// - [[[kiryu-labs-hub|桐生研究所]]]。
@@ -1329,6 +1336,7 @@
 
 * **[[[/system:page-tags/tag/accelerate-the-future|accelerate-the-future]]]** //(accelerate-the-future)// - Accelerate the Future。
 * **[[[/system:page-tags/tag/asci|asci]]]** //(asci)// - 全米確保収容イニシアチブ (ASCI)。
+* **[[[/system:page-tags/tag/アベラール|アベラール]]]** //(avelar)// - アベラール・プロフェッショナル・プロダクツ。
 * **[[[/system:page-tags/tag/blackwood|blackwood]]]** //(blackwood)// - blackwood卿の冒険譚。
 * **[[[/system:page-tags/tag/british-occult-service|british-occult-service]]]** //(british-occult-service)// - 英国オカルト庁/英国オカルト局 (MI666)。
 * **[[[/system:page-tags/tag/brothers-of-death|brothers-of-death]]]** //(brothers-of-death)// - brothers-of-death。
@@ -1338,6 +1346,7 @@
 * **[[[/system:page-tags/tag/daevite|daevite]]]** //(daevite)// - ダエーバイト。
 * **[[[/system:page-tags/tag/金帳汗国|金帳汗国]]]** //(golden-horde)// - 金帳汗国。
 * **[[[/system:page-tags/tag/hmfscp|hmfscp]]]** //(hmfscp)// - 超常現象の確保収容に関する王立財団 / 珍品と過ぎ往く幻想の研究の為の王立財団 (HMFSCP)。
+* **[[[/system:page-tags/tag/icsut|icsut]]]** (//icsut//) - 国際統一奇跡論研究センター (ICSUT)。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。要注意領域-ENの項目も参照してください。
 * **[[[/system:page-tags/tag/名もなきもの|名もなきもの]]]** //(nameless)// - [[[SCP-4000]]]に登場する”名もなきもの”あるいは”妖精”。
 * **[[[/system:page-tags/tag/監督真司令部|監督真司令部]]]** //(obearwatch)// - [[span class="ruby"]]監督真司令部[[span class="rt"]]かんと**くま**しれいぶ[[/span]][[/span]]
@@ -1346,8 +1355,10 @@
 * **[[[/system:page-tags/tag/pattern-screamer|pattern-screamer]]]** //(pattern-screamer)// - パターン・スクリーマーズ。
 * **[[[/system:page-tags/tag/ペンタグラム|ペンタグラム]]]** //(pentagram)// - ペンタグラム。
 * **[[[/system:page-tags/tag/aw教授|aw教授]]]** //(professor-aw)// - aw教授の発明物。
+* **[[[/system:page-tags/tag/silicon-nornir|silicon-nornir]]]** //(silicon-nornir)// - 硅/硅素のノルニルの従者達。
 * **[[[/system:page-tags/tag/シュガーコム製菓|シュガーコム製菓]]]** //(sugarcomb-confectionery)// - シュガーコム製菓。
-[!-- unusual-calgo 未訳--]
+* **[[[/system:page-tags/tag/トトレイソフト|トトレイソフト]]]** //(totleighsoft)// - 異常なソフトウェア開発企業、トトレイソフト。
+* **[[[/system:page-tags/tag/異常積荷委員会|異常積荷委員会]]]** (//unusual-cargo//) - 異常積荷委員会。
 * **[[[/system:page-tags/tag/ウェストヘッド・メディア|ウェストヘッド・メディア]]]** //(westhead-media)// - ウェストヘッド・メディア。
 * **[[[/system:page-tags/tag/夏王朝|夏王朝]]]** //(xia-dynasty)// - 夏王朝。
 
@@ -2167,6 +2178,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/アラガッダ|アラガッダ]]]** //(alagadda)// - アラガッダ。
 * **[[[/system:page-tags/tag/バックドア・ソーホー|バックドア・ソーホー]]]** //(backdoor-soho)// - バックドア・ソーホー。
+* **[[[/system:page-tags/tag/ユーテック|ユーテック]]]** (//eurtec//) - ユーテック。
 * **[[[/system:page-tags/tag/ハイ・ブラジル|ハイ・ブラジル]]]** //(hy-brasil)// - ハイ・ブラジル島。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。
 * **[[[/system:page-tags/tag/スリー・ポートランド|スリー・ポートランド]]]** //(three-portlands)// - [[[three-portlands-hub|スリー・ポートランド]]]。
