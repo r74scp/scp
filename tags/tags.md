@@ -330,7 +330,7 @@
 * **[[[/system:page-tags/tag/キツネ|キツネ]]]** //(vulpine)// - 狐のような動物であるか、その特徴を示すSCPの記事に付与されるタグです。
  * 適切ならば//動物//タグと併用してください。
 * **[[[/system:page-tags/tag/嗅覚|嗅覚]]]** //(olfactory)// - 異常性のある臭いを示すか、嗅覚を通して伝播されるか、嗅覚に影響を及ぼすSCPの記事に付与されるタグです。
-* **[[[/system:page-tags/tag/球体|球体]]]** //(sphere)// - 球形のSCPの記事に付与されるタグです。全体が球で構成されているSCPにのみ使用され、一部が球であるSCPには使用されません。
+* **[[[/system:page-tags/tag/球体|球体]]]** //(sphere)// - 球形のSCPの記事に付与されるタグです。
 * **[[[/system:page-tags/tag/強制力|強制力]]]** //(compulsion)// - 対象に強迫的な行動か通常ならしない行動を引き起こすSCPの記事に付与されるタグです。[#faq FAQ]を参照してください。
 * **[[[/system:page-tags/tag/恐竜|恐竜]]]** //(dinosaurian)// - 非鳥類の恐竜であるか、それに関連するSCPの記事に付与されるタグです。
 * **[[[/system:page-tags/tag/魚類|魚類]]]** //(piscine)// - 魚のような動物であるか、その特徴を示すSCPの記事に付与されるタグです。
@@ -407,7 +407,7 @@
 * **[[[/system:page-tags/tag/宗教|宗教]]]** //(religious)// - 1つ以上の宗教組織に関連するか、もしくは重要性を持つSCPの記事に付与されるタグです。
 * **[[[/system:page-tags/tag/集団意識|集団意識]]]** //(hive-mind)// - 集団意識の特徴を示すSCPの記事に付与されるタグです。
 * **[[[/system:page-tags/tag/重力|重力]]]** //(gravity)// - 重力に影響を及ぼすか、あるいは強く影響されるSCPの記事に付与されるタグです。
-* **[[[/system:page-tags/tag/種族|種族]]]** //(species)// - 一個体ではなく、ある特定の種全体であるSCPの記事に付与されるタグです。財団の文脈において、生殖を行い、新たな個体も異常性を保持する生きているSCPのみに使用されます。
+* **[[[/system:page-tags/tag/種族|種族]]]** //(species)// - 一個体ではなく、ある特定の種全体であるSCPの記事に付与されるタグです。
 * **[[[/system:page-tags/tag/樹木|樹木]]]** //(arboreal)// - 樹状もしくは木のような植物であるか、その特徴を示すSCPの記事に付与されるタグです。
  * 適切ならば//植物//タグと併用してください。
 * **[[[/system:page-tags/tag/瞬間移動|瞬間移動]]]** //(teleportation)// - 通常の移動を除いた異常な方法によって空間を経由せず移動できるか、あるいは自身の位置をずらすことのできるSCPの記事に付与されるタグです。
@@ -855,7 +855,7 @@
 
 * **[[[/system:page-tags/tag/漢文|漢文]]]** //(文言文)// - 古代中国における初期言語を含んだ作品に付与されるタグです。必ず//cn//タグと併用されねばなりません。
 
-* **[[[/system:page-tags/tag/インタラクティブ|インタラクティブ]]]** //(interactive)// - 記事と読者が相互に作用する要素を持ったページに付与されるタグです。読者の選択によって記事の内容が変化することを表すタグとも言い換えられます。
+* **[[[/system:page-tags/tag/インタラクティブ|インタラクティブ]]]** //(interactive)// - 記事と読者が相互に作用する要素を持ったページに付与されるタグです。読者の選択によって記事の内容が変化することを表すタグとも言い換えられます (一つのリンクや折りたたみをクリックするだけのページは含まれません)。
 
 * **[[[/system:page-tags/tag/ジョーク|ジョーク]]]** //(joke)// - "ジョーク"あるいは"SCPユニバースの外"と見なされる内容のページに付与されるタグです。ジョークページはどのような分類のページのパロディでも構いません。ジョークページの詳細については[[[joke-scps-jp|]]]を参照してください。
 
@@ -1164,6 +1164,7 @@
 * **[[[/system:page-tags/tag/mister|mister]]]** //(mister)// - リトル・ミスターズ。
 * **[[[/system:page-tags/tag/olympia|olympia]]]** //(olympia)// - [[[olympia-project|オリンピア・プロジェクト]]]。
 * **[[[/system:page-tags/tag/orientation|orientation]]]** //(orientation)// - オリエンテーション。
+* **[[[/system:page-tags/tag/project-crossover|project-crossover]]]** //(project-crossover)// - [[[crossoverprojectindex|クロスオーバープロジェクト]]]。
 * **[[[/system:page-tags/tag/project-thaumiel|project-thaumiel]]]** //(project-thaumiel)// - [[[thaumiel|プロジェクトThaumiel]]]。
 * **[[[/system:page-tags/tag/team-bird|team-bird]]]** //(team-bird)// - [[[bird|チームバード]]]。
 
@@ -1477,6 +1478,7 @@
 * **[[[/system:page-tags/tag/国家超常防災院|国家超常防災院]]]** //(국가초상방재원)// - [[[npes-hub|国家超常防災院]]]。
 * **[[[/system:page-tags/tag/赤斑蛇の手|赤斑蛇の手]]]** //(능구렁이-손)// - [[[dinodon-s-hand|赤斑蛇の手]]]。
 * **[[[/system:page-tags/tag/エントロピーを越えて|エントロピーを越えて]]]** //(엔트로피를-넘어서)// - [[[beyond-entropy-hub|エントロピーを越えて]]]。
+* **[[[/system:page-tags/tag/スミレ|スミレ]]]** //(제비꽃)// - スミレ。
 * **[[[/system:page-tags/tag/プラグソフト|プラグソフト]]]** //(플러그소프트)// - プラグソフト。
 * **[[[/system:page-tags/tag/樫の木|樫の木]]]** //(떡갈나무)// - [[[note-hub|真昼の樫の木さすらい楽団]]]。
 
@@ -2002,6 +2004,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/エージェント・西塔|エージェント・西塔]]]** - エージェント・西塔。
 * **[[[/system:page-tags/tag/エージェント・桜庭|エージェント・桜庭]]]** - エージェント・桜庭。
 * **[[[/system:page-tags/tag/エージェント・差前|エージェント・差前]]]** - エージェント・差前。
+* **[[[/system:page-tags/tag/エージェント・井戸田|エージェント・井戸田]]]**  - エージェント・井戸田、あるいは"反ミーム師匠"。
 * **[[[/system:page-tags/tag/エージェント・谷崎|エージェント・谷崎]]]** - エージェント・谷崎。
 * **[[[/system:page-tags/tag/エージェント・戸神|エージェント・戸神]]]** - エージェント・戸神。
 * **[[[/system:page-tags/tag/エージェント・那澤なごむ|エージェント・那澤なごむ]]]** - エージェント・那澤なごむ。
@@ -2362,8 +2365,6 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/6000|6000]]]** //(6000)// - [[[scp6000contesthub|SCP-6000コンテスト]]]。
 
-* **[[[/system:page-tags/tag/173fest|173fest]]]** //(173fest)// - [[[173-festival|173フェスティバル]]]。
-
 * **[[[/system:page-tags/tag/cliche2019|cliche2019]]]** //(cliche2019)// - [[[cliche-con-2019|クリシェコンテスト2019]]]。
 
 * **[[[/system:page-tags/tag/collab-con2019|collab-con2019]]]** //(collab-con2019)// - [[[collaboration-contest|共著コンテスト2019]]]。
@@ -2438,13 +2439,13 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 @@ @@
 
-+++ プロジェクト-EN
++++ その他イベント-EN
 
-* **[[[/system:page-tags/tag/af2014|af2014]]]** //(af2014)// - [[[april-fools-2014|2014年エイプリルフールの事件、"Super Cute Pets!"]]]。
+* **[[[/system:page-tags/tag/173fest|173fest]]]** //(173fest)// - [[[173-festival|173フェスティバル]]]。
 
 * **[[[/system:page-tags/tag/art-exchange|art-exchange]]]** //(art-exchange)// - [[[art-exchange-hub|Annual Holiday Art Exchange]]]。
 
-* **[[[/system:page-tags/tag/project-crossover|project-crossover]]]** //(project-crossover)// - [[[crossoverprojectindex|クロスオーバープロジェクト]]]。
+* **[[[/system:page-tags/tag/af2014|af2014]]]** //(af2014)// - [[[april-fools-2014|2014年エイプリルフールの事件、"Super Cute Pets!"]]]。
 
 * **[[[/system:page-tags/tag/game-day|game-day]]]** //(game-day)// - [[[gamedayindex|Game Day]]]。
 
