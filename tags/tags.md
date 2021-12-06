@@ -2050,6 +2050,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/d-2930|d-2930]]]** - D-2930。
 * **[[[/system:page-tags/tag/出刃包丁のウィーク|出刃包丁のウィーク]]]** - 出刃包丁のウィーク。
 * **[[[/system:page-tags/tag/天王寺博士|天王寺博士]]]** - 天王寺博士。
+* **[[[/system:page-tags/tag/道策管理官|道策管理官]]]** - 道策管理官。
 * **[[[/system:page-tags/tag/ドクター・トラヤー|ドクター・トラヤー]]]** - ドクター・トラヤー。
 * **[[[/system:page-tags/tag/虎屋博士|虎屋博士]]]** - 虎屋博士。
 * **[[[/system:page-tags/tag/鳴蝉博士|鳴蝉博士]]]** - 鳴蝉博士。
@@ -2150,6 +2151,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [[/tab]][!--CS--]
 [[tab ZH]]
 
++++ キャラクター-ZH
 それぞれの詳細は[[[personnel-and-character-dossier-zh|職員・人物ファイル-ZH]]]を参照してください。
 
 * **[[[/system:page-tags/tag/クリス博士|クリス博士]]]** //(kris博士)// - クリス博士。
