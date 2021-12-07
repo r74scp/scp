@@ -1092,6 +1092,7 @@
 
 * **[[[/system:page-tags/tag/i-57|i-57]]]** //(i-57)// - [[[i-57-hub|施設-57]]]。
 * **[[[/system:page-tags/tag/死せる星の観測|死せる星の観測]]]** //(estrellas-muertas)// - [[[oem-hub|死せる星の観測]]]。
+* **[[[/system:page-tags/tag/核の夢|核の夢]]]** //(sueño-nuclear)// - [[[hub-sueno-nuclear|核の夢]]]。
 
 [[/tab]][!--ES--]
 [[tab TH]]
