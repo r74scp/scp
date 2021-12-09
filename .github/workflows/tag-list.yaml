@@ -22,14 +22,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run main.py # Pythonファイルの実行
+      - name: fetch tag-list
         run: |
-          python tags/main.py
+          python tags/fetch.py
 
 
-      - name: Run main.py # Pythonファイルの実行
+      - name: del comment
         run: |
-          python tags/tags.py
+          python tags/non-comment.py
+
+      - name: Generate json file
+        run: |
+          python tags/gen-json.py
 
       - name: Commit and Push # 実行した結果をプッシュして変更をレポジトリに反映
         run: |
