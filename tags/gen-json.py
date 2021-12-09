@@ -16,6 +16,7 @@ pattern_tag_nest = '(\*\*\[\[\[/system:page-tags/tag/(.*?)\|.*?\]\]\]\*\*( \/\/\
 
 pattern_ultag = '\* \*\*.*?(?=\* \*\*|$)'
 pattern_ultag_list = '( \* (.*?)$)'
+pattern_ultag_list_li = '( \* (.*?))\\n'
 
 
 results_tab = re.findall(pattern_tab, data, re.S)
@@ -37,7 +38,11 @@ for result_tab in results_tab:
               for result_tagnest in results_tagnest:
                 # print(result_tagnest[1], result_tagnest[3], result_tag[5], result_get_heading3[0], result_tab[0], i)
                 if not (results_ultag_list[0][0].startswith(" * ,,")):
-                  d.append({"id":i, "tag":result_tagnest[1], "trans":result_tagnest[3], "desc":result_tag[5], "type":result_get_heading3[0], "category":result_tab[0], "list":list(filter(lambda a: a !='', re.split(' \* |\n', results_ultag_list[0][0])))})
+                  results_ultag_list_li = re.findall(pattern_ultag_list_li, results_ultag_list[0][0], re.S)
+                  results_ultag_list_list =[]
+                  for result_ultag_list_li in results_ultag_list_li:
+                    results_ultag_list_list.append(result_ultag_list_li[1])
+                  d.append({"id":i, "tag":result_tagnest[1], "trans":result_tagnest[3], "desc":result_tag[5], "type":result_get_heading3[0], "category":result_tab[0], "list":results_ultag_list_list})
                   i=i+1
                 else:
                   d.append({"id":i, "tag":result_tagnest[1], "trans":result_tagnest[3], "desc":result_tag[5], "type":result_get_heading3[0], "category":result_tab[0], "list":""})
@@ -45,7 +50,11 @@ for result_tab in results_tab:
             else:
               # print(result_tag[1], result_tag[3], result_tag[5], result_get_heading3[0], result_tab[0], i)
               if not (results_ultag_list[0][0].startswith(" * ,,")):
-                d.append({"id":i, "tag":result_tag[1], "trans":result_tag[3], "desc":result_tag[5], "type":result_get_heading3[0], "category":result_tab[0], "list":list(filter(lambda a: a !='', re.split(' \* |\n', results_ultag_list[0][0])))})
+                results_ultag_list_li = re.findall(pattern_ultag_list_li, results_ultag_list[0][0], re.S)
+                results_ultag_list_list =[]
+                for result_ultag_list_li in results_ultag_list_li:
+                  results_ultag_list_list.append(result_ultag_list_li[1])
+                d.append({"id":i, "tag":result_tag[1], "trans":result_tag[3], "desc":result_tag[5], "type":result_get_heading3[0], "category":result_tab[0], "list":results_ultag_list_list})
                 i=i+1
               else:
                 d.append({"id":i, "tag":result_tag[1], "trans":result_tag[3], "desc":result_tag[5], "type":result_get_heading3[0], "category":result_tab[0], "list":""})
@@ -77,7 +86,11 @@ for result_tab in results_tab:
               # print(result_tagnest[1], result_tagnest[3], result_tag[5], result_get_heading3[0], result_tab[0], i)
 
               if not (results_ultag_list[0][0].startswith(" * ,,")):
-                d.append({"id":i, "tag":result_tagnest[1], "trans":result_tagnest[3], "desc":result_tag[5], "category":result_tab[0], "list":list(filter(lambda a: a !='', re.split(' \* |\n', results_ultag_list[0][0])))})
+                results_ultag_list_li = re.findall(pattern_ultag_list_li, results_ultag_list[0][0], re.S)
+                results_ultag_list_list =[]
+                for result_ultag_list_li in results_ultag_list_li:
+                  results_ultag_list_list.append(result_ultag_list_li[1])
+                d.append({"id":i, "tag":result_tagnest[1], "trans":result_tagnest[3], "desc":result_tag[5], "category":result_tab[0], "list":results_ultag_list_list})
                 i=i+1
               else:
                 d.append({"id":i, "tag":result_tagnest[1], "trans":result_tagnest[3], "desc":result_tag[5], "category":result_tab[0], "list":""})
@@ -85,7 +98,11 @@ for result_tab in results_tab:
           else:
             # print(result_tag[1], result_tag[3], result_tag[5], result_get_heading3[0], result_tab[0], i)
             if not (results_ultag_list[0][0].startswith(" * ,,")):
-              d.append({"id":i, "tag":result_tag[1], "trans":result_tag[3], "desc":result_tag[5], "category":result_tab[0], "list":list(filter(lambda a: a !='', re.split(' \* |\n', results_ultag_list[0][0])))})
+              results_ultag_list_li = re.findall(pattern_ultag_list_li, results_ultag_list[0][0], re.S)
+              results_ultag_list_list =[]
+              for result_ultag_list_li in results_ultag_list_li:
+                results_ultag_list_list.append(result_ultag_list_li[1])
+              d.append({"id":i, "tag":result_tag[1], "trans":result_tag[3], "desc":result_tag[5], "category":result_tab[0], "list":results_ultag_list_list})
               i=i+1
             else:
               d.append({"id":i, "tag":result_tag[1], "trans":result_tag[3], "desc":result_tag[5], "category":result_tab[0], "list":""})

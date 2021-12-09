@@ -2,14 +2,29 @@
 import re
 #
 html = '''
+* **[[[/system:page-tags/tag/蘇生|蘇生]]]** //(reanimation)// - 臨床死状態から、他者または自身の一部または全てを蘇生させるSCPの記事に付与されるタグです。
+ * 適切ならば//死体//タグと併用してください。
+ * 適切ならば//死d体//タグと併用してください。
+ * 適切ならば//死s体//タグと併用してください。
+[[>]]
+[#attribute-toc 目次へ]
+[[/>]]
 
-* ,,,,**[[[/system:page-tags/tag/scp|scp]]]** //(scp)// - [/scp-series メインブロック]、[/scp-001 001提言]、[/joke-scps Joke(-J)]、[/scp-ex Explained(-EX)]、[/scp-d Decommissioned(-D)]のいずれかに属する[[footnote]]何らかの理由でアーカイブされ、これらの分類から外れた場合も含みます。[[/footnote]]SCP報告書の記事に付与されるタグです。//scp//タグが使用される場合、オブジェクトクラスカテゴリのタグのいずれかと併用されねばなりません。作成に関しては[[[how-to-write:post-scp|]]]を参照してください。
- * **[[[/system:page-tags/tag/explained|explained]]]** //(explained)// - //scp//タグの特殊なサブクラスであり、Explained(-EX)の報告書に付与されるタグです。必ず//scp//タグ及びいずれかのオブジェクトクラスタグと併用されねばなりません。[#faq 一般的なFAQ]及び[#faq 翻訳に関するFAQ]も参照してください。
- * ,,︁,,,,,,**[[[/system:page-tags/tag/decommissioned|decommissioned]]]** //(decommissioned)// - //scp//タグの特殊なサブクラスであり、Decommissioned(-D)の報告書に付与されるタグです。必ず//scp//タグ及びいずれかのオブジェクトクラスタグと併用されねばなりません。新規作成は認められておらず、該当ページはアーカイブされています。
- * **[[[/system:page-tags/tag/白|白]]]** //(blanc)// / **[[[/system:page-tags/tag/青|青]]]** //(bleu)// / **[[[/system:page-tags/tag/緑|緑]]]** //(vert)// / **[[[/system:page-tags/tag/黄|黄]]]** //(jaune)// / **[[[/system:page-tags/tag/橙|橙]]]** //(orange)// / **[[[/system:page-tags/tag/赤|赤]]]** //(rouge)// / **[[[/system:page-tags/tag/黒|黒]]]** //(noir)// / **[[[/system:page-tags/tag/未定|未定]]]** //(indéterminé)// - [[[niveaux-de-menace-des-objets-scp|脅威レベル]]]が付与されていることを表すタグです。必ず//scp//タグ及びいずれかのオブジェクトクラスタグと併用されねばなりません。
+++ た行[[# attribute-t]]
+
+* **[[[/system:page-tags/tag/蘇生|蘇生]]]** //(reanimation)// - 臨床死状態から、他者または自身の一部または全てを蘇生させるSCPの記事に付与されるタグです。
+ * ss適切ならば//死体//タグと併用してください。
+ * sas適切ならば//死d体//タグと併用してください。
+ * 適assasa切ならば//死s体//タグと併用してください。
+[[>]]
+[#attribute-toc 目次へ]
+[[/>]]
+
+++ as行[[# attribute-t]]
 '''
 pattern_ultag = '\* \*\*.*?(?=\* \*\*|$)'
 pattern_ultag_list = '( \* (.*?)$)'
+pattern_ultag_list_li = '( \* (.*?))\\n'
 pattern_tag = '(\*\*\[\[\[/system:page-tags/tag/(.*?)\|.*?\]\]\]\*\*)( \/\/\((.*?)\)\/\/|)(.*?) - (.*?)\n'
 pattern_tag_nest = '(\*\*\[\[\[/system:page-tags/tag/(.*?)\|.*?\]\]\]\*\*( \/\/\((.*?)\)\/\/|))'
 
@@ -29,11 +44,15 @@ for result_ultag in results_ultag:
         results_tagnest = re.findall(pattern_tag_nest, result_tag[4], re.S)
         for result_tagnest in results_tagnest:
           print(results_ultag_list[0][0])
-          # print(result_tagnest[1], result_tagnest[3], result_tag[5], list(filter(lambda a: a != '', re.split(' \* |\n', results_ultag_list[0][0]))))
+          print(result_tagnest[1], result_tagnest[3], result_tag[5], results_ultag_list[0][0])
       else:
         if not (results_ultag_list[0][0].startswith(" * ,,")):
-          print(results_ultag_list[0][0])
+          results_ultag_list_li = re.findall(pattern_ultag_list_li, results_ultag_list[0][0], re.S)
+          results_ultag_list_list =[]
+          for result_ultag_list_li in results_ultag_list_li:
+            results_ultag_list_list.append(result_ultag_list_li[1])
         # print(result_tag[1], result_tag[3], result_tag[5], list(filter(lambda a: a != '', re.split(' \* |\n', results_ultag_list[0][0]))))
+          print(result_tag[1], result_tag[3], result_tag[5], results_ultag_list_list)
   else:
     results_tag = re.findall(pattern_tag, result_ultag, re.S)
     for result_tag in results_tag:
