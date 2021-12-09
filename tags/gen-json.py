@@ -117,6 +117,7 @@ def parse(i, d, data):
   # print(d)
   no_lis = [e['tag'] for e in d]
   d = [e for i, e in enumerate(d) if e['tag'] not in no_lis[0:i]]
+  return d
 
 # def anchor(text: str) -> str:
 #   reg_anchors ='(\[\[a\_{0,1} (.*?)\]\](.*?)\[\[\/a\]\]|\[(.*?) (.*?)\]|\[\[\[(.*?)\|(.*?)\]\]\])'
@@ -144,6 +145,6 @@ if __name__ == '__main__':
   f.close()
   d = []
   i=0
-  parse(i, d, data)
+  e = parse(i, d, data)
   with open("./tags/tags.json", "w", encoding="utf-8_sig") as f:
-    json.dump(d, f, indent=4, ensure_ascii=False)
+    json.dump(e, f, indent=4, ensure_ascii=False)
