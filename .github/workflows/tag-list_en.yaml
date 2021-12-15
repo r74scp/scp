@@ -1,0 +1,56 @@
+name: SCP-EN Tag list
+on:
+  push:
+  schedule:
+    # *はYAMLにおける特殊文字なので、この文字列はクオートしなければならない
+    - cron:  '0 23 * * *' #UTC +0000 23:55
+
+jobs:
+  job_1:
+    name: git log repo
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup python # ワークフローのセクションごとに設定する名前。特に設定する必要はないが、どこでエラーが起きているかを把握する為にも設定しておいた方が良い。
+        uses: actions/setup-python@v2 # Pythonのセットアップ
+        with:
+          python-version: "3.8" # Pythonのバージョン指定
+
+      - name: Install dependencies # Pythonの依存環境のインストール
+        run: | #このような書き方で複数行を一気に実行することができる。
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: fetch tag-list
+        run: |
+          python scp-wiki/tags/fetch.py
+
+
+      - name: del comment
+        run: |
+          python scp-wiki/tags/non-comment.py
+
+      - name: Generate json file
+        run: |
+          python scp-wiki/tags/gen-json.py
+
+      - name: Commit and Push # 実行した結果をプッシュして変更をレポジトリに反映
+        run: |
+          raise(){
+             echo "raise exception"
+             exit 1
+          }
+          # try
+          (
+            git config user.name "RTa-technology"
+            git config user.email "scpfoundationidcardmaker@gmail.com"
+            git add .
+            git commit -m "tag-listEN更新"
+            git pull
+            git push origin main
+          ) || {
+          # catch
+            echo "Finalization"
+            exit 1
+          }
