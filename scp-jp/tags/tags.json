@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id": 0,
         "tag": "explained",
@@ -4681,6 +4681,15 @@
     },
     {
         "id": 746,
+        "tag": "daevite",
+        "trans": "daevite",
+        "desc": "[[[daevite-hub|ダエーバイト]]]。",
+        "type": "正要注意団体-EN",
+        "category": "EN",
+        "list": ""
+    },
+    {
+        "id": 747,
         "tag": "ディア大学",
         "trans": "deer-college",
         "desc": "[[[deer-college-hub|ディア大学]]]。",
@@ -4689,7 +4698,7 @@
         "list": ""
     },
     {
-        "id": 747,
+        "id": 748,
         "tag": "ワンダーテインメント博士",
         "trans": "dr-wondertainment",
         "desc": "[[[dr-wondertainment-hub|ワンダーテインメント博士]]]。",
@@ -4698,7 +4707,7 @@
         "list": ""
     },
     {
-        "id": 748,
+        "id": 749,
         "tag": "ファクトリー",
         "trans": "factory",
         "desc": "[[[factory-hub|ザ・ファクトリー]]]。",
@@ -4707,7 +4716,7 @@
         "list": ""
     },
     {
-        "id": 749,
+        "id": 750,
         "tag": "第五教会",
         "trans": "fifthist",
         "desc": "[[[fifthist-hub|第五教会]]]。",
@@ -4716,7 +4725,7 @@
         "list": ""
     },
     {
-        "id": 750,
+        "id": 751,
         "tag": "ゲーマーズアゲインストウィード",
         "trans": "gamers-against-weed",
         "desc": "[[[gamers-against-weed-hub|ゲーマーズアゲインストウィード]]]。",
@@ -4725,7 +4734,7 @@
         "list": ""
     },
     {
-        "id": 751,
+        "id": 752,
         "tag": "世界オカルト連合",
         "trans": "global-occult-coalition",
         "desc": "[[[goc-hub-page|世界オカルト連合 (GOC)]]]。",
@@ -4734,7 +4743,7 @@
         "list": ""
     },
     {
-        "id": 752,
+        "id": 753,
         "tag": "gru-p-部局",
         "trans": "gru-division-p",
         "desc": "[[[gru-p-hub|ロシア連邦軍参謀本部情報総局\"P\"部局]]]。",
@@ -4743,7 +4752,7 @@
         "list": ""
     },
     {
-        "id": 753,
+        "id": 754,
         "tag": "ハーマン・フラー",
         "trans": "herman-fuller",
         "desc": "[[[herman-fuller-hub|ハーマン・フラーの不気味サーカス]]]。",
@@ -4752,7 +4761,7 @@
         "list": ""
     },
     {
-        "id": 754,
+        "id": 755,
         "tag": "境界線イニシアチブ",
         "trans": "horizon-initiative",
         "desc": "[[[horizon-initiative-hub|境界線イニシアチブ]]]。",
@@ -4761,7 +4770,7 @@
         "list": ""
     },
     {
-        "id": 755,
+        "id": 756,
         "tag": "ijamea",
         "trans": "ijamea",
         "desc": "[[[ijamea-hub|大日本帝国異常事例調査局 (IJAMEA)]]]。",
@@ -4770,7 +4779,7 @@
         "list": ""
     },
     {
-        "id": 756,
+        "id": 757,
         "tag": "マナによる慈善財団",
         "trans": "manna-charitable-foundation",
         "desc": "[[[manna-charitable-foundation-hub|マナによる慈善財団]]]。",
@@ -4779,7 +4788,7 @@
         "list": ""
     },
     {
-        "id": 757,
+        "id": 758,
         "tag": "mc&d",
         "trans": "marshall-carter-and-dark",
         "desc": "[[[marshall-carter-and-dark-hub|マーシャル・カーター＆ダーク株式会社 (MC&D)]]]。",
@@ -4788,7 +4797,7 @@
         "list": ""
     },
     {
-        "id": 758,
+        "id": 759,
         "tag": "何者でもない",
         "trans": "nobody",
         "desc": "[[[nobody-hub|「何者でもない」]]]。",
@@ -4797,7 +4806,7 @@
         "list": ""
     },
     {
-        "id": 759,
+        "id": 760,
         "tag": "oria",
         "trans": "reclamation",
         "desc": "[[[oria-hub|イスラム・アーティファクト開発事務局 (ORIA)]]]。",
@@ -4806,7 +4815,7 @@
         "list": ""
     },
     {
-        "id": 760,
+        "id": 761,
         "tag": "オネイロイ",
         "trans": "oneiroi",
         "desc": "[[[oneiroi|オネイロイ・コレクティブ]]]。",
@@ -4815,7 +4824,7 @@
         "list": ""
     },
     {
-        "id": 761,
+        "id": 762,
         "tag": "パラウォッチ",
         "trans": "parawatch",
         "desc": "[[[parawatch-hub|パラウォッチWiki]]]。",
@@ -4824,7 +4833,7 @@
         "list": ""
     },
     {
-        "id": 762,
+        "id": 763,
         "tag": "プロメテウス",
         "trans": "prometheus",
         "desc": "[[[prometheus-labs-hub|株式会社プロメテウス研究所]]]。",
@@ -4833,7 +4842,7 @@
         "list": ""
     },
     {
-        "id": 763,
+        "id": 764,
         "tag": "サーキック",
         "trans": "sarkic",
         "desc": "[[[sarkicism-hub|サーキック・カルト]]]。",
@@ -4842,7 +4851,7 @@
         "list": ""
     },
     {
-        "id": 764,
+        "id": 765,
         "tag": "蛇の手",
         "trans": "serpents-hand",
         "desc": "[[[serpent-s-hand-hub|蛇の手]]]。",
@@ -4851,7 +4860,7 @@
         "list": ""
     },
     {
-        "id": 765,
+        "id": 766,
         "tag": "サメ殴りセンター",
         "trans": "shark-punching-center",
         "desc": "[[[spc-hub|サメ殴りセンター (SPC)]]]。",
@@ -4860,7 +4869,7 @@
         "list": ""
     },
     {
-        "id": 766,
+        "id": 767,
         "tag": "三ツ月イニシアチブ",
         "trans": "three-moons-initiative",
         "desc": "[[[three-moons-initiative-hub|三ツ月イニシアチブ]]]。",
@@ -4869,7 +4878,7 @@
         "list": ""
     },
     {
-        "id": 767,
+        "id": 768,
         "tag": "異常事件課",
         "trans": "unusual-incidents-unit",
         "desc": "[[[unusual-incidents-unit-hub|連邦捜査局 (FBI) 異常事件課 (UIU)]]]。",
@@ -4878,7 +4887,7 @@
         "list": ""
     },
     {
-        "id": 768,
+        "id": 769,
         "tag": "ヴィキャンデル・ニード",
         "trans": "vikander-kneed",
         "desc": "[[[vikander-kneed-technical-media-hub|ヴィキャンデル=ニード・テクニカル・メディア]]]。",
@@ -4887,7 +4896,7 @@
         "list": ""
     },
     {
-        "id": 769,
+        "id": 770,
         "tag": "堂守連盟",
         "trans": "wandsmen",
         "desc": "[[[wandsmen-hub|堂守連盟]]]。",
@@ -4896,7 +4905,7 @@
         "list": ""
     },
     {
-        "id": 770,
+        "id": 771,
         "tag": "ウィルソンズ・ワイルドライフ",
         "trans": "wilsons-wildlife",
         "desc": "[[[wilson-s-wildlife-solutions-hub|ウィルソンズ・ワイルドライフ・ソリューションズ (WWS)]]]。",
@@ -4905,7 +4914,7 @@
         "list": ""
     },
     {
-        "id": 771,
+        "id": 772,
         "tag": "accelerate-the-future",
         "trans": "accelerate-the-future",
         "desc": "Accelerate the Future。",
@@ -4914,7 +4923,7 @@
         "list": ""
     },
     {
-        "id": 772,
+        "id": 773,
         "tag": "asci",
         "trans": "asci",
         "desc": "全米確保収容イニシアチブ (ASCI)。",
@@ -4923,7 +4932,7 @@
         "list": ""
     },
     {
-        "id": 773,
+        "id": 774,
         "tag": "アベラール",
         "trans": "avelar",
         "desc": "アベラール・プロフェッショナル・プロダクツ。",
@@ -4932,7 +4941,7 @@
         "list": ""
     },
     {
-        "id": 774,
+        "id": 775,
         "tag": "blackwood",
         "trans": "blackwood",
         "desc": "blackwood卿の冒険譚。",
@@ -4941,7 +4950,7 @@
         "list": ""
     },
     {
-        "id": 775,
+        "id": 776,
         "tag": "british-occult-service",
         "trans": "british-occult-service",
         "desc": "英国オカルト庁/英国オカルト局 (MI666)。",
@@ -4950,7 +4959,7 @@
         "list": ""
     },
     {
-        "id": 776,
+        "id": 777,
         "tag": "brothers-of-death",
         "trans": "brothers-of-death",
         "desc": "brothers-of-death。",
@@ -4959,7 +4968,7 @@
         "list": ""
     },
     {
-        "id": 777,
+        "id": 778,
         "tag": "夜闇の子ら",
         "trans": "children-of-the-night",
         "desc": "夜闇の子ら(参照: [[[scp-1000|]]])。",
@@ -4968,7 +4977,7 @@
         "list": ""
     },
     {
-        "id": 778,
+        "id": 779,
         "tag": "松明の子供達",
         "trans": "children-of-the-torch",
         "desc": "松明の子供達。",
@@ -4977,19 +4986,10 @@
         "list": ""
     },
     {
-        "id": 779,
+        "id": 780,
         "tag": "class-of-76",
         "trans": "class-of-76",
         "desc": "[[[remembrance|Class of '76]]]。",
-        "type": "準要注意団体-EN",
-        "category": "EN",
-        "list": ""
-    },
-    {
-        "id": 780,
-        "tag": "daevite",
-        "trans": "daevite",
-        "desc": "ダエーバイト。",
         "type": "準要注意団体-EN",
         "category": "EN",
         "list": ""
@@ -10971,7 +10971,70 @@
         "list": ""
     },
     {
+        "id": 1469,
+        "tag": "scp-vn",
+        "trans": "scp-vn",
+        "desc": "//scp//タグに置換してください。",
+        "type": "VN",
+        "category": "使用されていないタグ",
+        "list": ""
+    },
+    {
         "id": 1470,
+        "tag": "goi-format-vn",
+        "trans": "tài-liệu-goi-vn",
+        "desc": "//goi-format//タグに置換してください。",
+        "type": "VN",
+        "category": "使用されていないタグ",
+        "list": ""
+    },
+    {
+        "id": 1471,
+        "tag": "tale-vn",
+        "trans": "truyện-vn",
+        "desc": "//tale//タグに置換してください。",
+        "type": "VN",
+        "category": "使用されていないタグ",
+        "list": ""
+    },
+    {
+        "id": 1472,
+        "tag": "補足-vn",
+        "trans": "bổ-sung-vn",
+        "desc": "//補足//タグに置換してください。",
+        "type": "VN",
+        "category": "使用されていないタグ",
+        "list": ""
+    },
+    {
+        "id": 1473,
+        "tag": "サイト-vn",
+        "trans": "điểm-vn",
+        "desc": "//サイト//タグに置換してください。",
+        "type": "VN",
+        "category": "使用されていないタグ",
+        "list": ""
+    },
+    {
+        "id": 1474,
+        "tag": "エッセイ-vn",
+        "trans": "luận-vn",
+        "desc": "//エッセイ//タグに置換してください。",
+        "type": "VN",
+        "category": "使用されていないタグ",
+        "list": ""
+    },
+    {
+        "id": 1475,
+        "tag": "コンテスト-vn",
+        "trans": "cuộc-thi-vn",
+        "desc": "//コンテスト//タグに置換してください。",
+        "type": "VN",
+        "category": "使用されていないタグ",
+        "list": ""
+    },
+    {
+        "id": 1477,
         "tag": "goi一覧",
         "trans": "goi-list",
         "desc": "各支部の要注意団体一覧に付与されるタグです。",
@@ -10980,7 +11043,7 @@
         "list": ""
     },
     {
-        "id": 1472,
+        "id": 1479,
         "tag": "国内収容",
         "trans": "",
         "desc": "以前は日本の財団施設で収容されているSCPオブジェクトに関する報告書に付与されるアトリビュートタグとして使用されていましたが、scp-jpの記事の大部分が該当するため検索用途に適さない等複数の理由により廃止されました。",
@@ -10989,7 +11052,7 @@
         "list": ""
     },
     {
-        "id": 1473,
+        "id": 1480,
         "tag": "対話型",
         "trans": "interactive",
         "desc": "以前まで//インタラクティブ//タグの代わりに使われていたアトリビュートタグですが、訳語の変更により廃止されました。//インタラクティブ//タグに置換してください。",
@@ -10998,7 +11061,7 @@
         "list": ""
     },
     {
-        "id": 1474,
+        "id": 1481,
         "tag": "ラクダ",
         "trans": "camelid",
         "desc": "ラクダ科の動物のような特徴を持つSCPオブジェクトに関する報告書に付与されるアトリビュートタグです。アルパカとラマを含みます。このタグはENで廃止されたため、JPにおいても翻訳記事・オリジナル記事を問わず使用することはできなくなりました。",
@@ -11007,7 +11070,7 @@
         "list": ""
     },
     {
-        "id": 1475,
+        "id": 1482,
         "tag": "テンプレート",
         "trans": "template",
         "desc": "現在の//コンポーネント//タグ及び//テーマ//タグの機能を果たしていたタグです。//テンプレート//タグの廃止に伴い、//テンプレート//の機能は//コンポーネント//と//テーマ//に分割され、//コンポーネント//タグの従来の役割は//コンポーネント・バックエンド//タグに引き継がれました。",
@@ -11016,7 +11079,7 @@
         "list": ""
     },
     {
-        "id": 1476,
+        "id": 1483,
         "tag": "scp燃料",
         "trans": "scp-fuel",
         "desc": "\"SCP燃料\"、即ち記事内に画像を掲載したい人のための画像を含むページに付与されるタグです。JPでは用いられていませんでしたが、ENでも廃止されました。",
@@ -11025,7 +11088,7 @@
         "list": ""
     },
     {
-        "id": 1477,
+        "id": 1484,
         "tag": "unclassed",
         "trans": "unclassed",
         "desc": "オブジェクトクラスを示すタグの一つでした。現在は//esoteric-class//で代用されます。",
@@ -11034,7 +11097,7 @@
         "list": ""
     },
     {
-        "id": 1478,
+        "id": 1485,
         "tag": "元記事差し替え",
         "trans": "",
         "desc": "現在はタグ名が変更され//元記事削除//が代わりに使用されています。",
