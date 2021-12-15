@@ -1,6 +1,8 @@
 name: SCP-JP Tag list
 on:
   push:
+    paths:
+      - "scp-jp/tags/*"
   schedule:
     # *はYAMLにおける特殊文字なので、この文字列はクオートしなければならない
     - cron:  '0 19 * * *' #JST +0900 23:55

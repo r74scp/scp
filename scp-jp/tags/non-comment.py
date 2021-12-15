@@ -1,7 +1,6 @@
 import re
 
-f = open("./scp-jp"
-         "tags/tags.md", "r", encoding="utf-8_sig")
+f = open("./scp-jp/tags/tags.md", "r", encoding="utf-8_sig")
 data = f.read()
 f.close()
 
