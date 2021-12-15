@@ -4,3 +4,4 @@ print(r.text)
 f = open('./scp-wiki/tags/tags.md', 'w', encoding="utf-8_sig")
 f.write(r.text)
 f.close()
+
