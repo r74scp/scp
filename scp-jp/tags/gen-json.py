@@ -140,11 +140,11 @@ def parse(i, d, data):
 
 
 if __name__ == '__main__':
-  f = open("./tags/tags_commented.md", "r", encoding="utf-8_sig")
+  f = open("./scp-jp/tags/tags_commented.md", "r", encoding="utf-8_sig")
   data = f.read()
   f.close()
   d = []
   i=0
   e = parse(i, d, data)
-  with open("./tags/tags.json", "w", encoding="utf-8_sig") as f:
+  with open("./scp-jp/tags/tags.json", "w", encoding="utf-8_sig") as f:
     json.dump(e, f, indent=4, ensure_ascii=False)

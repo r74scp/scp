@@ -1,4 +1,4 @@
-name: Tag list
+name: SCP-JP Tag list
 on:
   push:
   schedule:
@@ -24,16 +24,16 @@ jobs:
 
       - name: fetch tag-list
         run: |
-          python tags/fetch.py
+          python scp-jp/tags/fetch.py
 
 
       - name: del comment
         run: |
-          python tags/non-comment.py
+          python scp-jp/tags/non-comment.py
 
       - name: Generate json file
         run: |
-          python tags/gen-json.py
+          python scp-jp/tags/gen-json.py
 
       - name: Commit and Push # 実行した結果をプッシュして変更をレポジトリに反映
         run: |
