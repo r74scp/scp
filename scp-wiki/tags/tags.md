@@ -555,10 +555,10 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/horizon-initiative horizon-initiative]** -- Of or related to the Horizon Initiative group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/icsut icsut]** -- Of or related to the International Center for the Study of Unified Thaumatology.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ijamea ijamea]** -- Of or related to the Imperial Japanese Anomalous Matters Examination Agency.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/madao madao]** -- Of or related to the Italian GoI Medicean Academy of Occult Art (Medicea Accademia Dell'Arte Occulta).
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/mages-academy mages-academy]** -- Of or related to the Mages Academy group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/manna-charitable-foundation manna-charitable-foundation]** -- Of or related to the Manna Charitable Foundation group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/marshall-carter-and-dark marshall-carter-and-dark]** -- Of or related to the Marshall, Carter, and Dark Ltd. (MC&D) group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/medicea-accademia medicea-accademia]** -- Of or related to the Italian GoI Medicean Academy of Occult Art (Medicea Accademia Dell'Arte Occulta).
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/miscommunications miscommunications]** -- Of or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/nameless nameless]** -- Of or related to the Nameless, or the Fae, outlined in [https://scp-wiki.wikidot.com/scp-4000 SCP-4000].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/nobody nobody]** -- Of or related to the 'Nobody' group of interest.
@@ -644,12 +644,12 @@ The following applies to all tags in this category:
  * //Requires 'ijamea'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_la-rue-macabre _la-rue-macabre]** -- An article following the La Rue Macabre format.
  * //Requires 'la-rue-macabre'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_madao _madao]** -- An article following the Medicea Accademia format.
+ * //Requires 'medicea-accademia'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_manna-charitable-foundation _manna-charitable-foundation]** -- An article following the Manna Charitable Foundation format.
  * //Requires 'manna-charitable-foundation'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_marshall-carter-and-dark _marshall-carter-and-dark]** -- An article following the Marshall, Carter and Dark format.
  * //Requires 'marshall-carter-and-dark'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_medicea-accademia _medicea-accademia]** -- An article following the Medicea Accademia format.
- * //Requires 'medicea-accademia'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_nobody _nobody]** -- An article following the Nobody format.
  * //Requires 'nobody'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_oneiroi _oneiroi]** -- An article following the Oneiroi format.
@@ -765,6 +765,7 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/agent-lurk agent-lurk]** -- Agent Dietrich M. Lurk.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/agent-merlo agent-merlo]** -- Agent Sasha Merlo.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/agent-navarro agent-navarro]** -- Agent Daniel Navarro.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/agent-popescu agent-popescu]** -- Agent Lucretia Popescu.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/agent-strelnikov agent-strelnikov]** -- Agent Dmitri Strelnikov.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/agent-trauss agent-trauss]** -- Agent Trauss, or C-51174.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/agent-yoric agent-yoric]** -- Agent Yoric Elroy, aka Jack "Poor Yoric" Dawkins.
@@ -808,6 +809,7 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-king doctor-king]** -- Dr. King.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-kondraki doctor-kondraki]** -- Dr. Kondraki.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-light doctor-light]** -- Dr. Sophia N. Light.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-lillihammer doctor-lillihammer]** -- Dr. Lillian S. Lillihammer.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-mann doctor-mann]** -- Dr. Everett Mann.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-mcdoctorate doctor-mcdoctorate]** -- Dr. Placeholder McDoctorate.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-rights doctor-rights]** -- Dr. Rights.
@@ -855,6 +857,7 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/mr-fish mr-fish]** -- Mr. Fish, Little Mister from Dr. Wondertainment and SCP-527.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/plague-doctor plague-doctor]** -- The Plague Doctor, aka SCP-049.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/professor-bjornsen professor-bjornsen]** -- Professor Anders Bjornsen.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/rainer-miller rainer-miller]** -- Rainer Miller, AKA SCP-4051.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/researcher-conwell researcher-conwell]** -- Researcher Jacob Conwell.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/researcher-james researcher-james]** -- Junior Researcher James, best foundation researcher ever! (Age 5).
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/researcher-labelle researcher-labelle]** -- Researcher Rose Labelle.
@@ -2180,6 +2183,10 @@ name = "ijamea"
 description = "Of or related to the Imperial Japanese Anomalous Matters Examination Agency."
 
 [[tags]]
+name = "madao"
+description = "Of or related to the Italian GoI Medicean Academy of Occult Art (Medicea Accademia Dell'Arte Occulta)."
+
+[[tags]]
 name = "mages-academy"
 description = "Of or related to the Mages Academy group of interest."
 
@@ -2190,10 +2197,6 @@ description = "Of or related to the Manna Charitable Foundation group of interes
 [[tags]]
 name = "marshall-carter-and-dark"
 description = "Of or related to the Marshall, Carter, and Dark Ltd. (MC&D) group of interest."
-
-[[tags]]
-name = "medicea-accademia"
-description = "Of or related to the Italian GoI Medicean Academy of Occult Art (Medicea Accademia Dell'Arte Occulta)."
 
 [[tags]]
 name = "miscommunications"
@@ -2396,16 +2399,16 @@ name = "_la-rue-macabre"
 description = "An article following the La Rue Macabre format."
 
 [[tags]]
+name = "_madao"
+description = "An article following the Medicea Accademia format."
+
+[[tags]]
 name = "_manna-charitable-foundation"
 description = "An article following the Manna Charitable Foundation format."
 
 [[tags]]
 name = "_marshall-carter-and-dark"
 description = "An article following the Marshall, Carter and Dark format."
-
-[[tags]]
-name = "_medicea-accademia"
-description = "An article following the Medicea Accademia format."
 
 [[tags]]
 name = "_nobody"
@@ -2720,6 +2723,10 @@ name = "agent-navarro"
 description = "Agent Daniel Navarro."
 
 [[tags]]
+name = "agent-popescu"
+description = "Agent Lucretia Popescu."
+
+[[tags]]
 name = "agent-strelnikov"
 description = "Agent Dmitri Strelnikov."
 
@@ -2890,6 +2897,10 @@ description = "Dr. Kondraki."
 [[tags]]
 name = "doctor-light"
 description = "Dr. Sophia N. Light."
+
+[[tags]]
+name = "doctor-lillihammer"
+description = "Dr. Lillian S. Lillihammer."
 
 [[tags]]
 name = "doctor-mann"
@@ -3078,6 +3089,10 @@ description = "The Plague Doctor, aka SCP-049."
 [[tags]]
 name = "professor-bjornsen"
 description = "Professor Anders Bjornsen."
+
+[[tags]]
+name = "rainer-miller"
+description = "Rainer Miller, AKA SCP-4051."
 
 [[tags]]
 name = "researcher-conwell"
