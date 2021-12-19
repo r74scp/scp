@@ -1368,7 +1368,7 @@
 以下のタグについては、特定の他支部の項を参照してください。
 
 * **[[[/system:page-tags/tag/saphir|saphir]]]** //(sapphire)// - 要注意団体-FRの項を参照してください。
-* **[[[/system:page-tags/tag/madao|madao]]]** //(medicea-accademia)// - 要注意団体-ITの項を参照してください。
+* **[[[/system:page-tags/tag/madao|madao]]]** //(madao)// - 要注意団体-ITの項を参照してください。
 * **[[[/system:page-tags/tag/魔術師学会|魔術師学会]]]** //(mages-academy)// - 要注意団体-DEの項を参照してください。
 * **[[[/system:page-tags/tag/陰陽寮|陰陽寮]]]** - JP側で独自に登録されたタグです。準要注意団体-JPの項を参照してください。
 * **[[[/system:page-tags/tag/ライト・クーリエ・エンタープライズ|ライト・クーリエ・エンタープライズ]]]** - JP側で独自に登録されたタグです。準要注意団体-JPの項を参照してください。
