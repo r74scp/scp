@@ -217,7 +217,7 @@
 * **[[[/system:page-tags/tag/euclid|euclid]]]** //(euclid)// - オブジェクトクラス: Euclid
 * **[[[/system:page-tags/tag/keter|keter]]]** //(keter)// - オブジェクトクラス: Keter
 * **[[[/system:page-tags/tag/thaumiel|thaumiel]]]** //(thaumiel)// - オブジェクトクラス: Thaumiel
-* **[[[/system:page-tags/tag/neutralized|neutralized]]]** //(neutralized)// - オブジェクトクラス: Neutralized
+* **[[[/system:page-tags/tag/neutralized|neutralized]]]** //(neutralized)// - オブジェクトクラス: Neutralized。[#faq 翻訳に関するFAQ]も参照してください。
 * **[[[/system:page-tags/tag/apollyon|apollyon]]]** //(apollyon)// - オブジェクトクラス: Apollyon
 * **[[[/system:page-tags/tag/archon|archon]]]** //(archon)// - オブジェクトクラス: Archon
 * **[[[/system:page-tags/tag/esoteric-class|esoteric-class]]]** //(esoteric-class)// - 上記のいずれでもないオブジェクトクラスの場合に付与されるタグです。
@@ -2833,7 +2833,10 @@ _(アンダーバー)から始まるタグ(例: //_蛇の手//)は、「隠し�
 他の支部では、JPがそうであるようにタグを独自に運用しており、その付与対象ページのニュアンスが支部間で異なっている場合があります。[[[how-to-write:post-translation|]]]も参照してください。
 
 +++* //explained//タグについて
-他言語版サイトの//scp//記事には、オブジェクトクラスカテゴリのタグの代わりにexplainedタグが適用されていることがあります。そういったページの翻訳時にはその状態を再現してください。ただし、JPオリジナル記事ではそのようなことがないようにしてください。[#faq 一般的なFAQ]も参照してください。
+他言語版サイトの//scp//記事では、オブジェクトクラスカテゴリのタグの代わりにexplainedタグが適用されていることがあります。そういったページの翻訳時にはその状態を再現してください。ただし、JPオリジナル記事ではそのようなことがないようにしてください。[#faq 一般的なFAQ]も参照してください。
+
++++* //neutralized//タグについて
+他言語版サイトの//scp//記事では、//neutralized//タグと他のオブジェクトクラスタグが併用されていることがあります。そういったページの翻訳時にはその状態を再現してください。ただし、JPオリジナル記事ではそのようなことがないようにしてください。
 
 +++* //道具//タグと//楽器//タグについて
 この二つのタグが付与されている記事を翻訳する場合、オブジェクトが「楽器」の性質を持っているのなら//楽器//タグ、そうでない場合は//道具//タグに置き換えてください。両方使われている場合は一つにまとめてください。
