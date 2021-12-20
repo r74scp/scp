@@ -640,7 +640,7 @@ The following applies to all tags in this category:
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_la-rue-macabre _la-rue-macabre]** -- An article following the La Rue Macabre format.
  * //Requires 'la-rue-macabre'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_madao _madao]** -- An article following the Medicea Accademia format.
- * //Requires 'medicea-accademia'//
+ * //Requires 'madao'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_manna-charitable-foundation _manna-charitable-foundation]** -- An article following the Manna Charitable Foundation format.
  * //Requires 'manna-charitable-foundation'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_marshall-carter-and-dark _marshall-carter-and-dark]** -- An article following the Marshall, Carter and Dark format.
@@ -704,6 +704,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/lolfoundation lolfoundation]** -- Of or related to the [https://scp-wiki.wikidot.com/lolfoundation-hub-page lolFoundation] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/man-who-wasnt-there man-who-wasnt-there]** -- Of or relating to [https://scp-wiki.wikidot.com/the-man-who-wasnt-there-hub The Man Who Wasn't There] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/memoria-adytum memoria-adytum]** -- Of or related to the [https://scp-wiki.wikidot.com/memoria-adytum In Memoria, Adytum] canon.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/no-return no-return]** -- Of or related to the [https://scp-wiki.wikidot.com/no-return-hub No Return] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/old-man-in-the-sea old-man-in-the-sea]** -- Of or related to the [https://scp-wiki.wikidot.com/old-man-in-the-sea-hub Old Man in the Sea] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/on-guard-43 on-guard-43]** -- Of or related to the [https://scp-wiki.wikidot.com/on-guard-43-hub On Guard 43] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/on-mount-golgotha on-mount-golgotha]** -- Of or related to the [https://scp-wiki.wikidot.com/on-mount-golgotha-hub On Mount Golgotha] canon.
@@ -869,13 +870,14 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/scarlet-king scarlet-king]** -- The Scarlet King.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/sheldon-katz sheldon-katz]** -- Sheldon Katz.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/siguross siguross]** -- Sigurrós Stefánsdóttir, or SCP-239.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/sigurros sigurros]** -- Sigurrós Stefánsdóttir, or SCP-239.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/simon-pietrykau simon-pietrykau]** -- Simon Pietrykau.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/tau-5-samsara tau-5-samsara]** -- Mobile Task Force Tau-5 'Samsara'.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/thad-xyank thad-xyank]** -- Dr. Thaddeus "Thad" Xyank.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-administrator the-administrator]** -- The Administrator (as a separate entity from the O5 Council).
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-engineer the-engineer]** -- The Engineer, of the Chaos Insurgency.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-specter the-specter]** -- The Specter, aka SCP-4944.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/thilo-zwist thilo-zwist]** -- Thilo Zwist.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/tim-wilson tim-wilson]** -- Tim Wilson, of Wilson's Wildlife Solutions.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/veronica-fitzroy veronica-fitzroy]** -- Veronica Katherine Fitzroy, anartist/d-class.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/vincent-anderson vincent-anderson]** -- Vincent Anderson, of Anderson Robotics.
@@ -2558,6 +2560,10 @@ name = "memoria-adytum"
 description = "Of or related to the In Memoria, Adytum canon."
 
 [[tags]]
+name = "no-return"
+description = "Of or related to the No Return canon."
+
+[[tags]]
 name = "old-man-in-the-sea"
 description = "Of or related to the Old Man in the Sea canon."
 
@@ -3154,7 +3160,7 @@ name = "sheldon-katz"
 description = "Sheldon Katz."
 
 [[tags]]
-name = "siguross"
+name = "sigurros"
 description = "Sigurrós Stefánsdóttir, or SCP-239."
 
 [[tags]]
@@ -3180,6 +3186,10 @@ description = "The Engineer, of the Chaos Insurgency."
 [[tags]]
 name = "the-specter"
 description = "The Specter, aka SCP-4944."
+
+[[tags]]
+name = "thilo-zwist"
+description = "Thilo Zwist."
 
 [[tags]]
 name = "tim-wilson"
