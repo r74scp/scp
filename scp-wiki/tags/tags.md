@@ -709,7 +709,6 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/lolfoundation lolfoundation]** -- Of or related to the [https://scp-wiki.wikidot.com/lolfoundation-hub-page lolFoundation] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/man-who-wasnt-there man-who-wasnt-there]** -- Of or relating to [https://scp-wiki.wikidot.com/the-man-who-wasnt-there-hub The Man Who Wasn't There] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/memoria-adytum memoria-adytum]** -- Of or related to the [https://scp-wiki.wikidot.com/memoria-adytum In Memoria, Adytum] canon.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/no-return no-return]** -- Of or related to the [https://scp-wiki.wikidot.com/no-return-hub No Return] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/old-man-in-the-sea old-man-in-the-sea]** -- Of or related to the [https://scp-wiki.wikidot.com/old-man-in-the-sea-hub Old Man in the Sea] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/on-guard-43 on-guard-43]** -- Of or related to the [https://scp-wiki.wikidot.com/on-guard-43-hub On Guard 43] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/on-mount-golgotha on-mount-golgotha]** -- Of or related to the [https://scp-wiki.wikidot.com/on-mount-golgotha-hub On Mount Golgotha] canon.
@@ -2563,10 +2562,6 @@ description = "Of or relating to The Man Who Wasn't There canon."
 [[tags]]
 name = "memoria-adytum"
 description = "Of or related to the In Memoria, Adytum canon."
-
-[[tags]]
-name = "no-return"
-description = "Of or related to the No Return canon."
 
 [[tags]]
 name = "old-man-in-the-sea"
