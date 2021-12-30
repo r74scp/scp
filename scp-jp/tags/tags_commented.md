@@ -721,6 +721,8 @@
  * 必ず//サメ殴りセンター//タグと併用してください。
 * **[[[/system:page-tags/tag/_三ツ月イニシアチブ|_三ツ月イニシアチブ]]]** //(_three-moons-initiative)// - [[[three-moons-initiative-hub|三ツ月イニシアチブ]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//三ツ月イニシアチブ//タグと併用してください。
+* **[[[/system:page-tags/tag/_異常積荷委員会|_異常積荷委員会]]]** //(_unusual-cargo)// - 異常積荷委員会のGoIフォーマット記事に付与されるタグです。
+ * 必ず//異常積荷委員会//タグと併用してください。
 * **[[[/system:page-tags/tag/_異常事件課|_異常事件課]]]** //(_unusual-incidents-unit)// - [[[unusual-incidents-unit-hub|連邦捜査局 (FBI) 異常事件課 (UIU)]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//異常事件課//タグと併用してください。
 * **[[[/system:page-tags/tag/_ヴィキャンデル・ニード|_ヴィキャンデル・ニード]]]** //(_vikander-kneed)// - [[[vikander-kneed-technical-media-hub|ヴィキャンデル=ニード・テクニカル・メディア]]]のGoIフォーマット記事に付与されるタグです。
