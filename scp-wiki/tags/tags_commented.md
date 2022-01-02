@@ -809,6 +809,7 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-lillihammer doctor-lillihammer]** -- Dr. Lillian S. Lillihammer.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-mann doctor-mann]** -- Dr. Everett Mann.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-mcdoctorate doctor-mcdoctorate]** -- Dr. Placeholder McDoctorate.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-reynders doctor-reynders]** -- Dr. Ilse Reynders.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-rights doctor-rights]** -- Dr. Rights.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-roget doctor-roget]** -- Dr. Ralph Roget.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-sinclair doctor-sinclair]** -- Dr. Katherine Sinclair.
@@ -2915,6 +2916,10 @@ description = "Dr. Everett Mann."
 [[tags]]
 name = "doctor-mcdoctorate"
 description = "Dr. Placeholder McDoctorate."
+
+[[tags]]
+name = "doctor-reynders"
+description = "Dr. Ilse Reynders."
 
 [[tags]]
 name = "doctor-rights"
