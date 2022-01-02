@@ -1907,6 +1907,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/キング博士|キング博士]]]** //(doctor-king)// - キング博士。
 * **[[[/system:page-tags/tag/コンドラキ博士|コンドラキ博士]]]** //(doctor-kondraki)// - コンドラキ博士。
 * **[[[/system:page-tags/tag/ライト博士|ライト博士]]]** //(doctor-light)// - ライト博士。
+* **[[[/system:page-tags/tag/リリハンメル博士|リリハンメル博士]]]** //(doctor-lillihammer)// - リリアン・S・リリハンメル博士。
 * **[[[/system:page-tags/tag/マン博士|マン博士]]]** //(doctor-mann)// - マン博士。
 * **[[[/system:page-tags/tag/マクドクトラート博士|マクドクトラート博士]]]**//(doctor-mcdoctorate)// - プレースホルダー・マクドクトラート博士。
 * **[[[/system:page-tags/tag/ライツ博士|ライツ博士]]]** //(doctor-rights)// - ライツ博士。
