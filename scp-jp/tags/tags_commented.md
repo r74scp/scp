@@ -1283,6 +1283,7 @@
 
 +++ 準要注意団体-EN
 
+* **[[[/system:page-tags/tag/怪奇部門|怪奇部門]]]** //(abnormalities)// - 怪奇部門。
 * **[[[/system:page-tags/tag/accelerate-the-future|accelerate-the-future]]]** //(accelerate-the-future)// - Accelerate the Future。
 * **[[[/system:page-tags/tag/asci|asci]]]** //(asci)// - 全米確保収容イニシアチブ (ASCI)。
 * **[[[/system:page-tags/tag/アベラール|アベラール]]]** //(avelar)// - アベラール・プロフェッショナル・プロダクツ。
@@ -1644,6 +1645,7 @@
 +++ 部門-EN
 SCP-ENでは要注意団体に分類されています。
 
+* **[[[/system:page-tags/tag/怪奇部門|怪奇部門]]]** //(abnormalities)// - 怪奇部門。
 * **[[[/system:page-tags/tag/解体部門|解体部門]]]** //(decommissioning-dept)// - [[[decom-dept-hub|解体部門]]]。
 * **[[[/system:page-tags/tag/倫理委員会|倫理委員会]]]** //(ethics-committee)// - 倫理委員会。
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - [[[domc-hub|誤伝達部門]]]。
