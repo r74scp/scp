@@ -2502,6 +2502,12 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 @@ @@
 
++++ コンテスト-ID
+
+* **[[[/system:page-tags/tag/1stanniv|1stanniv]]]** //(1stanniv)// - [[[1st-anniversary-contest|一周年記念コンテスト]]]。
+
+@@ @@
+
 +++ コンテスト-SL
 
 * **[[[/system:page-tags/tag/contest-j-1-2019|contest-j-1-2019]]]** //(contest-j-1-2019)// - [[[contest-sl-j-1-2019|”SL-J 2019”コンテスト]]]。
