@@ -1525,6 +1525,7 @@
 * **[[[/system:page-tags/tag/ting|ting]]]** //(ting)// - [[[tingforum-com|TINGフォーラム]]]。
 * **[[[/system:page-tags/tag/PCS異元署|PCS異元署]]]** //(PCS异度署)// - PCS異元署。
 * **[[[/system:page-tags/tag/劇組|劇組]]]** //(剧组)// - [[[revue|劇組]]]。
+* **[[[/system:page-tags/tag/風露ホテル|風露ホテル]]]** //(风露旅社)// - 風露ホテル。
 
 [!--
 ★未申請。GoI-CNハブ該当箇所は未翻訳。
