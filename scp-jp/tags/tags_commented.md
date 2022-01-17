@@ -1460,9 +1460,9 @@
 * **[[[/system:page-tags/tag/グリーン・スパロウ財団|グリーン・スパロウ財団]]]** //(绿麻雀基金会)// - [[[gsf|グリーン・スパロウ財団]]]。
 * **[[[/system:page-tags/tag/ting|ting]]]** //(ting)// - [[[tingforum-com|TINGフォーラム]]]。
 * **[[[/system:page-tags/tag/PCS異元署|PCS異元署]]]** //(PCS异度署)// - PCS異元署。
+* **[[[/system:page-tags/tag/魔法楽団|魔法楽団]]]** //(魔法乐团)// - 魔法楽団。
 * **[[[/system:page-tags/tag/劇組|劇組]]]** //(剧组)// - [[[revue|劇組]]]。
-* **[[[/system:page-tags/tag/風露ホテル|風露ホテル]]]** //(风露旅社)// - 風露ホテル。
-
+* **[[[/system:page-tags/tag/風露旅社|風露旅社]]]** //(风露旅社)// - 風露旅社。
 
 @@ @@
 
