@@ -772,6 +772,8 @@
  * 必ず//石榴倶楽部//タグと併用してください。
 * **[[[/system:page-tags/tag/_負号部隊|_負号部隊]]]** - 大日本帝国陸軍特別医療部隊 (通称"負号部隊")のGoIフォーマット記事に付与されるタグです。
  * 必ず//負号部隊//タグと併用してください。
+* **[[[/system:page-tags/tag/_超電救助隊hero|_超電救助隊hero]]]** - [[[hyper-electric-rescue-organization-hub|超電救助隊HERO]]]のGoIフォーマット記事に付与されるタグです。
+ * 必ず//超電救助隊hero//タグと併用してください。
 * **[[[/system:page-tags/tag/_遠野妖怪保護区|_遠野妖怪保護区]]]** - [[[toyoho-hub|遠野妖怪保護区]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//遠野妖怪保護区//タグと併用してください。
 * **[[[/system:page-tags/tag/_東弊重工|_東弊重工]]]** - 東弊重工のGoIフォーマット記事に付与されるタグです。
@@ -1415,6 +1417,7 @@
 * **[[[/system:page-tags/tag/aki商事|aki商事]]]** - AKI商事。
 * **[[[/system:page-tags/tag/日奉一族|日奉一族]]]** - 日奉一族。
 * **[[[/system:page-tags/tag/五行結社|五行結社]]]** - 五行結社。
+* **[[[/system:page-tags/tag/超電救助隊hero|超電救助隊hero]]]** - [[[hyper-electric-rescue-organization-hub|超電救助隊HERO]]]。
 
 @@ @@
 
@@ -1422,7 +1425,6 @@
 * **[[[/system:page-tags/tag/e&e|e&e]]]** - Entertainment & Enterprise社。
 * **[[[/system:page-tags/tag/懐中銃教会|懐中銃教会]]]** - 懐中銃教会。
 * **[[[/system:page-tags/tag/艦隊|艦隊]]]** - 艦隊司令部。
-* **[[[/system:page-tags/tag/超電救助隊hero|超電救助隊hero]]]** - 超電救助隊HERO。
 * **[[[/system:page-tags/tag/帝国|帝国]]]** - 帝国。
 * **[[[/system:page-tags/tag/如来観光|如来観光]]]** - 如来観光。
 * **[[[/system:page-tags/tag/andersen|andersen]]]** - Andersen。
