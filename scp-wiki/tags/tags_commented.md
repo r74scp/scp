@@ -894,6 +894,7 @@ Tags indicating that a tale or SCP article takes place in a specific location th
 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/alagadda alagadda]** -- The kingdom of Alagadda.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- The city of Backdoor Soho.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/esterberg esterberg]** -- The Free Port known as Esterberg.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/eurtec eurtec]** -- The metropolis of Euretc.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hy-brasil hy-brasil]** -- The island of Hy-Brasil.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- The free port of La Rue Macabre.
@@ -3224,6 +3225,10 @@ description = "The kingdom of Alagadda."
 [[tags]]
 name = "backdoor-soho"
 description = "The city of Backdoor Soho."
+
+[[tags]]
+name = "esterberg"
+description = "The Free Port known as Esterberg."
 
 [[tags]]
 name = "eurtec"
