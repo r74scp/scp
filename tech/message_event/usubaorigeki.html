@@ -1,15 +1,24 @@
 <div id="parentiframe"></div>
 <script>
   window.addEventListener('message', event => {
-    if(document.getElementById("personaliframe") != null){
+    if (document.getElementById("personaliframe") != null) {
       document.getElementById("personaliframe").remove();
     }
     var parent = document.querySelector("#parentiframe");
-    obj = document.createElement("iframe");
-    obj.id="personaliframe";
-    obj.width="400px";
-    obj.height="300px";
-    obj.src = "https://rtas.wikidot.com/"+event.data;
-    parent.appendChild(obj);
+    var xhr = new XMLHttpRequest(),
+      method = "GET",
+      url = "https://rtas.wikidot.com/" + event.data;
+    xhr.open(method, url, true);
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState === 4 && xhr.status === 200) {
+        var restxt = xhr.responseText;
+        parent.innerHTML = restxt;
+      }
+    };
+    xhr.send();
   });
+</script>
+
+<script>
+
 </script>
