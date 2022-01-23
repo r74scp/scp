@@ -1,0 +1,15 @@
+<div id="parentiframe"></div>
+<script>
+  window.addEventListener('message', event => {
+    if(document.getElementById("personaliframe") != null){
+      document.getElementById("personaliframe").remove();
+    }
+    var parent = document.querySelector("#parentiframe");
+    obj = document.createElement("iframe");
+    obj.id="personaliframe";
+    obj.width="400px";
+    obj.height="300px";
+    obj.src = "http://rtas.wikidot.com/"+event.data;
+    parent.appendChild(obj);
+  });
+</script>
