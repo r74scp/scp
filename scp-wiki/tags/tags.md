@@ -983,6 +983,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cupid2021 cupid2021]** -- An entry to [https://scp-wiki.wikidot.com/cupid-contest-2021 Cupid Contest 2021].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/d-con2016 d-con2016]** -- An entry to the [https://scp-wiki.wikidot.com/d-class-contest 2016 D-Class Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/dc2014 dc2014]** -- An entry to the [https://scp-wiki.wikidot.com/Dystopia-Contest 2014 Dystopia Contest].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/departmentcon2022 departmentcon2022]** -- An entry to the [https://scp-wiki.wikidot.com/department-contest 2022 Department Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doomsday2018 doomsday2018]** -- An entry to the [https://scp-wiki.wikidot.com/doomsday-contest 2018 Doomsday Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/exquisite-corpse2020 exquisite-corpse2020]** -- An entry to the [https://scp-wiki.wikidot.com/exquisite-corpse-contest 2020 Exquisite Corpse Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/five-questions five-questions]** -- An entry to the [https://scp-wiki.wikidot.com/five-questions Five Questions Contest].
@@ -3422,6 +3423,10 @@ description = "An entry to the 2016 D-Class Contest."
 [[tags]]
 name = "dc2014"
 description = "An entry to the 2014 Dystopia Contest."
+
+[[tags]]
+name = "departmentcon2022"
+description = "An entry to the 2022 Department Contest."
 
 [[tags]]
 name = "doomsday2018"
