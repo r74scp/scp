@@ -1879,6 +1879,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/隠し包丁のスニーク|隠し包丁のスニーク]]]** - 隠し包丁のスニーク。
 * **[[[/system:page-tags/tag/金崎研究員|金崎研究員]]]** - 金崎研究員。
 * **[[[/system:page-tags/tag/神山博士|神山博士]]]** - 神山博士。
+* **[[[/system:page-tags/tag/カメラマン・甘梨|カメラマン・甘梨]]]** - カメラマン・甘梨。
 * **[[[/system:page-tags/tag/神恵研究員|神恵研究員]]]** - 神恵研究員。
 * **[[[/system:page-tags/tag/茅野博士|茅野博士]]]** - 茅野博士。
 * **[[[/system:page-tags/tag/karkaroff|karkaroff]]]** - karkaroff。
