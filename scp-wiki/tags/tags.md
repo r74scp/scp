@@ -90,6 +90,7 @@ Pages created for internal use.
 
 +++ Other pages
 
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/admin admin]** -- //admin// pages, as the name suggest, have some sort of official significance. Typically, they represent pages which are required to exist by Wikidot for some form of site functionality. They should only be created by staff.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. All of the SCP series pages are //hub// pages, as are the tale index and various other pages around the site. As it is a major page tag, hubs may not have other top-level tags (e.g. //scp// or //tale//), with the exception of //contest// pages. Tale hubs should additionally be tagged with the //_tale-hub// page.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/workbench workbench]** -- Workbenches are pages created by mods and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're a moderator or admin**, or have received explicit permission from them to do so.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/sandbox sandbox]** -- In the very distant past, sandboxes on the main site were allowed. This was before the number of members became so big that the amount of sandboxes would create a total mess on the wiki. **Please note that personal sandboxes are no longer allowed on the main site.** The SCP Sandbox wiki at https://scp-sandbox-3.wikidot.com/ should be used for article drafts. Only staff may authorize new sandboxes on the site.
@@ -550,6 +551,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/gamers-against-weed gamers-against-weed]** -- Of or related to The Gamers Against Weed group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/global-occult-coalition global-occult-coalition]** -- Of or related to the Global Occult Coalition (GOC) group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/golden-horde golden-horde]** -- Of or related to the Golden Horde group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/greazeburger greazeburger]** -- Of or related to the Greazeburger group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/gru-division-p gru-division-p]** -- Of or related to the GRU Division "P" group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/herman-fuller herman-fuller]** -- Of or related to the Herman Fuller's Circus of the Disquieting group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hmfscp hmfscp]** -- Of or related to His/Her Majesty's Foundation For The Study of Curiosities and Phantasmagoria.
@@ -774,6 +776,7 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/aldon aldon]** -- Aldon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/alexandra alexandra]** -- Alexandra, AI unit.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/alexei-belitrov alexei-belitrov]** -- Alexei Belitrov, or SCP-2273.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/alleged-god alleged-god]** -- SCP-343, aka "God".
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bailey-brothers bailey-brothers]** -- Tristan, Thomas and Trevor Bailey.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/big-cheese-horace big-cheese-horace]** -- Big Cheese Horace of the Fifthists.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bobble-the-clown bobble-the-clown]** -- Bobble The Clown, or SCP-993.
@@ -790,8 +793,10 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/director-bold director-bold]** -- Director Cal Bold of the Decommissioning Department.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/director-diaghilev director-diaghilev]** -- Director Ruslav Diaghilev of the Alchemy Department.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/director-gillespie director-gillespie]** -- Director Gillespie.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/director-mcinnis director-mcinnis]** -- Dr. Allan J. McInnis, Director of Site-43.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/director-mctiriss director-mctiriss]** -- Director Kate McTiriss.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/director-moose director-moose]** -- Director Moose.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/director-lague director-lague]** -- Director Paul Lague, of the Integration Program and Site-322.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/django-bridge django-bridge]** -- Django Bridge.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-asheworth doctor-asheworth]** -- Dr. Daniel Asheworth.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-bright doctor-bright]** -- Dr. Bright.
@@ -816,11 +821,13 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-mcdoctorate doctor-mcdoctorate]** -- Dr. Placeholder McDoctorate.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-reynders doctor-reynders]** -- Dr. Ilse Reynders.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-rights doctor-rights]** -- Dr. Rights.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-rivera doctor-rivera]** -- Dr. Jessie Rivera.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-roget doctor-roget]** -- Dr. Ralph Roget.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-sinclair doctor-sinclair]** -- Dr. Katherine Sinclair.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-sorts doctor-sorts]** -- Dr. Johannes Sorts.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-spanko doctor-spanko]** -- Dr. Spanko.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-vang doctor-vang]** -- Dr. S. Vang.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-wettle doctor-wettle]** -- Dr. William Wallace Wettle.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/donkman donkman]** -- Ulysses B. Donkman.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/draven-kondraki draven-kondraki]** -- Dr./Director Draven Kondraki.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/eric eric]** -- Eric, a mysterious character.
@@ -883,6 +890,8 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/thad-xyank thad-xyank]** -- Dr. Thaddeus "Thad" Xyank.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-administrator the-administrator]** -- The Administrator (as a separate entity from the O5 Council).
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-engineer the-engineer]** -- The Engineer, of the Chaos Insurgency.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-old-man the-old-man]** -- The Old Man, aka SCP-106.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-sculpture the-sculpture]** -- SCP-173.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-specter the-specter]** -- The Specter, aka SCP-4944.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/thilo-zwist thilo-zwist]** -- Thilo Zwist.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/tim-wilson tim-wilson]** -- Tim Wilson, of Wilson's Wildlife Solutions.
@@ -942,7 +951,6 @@ These tags are added only used by SCP Wiki staff, and are intended to designate 
  * //Superseded by '_cc'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_licensebox _licensebox]** -- A tag for designating that an article has a standard license info block that is tracked on the [https://scp-wiki.wikidot.com/licensing-master-list Licensing Master List].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_listpages _listpages]** -- A tag to denote that this page is an LPT article. LPT (ListPages Presented Text) means that the article presents its content through offsets served via ListPages.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/admin admin]** -- //admin// pages, as the name suggest, have some sort of official significance. They should only be created by staff.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_theme-temp _theme-temp]** -- Temporary tag used for marking old theme locations while they were moved from the {{component:}} category to the {{theme:}} category.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/crosslink crosslink]** -- This is a temporary tag that indicates the Wikiwalk Subteam of MAST is currently proposing revisions on the page, which should be seen in the comments.
 
@@ -1107,6 +1115,10 @@ description = "Used for pages which are required for internal functioning of Wik
 [[tags]]
 name = "splash"
 description = "Used for 'cover pages' for certain articles."
+
+[[tags]]
+name = "admin"
+description = "Used for pages which have official significance."
 
 [[tags]]
 name = "hub"
@@ -2169,6 +2181,10 @@ name = "golden-horde"
 description = "Of or related to the Golden Horde group of interest."
 
 [[tags]]
+name = "greazeburger"
+description = "Of or related to the Greazeburger group of interest."
+
+[[tags]]
 name = "gru-division-p"
 description = "Of or related to the GRU Division \"P\" group of interest."
 
@@ -2765,6 +2781,10 @@ name = "alexei-belitrov"
 description = "Alexei Belitrov, or SCP-2273."
 
 [[tags]]
+name = "alleged-god"
+description = "SCP-343, aka \"God\"."
+
+[[tags]]
 name = "bailey-brothers"
 description = "Tristan, Thomas and Trevor Bailey."
 
@@ -2829,12 +2849,20 @@ name = "director-gillespie"
 description = "Director Gillespie."
 
 [[tags]]
+name = "director-mcinnis"
+description = "Dr. Allan J. McInnis, Director of Site-43."
+
+[[tags]]
 name = "director-mctiriss"
 description = "Director Kate McTiriss."
 
 [[tags]]
 name = "director-moose"
 description = "Director Moose."
+
+[[tags]]
+name = "director-lague"
+description = "Director Paul Lague, of the Integration Program and Site-322."
 
 [[tags]]
 name = "django-bridge"
@@ -2933,6 +2961,10 @@ name = "doctor-rights"
 description = "Dr. Rights."
 
 [[tags]]
+name = "doctor-rivera"
+description = "Dr. Jessie Rivera."
+
+[[tags]]
 name = "doctor-roget"
 description = "Dr. Ralph Roget."
 
@@ -2951,6 +2983,10 @@ description = "Dr. Spanko."
 [[tags]]
 name = "doctor-vang"
 description = "Dr. S. Vang."
+
+[[tags]]
+name = "doctor-wettle"
+description = "Dr. William Wallace Wettle."
 
 [[tags]]
 name = "donkman"
@@ -3201,6 +3237,14 @@ name = "the-engineer"
 description = "The Engineer, of the Chaos Insurgency."
 
 [[tags]]
+name = "the-old-man"
+description = "The Old Man, aka SCP-106."
+
+[[tags]]
+name = "the-sculpture"
+description = "SCP-173."
+
+[[tags]]
 name = "the-specter"
 description = "The Specter, aka SCP-4944."
 
@@ -3323,10 +3367,6 @@ description = "Used for pages which have a standard license info block."
 [[tags]]
 name = "_listpages"
 description = "Used for pages which present its article content through offsets served via ListPages."
-
-[[tags]]
-name = "admin"
-description = "Used for pages which have official significance."
 
 [[tags]]
 name = "_theme-temp"
