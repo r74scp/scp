@@ -1888,6 +1888,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ボールド管理官|ボールド管理官]]]** //(director-bold)// - 解体部門のカル・ボールド管理官。
 * **[[[/system:page-tags/tag/ディアギレフ管理官|ディアギレフ管理官]]]** //(director-diaghilev)// - 錬金術部門のルスラフ・ディアギレフ管理官。
 * **[[[/system:page-tags/tag/ガレスピー管理官|ガレスピー管理官]]]** //(director-gillespie)// - ガレスピー管理官。
+* **[[[/system:page-tags/tag/マッキンス管理官|マッキンス管理官]]]** //(director-mcinnis)// - サイト-43管理官、アラン・J・マッキンス博士。
 * **[[[/system:page-tags/tag/マックティリス管理官|マックティリス管理官]]]** //(director-mctiriss)// - ケイト・マックティリス管理官。
 * **[[[/system:page-tags/tag/ムース管理官|ムース管理官]]]** //(director-moose)// - ムース管理官。
 * **[[[/system:page-tags/tag/ジャンゴ・ブリッジ博士|ジャンゴ・ブリッジ博士]]]** //(django-bridge)// - ジャンゴ・ブリッジ博士。
@@ -1918,6 +1919,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ソーツ博士|ソーツ博士]]]** //(doctor-sorts)// - ヨハネス・ソーツ博士。
 * **[[[/system:page-tags/tag/ドクター・スパンコ|ドクター・スパンコ]]]** //(doctor-spanko)// - ドクター・スパンコ。
 * **[[[/system:page-tags/tag/ヴァン博士|ヴァン博士]]]** //(dr-vang)// - S.ヴァン博士。
+* **[[[/system:page-tags/tag/ウェットル博士|ウェットル博士]]]** //(doctor-wettle)// - ウィリアム・ウォレス・ウェットル博士。
 * **[[[/system:page-tags/tag/ドンクマン|ドンクマン]]]** //(donkman)// - ユリシーズ・B・ドンクマン。
 * **[[[/system:page-tags/tag/ドレイヴン・コンドラキ|ドレイヴン・コンドラキ]]]** //(draven-kondraki)// - ドレイヴン・コンドラキ博士/管理官。
 * **[[[/system:page-tags/tag/エリック|エリック]]]** //(eric)// - 謎に包まれたキャラクター、エリック。
@@ -2207,6 +2209,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/アラガッダ|アラガッダ]]]** //(alagadda)// - アラガッダ。
 * **[[[/system:page-tags/tag/バックドア・ソーホー|バックドア・ソーホー]]]** //(backdoor-soho)// - バックドア・ソーホー。
+* **[[[/system:page-tags/tag/エスターバーグ|エスターバーグ]]]** //(esterberg)// - フリーポートの一つ、エスターバーグ。
 * **[[[/system:page-tags/tag/ユーテック|ユーテック]]]** (//eurtec//) - ユーテック。
 * **[[[/system:page-tags/tag/ハイ・ブラジル|ハイ・ブラジル]]]** //(hy-brasil)// - ハイ・ブラジル島。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。
@@ -2328,6 +2331,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 +++ セキュリティ施設-ZH
 
 * **[[[/system:page-tags/tag/サイト-zh-02|サイト-zh-02]]]** //(site-zh-02)// - [[[site-zh-02-front|サイト-ZH-02]]]。
+* **[[[/system:page-tags/tag/サイト-zh-16|サイト-zh-16]]]** //(site-zh-16)// - [[[site-zh-16|サイト-ZH-16]]]。
 * **[[[/system:page-tags/tag/サイト-zh-25|サイト-zh-25]]]** //(site-zh-25)// - [[[site-zh-25|サイト-ZH-25]]]。
 * **[[[/system:page-tags/tag/サイト-zh-26|サイト-zh-26]]]** //(site-zh-26)// - サイト-ZH-26。
 * **[[[/system:page-tags/tag/サイト-zh-31|サイト-zh-31]]]** //(site-zh-31)// - [[[site-zh-31|サイト-ZH-31]]]。
@@ -2390,6 +2394,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/d-con2016|d-con2016]]]** //(d-con2016)// - [[[d-class-contest|2016年Dクラスコンテスト]]]。
 
 * **[[[/system:page-tags/tag/dc2014|dc2014]]]** //(dc2014)// - [[[dystopia-contest|2014年ディストピアコンテスト]]]。
+
+* **[[[/system:page-tags/tag/departmentcon2022|departmentcon2022]]]** //(departmentcon2022)// - [[[departmentcon2022|2022年部門コンテスト]]]。
 
 * **[[[/system:page-tags/tag/doomsday2018|doomsday2018]]]** //(doomsday2018)// - [[[doomsday-contest|2018年終末の日コンテスト]]]。
 
@@ -2609,6 +2615,8 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/2020-04コンテスト|2020-04コンテスト]]]** //(2020-04경연)// - [[[bimonthly-contests-2020|2020年度隔月コンテスト]]]の4月度部門のタグです。
 
 * **[[[/system:page-tags/tag/2020-10コンテスト|2020-10コンテスト]]]** //(2020-10경연)// - [[[bimonthly-contests-2020|2020年度隔月コンテスト]]]の10月度部門のタグです。
+
+* **[[[/system:page-tags/tag/2020-メタタイトルコンテスト|2020-メタタイトルコンテスト]]]** //(2020-별칭경연)// - [[[title-contest-hub|2020年メタタイトルコンテスト]]]。
 
 [!--★タグ内のハイフンを残すものと残さないものが混在しているので、いずれ修整したい。--]
 [!--
