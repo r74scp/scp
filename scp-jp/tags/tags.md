@@ -1630,7 +1630,7 @@
 * **[[[/system:page-tags/tag/ラプターテック|ラプターテック]]]** //(raptor-tec)// - [[[raptor-tec-industries|ラプターテック・インダストリーズ]]]。
 * **[[[/system:page-tags/tag/skp|skp]]]** //(skp)// - [[[skp-portal|異常利用特殊部隊 (SKP)]]]。
 * **[[[/system:page-tags/tag/4-r|4-r]]]** //(4-r)// - [[[4r-hub|第四帝国]]]。
-* **[[[/system:page-tags/tag/mm&wk|mm&wk]]]** //(mm+wk)// - [[[goi-1995-de-das-wunderkabinett|驚異の小部屋]]]。
+* **[[[/system:page-tags/tag/mm-wk|mm-wk]]]** //(mm-wk)// - [[[goi-1995-de-das-wunderkabinett|驚異の小部屋]]]。
 
 [!--
 ★skpタグは現状、タグリスト-JPではカノン-DEのみに区分されている。これを廃してGoI-DEにも掲載することとした。
