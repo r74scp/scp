@@ -1632,10 +1632,6 @@
 * **[[[/system:page-tags/tag/4-r|4-r]]]** //(4-r)// - [[[4r-hub|第四帝国]]]。
 * **[[[/system:page-tags/tag/mm-wk|mm-wk]]]** //(mm-wk)// - [[[goi-1995-de-das-wunderkabinett|驚異の小部屋]]]。
 
-[!--
-★skpタグは現状、タグリスト-JPではカノン-DEのみに区分されている。これを廃してGoI-DEにも掲載することとした。
---]
-
 @@ @@
 
 +++ 準要注意団体-DE
@@ -2641,15 +2637,12 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/888ko|888ko]]]** //(888ko)// - [[[scp888kocontesthub|8周年記念SCP-888-KOコンテスト]]]。
 * **[[[/system:page-tags/tag/2021二人三脚|2021二人三脚]]]** //(2021-2인3각)// - [[[2g3a-contest-hub|2021年二人三脚コンテスト]]]。
 --]
-[!--★隔月コンテストはタグリスト-KO未掲載。--]
 
 @@ @@
 
-+++ プロジェクト-KO
++++ その他イベント-KO
 
-* **[[[/system:page-tags/tag/2012-devan-誕生日祝典|2012-devan-誕生日祝典]]]** //(2012-데반-생일축전)// - [[[birthday-devan|誕生日祝典 - Devan]]]。
-
-[!--★"2012-devan-誕生日祝典"はタグリストにもコンテストアーカイブにも掲載されていないが、Tale-KOハブには記載されている。そこでの扱いはコンテストとなっているが、順位等がないためプロジェクトが適切である。--]
+* **[[[/system:page-tags/tag/2012-devan-誕生日祝典|2012-devan-誕生日祝典]]]** //(2012-데반-생일축전)// - [[[deleted:birthday-devan|誕生日祝典 - Devan]]]。
 
 [[/tab]][!--KO--]
 [[tab CN]]

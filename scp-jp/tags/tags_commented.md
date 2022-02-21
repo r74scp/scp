@@ -1547,7 +1547,6 @@
 * **[[[/system:page-tags/tag/4-r|4-r]]]** //(4-r)// - [[[4r-hub|第四帝国]]]。
 * **[[[/system:page-tags/tag/mm-wk|mm-wk]]]** //(mm-wk)// - [[[goi-1995-de-das-wunderkabinett|驚異の小部屋]]]。
 
-
 @@ @@
 
 +++ 準要注意団体-DE
@@ -2347,10 +2346,9 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 @@ @@
 
-+++ プロジェクト-KO
++++ その他イベント-KO
 
-* **[[[/system:page-tags/tag/2012-devan-誕生日祝典|2012-devan-誕生日祝典]]]** //(2012-데반-생일축전)// - [[[birthday-devan|誕生日祝典 - Devan]]]。
-
+* **[[[/system:page-tags/tag/2012-devan-誕生日祝典|2012-devan-誕生日祝典]]]** //(2012-데반-생일축전)// - [[[deleted:birthday-devan|誕生日祝典 - Devan]]]。
 
 [[/tab]]
 [[tab CN]]
