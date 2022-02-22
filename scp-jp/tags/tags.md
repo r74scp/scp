@@ -744,6 +744,8 @@
  * 必ず//青大将//タグと併用してください。
 * **[[[/system:page-tags/tag/_aki商事|_aki商事]]]** - AKI商事のGoIフォーマット記事に付与されるタグです。
  * 必ず//aki商事//タグと併用してください。
+* **[[[/system:page-tags/tag/_pamwac|_pamwac]]]** - アニメキャラクターと結婚するための研究計画局(PAMWAC)のGoIフォーマット記事に付与されるタグです。
+ * 必ず//pamwac//タグと併用してください。
 * **[[[/system:page-tags/tag/_日奉一族|_日奉一族]]]** - 日奉一族のGoIフォーマット記事に付与されるタグです。
  * 必ず//日奉一族//タグと併用してください。
 * **[[[/system:page-tags/tag/_imaginanimal|_imaginanimal]]]** - ImaginanimalのGoIフォーマット記事に付与されるタグです。
@@ -1418,6 +1420,7 @@
 * **[[[/system:page-tags/tag/日奉一族|日奉一族]]]** - 日奉一族。
 * **[[[/system:page-tags/tag/五行結社|五行結社]]]** - 五行結社。
 * **[[[/system:page-tags/tag/超電救助隊hero|超電救助隊hero]]]** - [[[hyper-electric-rescue-organization-hub|超電救助隊HERO]]]。
+* **[[[/system:page-tags/tag/pamwac|pamwac]]]** - アニメキャラクターと結婚するための研究計画局(PAMWAC)。
 
 @@ @@
 
@@ -1431,7 +1434,6 @@
 * **[[[/system:page-tags/tag/だいすきなせかい|だいすきなせかい]]]** - だいすきなせかい。
 * **[[[/system:page-tags/tag/夢売り|夢売り]]]** - 夢売り。
 * **[[[/system:page-tags/tag/蛸葦廃船|蛸葦廃船]]]** - 蛸葦廃船。
-* **[[[/system:page-tags/tag/pamwac|pamwac]]]** - アニメキャラクターと結婚するための研究計画局(PAMWAC)。
 * **[[[/system:page-tags/tag/旧南関東奇譚会界隈|旧南関東奇譚会界隈]]]** - 旧南関東奇譚会界隈。
 * **[[[/system:page-tags/tag/有村組|有村組]]]** - 有村組。
 * **[[[/system:page-tags/tag/葦の輪|葦の輪]]]** - 葦の輪。
