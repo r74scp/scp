@@ -2519,18 +2519,18 @@
     },
     {
         "id": 391,
-        "tag": "_エリック",
-        "trans": "_eric",
-        "desc": "エリックのGoIフォーマット記事に付与されるタグです。",
+        "tag": "_ワンダーテインメント博士",
+        "trans": "_dr-wondertainment",
+        "desc": "[[[dr-wondertainment-hub|ワンダーテインメント博士]]]のGoIフォーマット記事に付与されるタグです。",
         "category": "GoIフォーマット",
         "list": [],
         "type": ""
     },
     {
         "id": 392,
-        "tag": "_ワンダーテインメント博士",
-        "trans": "_dr-wondertainment",
-        "desc": "[[[dr-wondertainment-hub|ワンダーテインメント博士]]]のGoIフォーマット記事に付与されるタグです。",
+        "tag": "_エリック",
+        "trans": "_eric",
+        "desc": "エリックのGoIフォーマット記事に付与されるタグです。",
         "category": "GoIフォーマット",
         "list": [],
         "type": ""
