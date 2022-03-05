@@ -203,7 +203,7 @@
 
 * ,,︁,,,,,,**[[[/system:page-tags/tag/プロジェクト|プロジェクト]]]** //(project)// - コミュニティ内で企画されたプロジェクトのページに付与されるタグです。SCP-ENでは廃止されました。
 
-* ,,,,**[[[/system:page-tags/tag/ワークベンチ|ワークベンチ]]]** //(workbenches)// - スタッフがWikidotのモジュールを使って特定のページのチェックを可能にするために作られたページに付与されるタグです。あなたは同じチェックシステムを自由に使えますが、スタッフから明示的な許可を得ていない限り新しいワークベンチを作らないでください。
+* ,,,,**[[[/system:page-tags/tag/ワークベンチ|ワークベンチ]]]** //(workbench)// - スタッフがWikidotのモジュールを使って特定のページのチェックを可能にするために作られたページに付与されるタグです。あなたは同じチェックシステムを自由に使えますが、スタッフから明示的な許可を得ていない限り新しいワークベンチを作らないでください。
 
 * ,,,,,,,,,,,,**[[[/system:page-tags/tag/サンドボックス|サンドボックス]]]** //(sandbox)// - 作成中のページや草案に付与されるタグです。当サイトではサンドボックスページの作成は認められていません。[[[sandbox3guide|SCP-JPサンドボックスⅢ]]]をご利用ください。
 
@@ -1684,7 +1684,7 @@
 それぞれの詳細は[[[grupos-de-interesse|]]]を参照してください。
 * **[[[/system:page-tags/tag/ブラジル超常現象監督局|ブラジル超常現象監督局]]]** //(superintendência-brasileira)// - ブラジル超常現象監督局。
 * **[[[/system:page-tags/tag/異常科学アカデミー|異常科学アカデミー]]]** //(academia-científica)// - 異常科学アカデミー。
-* **[[[/system:page-tags/tag/テクノタウマトルゴス|テクノタウマトルゴス]]]** //(os-tecnotaumaturgos)// - テクノタウマトルゴス。
+* **[[[/system:page-tags/tag/テクノタウマトルゴス|テクノタウマトルゴス]]]** //(tecnotaumaturgos)// - テクノタウマトルゴス。
 * **[[[/system:page-tags/tag/塔と勇気の騎士団|塔と勇気の騎士団]]]** //(ordem-da-torre)// - 塔と勇気の騎士団。
 * **[[[/system:page-tags/tag/レリカリオ|レリカリオ]]]** //(o-relicário)// - レリカリオ。
 * **[[[/system:page-tags/tag/動植物狩猟クラブ|動植物狩猟クラブ]]]** //(clube-de-caça)// - 動植物狩猟クラブ。
@@ -1890,6 +1890,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/マッキンス管理官|マッキンス管理官]]]** //(director-mcinnis)// - サイト-43管理官、アラン・J・マッキンス博士。
 * **[[[/system:page-tags/tag/マックティリス管理官|マックティリス管理官]]]** //(director-mctiriss)// - ケイト・マックティリス管理官。
 * **[[[/system:page-tags/tag/ムース管理官|ムース管理官]]]** //(director-moose)// - ムース管理官。
+* **[[[/system:page-tags/tag/ラグー管理官|ラグー管理官]]]** //(director-lague)// - 統合プログラムならびにサイト-322の管理官、ポール・ラグー。
 * **[[[/system:page-tags/tag/ジャンゴ・ブリッジ博士|ジャンゴ・ブリッジ博士]]]** //(django-bridge)// - ジャンゴ・ブリッジ博士。
 * **[[[/system:page-tags/tag/アシュワース博士|アシュワース博士]]]** //(doctor-asheworth)// - ダニエル・アシュワース博士。
 * **[[[/system:page-tags/tag/ブライト博士|ブライト博士]]]** //(doctor-bright)// - ブライト博士。
@@ -1912,7 +1913,9 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/リリハンメル博士|リリハンメル博士]]]** //(doctor-lillihammer)// - リリアン・S・リリハンメル博士。
 * **[[[/system:page-tags/tag/マン博士|マン博士]]]** //(doctor-mann)// - マン博士。
 * **[[[/system:page-tags/tag/マクドクトラート博士|マクドクトラート博士]]]**//(doctor-mcdoctorate)// - プレースホルダー・マクドクトラート博士。
+* **[[[/system:page-tags/tag/レインデルス博士|レインデルス博士]]]** //(doctor-reynders)// - イルゼ・レインデルス博士。
 * **[[[/system:page-tags/tag/ライツ博士|ライツ博士]]]** //(doctor-rights)// - ライツ博士。
+* **[[[/system:page-tags/tag/リベラ博士|リベラ博士]]]** //(doctor-rivera)// - ジェシー・リベラ博士。
 * **[[[/system:page-tags/tag/ロジェ博士|ロジェ博士]]]** //(doctor-roget)// - ロジェ博士。
 * **[[[/system:page-tags/tag/シンクレア博士|シンクレア博士]]]** //(doctor-sinclair)// - キャサリン・シンクレア博士。
 * **[[[/system:page-tags/tag/ソーツ博士|ソーツ博士]]]** //(doctor-sorts)// - ヨハネス・ソーツ博士。
@@ -2152,7 +2155,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [[/tab]][!--DE--]
 [!--[[tab IT]]
 [[/tab]]IT--]
-[[[tab UA]]
+[[tab UA]]
 
 * **[[[/system:page-tags/tag/ad渉外長|ad渉外長]]]** //(а.д.)// - A.D.渉外長。
 * **[[[/system:page-tags/tag/r博士|r博士]]]** //(др_Р████)// - R████博士。
