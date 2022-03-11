@@ -1354,6 +1354,7 @@
 * **[[[/system:page-tags/tag/松明の子供達|松明の子供達]]]** //(children-of-the-torch)// - 松明の子供達。
 * **[[[/system:page-tags/tag/class-of-76|class-of-76]]]** //(class-of-76)// - [[[remembrance|Class of '76]]]。
 * **[[[/system:page-tags/tag/金帳汗国|金帳汗国]]]** //(golden-horde)// - 金帳汗国。
+* **[[[/system:page-tags/tag/グリーズバーガー|グリーズバーガー]]]** //(greazeburger)// - [[[greazeburger-incorporated-hub|グリーズバーガー]]]。
 * **[[[/system:page-tags/tag/hmfscp|hmfscp]]]** //(hmfscp)// - 超常現象の確保収容に関する王立財団 / 珍品と過ぎ往く幻想の研究の為の王立財団 (HMFSCP)。
 * **[[[/system:page-tags/tag/icsut|icsut]]]** (//icsut//) - 国際統一奇跡論研究センター (ICSUT)。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。要注意領域-ENの項目も参照してください。
@@ -1484,8 +1485,10 @@
 * **[[[/system:page-tags/tag/路地道|路地道]]]** //(골목길)// - [[[the-alleys-hub|路地道]]]。
 * **[[[/system:page-tags/tag/国家超常防災院|国家超常防災院]]]** //(국가초상방재원)// - [[[npes-hub|国家超常防災院]]]。
 * **[[[/system:page-tags/tag/赤斑蛇の手|赤斑蛇の手]]]** //(능구렁이-손)// - [[[dinodon-s-hand|赤斑蛇の手]]]。
+* **[[[/system:page-tags/tag/セレスト|セレスト]]]** //(셀레스트)// - セレスト。
 * **[[[/system:page-tags/tag/エントロピーを越えて|エントロピーを越えて]]]** //(엔트로피를-넘어서)// - [[[beyond-entropy-hub|エントロピーを越えて]]]。
 * **[[[/system:page-tags/tag/スミレ|スミレ]]]** //(제비꽃)// - スミレ。
+* **[[[/system:page-tags/tag/中情第十局|中情第十局]]]** //(중정-제10국)// - 中央情報部 第十局。
 * **[[[/system:page-tags/tag/プラグソフト|プラグソフト]]]** //(플러그소프트)// - プラグソフト。
 * **[[[/system:page-tags/tag/樫の木|樫の木]]]** //(떡갈나무)// - [[[note-hub|真昼の樫の木さすらい楽団]]]。
 
