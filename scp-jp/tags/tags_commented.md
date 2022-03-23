@@ -1723,6 +1723,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/アルドン|アルドン]]]** //(aldon)// - アルドン。
 * **[[[/system:page-tags/tag/アレクサンドラ|アレクサンドラ]]]** //(alexandra)// - AIユニットのアレクサンドラ。
 * **[[[/system:page-tags/tag/アレクセイ・ベリトロフ|アレクセイ・ベリトロフ]]]** //(alexei-belitrov)// - アレクセイ・ベリトロフ。
+* **[[[/system:page-tags/tag/scp-343|scp-343]]]** //(alleged-god)// - SCP-343、もしくは"神"。
 * **[[[/system:page-tags/tag/ベイリー三兄弟|ベイリー三兄弟]]]** //(bailey-brothers)// - トリスタン・ベイリー、トーマス・ベイリー、およびトレバー・ベイリー。
 * **[[[/system:page-tags/tag/ビッグチーズ・ホレス|ビッグチーズ・ホレス]]]** //(big-cheese-horace)// - 第五主義者のビッグチーズ・ホレス。
 * **[[[/system:page-tags/tag/ピエロのボブル|ピエロのボブル]]]** //(bobble-the-clown)// - ピエロのボブル、もしくはSCP-993。
@@ -1835,6 +1836,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/シャンク博士|シャンク博士]]]** //(thad-xyank)// - シャンク博士。
 * **[[[/system:page-tags/tag/管理者|管理者]]]** //(the-administrator)// - 管理者(O5評議会とは別の存在です)。
 * **[[[/system:page-tags/tag/エンジニア|エンジニア]]]** //(the-engineer)// - カオス・インサージェンシーの"エンジニア"。
+* **[[[/system:page-tags/tag/オールドマン|オールドマン]]]** //(the-old-man)// - オールドマン、もしくはSCP-106。
+* **[[[/system:page-tags/tag/scp-173|scp-173]]]** //(the-sculpture)// - SCP-173。
 * **[[[/system:page-tags/tag/the-specter|the-specter]]]** //(the-specter)// - The Specter、もしくはSCP-4944。
 * **[[[/system:page-tags/tag/ティム・ウィルソン|ティム・ウィルソン]]]** //(tim-wilson)// - ウィルソンズ・ワイルドライフ・ソリューションズのティム・ウィルソン。
 * **[[[/system:page-tags/tag/ティロ・ツウィスト|ティロ・ツウィスト]]]** //(thilo-zwist)// - ティロ・ツウィスト。
