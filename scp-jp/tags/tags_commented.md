@@ -1305,7 +1305,6 @@
 * **[[[/system:page-tags/tag/名もなきもの|名もなきもの]]]** //(nameless)// - [[[SCP-4000]]]に登場する”名もなきもの”あるいは”妖精”。
 * **[[[/system:page-tags/tag/監督真司令部|監督真司令部]]]** //(obearwatch)// - [[span class="ruby"]]監督真司令部[[span class="rt"]]かんと**くま**しれいぶ[[/span]][[/span]]
 * **[[[/system:page-tags/tag/オブスクラ|オブスクラ]]]** //(obskura)// - アーネンエルベ・オブスクラ軍団、またはその後継組織であるオブスクラ。
-* **[[[/system:page-tags/tag/パングロス|パングロス]]]** //(pangloss)// - パングロス。
 * **[[[/system:page-tags/tag/pattern-screamer|pattern-screamer]]]** //(pattern-screamer)// - パターン・スクリーマーズ。
 * **[[[/system:page-tags/tag/ペンタグラム|ペンタグラム]]]** //(pentagram)// - ペンタグラム。
 * **[[[/system:page-tags/tag/aw教授|aw教授]]]** //(professor-aw)// - aw教授の発明物。
@@ -1812,6 +1811,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/マーク・桐生|マーク・桐生]]]** //(mark-kiryu)// - 桐生研究所のマーク・桐生。
 * **[[[/system:page-tags/tag/ムーン・チャンピオン|ムーン・チャンピオン]]]** //(moon-champion)// - ムーン・チャンピオン、月のチャンピオンとSCP-1233。
 * **[[[/system:page-tags/tag/ミスター・おさかな|ミスター・おさかな]]]** //(mr-fish)// - ミスター・おさかな、ワンダーテインメント博士のリトル・ミスターにしてSCP-527。
+* **[[[/system:page-tags/tag/パングロス|パングロス]]]** //(pangloss)// - パングロス。
 * **[[[/system:page-tags/tag/ペスト医師|ペスト医師]]]** //(plague-doctor)// - ペスト医師、通称SCP-049。
 * **[[[/system:page-tags/tag/professor-bjornsen|professor-bjornsen]]]** //(professor-bjornsen)// - ビヨンセン/ビョルンセン教授。
 * **[[[/system:page-tags/tag/ライナー・ミラー|ライナー・ミラー]]]** //(rainer-miller)// - ライナー・ミラー、もしくはSCP-4051。
@@ -2299,6 +2299,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/リサイクル2021|リサイクル2021]]]** - [[[recyclecontest21|リサイクルコンテスト2021]]]。
 
+* **[[[/system:page-tags/tag/わかばコンテスト|わかばコンテスト]]]** - [[[wakaba-contest-2022|わかばコンテスト2022]]]。
+
 @@ @@
 
 +++ キャンペーン-JP
@@ -2339,6 +2341,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/お団子21|お団子21]]]** - [[[pile-up-dumplings-2021|十五夜お団子フェスティバル2021]]]。
 
 * **[[[/system:page-tags/tag/お見合い2021|お見合い2021]]]** - [[[matchmaking2021|財団日本支部お見合い計画2021]]]。
+
+* **[[[/system:page-tags/tag/af2022|af2022]]]** - AF-2022-JP。
 
 [[/tab]]
 [[tab KO]]
