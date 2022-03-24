@@ -152,6 +152,7 @@ The following applies to all tags in this category:
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/apollyon apollyon]** -- SCP is Apollyon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/archon archon]** -- SCP is Archon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/neutralized neutralized]** -- SCP is Neutralized.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/pending pending]** -- SCP is pending classification.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/esoteric-class esoteric-class]** -- SCP has an object class other than one of the above.
 
 [[/tab]]
@@ -507,8 +508,6 @@ The following applies to all tags in this category:
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/weapon weapon]** -- SCP is or is intended to be used as a weapon.
  * //Supersedes 'artifact'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/wooden wooden]** -- SCP is composed primarily or significantly of wood or wood-like material. Should not be used to describe living, unmodified plants that happen to be composed of wood.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/xenarthran xenarthran]** -- SCP is or exhibits traits of xenarthran animals, including anteaters, armadillos, and sloths.
- * //Often used with 'animal'//
 
 [[/tab]]
 
@@ -563,7 +562,6 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/obearwatch obearwatch]** -- Of or related to the Obearwatch group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/obskura obskura]** -- Of or related to the Obskura Corps group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/oneiroi oneiroi]** -- Of or related to the Oneiroi Collective group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/pangloss pangloss]** -- Of or related to the Pangloss individual of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/parawatch parawatch]** -- Of or related to the Parawatch Wiki.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/pattern-screamer pattern-screamer]** -- Of or related to pattern screamers.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/pentagram pentagram]** -- Of or related to Pentagram.
@@ -743,6 +741,7 @@ Tags for long tale series, that may or may not have a Hub.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]** -- Of or related to the "Little Misters" series of anomalous individuals.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/olympia olympia]** -- Of or related to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/orientation orientation]** -- Of or related to the Orientation series.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/palisade palisade]** -- Of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/project-crossover project-crossover]** -- Of or related to [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Of or related to [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/team-bird team-bird]** -- Of or related to [https://scp-wiki.wikidot.com/bird Team Bird].
@@ -778,7 +777,7 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bones bones]** -- Bones, aka SCP-2721-LORD or Eli.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/brainy-brian brainy-brian]** -- Brainy Brian of Wondertainment/MC&D, also known as 'Doctor Neurosis'.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cain cain]** -- Cain, or SCP-073.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/chaz-ambrose chaz-ambrose]** -- Chaz Ambrose, founder of Ambrose Restaraunts.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/chaz-ambrose chaz-ambrose]** -- Chaz Ambrose, founder of Ambrose Restaurants.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cousin-johnny cousin-johnny]** -- Cousin Johnny, or SCP-2852.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/d-7294 d-7294]** -- D-7294.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/d-11424 d-11424]** -- D-11424.
@@ -794,6 +793,7 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/director-lague director-lague]** -- Director Paul Lague, of the Integration Program and Site-322.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/django-bridge django-bridge]** -- Django Bridge.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-asheworth doctor-asheworth]** -- Dr. Daniel Asheworth.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-blank doctor-blank]** -- Dr. Harold R. Blank.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-bright doctor-bright]** -- Dr. Bright.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-cimmerian doctor-cimmerian]** -- Dr. Cimmerian.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-clef doctor-clef]** -- Dr. Alto Clef.
@@ -806,7 +806,7 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-gerald doctor-gerald]** -- Dr. Gerald.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-glass doctor-glass]** -- Dr. Simon Glass.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-heiden doctor-heiden]** -- Dr. Frederick Heiden.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-hoygull doctor-hoygull]** -- Doctor Hoygull, Avian Division.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-hoygull doctor-hoygull]** -- Dr. Hoygull, Avian Division.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-iceberg doctor-iceberg]** -- Dr. Iceberg.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-king doctor-king]** -- Dr. King.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-kondraki doctor-kondraki]** -- Dr. Kondraki.
@@ -860,6 +860,7 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/mark-kiryu mark-kiryu]** -- Mark Kiryu of Kiryu Labs.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/moon-champion moon-champion]** -- Moon Champion, AKA Champion of the Moon or SCP-1233.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/mr-fish mr-fish]** -- Mr. Fish, Little Mister from Dr. Wondertainment and SCP-527.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/pangloss pangloss]** -- Of or related to the Pangloss individual of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/plague-doctor plague-doctor]** -- The Plague Doctor, aka SCP-049.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/professor-bjornsen professor-bjornsen]** -- Professor Anders Bjornsen.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/rainer-miller rainer-miller]** -- Rainer Miller, AKA SCP-4051.
@@ -875,7 +876,7 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/robert-bumaro robert-bumaro]** -- Robert Bumaro, a prophet of Mekhane.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/robin-thorne robin-thorne]** -- Robin Thorne.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ruiz-duchamp ruiz-duchamp]** -- Ruiz Duchamp, an anartist.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hewdig, a prophet of Maxwellism.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hedwig, a prophet of Maxwellism.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/scarlet-king scarlet-king]** -- The Scarlet King.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/sheldon-katz sheldon-katz]** -- Sheldon Katz.
@@ -904,7 +905,7 @@ Tags indicating that a tale or SCP article takes place in a specific location th
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/alagadda alagadda]** -- The kingdom of Alagadda.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- The city of Backdoor Soho.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/esterberg esterberg]** -- The Free Port known as Esterberg.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/eurtec eurtec]** -- The metropolis of Euretc.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/eurtec eurtec]** -- The metropolis of Eurtec.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hy-brasil hy-brasil]** -- The island of Hy-Brasil.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- The free port of La Rue Macabre.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/three-portlands three-portlands]** -- The city of Three Portlands.
@@ -1226,6 +1227,10 @@ description = "SCP is Archon."
 [[tags]]
 name = "neutralized"
 description = "SCP is Neutralized."
+
+[[tags]]
+name = "pending"
+description = "SCP is pending classification."
 
 [[tags]]
 name = "esoteric-class"
@@ -2056,10 +2061,6 @@ name = "wooden"
 description = "SCP is composed primarily or significantly of wood or wood-like material."
 
 [[tags]]
-name = "xenarthran"
-description = "SCP is or exhibits traits of xenarthran animals, including anteaters, armadillos, and sloths."
-
-[[tags]]
 name = "abnormalities"
 description = "Of of related to the Department of Abnormalities."
 
@@ -2242,10 +2243,6 @@ description = "Of or related to the Obskura Corps group of interest."
 [[tags]]
 name = "oneiroi"
 description = "Of or related to the Oneiroi Collective group of interest."
-
-[[tags]]
-name = "pangloss"
-description = "Of or related to the Pangloss individual of interest."
 
 [[tags]]
 name = "parawatch"
@@ -2696,6 +2693,10 @@ name = "orientation"
 description = "Of or related to the Orientation series."
 
 [[tags]]
+name = "palisade"
+description = "Of the Project Palisade series."
+
+[[tags]]
 name = "project-crossover"
 description = "Of or related to Project Crossover."
 
@@ -2805,7 +2806,7 @@ description = "Cain, or SCP-073."
 
 [[tags]]
 name = "chaz-ambrose"
-description = "Chaz Ambrose, founder of Ambrose Restaraunts."
+description = "Chaz Ambrose, founder of Ambrose Restaurants."
 
 [[tags]]
 name = "cousin-johnny"
@@ -2868,6 +2869,10 @@ name = "doctor-asheworth"
 description = "Dr. Daniel Asheworth."
 
 [[tags]]
+name = "doctor-blank"
+description = "Dr. Harold R. Blank."
+
+[[tags]]
 name = "doctor-bright"
 description = "Dr. Bright."
 
@@ -2917,7 +2922,7 @@ description = "Dr. Frederick Heiden."
 
 [[tags]]
 name = "doctor-hoygull"
-description = "Doctor Hoygull, Avian Division."
+description = "Dr. Hoygull, Avian Division."
 
 [[tags]]
 name = "doctor-iceberg"
@@ -3132,6 +3137,10 @@ name = "mr-fish"
 description = "Mr. Fish, Little Mister from Dr. Wondertainment and SCP-527."
 
 [[tags]]
+name = "pangloss"
+description = "Of or related to the Pangloss individual of interest."
+
+[[tags]]
 name = "plague-doctor"
 description = "The Plague Doctor, aka SCP-049."
 
@@ -3193,7 +3202,7 @@ description = "Ruiz Duchamp, an anartist."
 
 [[tags]]
 name = "saint-hedwig"
-description = "Saint Hewdig, a prophet of Maxwellism."
+description = "Saint Hedwig, a prophet of Maxwellism."
 
 [[tags]]
 name = "saturn-deer"
@@ -3277,7 +3286,7 @@ description = "The Free Port known as Esterberg."
 
 [[tags]]
 name = "eurtec"
-description = "The metropolis of Euretc."
+description = "The metropolis of Eurtec."
 
 [[tags]]
 name = "hy-brasil"
