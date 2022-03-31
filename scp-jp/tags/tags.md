@@ -2693,6 +2693,8 @@ http://scpfoundation.net/contests
 
 * **[[[/system:page-tags/tag/cn2000|cn2000]]]** //(cn2000)// - [[[scpcn2000contesthub|SCP-CN-2000コンテスト]]]。
 
+* **[[[/system:page-tags/tag/2022デジタルゲームコンテスト|2022デジタルゲームコンテスト]]]** //(2022电子游戏竞赛)// - [[[2022-cn-game-crossover-contest-hub|2022デジタルゲームコンテスト]]]。
+
 [!--
 ★未申請。
 * **[[[/system:page-tags/tag/2015春節コンテスト|2015春節コンテスト]]]** //(2015春节竞赛)// - [[[chinese-new-year-contest-2015|2015年春節“吃”コンテスト]]]。

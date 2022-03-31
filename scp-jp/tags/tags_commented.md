@@ -2400,6 +2400,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/cn2000|cn2000]]]** //(cn2000)// - [[[scpcn2000contesthub|SCP-CN-2000コンテスト]]]。
 
+* **[[[/system:page-tags/tag/2022デジタルゲームコンテスト|2022デジタルゲームコンテスト]]]** //(2022电子游戏竞赛)// - [[[2022-cn-game-crossover-contest-hub|2022デジタルゲームコンテスト]]]。
+
 
 @@ @@
 
