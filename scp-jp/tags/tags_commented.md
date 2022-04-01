@@ -1426,7 +1426,9 @@
 * **[[[/system:page-tags/tag/路地道|路地道]]]** //(골목길)// - [[[the-alleys-hub|路地道]]]。
 * **[[[/system:page-tags/tag/国家超常防災院|国家超常防災院]]]** //(국가초상방재원)// - [[[npes-hub|国家超常防災院]]]。
 * **[[[/system:page-tags/tag/赤斑蛇の手|赤斑蛇の手]]]** //(능구렁이-손)// - [[[dinodon-s-hand|赤斑蛇の手]]]。
+* **[[[/system:page-tags/tag/サムデチョン|サムデチョン]]]** //(삼대천)// - [[[samdaecheonhub|サムデチョン]]]。
 * **[[[/system:page-tags/tag/セレスト|セレスト]]]** //(셀레스트)// - セレスト。
+* **[[[/system:page-tags/tag/真夜中倶楽部|真夜中倶楽部]]]** //(심야클럽)// - [[[midnight-club-hub|真夜中倶楽部]]]。
 * **[[[/system:page-tags/tag/エントロピーを越えて|エントロピーを越えて]]]** //(엔트로피를-넘어서)// - [[[beyond-entropy-hub|エントロピーを越えて]]]。
 * **[[[/system:page-tags/tag/スミレ|スミレ]]]** //(제비꽃)// - スミレ。
 * **[[[/system:page-tags/tag/中情第十局|中情第十局]]]** //(중정-제10국)// - 中央情報部 第十局。
@@ -1676,6 +1678,15 @@ SCP-ENではキャラクターに分類されています。
 
 * **[[[/system:page-tags/tag/プリチャード学院|プリチャード学院]]]** - プリチャード学院。
 
+
+[[/tab]]
+[[tab KO]]
+
++++ 部門-KO
+
+* **[[[/system:page-tags/tag/巫俗部門|巫俗部門]]]** //(무속학부)// - 巫俗部門。
+* **[[[/system:page-tags/tag/存在論部門|存在論部門]]]** //(존재학부)// - [[[department-of-ontology|存在論部門]]]。
+* **[[[/system:page-tags/tag/woi研究課|woi研究課]]]** //(woi연구과)// - WoI研究課。
 
 [[/tab]]
 [[tab ZH]]
