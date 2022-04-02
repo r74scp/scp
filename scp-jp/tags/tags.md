@@ -1030,6 +1030,7 @@
 * **[[[/system:page-tags/tag/二重の故郷|二重の故郷]]]** - [[[double-hometown-hub|二重の故郷]]]。
 * **[[[/system:page-tags/tag/thanatomania|thanatomania]]]** - [[[thanatomania-hub|Thanatomania]]]。
 * **[[[/system:page-tags/tag/大正150年|大正150年]]]** - [[[taisho150-hub|大正150年]]]。
+* **[[[/system:page-tags/tag/まずしいざいだん|まずしいざいだん]]]** - [[[poor-foundation-hub|まずしいざいだん]]]。
 
 [[/tab]][!--JP--]
 [[tab RU]]
