@@ -45,8 +45,8 @@ jobs:
           }
           # try
           (
-            git config user.name "RTa-technology"
-            git config user.email "scpfoundationidcardmaker@gmail.com"
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
             git add .
             git commit -m "tag-listEN更新"
             git pull
