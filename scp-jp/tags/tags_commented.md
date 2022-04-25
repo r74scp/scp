@@ -2099,6 +2099,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 +++ セキュリティ施設-ZH
 
 * **[[[/system:page-tags/tag/サイト-zh-02|サイト-zh-02]]]** //(site-zh-02)// - [[[site-zh-02-front|サイト-ZH-02]]]。
+* **[[[/system:page-tags/tag/サイト-zh-12|サイト-zh-12]]]** //(site-zh-12)// - [[[site-zh-12|サイト-ZH-12]]]。
 * **[[[/system:page-tags/tag/サイト-zh-16|サイト-zh-16]]]** //(site-zh-16)// - [[[site-zh-16|サイト-ZH-16]]]。
 * **[[[/system:page-tags/tag/サイト-zh-25|サイト-zh-25]]]** //(site-zh-25)// - [[[site-zh-25|サイト-ZH-25]]]。
 * **[[[/system:page-tags/tag/サイト-zh-26|サイト-zh-26]]]** //(site-zh-26)// - サイト-ZH-26。
