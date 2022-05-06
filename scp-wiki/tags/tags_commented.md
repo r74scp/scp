@@ -97,7 +97,6 @@ Pages created for internal use.
 
 Miscellaneous major page tags that are not top-level tags.
 
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/international international]** -- Applicable if the tale or SCP article was translated from one of the recognized translation sites. Don't add this tag if the article //was// translated to another language.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should also be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/archived archived]** -- Pages which have been archived due to having been superseded, obsoleted, or inactivity. These pages should also be moved to the {{archived:}} category so they retain the 'archived page' notice and are locked from edits. See [https://scp-wiki.wikidot.com/archived-scps Archived Pages] for more information on archival.
@@ -1035,6 +1034,31 @@ Tags for contests and the articles submitted to them.
 
 [[/tab]]
 
+[[tab Translation]]
+++ Translation
+
+These tags indicate that the article in question has been translated to SCP-EN from one of the official SCP translation sites.
+
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/international international]** -- Applicable if the tale or SCP article was translated from one of the recognized translation sites. Don't add this tag if the article //was// translated to another language.
+
++++ Language Codes
+
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_int _int]** -- Translated from the [http://scp-int.wikidot.com/ International Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_ru _ru]** -- Translated from the [http://scpfoundation.net/ Russian Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_ko _ko]** -- Translated from the [http://scpko.wikidot.com/ Korean Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_cn _cn]** -- Translated from the [http://scp-wiki-cn.wikidot.com/ Chinese Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_fr _fr]** -- Translated from the [http://fondationscp.wikidot.com/ French Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_pl _pl]** -- Translated from the [http://scp-wiki.net.pl/ Polish Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_es _es]** -- Translated from the [http://lafundacionscp.wikidot.com/ Spanish Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_th _th]** -- Translated from the [http://scp-th.wikidot.com/main Thai Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_jp _jp]** -- Translated from the [http://scp-jp.wikidot.com/ Japanese Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_de _de]** -- Translated from the [http://scp-wiki-de.wikidot.com/ German Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_it _it]** -- Translated from the [http://fondazionescp.wikidot.com/ Italian Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_ua _ua]** -- Translated from the [http://scp-ukrainian.wikidot.com/ Ukranian Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_pt _pt]** -- Translated from the [http://scp-pt-br.wikidot.com/ Portuguese Site].
+
+[[/tab]]
+
 [[/tabview]]
 
 [[collapsible show="+ Show Tag Search TOML" hide="- Hide Tag Search TOML"]]
@@ -1127,10 +1151,6 @@ description = "Used for pages created by mods and admins to utilize Wikidot modu
 [[tags]]
 name = "sandbox"
 description = "Used for pages on the site which are sandboxes."
-
-[[tags]]
-name = "international"
-description = "Applicable if the tale or SCP article was translated from one of the recognized translation sites."
 
 [[tags]]
 name = "joke"
@@ -3599,6 +3619,62 @@ description = "An entry to the 2014 Under-Appreciated SCPs Contest."
 [[tags]]
 name = "memecon2021-unofficial"
 description = "An entry to the unofficial 2021 MEMECON."
+
+[[tags]]
+name = "international"
+description = "Applicable if the tale or SCP article was translated from one of the recognized translation sites."
+
+[[tags]]
+name = "_int"
+description = "Translated from the International Site."
+
+[[tags]]
+name = "_ru"
+description = "Translated from the Russian Site."
+
+[[tags]]
+name = "_ko"
+description = "Translated from the Korean Site."
+
+[[tags]]
+name = "_cn"
+description = "Translated from the Chinese Site."
+
+[[tags]]
+name = "_fr"
+description = "Translated from the French Site."
+
+[[tags]]
+name = "_pl"
+description = "Translated from the Polish Site."
+
+[[tags]]
+name = "_es"
+description = "Translated from the Spanish Site."
+
+[[tags]]
+name = "_th"
+description = "Translated from the Thai Site."
+
+[[tags]]
+name = "_jp"
+description = "Translated from the Japanese Site."
+
+[[tags]]
+name = "_de"
+description = "Translated from the German Site."
+
+[[tags]]
+name = "_it"
+description = "Translated from the Italian Site."
+
+[[tags]]
+name = "_ua"
+description = "Translated from the Ukranian Site."
+
+[[tags]]
+name = "_pt"
+description = "Translated from the Portuguese Site."
 
 [[/code]]
 [[/collapsible]]

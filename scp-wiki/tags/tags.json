@@ -4833,5 +4833,109 @@
         "type": "Contests",
         "category": "Events",
         "list": ""
+    },
+    {
+        "id": 790,
+        "tag": "_int",
+        "desc": "Translated from the [http://scp-int.wikidot.com/ International Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 791,
+        "tag": "_ru",
+        "desc": "Translated from the [http://scpfoundation.net/ Russian Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 792,
+        "tag": "_ko",
+        "desc": "Translated from the [http://scpko.wikidot.com/ Korean Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 793,
+        "tag": "_cn",
+        "desc": "Translated from the [http://scp-wiki-cn.wikidot.com/ Chinese Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 794,
+        "tag": "_fr",
+        "desc": "Translated from the [http://fondationscp.wikidot.com/ French Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 795,
+        "tag": "_pl",
+        "desc": "Translated from the [http://scp-wiki.net.pl/ Polish Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 796,
+        "tag": "_es",
+        "desc": "Translated from the [http://lafundacionscp.wikidot.com/ Spanish Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 797,
+        "tag": "_th",
+        "desc": "Translated from the [http://scp-th.wikidot.com/main Thai Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 798,
+        "tag": "_jp",
+        "desc": "Translated from the [http://scp-jp.wikidot.com/ Japanese Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 799,
+        "tag": "_de",
+        "desc": "Translated from the [http://scp-wiki-de.wikidot.com/ German Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 800,
+        "tag": "_it",
+        "desc": "Translated from the [http://fondazionescp.wikidot.com/ Italian Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 801,
+        "tag": "_ua",
+        "desc": "Translated from the [http://scp-ukrainian.wikidot.com/ Ukranian Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 802,
+        "tag": "_pt",
+        "desc": "Translated from the [http://scp-pt-br.wikidot.com/ Portuguese Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
     }
 ]
