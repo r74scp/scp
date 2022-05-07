@@ -656,6 +656,8 @@ The following applies to all tags in this category:
  * //Requires 'reclamation'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_sapphire _sapphire]** -- An article following the SAPPHIRE format.
  * //Requires 'sapphire'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_sarkic _sarkic]** -- An article following the Sarkic format.
+ * //Requires 'sarkic'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_second-hytoth _second-hytoth]** -- An article following the Second Hytoth format.
  * //Requires 'second-hytoth'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_serpents-hand _serpents-hand]** -- An article following the Serpents' Hand format.
@@ -1043,6 +1045,13 @@ These tags indicate that the article in question has been translated to SCP-EN f
 
 +++ Language Codes
 
+[[div class="blockquote"]]
+The following applies to all tags in this section:
+
+* Requires 'international'
+
+[[/div]]
+
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_int _int]** -- Translated from the [http://scp-int.wikidot.com/ International Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_ru _ru]** -- Translated from the [http://scpfoundation.net/ Russian Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_ko _ko]** -- Translated from the [http://scpko.wikidot.com/ Korean Site].
@@ -1054,7 +1063,7 @@ These tags indicate that the article in question has been translated to SCP-EN f
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_jp _jp]** -- Translated from the [http://scp-jp.wikidot.com/ Japanese Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_de _de]** -- Translated from the [http://scp-wiki-de.wikidot.com/ German Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_it _it]** -- Translated from the [http://fondazionescp.wikidot.com/ Italian Site].
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_ua _ua]** -- Translated from the [http://scp-ukrainian.wikidot.com/ Ukranian Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_ua _ua]** -- Translated from the [http://scp-ukrainian.wikidot.com/ Ukrainian Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_pt _pt]** -- Translated from the [http://scp-pt-br.wikidot.com/ Portuguese Site].
 
 [[/tab]]
@@ -2473,6 +2482,10 @@ name = "_sapphire"
 description = "An article following the SAPPHIRE format."
 
 [[tags]]
+name = "_sarkic"
+description = "An article following the Sarkic format."
+
+[[tags]]
 name = "_second-hytoth"
 description = "An article following the Second Hytoth format."
 
@@ -3670,7 +3683,7 @@ description = "Translated from the Italian Site."
 
 [[tags]]
 name = "_ua"
-description = "Translated from the Ukranian Site."
+description = "Translated from the Ukrainian Site."
 
 [[tags]]
 name = "_pt"
