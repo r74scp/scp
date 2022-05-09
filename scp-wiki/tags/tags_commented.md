@@ -1065,6 +1065,7 @@ The following applies to all tags in this section:
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_it _it]** -- Translated from the [http://fondazionescp.wikidot.com/ Italian Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_ua _ua]** -- Translated from the [http://scp-ukrainian.wikidot.com/ Ukrainian Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_pt _pt]** -- Translated from the [http://scp-pt-br.wikidot.com/ Portuguese Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_zh _zh]** -- Translated from the [http://scp-zh-tr.wikidot.com/ Traditional Chinese Site].
 
 [[/tab]]
 
@@ -3688,6 +3689,10 @@ description = "Translated from the Ukrainian Site."
 [[tags]]
 name = "_pt"
 description = "Translated from the Portuguese Site."
+
+[[tags]]
+name = "_zh"
+description = "Translated from the Traditional Chinese Site."
 
 [[/code]]
 [[/collapsible]]

@@ -4944,5 +4944,13 @@
         "type": "Language Codes",
         "category": "Translation",
         "list": ""
+    },
+    {
+        "id": 805,
+        "tag": "_zh",
+        "desc": "Translated from the [http://scp-zh-tr.wikidot.com/ Traditional Chinese Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
     }
 ]
