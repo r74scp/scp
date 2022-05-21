@@ -11,14 +11,9 @@ On 19th May, 2022 Wikidot servers have been hit by hackers.
 All traces lead to Russian Federation.
 </h2>
 <p>
-Because we did not know how the hackers got into our servers nor how much of our infrastructure had been compromised, we had to move very carefuly.
+<b>All the data (files and database) are intact and no data loss has occured.</b>
 </p>
-<p>
-At the time of this writing we have regained access to all our resources and we are gaining ground, but we still need to examine all servers and configuration before re-enabling Wikidot.
-</p>
-<p>
-<b>All the data (files and database) is intact and no data loss has occured.</b>
-</p>
+<p>We are planning to bring Wikidot <b>back on Monday</b>. It takes a bit longer than we first anticipated because we are literally re-installing the whole infrastructure to make sure hackers left no backdoors. At the same time we are updating most of the critical software too!
 <p>
 <b>Thank you for your patience and we humbly ask for some more</b>. It's been a very difficult day for us and it's far from over, so keep your fingers crossed!
 </p>
