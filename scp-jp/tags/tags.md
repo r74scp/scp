@@ -1492,6 +1492,7 @@
 * **[[[/system:page-tags/tag/エントロピーを越えて|エントロピーを越えて]]]** //(엔트로피를-넘어서)// - [[[beyond-entropy-hub|エントロピーを越えて]]]。
 * **[[[/system:page-tags/tag/スミレ|スミレ]]]** //(제비꽃)// - スミレ。
 * **[[[/system:page-tags/tag/中情第十局|中情第十局]]]** //(중정-제10국)// - 中央情報部 第十局。
+* **[[[/system:page-tags/tag/清海鎮|清海鎮]]]** //(청해진)// - [[[chonghaejin|清海鎮]]]。
 * **[[[/system:page-tags/tag/プラグソフト|プラグソフト]]]** //(플러그소프트)// - プラグソフト。
 * **[[[/system:page-tags/tag/樫の木|樫の木]]]** //(떡갈나무)// - [[[note-hub|真昼の樫の木さすらい楽団]]]。
 
@@ -1765,6 +1766,7 @@ SCP-ENでは要注意団体に分類されています。
 * **[[[/system:page-tags/tag/怪奇部門|怪奇部門]]]** //(abnormalities)// - 怪奇部門。
 * **[[[/system:page-tags/tag/解体部門|解体部門]]]** //(decommissioning-dept)// - [[[decom-dept-hub|解体部門]]]。
 * **[[[/system:page-tags/tag/倫理委員会|倫理委員会]]]** //(ethics-committee)// - 倫理委員会。
+* **[[[/system:page-tags/tag/神話・民俗学部門|神話・民俗学部門]]]** //(folklore-dept)// - 神話・民俗学部門。
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - [[[domc-hub|誤伝達部門]]]。
 * **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - 戦術神学部門。
 
