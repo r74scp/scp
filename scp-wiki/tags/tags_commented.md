@@ -743,6 +743,7 @@ Tags for long tale series, that may or may not have a Hub.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ao-tale ao-tale]** -- Of or related to the [https://scp-wiki.wikidot.com/ao-hub Tales of Anomalous Items] stories.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/classical-revival classical-revival]** -- Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/collector-tale collector-tale]** -- Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#toc111 Global Occult Coalition Casefiles] stories.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Of or related to the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]** -- Of or related to the "Little Misters" series of anomalous individuals.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/olympia olympia]** -- Of or related to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
@@ -2737,6 +2738,10 @@ description = "Of or related to the Classical Revival stories."
 [[tags]]
 name = "collector-tale"
 description = "Of or related to the Tales of Mr. Collector."
+
+[[tags]]
+name = "goc-casefiles"
+description = "Of or related to the Global Occult Coalition Casefiles stories."
 
 [[tags]]
 name = "kiryu-labs"
