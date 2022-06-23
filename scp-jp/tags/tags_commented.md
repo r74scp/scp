@@ -1959,6 +1959,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 +++ キャラクター-ES
 
+* **[[[/system:page-tags/tag/アンドレス・モンドラゴン|アンドレス・モンドラゴン]]]** //(andrés-mondragón)// - アンドレス・モンドラゴン研究員。
 * **[[[/system:page-tags/tag/ダンテ|ダンテ]]]** //(dante)// - ダンテ。
 * **[[[/system:page-tags/tag/ルイサ・ヴァンデル|ルイサ・ヴァンデル]]]** //(luisa-vander)// - ルイサ・ヴァンデル。
 * **[[[/system:page-tags/tag/マクシムス|マクシムス]]]** //(maximus)// - マクシムス。
