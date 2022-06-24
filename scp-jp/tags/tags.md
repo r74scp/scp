@@ -2110,8 +2110,9 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [[/tab]]KO--]
 [!--[[tab CN]]
 [[/tab]]CN--]
-[!--[[tab FR]]
-★未申請。
+[[tab FR]]
+* **[[[/system:page-tags/tag/フロッグ博士|フロッグ博士]]]** //(dr-frog)// - 精神科医のフロッグ博士。
+[!--★未申請。
 * **[[[/system:page-tags/tag/agent-dears|agent-dears]]]** //(agent-dears)// - Lylah Dears。
 * **[[[/system:page-tags/tag/agent-koop|agent-koop]]]** //(agent-koop)// - Xavier Herriot。
 * **[[[/system:page-tags/tag/agent-lucy|agent-lucy]]]** //(agent-lucy)// - Tara Lucy。
@@ -2137,8 +2138,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/moi-et-moi-seul|moi-et-moi-seul]]]** //(moi-et-moi-seul)// - Lui et Lui seul。
 * **[[[/system:page-tags/tag/pr-kendrick|pr-kendrick]]]** //(pr-kendrick)// - Kendrick。
 * **[[[/system:page-tags/tag/spé-giacardi|spé-giacardi]]]** //(spé-giacardi)// - Loïc Giacardi。
-* **[[[/system:page-tags/tag/spé-arcaël|spé-arcaël]]]** //(spé-arcaël)// - A. Arcaël。
-[[/tab]]FR--]
+* **[[[/system:page-tags/tag/spé-arcaël|spé-arcaël]]]** //(spé-arcaël)// - A. Arcaël。FR--]
+[[/tab]]
 [!--[[tab PL]]
 [[/tab]]PL--]
 [[tab ES]]
