@@ -1145,6 +1145,7 @@
 [!--* **[[[/system:page-tags/tag/|]]]** //(航海學)// - [[[navigation|]]]。--]
 [!--* **[[[/system:page-tags/tag/|]]]** //(雙城作戰)// - [[[operation-twin-cities-hub|]]]。--]
 * **[[[/system:page-tags/tag/神異博覧会|神異博覧会]]]** //(神異博覽會)// - [[[taiwan-miracle-exposition|神異博覧会1935]]]。
+* **[[[/system:page-tags/tag/転生計画|転生計画]]]** //(轉世計劃)// - 転生計画。
 
 [[/tab]][!--ZH--]
 [!--[[tab Others]]
@@ -2406,6 +2407,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/6000|6000]]]** //(6000)// - [[[scp6000contesthub|SCP-6000コンテスト]]]。
 
+* **[[[/system:page-tags/tag/7000|7000]]]** //(7000)// - [[[scp7000contesthub|SCP-7000コンテスト]]]。
+
 * **[[[/system:page-tags/tag/cliche2019|cliche2019]]]** //(cliche2019)// - [[[cliche-con-2019|クリシェコンテスト2019]]]。
 
 * **[[[/system:page-tags/tag/collab-con2019|collab-con2019]]]** //(collab-con2019)// - [[[collaboration-contest|共著コンテスト2019]]]。
@@ -2707,6 +2710,8 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/2020画廊コンテスト|2020画廊コンテスト]]]** //(2020画廊大赛)// - [[[gallery-writing|2020画廊コンテスト]]]。
 
 * **[[[/system:page-tags/tag/2021新人コンテスト|2021新人コンテスト]]]** //(2021新人竞赛)// - [[[smash-crazy-pigeons|2021年“殴打疯鸽”新人コンテスト]]]。
+
+* **[[[/system:page-tags/tag/2021反復コンテスト|2021反復コンテスト]]]** //(2021迭代竞赛)// - [[[iteration-contest-2021|2021反復原稿募集コンテスト]]]。
 
 * **[[[/system:page-tags/tag/cn2000|cn2000]]]** //(cn2000)// - [[[scpcn2000contesthub|SCP-CN-2000コンテスト]]]。
 
