@@ -1912,6 +1912,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ラグー管理官|ラグー管理官]]]** //(director-lague)// - 統合プログラムならびにサイト-322の管理官、ポール・ラグー。
 * **[[[/system:page-tags/tag/ジャンゴ・ブリッジ博士|ジャンゴ・ブリッジ博士]]]** //(django-bridge)// - ジャンゴ・ブリッジ博士。
 * **[[[/system:page-tags/tag/アシュワース博士|アシュワース博士]]]** //(doctor-asheworth)// - ダニエル・アシュワース博士。
+* **[[[/system:page-tags/tag/ブランク博士|ブランク博士]]]** //(doctor-blank)// - ハロルド・R・ブランク博士。
 * **[[[/system:page-tags/tag/ブライト博士|ブライト博士]]]** //(doctor-bright)// - ブライト博士。
 * **[[[/system:page-tags/tag/シメリアン博士|シメリアン博士]]]** //(doctor-cimmerian)// - シメリアン博士。
 * **[[[/system:page-tags/tag/クレフ博士|クレフ博士]]]** //(doctor-clef)// - クレフ博士。
