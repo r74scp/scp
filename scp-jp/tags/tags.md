@@ -1872,9 +1872,9 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [[tab EN]]
 +++ キャラクター-EN
 
-* **[[[/system:page-tags/tag/8-ボール|8-ボール]]]** //(8-ball)// - 8-ボール、あるいは8B-A1。
+* **[[[/system:page-tags/tag/8-ボール|8-ボール]]]** //(8-ball)// - 8-ボール、別名8B-A1。
 * **[[[/system:page-tags/tag/aaron-siegel|aaron-siegel]]]** //(aaron-siegel)// - アーロン・シーゲル/アーロン・シーガル。
-* **[[[/system:page-tags/tag/アベル|アベル]]]** //(able)// - アベル、もしくはSCP-076。
+* **[[[/system:page-tags/tag/アベル|アベル]]]** //(able)// - アベル、通称SCP-076。
 * **[[[/system:page-tags/tag/エージェント・グリーン|エージェント・グリーン]]]** //(agent-green)// - エージェント・グリーン。
 * **[[[/system:page-tags/tag/エージェント・カズマレク|エージェント・カズマレク]]]** //(agent-kazmarek)// - エージェント・トラヴィス・カズマレク。
 * **[[[/system:page-tags/tag/エージェント・ラフェリエール|エージェント・ラフェリエール]]]** //(agent-laferrier)// - エージェント・ラフェリエール。
@@ -1884,23 +1884,23 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/エージェント・ナヴァッロ|エージェント・ナヴァッロ]]]** //(agent-navarro)// - エージェント・ダニエル・ナヴァッロ。
 * **[[[/system:page-tags/tag/エージェント・ポペスク|エージェント・ポペスク]]]** //(agent-popescu)// - エージェント・ルクレティア・ポペスク。
 * **[[[/system:page-tags/tag/エージェント・ストレルニコフ|エージェント・ストレルニコフ]]]** //(agent-strelnikov)// - エージェント・ストレルニコフ。
-* **[[[/system:page-tags/tag/エージェント・トラウス|エージェント・トラウス]]]** //(agent-trauss)// - エージェント・トラウス、もしくはC-51174。
+* **[[[/system:page-tags/tag/エージェント・トラウス|エージェント・トラウス]]]** //(agent-trauss)// - エージェント・トラウス、別名C-51174。
 * **[[[/system:page-tags/tag/エージェント・ヨリック|エージェント・ヨリック]]]** //(agent-yoric)// - エージェント・ヨリック・エルロイ、またの名をジャック・"ダメなヨリック"・ドーキンス。
 * **[[[/system:page-tags/tag/アルドン|アルドン]]]** //(aldon)// - アルドン。
 * **[[[/system:page-tags/tag/アレクサンドラ|アレクサンドラ]]]** //(alexandra)// - AIユニットのアレクサンドラ。
-* **[[[/system:page-tags/tag/アレクセイ・ベリトロフ|アレクセイ・ベリトロフ]]]** //(alexei-belitrov)// - アレクセイ・ベリトロフ。
-* **[[[/system:page-tags/tag/scp-343|scp-343]]]** //(alleged-god)// - SCP-343、もしくは"神"。
+* **[[[/system:page-tags/tag/アレクセイ・ベリトロフ|アレクセイ・ベリトロフ]]]** //(alexei-belitrov)// - アレクセイ・ベリトロフ、通称SCP-2273。
+* **[[[/system:page-tags/tag/scp-343|scp-343]]]** //(alleged-god)// - SCP-343、通称"神"。
 * **[[[/system:page-tags/tag/ベイリー三兄弟|ベイリー三兄弟]]]** //(bailey-brothers)// - トリスタン・ベイリー、トーマス・ベイリー、およびトレバー・ベイリー。
 * **[[[/system:page-tags/tag/ビッグチーズ・ホレス|ビッグチーズ・ホレス]]]** //(big-cheese-horace)// - 第五主義者のビッグチーズ・ホレス。
-* **[[[/system:page-tags/tag/ピエロのボブル|ピエロのボブル]]]** //(bobble-the-clown)// - ピエロのボブル、もしくはSCP-993。
+* **[[[/system:page-tags/tag/ピエロのボブル|ピエロのボブル]]]** //(bobble-the-clown)// - ピエロのボブル、通称SCP-993。
 * **[[[/system:page-tags/tag/bones|bones]]]** //(bones)// - Bones、またの名をSCP-2721-LORD、もしくはイーライ。
 * **[[[/system:page-tags/tag/ブレイニー・ブライアン|ブレイニー・ブライアン]]]** //(brainy-brian)// - ワンダーテインメント/MC&D社のブレイニー・ブライアン。あるいは"ニューロシス博士"。
-* **[[[/system:page-tags/tag/カイン|カイン]]]** //(cain)// - カイン、もしくはSCP-073。
+* **[[[/system:page-tags/tag/カイン|カイン]]]** //(cain)// - カイン、通称SCP-073。
 * **[[[/system:page-tags/tag/チャズ・アンブローズ|チャズ・アンブローズ]]]** //(chaz-ambrose)// - アンブローズ・レストランの創始者、チャズ・アンブローズ。
-* **[[[/system:page-tags/tag/従兄弟のジョニー|従兄弟のジョニー]]]** //(cousin-johnny)// - 従兄弟のジョニー、もしくはSCP-2852。
+* **[[[/system:page-tags/tag/従兄弟のジョニー|従兄弟のジョニー]]]** //(cousin-johnny)// - 従兄弟のジョニー、通称SCP-2852。
 * **[[[/system:page-tags/tag/d-7294|d-7294]]]** //(d-7294)// - D-7294。
 * **[[[/system:page-tags/tag/d-11424|d-11424]]]** //(d-11424)// - D-11424。
-* **[[[/system:page-tags/tag/dado|dado]]]** //(dado)// - dado これであなた せわする。しんぱい するな。
+* **[[[/system:page-tags/tag/dado|dado]]]** //(dado)// - dado これであなた せわする。しんぱい むよう。
 * **[[[/system:page-tags/tag/d.c.アルフィーネ|d.c.アルフィーネ]]]** //(dc-al-fine)// - 世界オカルト連合事務総長、D.C.al Fine。
 * **[[[/system:page-tags/tag/アクタス管理官|アクタス管理官]]]** //(director-aktus)// - サイト管理官アクタス。
 * **[[[/system:page-tags/tag/ボールド管理官|ボールド管理官]]]** //(director-bold)// - 解体部門のカル・ボールド管理官。
@@ -1948,14 +1948,14 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/エスター・コーガン|エスター・コーガン]]]** //(esther-kogan)// - ゲーマーズ・アゲインスト・ウィードのエスター・コーガン。通称はlesbian_gengar。
 * **[[[/system:page-tags/tag/フェオウィン・ウィルソン|フェオウィン・ウィルソン]]]** //(faeowynn-wilson)// - フェオウィン・"フェイ"・ウィルソン。
 * **[[[/system:page-tags/tag/フィネガン|フィネガン]]]** //(finnegan)// - フィネガン。
-* **[[[/system:page-tags/tag/フレッド|フレッド]]]** //(fred)// - フレッド。
+* **[[[/system:page-tags/tag/フレッド|フレッド]]]** //(fred)// - フレッド、通称SCP-423。
 * **[[[/system:page-tags/tag/バウ将軍|バウ将軍]]]** //(general-bowe)// - バウ将軍。
 * **[[[/system:page-tags/tag/グラソン|グラソン]]]** //(glacon)// - Glacon.aic。
-* **[[[/system:page-tags/tag/グラブノック|グラブノック]]]** //(grabnok)// - SCP-507、もしくはグラブノック・ザ・デストロイヤー。
+* **[[[/system:page-tags/tag/グラブノック|グラブノック]]]** //(grabnok)// - グラブノック・ザ・デストロイヤー、通称SCP-507。
 * **[[[/system:page-tags/tag/崇高なるカルキスト・イオン|崇高なるカルキスト・イオン]]]** //(grand-karcist-ion)// - 崇高なるカルキスト・イオン。
 * **[[[/system:page-tags/tag/ハリーナ・イエヴァ|ハリーナ・イエヴァ]]]** //(halyna-ieva)// - カルキスト・ハリーナ・イエヴァ、またの名を”趾を求む母”。
 * **[[[/system:page-tags/tag/吊られた王|吊られた王]]]** //(hanged-king)// - 吊られた王。
-* **[[[/system:page-tags/tag/不死身の爬虫類|不死身の爬虫類]]]** //(hard-to-kill-reptile)// - SCP-682、"不死身の爬虫類"。
+* **[[[/system:page-tags/tag/不死身の爬虫類|不死身の爬虫類]]]** //(hard-to-kill-reptile)// - "不死身の爬虫類"、通称SCP-682。
 * **[[[/system:page-tags/tag/ヘザー・メイソン|ヘザー・メイソン]]]** //(heather-mason)// - ヘザー・メイソン、またの名を"ミズ・ビデオゲーム狂"あるいは"SCP-3090"。
 * **[[[/system:page-tags/tag/ホリィ・ライト|ホリィ・ライト]]]** //(holly-light)// - ホリィ・ライト。
 * **[[[/system:page-tags/tag/イッキィ|イッキィ]]]** //(icky)// - 魔法のクラウン・ヴェロニカ。
@@ -1970,19 +1970,19 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ケネス・スペンサー|ケネス・スペンサー]]]** //(kenneth-spencer)// - ケネス・スペンサー。
 * **[[[/system:page-tags/tag/kindness|kindness]]]** //(kindness)// - A kind man。
 * **[[[/system:page-tags/tag/レガーテ・トラニオン|レガーテ・トラニオン]]]** //(legate-trunnion)// - 歯車仕掛正教の預言者、[[span class="ruby"]]審問信徒[[span class="rt"]]レガーテ[[/span]][[/span]]・トラニオン。
-* **[[[/system:page-tags/tag/レスリー|レスリー]]]** //(leslie)// - レスリー、SCP-3774。
+* **[[[/system:page-tags/tag/レスリー|レスリー]]]** //(leslie)// - SCP-3774個体のレスリー。
 * **[[[/system:page-tags/tag/ルウィット・ザイリ・ファミリー|ルウィット・ザイリ・ファミリー]]]** //(lewitt-zairi-family)// - ルウィット・ザイリ・ファミリー。
 * **[[[/system:page-tags/tag/ロンバルディ|ロンバルディ]]]** //(lombardi)// - [[[the-lombardi-tales|エージェント・ロンバルディ]]]。
 * **[[[/system:page-tags/tag/マニー|マニー]]]** //(manny)// - ハーマン・フラーの不気味サーカスのマニー。またの名を"逆さまの顔を持つ男"。
 * **[[[/system:page-tags/tag/マリア・ジョーンズ|マリア・ジョーンズ]]]** //(maria-jones)// - RAISAのマリア・ジョーンズ。
 * **[[[/system:page-tags/tag/マリオン・ホイーラー|マリオン・ホイーラー]]]** //(marion-wheeler)// - マリオン・ホイーラー。
 * **[[[/system:page-tags/tag/マーク・桐生|マーク・桐生]]]** //(mark-kiryu)// - 桐生研究所のマーク・桐生。
-* **[[[/system:page-tags/tag/ムーン・チャンピオン|ムーン・チャンピオン]]]** //(moon-champion)// - ムーン・チャンピオン、月のチャンピオンとSCP-1233。
+* **[[[/system:page-tags/tag/ムーン・チャンピオン|ムーン・チャンピオン]]]** //(moon-champion)// - ムーン・チャンピオン、またの名を月のチャンピオンあるいはSCP-1233。
 * **[[[/system:page-tags/tag/ミスター・おさかな|ミスター・おさかな]]]** //(mr-fish)// - ミスター・おさかな、ワンダーテインメント博士のリトル・ミスターにしてSCP-527。
 * **[[[/system:page-tags/tag/パングロス|パングロス]]]** //(pangloss)// - パングロス。
 * **[[[/system:page-tags/tag/ペスト医師|ペスト医師]]]** //(plague-doctor)// - ペスト医師、通称SCP-049。
 * **[[[/system:page-tags/tag/professor-bjornsen|professor-bjornsen]]]** //(professor-bjornsen)// - ビヨンセン/ビョルンセン教授。
-* **[[[/system:page-tags/tag/ライナー・ミラー|ライナー・ミラー]]]** //(rainer-miller)// - ライナー・ミラー、もしくはSCP-4051。
+* **[[[/system:page-tags/tag/ライナー・ミラー|ライナー・ミラー]]]** //(rainer-miller)// - ライナー・ミラー、通称SCP-4051。
 * **[[[/system:page-tags/tag/コーンウェル研究員|コーンウェル研究員]]]** //(researcher-conwell)// - ジェイコブ・コーンウェル研究員。
 * **[[[/system:page-tags/tag/ジェームズ研究員|ジェームズ研究員]]]** //(researcher-james)// - ジェームズ研究助手、史上最高の財団研究員！(5才)。
 * **[[[/system:page-tags/tag/researcher-labelle|researcher-labelle]]]** //(researcher-labelle)// - ラベル研究員/ラブレ研究員。
@@ -1999,14 +1999,14 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/saturn-deer|saturn-deer]]]** //(saturn-deer)// - saturn-deer。
 * **[[[/system:page-tags/tag/scarlet-king|scarlet-king]]]** //(scarlet-king)// - Scarlet King。
 * **[[[/system:page-tags/tag/シェルドン・カッツ|シェルドン・カッツ]]]** //(sheldon-katz)// - シェルドン・カッツ。
-* **[[[/system:page-tags/tag/シガーロス|シガーロス]]]** //(sigurross)// - シガーロス・ステファンズドッティル、もしくはSCP-239。
+* **[[[/system:page-tags/tag/シガーロス|シガーロス]]]** //(sigurross)// - シガーロス・ステファンズドッティル、通称SCP-239。
 * **[[[/system:page-tags/tag/サイモン・ピエトリカウ|サイモン・ピエトリカウ]]]** //(simon-pietrykau)// - サイモン・ピエトリカウ。
 * **[[[/system:page-tags/tag/シャンク博士|シャンク博士]]]** //(thad-xyank)// - シャンク博士。
 * **[[[/system:page-tags/tag/管理者|管理者]]]** //(the-administrator)// - 管理者(O5評議会とは別の存在です)。
 * **[[[/system:page-tags/tag/エンジニア|エンジニア]]]** //(the-engineer)// - カオス・インサージェンシーの"エンジニア"。
-* **[[[/system:page-tags/tag/オールドマン|オールドマン]]]** //(the-old-man)// - オールドマン、もしくはSCP-106。
-* **[[[/system:page-tags/tag/scp-173|scp-173]]]** //(the-sculpture)// - SCP-173。
-* **[[[/system:page-tags/tag/the-specter|the-specter]]]** //(the-specter)// - The Specter、もしくはSCP-4944。
+* **[[[/system:page-tags/tag/オールドマン|オールドマン]]]** //(the-old-man)// - オールドマン、通称SCP-106。
+* **[[[/system:page-tags/tag/scp-173|scp-173]]]** //(the-sculpture)// - 彫刻、通称SCP-173。
+* **[[[/system:page-tags/tag/the-specter|the-specter]]]** //(the-specter)// - The Specter、通称SCP-4944。
 * **[[[/system:page-tags/tag/ティム・ウィルソン|ティム・ウィルソン]]]** //(tim-wilson)// - ウィルソンズ・ワイルドライフ・ソリューションズのティム・ウィルソン。
 * **[[[/system:page-tags/tag/ティロ・ツウィスト|ティロ・ツウィスト]]]** //(thilo-zwist)// - ティロ・ツウィスト。
 * **[[[/system:page-tags/tag/ベロニカ・フィッツロイ|ベロニカ・フィッツロイ]]]** //(veronica-fitzroy)// - 異常芸術家にしてDクラスのベロニカ・キャサリン・フィッツロイ。
@@ -2586,6 +2586,10 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/リサイクル2021|リサイクル2021]]]** - [[[recyclecontest21|リサイクルコンテスト2021]]]。
 
 * **[[[/system:page-tags/tag/わかばコンテスト|わかばコンテスト]]]** - [[[wakaba-contest-2022|わかばコンテスト2022]]]。
+
+* **[[[/system:page-tags/tag/qコン22|qコン22]]]** -  [[[qcontest2022-hub|Qのコンテスト2022]]]。
+
+* **[[[/system:page-tags/tag/3000jp|3000jp]]]** - [[[scp3000jp-contest-hub|SCP-3000-JPコンテスト]]]。
 
 @@ @@
 
