@@ -226,8 +226,6 @@ The following applies to all tags in this category:
  * //Supersedes 'structure'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cadaver cadaver]** -- SCP is, affects, or is related to corpses, carcasses, or any dead organic matter.
  * //Often used with 'reanimation', and 'skeletal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/cactaceous cactaceous]** -- SCP is or exhibits traits of cacti or plants of the family //Cactaceae//.
- * //Often used with 'plant'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/canine canine]** -- SCP is or exhibits traits of canine or dog-like animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/carnivorous carnivorous]** -- SCP is or exhibits traits of carnivorous animals.
@@ -236,8 +234,6 @@ The following applies to all tags in this category:
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cephalopodic cephalopodic]** -- SCP is or exhibits traits of cephalopods or animals including the cuttlefish, octopus, and squid.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cetacean cetacean]** -- SCP is or exhibits traits of cetacean or whale-like animal.
- * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/chelonian chelonian]** -- SCP is or exhibits traits of chelonian or terrapin-, tortoise-, or turtle-like animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/chemical chemical]** -- SCP is an anomalous chemical compound or produces chemical compounds in an anomalous way.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/city city]** -- SCP is a city, town, or other settlement intended for human occupation. Should only be used if a significant portion of the city is considered anomalous.
@@ -293,8 +289,6 @@ The following applies to all tags in this category:
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/fire fire]** -- SCP is composed of fire, is related to fire, or enables the process of combustion.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/food food]** -- SCP is primarily intended to be an edible object or substance.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/formic formic]** -- SCP is or exhibits traits of formic or ant-like animals.
- * //Often used with 'animal', and 'insect'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/foundation-made foundation-made]** -- SCP was created, intentionally or otherwise, by the SCP Foundation itself. Note that only the objects whose creation resulted directly from specific actions of the Foundation are applicable. This excludes phenomena which formed spontaneously at a Foundation site due to the area's routine exposure to a large number of contained anomalies.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/fungus fungus]** -- SCP is or exhibits traits of fungal life-forms.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/furniture furniture]** -- SCP is or resembles a piece of furniture.
@@ -401,8 +395,6 @@ The following applies to all tags in this category:
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ophidian ophidian]** -- SCP is or exhibits traits of ophidian, or snake-like animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/organic organic]** -- SCP exhibits organic traits or composition. See Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for extended clarifications.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ovine ovine]** -- SCP is or exhibits traits of ovine, or sheep-like animals.
- * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/paradox paradox]** -- SCP generates, exhibits, or is involved in paradoxical events or situations.
  * //Compare with 'temporal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/parasitic parasitic]** -- SCP exhibits traits of parasitic or parasitoid organisms.
@@ -508,8 +500,6 @@ The following applies to all tags in this category:
  * //Supersedes 'contagion'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/visual visual]** -- SCP is triggered by, activated by, or affects the sense of sight.
  * //Often used with 'cognitohazard', and 'sensory'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/vulpine vulpine]** -- SCP is or exhibits traits of vulpine or fox-like animals.
- * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/weapon weapon]** -- SCP is or is intended to be used as a weapon.
  * //Supersedes 'artifact'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/wooden wooden]** -- SCP is composed primarily or significantly of wood or wood-like material. Should not be used to describe living, unmodified plants that happen to be composed of wood.
@@ -1393,10 +1383,6 @@ name = "cadaver"
 description = "SCP is, affects, or is related to corpses, carcasses, or any dead organic matter."
 
 [[tags]]
-name = "cactaceous"
-description = "SCP is or exhibits traits of cacti or plants of the family Cactaceae."
-
-[[tags]]
 name = "canine"
 description = "SCP is or exhibits traits of canine or dog-like animals."
 
@@ -1415,10 +1401,6 @@ description = "SCP is or exhibits traits of cephalopods or animals including the
 [[tags]]
 name = "cetacean"
 description = "SCP is or exhibits traits of cetacean or whale-like animal."
-
-[[tags]]
-name = "chelonian"
-description = "SCP is or exhibits traits of chelonian or terrapin-, tortoise-, or turtle-like animals."
 
 [[tags]]
 name = "chemical"
@@ -1555,10 +1537,6 @@ description = "SCP is composed of fire, is related to fire, or enables the proce
 [[tags]]
 name = "food"
 description = "SCP is primarily intended to be an edible object or substance."
-
-[[tags]]
-name = "formic"
-description = "SCP is or exhibits traits of formic or ant-like animals."
 
 [[tags]]
 name = "foundation-made"
@@ -1833,10 +1811,6 @@ name = "organic"
 description = "SCP exhibits organic traits or composition."
 
 [[tags]]
-name = "ovine"
-description = "SCP is or exhibits traits of ovine, or sheep-like animals."
-
-[[tags]]
 name = "paradox"
 description = "SCP generates, exhibits, or is involved in paradoxical events or situations."
 
@@ -2095,10 +2069,6 @@ description = "SCP exhibits traits of viral agents."
 [[tags]]
 name = "visual"
 description = "SCP is triggered by, activated by, or affects the sense of sight."
-
-[[tags]]
-name = "vulpine"
-description = "SCP is or exhibits traits of vulpine or fox-like animals."
 
 [[tags]]
 name = "weapon"
