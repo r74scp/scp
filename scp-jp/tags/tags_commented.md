@@ -1136,13 +1136,16 @@
 [[tab EN]]
 +++ Taleシリーズ-EN
 
+* **[[[/system:page-tags/tag/アナバシス|アナバシス]]]** //(anabasis)// - [[[anabasis-hub|アナバシス]]]。
 * **[[[/system:page-tags/tag/ao-tale|ao-tale]]]** //(ao-tale)// - [[[ao-hub|Anomalousアイテムの物語]]]。
 * **[[[/system:page-tags/tag/classical-revival|classical-revival]]]** //(classical-revival)// - [[[classicalrevivalindex|クラシカル・リバイバル]]]。
 * **[[[/system:page-tags/tag/コレクターtale|コレクターtale]]]** //(collector-tale)// - ミスター・コレクター(参照: //mister//タグ)。
+* **[[[/system:page-tags/tag/goc事件簿|goc事件簿]]]** //(goc-casefiles)// - [[[goc-hub-page#toc11|世界オカルト連合事件簿]]]。
 * **[[[/system:page-tags/tag/kiryu-labs|kiryu-labs]]]** //(kiryu-labs)// - [[[kiryu-labs-hub|桐生研究所]]]。
 * **[[[/system:page-tags/tag/mister|mister]]]** //(mister)// - リトル・ミスターズ。
 * **[[[/system:page-tags/tag/olympia|olympia]]]** //(olympia)// - [[[olympia-project|オリンピア・プロジェクト]]]。
 * **[[[/system:page-tags/tag/orientation|orientation]]]** //(orientation)// - オリエンテーション。
+* **[[[/system:page-tags/tag/防御柵計画|防御柵計画]]]** //(palisade)// - [[[project-palisade|防御柵計画]]]。
 * **[[[/system:page-tags/tag/project-crossover|project-crossover]]]** //(project-crossover)// - [[[crossoverprojectindex|クロスオーバープロジェクト]]]。
 * **[[[/system:page-tags/tag/project-thaumiel|project-thaumiel]]]** //(project-thaumiel)// - [[[thaumiel|プロジェクトThaumiel]]]。
 * **[[[/system:page-tags/tag/team-bird|team-bird]]]** //(team-bird)// - [[[bird|チームバード]]]。
@@ -1654,7 +1657,9 @@ SCP-ENでは要注意団体に分類されています。
 * **[[[/system:page-tags/tag/倫理委員会|倫理委員会]]]** //(ethics-committee)// - 倫理委員会。
 * **[[[/system:page-tags/tag/神話・民俗学部門|神話・民俗学部門]]]** //(folklore-dept)// - [[[department-of-mythology-and-folkloristics-hub|神話・民俗学部門]]]。
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - [[[domc-hub|誤伝達部門]]]。
+* **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 超現実部門。
 * **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - 戦術神学部門。
+* **[[[/system:page-tags/tag/電気通信監視室|電気通信監視室]]]** //(telecom-office)// - [[[telecommunications-monitoring-office-hub|電気通信監視室]]]。
 
 
 @@ @@
@@ -1821,6 +1826,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ミスター・おさかな|ミスター・おさかな]]]** //(mr-fish)// - ミスター・おさかな、ワンダーテインメント博士のリトル・ミスターにしてSCP-527。
 * **[[[/system:page-tags/tag/パングロス|パングロス]]]** //(pangloss)// - パングロス。
 * **[[[/system:page-tags/tag/ペスト医師|ペスト医師]]]** //(plague-doctor)// - ペスト医師、通称SCP-049。
+* **[[[/system:page-tags/tag/取り憑くマスク|取り憑くマスク]]]** //(possessive-mask)// - 取り憑くマスク、通称SCP-035。
 * **[[[/system:page-tags/tag/professor-bjornsen|professor-bjornsen]]]** //(professor-bjornsen)// - ビヨンセン/ビョルンセン教授。
 * **[[[/system:page-tags/tag/ライナー・ミラー|ライナー・ミラー]]]** //(rainer-miller)// - ライナー・ミラー、通称SCP-4051。
 * **[[[/system:page-tags/tag/コーンウェル研究員|コーンウェル研究員]]]** //(researcher-conwell)// - ジェイコブ・コーンウェル研究員。
@@ -1839,6 +1845,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/saturn-deer|saturn-deer]]]** //(saturn-deer)// - saturn-deer。
 * **[[[/system:page-tags/tag/scarlet-king|scarlet-king]]]** //(scarlet-king)// - Scarlet King。
 * **[[[/system:page-tags/tag/シェルドン・カッツ|シェルドン・カッツ]]]** //(sheldon-katz)// - シェルドン・カッツ。
+* **[[[/system:page-tags/tag/シャイガイ|シャイガイ]]]** //(shy-guy)// - シャイガイ、通称SCP-096。
 * **[[[/system:page-tags/tag/シガーロス|シガーロス]]]** //(sigurross)// - シガーロス・ステファンズドッティル、通称SCP-239。
 * **[[[/system:page-tags/tag/サイモン・ピエトリカウ|サイモン・ピエトリカウ]]]** //(simon-pietrykau)// - サイモン・ピエトリカウ。
 * **[[[/system:page-tags/tag/シャンク博士|シャンク博士]]]** //(thad-xyank)// - シャンク博士。
