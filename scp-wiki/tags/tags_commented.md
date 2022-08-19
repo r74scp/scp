@@ -540,6 +540,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/gru-division-p gru-division-p]** -- Of or related to the GRU Division "P" group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/herman-fuller herman-fuller]** -- Of or related to the Herman Fuller's Circus of the Disquieting group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hmfscp hmfscp]** -- Of or related to His/Her Majesty's Foundation For The Study of Curiosities and Phantasmagoria.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/homo-sapiens-sidhe homo-sapiens-sidhe]** -- Of or related to the Fae/Homo sapiens sidhe, as outlined in [https://scp-wiki.wikidot.com/from-120-s-archives-hub From 120's Archives].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/horizon-initiative horizon-initiative]** -- Of or related to the Horizon Initiative group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/icsut icsut]** -- Of or related to the International Center for the Study of Unified Thaumatology.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ijamea ijamea]** -- Of or related to the Imperial Japanese Anomalous Matters Examination Agency.
@@ -554,6 +555,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/obskura obskura]** -- Of or related to the Obskura Corps group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/oneiroi oneiroi]** -- Of or related to the Oneiroi Collective group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/parawatch parawatch]** -- Of or related to the Parawatch Wiki.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Of or related to the Pataphysics Department.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/pattern-screamer pattern-screamer]** -- Of or related to pattern screamers.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/pentagram pentagram]** -- Of or related to Pentagram.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/professor-aw professor-aw]** -- Of or related to the inventions and curiosities of one Professor A. W.
@@ -571,6 +573,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/telecom-office telecom-office]** -- Of or related to the Foundation Telecommunications Monitoring Office.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/three-moons-initiative three-moons-initiative]** -- Of or related to the Three Moons Initiative.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/totleighsoft totleighsoft]** -- Of or related to the anomalous software development corporation TotleighSoft.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/unreality-dept unreality-dept]** -- Of or related to the Unreality Department.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/unusual-cargo unusual-cargo]** -- Of or related to the Commission on Unusual Cargo.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/unusual-incidents-unit unusual-incidents-unit]** -- Of or related to the Federal Bureau of Investigation Unusual Incidents Unit (UIU) group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/vikander-kneed vikander-kneed]** -- Of or related to the Vikander-Kneed Technical Media group of interest.
@@ -700,6 +703,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/lolfoundation lolfoundation]** -- Of or related to the [https://scp-wiki.wikidot.com/lolfoundation-hub-page lolFoundation] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/man-who-wasnt-there man-who-wasnt-there]** -- Of or relating to [https://scp-wiki.wikidot.com/the-man-who-wasnt-there-hub The Man Who Wasn't There] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/memoria-adytum memoria-adytum]** -- Of or related to the [https://scp-wiki.wikidot.com/memoria-adytum In Memoria, Adytum] canon.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/nightfall nightfall]** -- Of or related to the [https://scp-wiki.wikidot.com/nightfall-hub Nightfall] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/no-return no-return]** -- Of or related to the [https://scp-wiki.wikidot.com/no-return-hub No Return] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/old-man-in-the-sea old-man-in-the-sea]** -- Of or related to the [https://scp-wiki.wikidot.com/old-man-in-the-sea-hub Old Man in the Sea] canon.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/on-guard-43 on-guard-43]** -- Of or related to the [https://scp-wiki.wikidot.com/on-guard-43-hub On Guard 43] canon.
@@ -742,6 +746,7 @@ Tags for long tale series, that may or may not have a Hub.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/project-crossover project-crossover]** -- Of or related to [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Of or related to [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/team-bird team-bird]** -- Of or related to [https://scp-wiki.wikidot.com/bird Team Bird].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Of or related to the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
 
 [[/tab]]
 
@@ -859,7 +864,9 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/moon-champion moon-champion]** -- Moon Champion, aka Champion of the Moon or SCP-1233.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/mr-fish mr-fish]** -- Mr. Fish, Little Mister from Dr. Wondertainment and SCP-527.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/pangloss pangloss]** -- Of or related to the Pangloss individual of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/philip-deering philip-deering]** -- Philip E. Deering, formerly SCP-5056-B.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/plague-doctor plague-doctor]** -- The Plague Doctor, aka SCP-049.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/polaricecraps polaricecraps]** -- Polaricecraps.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/possessive-mask possessive-mask]** -- The Possessive Mask, aka SCP-035.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/professor-bjornsen professor-bjornsen]** -- Professor Anders Bjornsen.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/rainer-miller rainer-miller]** -- Rainer Miller, aka SCP-4051.
@@ -883,6 +890,7 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/sigurros sigurros]** -- Sigurrós Stefánsdóttir, aka SCP-239.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/simon-pietrykau simon-pietrykau]** -- Simon Pietrykau.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/tau-5-samsara tau-5-samsara]** -- Mobile Task Force Tau-5 'Samsara'.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ten-dots ten-dots]** -- SCP-2521.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/thad-xyank thad-xyank]** -- Dr. Thaddeus "Thad" Xyank.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-administrator the-administrator]** -- The Administrator (as a separate entity from the O5 Council).
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-engineer the-engineer]** -- The Engineer, of the Chaos Insurgency.
@@ -2210,6 +2218,10 @@ name = "hmfscp"
 description = "Of or related to His/Her Majesty's Foundation For The Study of Curiosities and Phantasmagoria."
 
 [[tags]]
+name = "homo-sapiens-sidhe"
+description = "Of or related to the Fae/Homo sapiens sidhe, as outlined in From 120's Archives"
+
+[[tags]]
 name = "horizon-initiative"
 description = "Of or related to the Horizon Initiative group of interest."
 
@@ -2264,6 +2276,10 @@ description = "Of or related to the Oneiroi Collective group of interest."
 [[tags]]
 name = "parawatch"
 description = "Of or related to the Parawatch Wiki."
+
+[[tags]]
+name = "pataphysics-dept"
+description = "Of or related to the Pataphysics Department."
 
 [[tags]]
 name = "pattern-screamer"
@@ -2332,6 +2348,10 @@ description = "Of or related to the Three Moons Initiative."
 [[tags]]
 name = "totleighsoft"
 description = "Of or related to the anomalous software development corporation TotleighSoft."
+
+[[tags]]
+name = "unreality-dept"
+description = "Of or related to the Unreality Department."
 
 [[tags]]
 name = "unusual-cargo"
@@ -2610,6 +2630,10 @@ name = "memoria-adytum"
 description = "Of or related to the In Memoria, Adytum canon."
 
 [[tags]]
+name = "nightfall"
+description = "Of or related to the Nightfall canon."
+
+[[tags]]
 name = "no-return"
 description = "Of or related to the No Return canon."
 
@@ -2744,6 +2768,10 @@ description = "Of or related to Project Thaumiel."
 [[tags]]
 name = "team-bird"
 description = "Of or related to Team Bird."
+
+[[tags]]
+name = "time-after-time-password"
+description = "Of or related to the Time After Time Password series."
 
 [[tags]]
 name = "8-ball"
@@ -3182,8 +3210,16 @@ name = "pangloss"
 description = "Of or related to the Pangloss individual of interest."
 
 [[tags]]
+name = "philip-deering"
+description = "Philip E. Deering, formerly SCP-5056-B."
+
+[[tags]]
 name = "plague-doctor"
 description = "The Plague Doctor, aka SCP-049."
+
+[[tags]]
+name = "polaricecraps"
+description = "Polaricecraps."
 
 [[tags]]
 name = "possessive-mask"
@@ -3276,6 +3312,10 @@ description = "Simon Pietrykau."
 [[tags]]
 name = "tau-5-samsara"
 description = "Mobile Task Force Tau-5 'Samsara'."
+
+[[tags]]
+name = "ten-dots"
+description = "SCP-2521."
 
 [[tags]]
 name = "thad-xyank"
