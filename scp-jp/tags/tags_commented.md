@@ -1325,8 +1325,11 @@
 
 * **[[[/system:page-tags/tag/解体部門|解体部門]]]** //(decommissioning-dept)// - 「財団下部組織」の項を参照してください。
 * **[[[/system:page-tags/tag/倫理委員会|倫理委員会]]]** //(ethics-committee)// - 「財団下部組織」の項を参照してください。
+* **[[[/system:page-tags/tag/神話・民俗学部門|神話・民俗学部門]]]** //(folklore-dept)// - 「財団下部組織」の項を参照してください。
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - 「財団下部組織」の項を参照してください。
+* **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 「財団下部組織」の項を参照してください。
 * **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - 「財団下部組織」の項を参照してください。
+* **[[[/system:page-tags/tag/電気通信監視室|電気通信監視室]]]** //(telecom-office)// - 「財団下部組織」の項を参照してください。
 
 [[/tab]]
 [[tab JP]]
@@ -1660,6 +1663,7 @@ SCP-ENでは要注意団体に分類されています。
 * **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 超現実部門。
 * **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - 戦術神学部門。
 * **[[[/system:page-tags/tag/電気通信監視室|電気通信監視室]]]** //(telecom-office)// - [[[telecommunications-monitoring-office-hub|電気通信監視室]]]。
+* **[[[/system:page-tags/tag/非現実部門|非現実部門]]]** //(unreality-dept)// - [[[unreality-hub|非現実部門]]]。
 
 
 @@ @@
@@ -2408,6 +2412,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/cn2000|cn2000]]]** //(cn2000)// - [[[scpcn2000contesthub|SCP-CN-2000コンテスト]]]。
 
 * **[[[/system:page-tags/tag/2022デジタルゲームコンテスト|2022デジタルゲームコンテスト]]]** //(2022电子游戏竞赛)// - [[[2022-cn-game-crossover-contest-hub|2022デジタルゲームコンテスト]]]。
+
+* **[[[/system:page-tags/tag/2022冬季コンテスト|2022冬季コンテスト]]]** //(2022冬季征文)// - [[[winter-contest-2022|2022冬季“寻物/失物启事”コンテスト]]]。
 
 
 @@ @@
