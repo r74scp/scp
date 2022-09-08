@@ -981,6 +981,7 @@
 * **[[[/system:page-tags/tag/たのしいざいだん|たのしいざいだん]]]** //(lolfoundation)// - [[[lolfoundation-hub-page|たのしいざいだん]]]。
 * **[[[/system:page-tags/tag/存在しなかった者|存在しなかった者]]]** //(man-who-wasnt-there)// - [[[the-man-who-wasnt-there-hub|存在しなかった者]]]。
 * **[[[/system:page-tags/tag/追憶のアディトゥム|追憶のアディトゥム]]]** //(memoria-adytum)// - [[[memoria-adytum|追憶のアディトゥム]]]。
+* **[[[/system:page-tags/tag/ナイトフォール|ナイトフォール]]]** //(nightfall)// - [[[nightfall-hub|ナイトフォール]]]。
 * **[[[/system:page-tags/tag/ノー・リターン|ノー・リターン]]]** //(no-return)// - [[[no-return-hub|ノー・リターン]]]。
 * **[[[/system:page-tags/tag/老人との海|老人との海]]]** //(old-man-in-the-sea)// - [[[old-man-in-the-sea-hub|老人との海]]]。
 * **[[[/system:page-tags/tag/on-guard-43|on-guard-43]]]** //(on-guard-43)// - [[[on-guard-43-hub|On Guard 43]]]。
@@ -1354,6 +1355,7 @@
 * **[[[/system:page-tags/tag/金帳汗国|金帳汗国]]]** //(golden-horde)// - 金帳汗国。
 * **[[[/system:page-tags/tag/グリーズバーガー|グリーズバーガー]]]** //(greazeburger)// - [[[greazeburger-incorporated-hub|グリーズバーガー]]]。
 * **[[[/system:page-tags/tag/hmfscp|hmfscp]]]** //(hmfscp)// - 超常現象の確保収容に関する王立財団 / 珍品と過ぎ往く幻想の研究の為の王立財団 (HMFSCP)。
+* **[[[/system:page-tags/tag/homo-sapiens-sidhe|homo-sapiens-sidhe]]]** //(homo-sapiens-sidhe)// - [[[from-120-s-archives-hub|120の史料館より]]]準拠の妖精/Homo sapiens sidhe。
 * **[[[/system:page-tags/tag/icsut|icsut]]]** (//icsut//) - 国際統一奇跡論研究センター (ICSUT)。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。要注意領域-ENの項目も参照してください。
 * **[[[/system:page-tags/tag/名もなきもの|名もなきもの]]]** //(nameless)// - [[[SCP-4000]]]に登場する”名もなきもの”あるいは”妖精”。
@@ -1923,6 +1925,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ライツ博士|ライツ博士]]]** //(doctor-rights)// - ライツ博士。
 * **[[[/system:page-tags/tag/リベラ博士|リベラ博士]]]** //(doctor-rivera)// - ジェシー・リベラ博士。
 * **[[[/system:page-tags/tag/ロジェ博士|ロジェ博士]]]** //(doctor-roget)// - ロジェ博士。
+* **[[[/system:page-tags/tag/セレヴン博士|セレヴン博士]]]** //(doctor-thereven)// - コール・セレヴン博士。
 * **[[[/system:page-tags/tag/シンクレア博士|シンクレア博士]]]** //(doctor-sinclair)// - キャサリン・シンクレア博士。
 * **[[[/system:page-tags/tag/ソーツ博士|ソーツ博士]]]** //(doctor-sorts)// - ヨハネス・ソーツ博士。
 * **[[[/system:page-tags/tag/ドクター・スパンコ|ドクター・スパンコ]]]** //(doctor-spanko)// - ドクター・スパンコ。
@@ -1966,7 +1969,9 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ムーン・チャンピオン|ムーン・チャンピオン]]]** //(moon-champion)// - ムーン・チャンピオン、またの名を月のチャンピオンあるいはSCP-1233。
 * **[[[/system:page-tags/tag/ミスター・おさかな|ミスター・おさかな]]]** //(mr-fish)// - ミスター・おさかな、ワンダーテインメント博士のリトル・ミスターにしてSCP-527。
 * **[[[/system:page-tags/tag/パングロス|パングロス]]]** //(pangloss)// - パングロス。
+* **[[[/system:page-tags/tag/フィリップ・ディアリング|フィリップ・ディアリング]]]** //(philip-deering)// - フィリップ・E・ディアリング、元SCP-5056-B。
 * **[[[/system:page-tags/tag/ペスト医師|ペスト医師]]]** //(plague-doctor)// - ペスト医師、通称SCP-049。
+* **[[[/system:page-tags/tag/polaricecraps|polaricecraps]]]** //(polaricecraps)// - Polaricecraps。
 * **[[[/system:page-tags/tag/取り憑くマスク|取り憑くマスク]]]** //(possessive-mask)// - 取り憑くマスク、通称SCP-035。
 * **[[[/system:page-tags/tag/professor-bjornsen|professor-bjornsen]]]** //(professor-bjornsen)// - ビヨンセン/ビョルンセン教授。
 * **[[[/system:page-tags/tag/ライナー・ミラー|ライナー・ミラー]]]** //(rainer-miller)// - ライナー・ミラー、通称SCP-4051。
@@ -2777,6 +2782,8 @@ http://scpfoundation.net/contests
 [[tab ES]]
 
 +++ コンテスト-ES
+
+* **[[[/system:page-tags/tag/halloween-2013|halloween-2013]]]** //(halloween-2013)// - [[[concurso-de-halloween|ハロウィンコンテスト]]]。
 
 * **[[[/system:page-tags/tag/concurso-scp-2016|concurso-scp-2016]]]** //(concurso-scp-2016)// - [[[http://scp-es.com/forum/t-1721909/nuevo-concurso:creacion-de-un-scp-es|新コンテスト: SCP-ES執筆]]]。
 
