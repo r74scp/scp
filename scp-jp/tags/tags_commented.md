@@ -1182,6 +1182,7 @@
 * **[[[/system:page-tags/tag/なぜいい天気だと言ったのか|なぜいい天気だと言ったのか]]]** - [[[why-did-they-say-its-a-beautiful-day-in-the-quiet-world-hub|そしてこの世の終わりが来て、静かなる世界で彼はなぜいい天気だと言ったのか？]]]。
 * **[[[/system:page-tags/tag/poi-1933|poi-1933]]]** - [[[miyazawakenji-hub|PoI-1933]]]。
 * **[[[/system:page-tags/tag/妙麗寺|妙麗寺]]]** - [[[myo-rei-ji|妙麗寺]]]。
+* **[[[/system:page-tags/tag/doden|doden]]]** -  [[[doden|Døden]]]。
 
 +++ 合作連作-JP
 
