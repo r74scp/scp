@@ -82,7 +82,8 @@ These pages are designed to be imported onto other pages.
 Pages created for internal use.
 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/forum forum]** -- //forum// pages are those required for internal functioning of Wikidot's forum system. They should only be created by staff.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/splash splash]** -- //splash// pages are used as 'cover pages' for certain articles. (see: [https://scp-wiki.wikidot.com/SCP-902 SCP-902] >> [https://scp-wiki.wikidot.com/902-warning SCP-902 Warning].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/splash splash]** -- //splash// pages are used as 'cover pages' for certain articles. (see: [https://scp-wiki.wikidot.com/SCP-902 SCP-902] >> [https://scp-wiki.wikidot.com/902-warning SCP-902 Warning].)
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/redirect redirect]** -- //redirect// pages are those which redirect the user to a different page. They should only be created by staff or with explicit staff permission.
 
 +++ Other pages
 
@@ -114,7 +115,6 @@ Miscellaneous major page tags that are not top-level tags.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/contest contest]** -- //contest// pages are pages created for the purpose of community contests. This should be used in conjunction with //hub// in the case of entry listings, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
  * //Requires 'hub'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/required required]** -- //required// pages are guides that are part of the required reading for joining the SCP Wiki.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/redirect redirect]** -- //redirect// pages are those which redirect the user to a different page. They should only be created by staff or with explicit staff permission, excepting [https://scp-wiki.wikidot.com/adult-page-guide adult pages].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_tale-hub _tale-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a series that consists mostly or entirely of //tale// articles.
  * //Requires 'hub'//
 
@@ -136,7 +136,7 @@ Tags that describe the content of a //supplement// page.
 [[tab Object Classes]]
 ++ Object Classes
 
-All SCP articles tagged as scp should also be tagged with the appropriate tag for their object class or esoteric-class if it does not have one, if its object class cannot be determined from the article's contents, or if it has a non-standard object class. Legacy articles that are dual-classed (such as safe/euclid) are tagged with both of their constituent classes; however, as this is no longer allowed, it is only for posterity until all such articles are updated or deleted.
+All SCP articles tagged as scp should also be tagged with the appropriate tag for their object class or esoteric-class if it does not have one, if its object class cannot be determined from the article's contents, or if it has a non-standard object class. Legacy articles that are dual-classed (such as safe/euclid) are tagged with both of their constituent classes; however, as this is no longer allowed, it is only for posterity until all such articles are updated or deleted. The only exception is that articles can be tagged as both neutralized and as the object class they were prior to being neutralized.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
@@ -177,8 +177,9 @@ The following applies to all tags in this category:
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/adaptive adaptive]** -- SCP adapts to stimuli in an anomalous manner.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/addictive addictive]** -- SCP causes desire or addictive behavior in affected subjects.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/airborne airborne]** -- SCP lives in, moves through, or spreads through the air.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/alive alive]** -- SCP is alive, meaning it exhibits the biological traits of metabolism, reaction, and reproduction. See the Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for more information.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/alive alive]** -- SCP is alive, meaning it exhibits the traits of metabolism, reaction, and reproduction. See the Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for more information.
  * //Conflicts with 'autonomous'//
+ * //Supersedes 'biological'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/amorphous amorphous]** -- SCP lacks a set form or shape, constantly changes shape, or has a poorly-defined shape e.g. a blob.
  * //Conflicts with 'metamorphic'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/animal animal]** -- SCP is or exhibits traits of animal life.
@@ -214,7 +215,8 @@ The following applies to all tags in this category:
  * //Avoid using with 'contagion'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bibliothetic bibliothetic]** -- SCP is, or is otherwise related to or affects libraries, defined as a room or building containing books for people to read or borrow.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/biohazard biohazard]** -- SCP poses a hazard to humans or the environment as a result of biological function, or is a biological hazard.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/biological biological]** -- SCP exhibits biological traits. Please see the [https://05command.wikidot.com/tech-hub-tag FAQ] for more details.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/biological biological]** -- SCP consists of biological molecules, tissues or organs. Please see the [https://05command.wikidot.com/tech-hub-tag FAQ] for more details.
+ * //Superseded by 'alive'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bovine bovine]** -- SCP is or exhibits traits of bovine or cattle-like animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/building building]** -- SCP is, is a part of, or otherwise is related to or affects a building, defined as a structure intended for human occupation.
@@ -260,7 +262,7 @@ The following applies to all tags in this category:
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/dental dental]** -- SCP is or deals with teeth or the practice of dentistry.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/dinosaurian dinosaurian]** -- SCP is or relates to a non-avian dinosaur.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/document document]** -- SCP is a textual document of some sort. Includes books.
- * //Supersedes 'inscribed'//
+ * //Supersedes 'inscription'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ectoentropic ectoentropic]** -- SCP violates the first and/or second law of [https://en.wikipedia.org/wiki/Thermodynamics thermodynamics] by generating matter and/or energy in a fashion that directly violates entropy. Applies to anything that produces energy or matter in an unexplained way.
  * //Avoid using with 'extradimensional', and 'physics'//
  * //Superseded by 'ontokinetic'//
@@ -270,8 +272,6 @@ The following applies to all tags in this category:
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/electronic electronic]** -- SCP is or resembles an electronic device.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/empathic empathic]** -- SCP is capable of reading or conveying emotion, feelings, or sensations.
  * //Often used with 'telepathic'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/engraved engraved]** -- SCP is or has carvings and/or engravings.
- * //Supersedes 'inscribed'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/entropic entropic]** -- SCP is, exhibits traits of, or is related to entropy or entropic decay.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/equine equine]** -- SCP is or exhibits traits of equine or horse-like animals.
  * //Often used with 'animal'//
@@ -311,9 +311,8 @@ The following applies to all tags in this category:
  * //Often used with 'animal'//
  * //Conflicts with 'arachnid'//
  * //Supersedes 'invertebrate'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/inscribed inscribed]** -- SCP has inscriptions on it, usually in the form of words or numbers.
- * //Superseded by 'document', and 'engraved'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/inscription inscription]** -- SCP is an inscription, meaning it takes the form of written or carved words or numbers.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/inscription inscription]** -- SCP features carvings, engravings or inscriptions of words, numbers or other designs.
+ * //Superseded by 'document'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/instrument instrument]** -- SCP is an instrument or a tool intended for either delicate, scientific, or measuring work.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/intangible intangible]** -- SCP is intangible in a manner that precludes definition as a gas.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/invertebrate invertebrate]** -- SCP exhibits traits of invertebrates or animals lacking spinal columns.
@@ -389,7 +388,6 @@ The following applies to all tags in this category:
  * //Supersedes 'ectoentropic'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ophidian ophidian]** -- SCP is or exhibits traits of ophidian, or snake-like animals.
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/organic organic]** -- SCP exhibits organic traits or composition. See Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for extended clarifications.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/paradox paradox]** -- SCP generates, exhibits, or is involved in paradoxical events or situations.
  * //Compare with 'temporal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/parasitic parasitic]** -- SCP exhibits traits of parasitic or parasitoid organisms.
@@ -1158,6 +1156,10 @@ name = "splash"
 description = "Used for 'cover pages' for certain articles."
 
 [[tags]]
+name = "redirect"
+description = "Used for pages which redirect the user to a different page."
+
+[[tags]]
 name = "admin"
 description = "Used for pages which have official significance."
 
@@ -1216,10 +1218,6 @@ description = "Used for pages which are created for community contests."
 [[tags]]
 name = "required"
 description = "Used for pages which are part of the required reading for joining the SCP Wiki."
-
-[[tags]]
-name = "redirect"
-description = "Used for pages which redirect the user to a different page."
 
 [[tags]]
 name = "_tale-hub"
@@ -1371,7 +1369,7 @@ description = "SCP poses a hazard to humans or the environment as a result of bi
 
 [[tags]]
 name = "biological"
-description = "SCP exhibits biological traits."
+description = "SCP consists of biological molecules, tissues or organs, but is not alive."
 
 [[tags]]
 name = "bovine"
@@ -1502,10 +1500,6 @@ name = "empathic"
 description = "SCP is capable of reading or conveying emotion, feelings, or sensations."
 
 [[tags]]
-name = "engraved"
-description = "SCP is or has carvings and/or engravings."
-
-[[tags]]
 name = "entropic"
 description = "SCP is, exhibits traits of, or is related to entropy or entropic decay."
 
@@ -1622,12 +1616,8 @@ name = "insect"
 description = "SCP is or is related to insects. This does not includes spiders."
 
 [[tags]]
-name = "inscribed"
-description = "SCP has inscriptions on it, usually in the form of words or numbers."
-
-[[tags]]
 name = "inscription"
-description = "SCP is an inscription, meaning it takes the form of written or carved words or numbers."
+description = "SCP features carvings, engravings or inscriptions of words, numbers or other designs."
 
 [[tags]]
 name = "instrument"
@@ -1808,10 +1798,6 @@ description = "SCP is capable of manipulating reality (aka 'reality-bending') th
 [[tags]]
 name = "ophidian"
 description = "SCP is or exhibits traits of ophidian, or snake-like animals."
-
-[[tags]]
-name = "organic"
-description = "SCP exhibits organic traits or composition."
 
 [[tags]]
 name = "paradox"
