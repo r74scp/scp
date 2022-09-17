@@ -1386,9 +1386,11 @@
 * **[[[/system:page-tags/tag/倫理委員会|倫理委員会]]]** //(ethics-committee)// - 「財団下部組織」の項を参照してください。
 * **[[[/system:page-tags/tag/神話・民俗学部門|神話・民俗学部門]]]** //(folklore-dept)// - 「財団下部組織」の項を参照してください。
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - 「財団下部組織」の項を参照してください。
+* **[[[/system:page-tags/tag/空想科学部門|空想科学部門]]]** //(pataphysics-dept)// - 「財団下部組織」の項を参照してください。
 * **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 「財団下部組織」の項を参照してください。
 * **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - 「財団下部組織」の項を参照してください。
 * **[[[/system:page-tags/tag/電気通信監視室|電気通信監視室]]]** //(telecom-office)// - 「財団下部組織」の項を参照してください。
+* **[[[/system:page-tags/tag/非現実部門|非現実部門]]]** //(unreality-dept)// - 「財団下部組織」の項を参照してください。
 
 [[/tab]][!--EN--]
 [[tab JP]]
@@ -1761,6 +1763,7 @@ SCP-ENでは要注意団体に分類されています。
 * **[[[/system:page-tags/tag/倫理委員会|倫理委員会]]]** //(ethics-committee)// - 倫理委員会。
 * **[[[/system:page-tags/tag/神話・民俗学部門|神話・民俗学部門]]]** //(folklore-dept)// - [[[department-of-mythology-and-folkloristics-hub|神話・民俗学部門]]]。
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - [[[domc-hub|誤伝達部門]]]。
+* **[[[/system:page-tags/tag/空想科学部門|空想科学部門]]]** //(pataphysics-dept)// - 空想科学部門。
 * **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 超現実部門。
 * **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - 戦術神学部門。
 * **[[[/system:page-tags/tag/電気通信監視室|電気通信監視室]]]** //(telecom-office)// - [[[telecommunications-monitoring-office-hub|電気通信監視室]]]。
@@ -1995,6 +1998,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/シャイガイ|シャイガイ]]]** //(shy-guy)// - シャイガイ、通称SCP-096。
 * **[[[/system:page-tags/tag/シガーロス|シガーロス]]]** //(sigurross)// - シガーロス・ステファンズドッティル、通称SCP-239。
 * **[[[/system:page-tags/tag/サイモン・ピエトリカウ|サイモン・ピエトリカウ]]]** //(simon-pietrykau)// - サイモン・ピエトリカウ。
+* **[[[/system:page-tags/tag/scp-2521|scp-2521]]]** //(ten-dots)// - SCP-2521。
 * **[[[/system:page-tags/tag/シャンク博士|シャンク博士]]]** //(thad-xyank)// - シャンク博士。
 * **[[[/system:page-tags/tag/管理者|管理者]]]** //(the-administrator)// - 管理者(O5評議会とは別の存在です)。
 * **[[[/system:page-tags/tag/エンジニア|エンジニア]]]** //(the-engineer)// - カオス・インサージェンシーの"エンジニア"。
