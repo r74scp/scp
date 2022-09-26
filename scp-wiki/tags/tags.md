@@ -221,11 +221,13 @@ Tags that apply to animals, or to entities that resemble animals.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/animal animal]** -- SCP is or exhibits traits of animal life.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/apian apian]** -- SCP is or exhibits traits of apian or bee-like animals.
  * //Often used with 'animal', and 'insect'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/arachnid arachnid]** -- SCP is or exhibits traits of arachnid or spider-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/arachnid arachnid]** -- SCP is or exhibits traits of arachnid or spider-like animals, including scorpions, mites and ticks.
  * //Often used with 'animal'//
  * //Conflicts with 'insect'//
+ * //Supersedes 'invertebrate', and 'arthropod'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/arthropod arthropod]** -- SCP is or exhibits traits of arthropods or animals with exoskeletons, segmented bodies, and jointed appendages.
  * //Supersedes 'invertebrate'//
+ * //Superseded by 'arachnid', and 'insect'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/avian avian]** -- SCP is or exhibits traits of avian or bird-like animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bovine bovine]** -- SCP is or exhibits traits of bovine or cattle-like animals.
@@ -236,6 +238,7 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cephalopodic cephalopodic]** -- SCP is or exhibits traits of cephalopods or animals including the cuttlefish, octopus, and squid.
  * //Often used with 'animal'//
+ * //Supersedes 'invertebrate'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cetacean cetacean]** -- SCP is or exhibits traits of cetacean or whale-like animal.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/dinosaurian dinosaurian]** -- SCP is or relates to a non-avian dinosaur.
@@ -243,12 +246,12 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/feline feline]** -- SCP is or is related to feline or cat-like animals.
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/insect insect]** -- SCP is or is related to insects. (This **does not** includes spiders, which should be tagged as //arachnid//).
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/insect insect]** -- SCP is or is related to insects, which are six-legged arthropods. (This **does not** includes spiders, which should be tagged as //arachnid//. This also does not include centipedes or millipedes).
  * //Often used with 'animal'//
  * //Conflicts with 'arachnid'//
- * //Supersedes 'invertebrate'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/invertebrate invertebrate]** -- SCP exhibits traits of invertebrates or animals lacking spinal columns.
- * //Superseded by 'arthropod', and 'insect'//
+ * //Supersedes 'invertebrate', and 'arthropod'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/invertebrate invertebrate]** -- SCP exhibits traits of invertebrates, animals lacking spinal columns.
+ * //Superseded by 'arachnid', 'arthropod', 'cephalopodic', 'insect', and 'vermian'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/lepidopteran lepidopteran]** -- SCP is or exhibits traits of lepidopteran or butterfly-, moth-, or skipper-like animals.
  * //Often used with 'animal', and 'insect'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/leporine leporine]** -- SCP is or exhibits traits of leporine or rabbit- or hare-like animals.
@@ -274,6 +277,7 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/vermian vermian]** -- SCP is or exhibits traits of vermian, or worm-like animals.
  * //Often used with 'animal'//
+ * //Supersedes 'invertebrate'//
 
 +++ Biological
 
@@ -432,7 +436,7 @@ Tags that typically apply to objects created by humans, including **artifacts** 
  * //Supersedes 'artifact'//
  * //Superseded by 'computer'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/artistic artistic]** -- SCP is a work of art, exhibits artistic properties, or has artistic significance.
- * //Superseded by 'musical', 'sculpture', and 'statue'//
+ * //Superseded by 'musical', 'performance', 'sculpture', and 'statue'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/artifact artifact]** -- SCP is or was originally created by humans.
  * //Superseded by 'appliance', 'clothing', 'computer', 'container', 'jewelry', 'media', 'timepiece', 'tool', 'toy', 'weapon', and 'vehicle'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/clockwork clockwork]** -- SCP operates primarily via clockworks, defined as mechanical devices constructed primarily using toothed wheels and/or powered by a mainspring.
@@ -468,6 +472,7 @@ Tags that typically apply to objects created by humans, including **artifacts** 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/online online]** -- SCP is available on, utilizes, or is dependent on a connection to the internet.
  * //Often used with 'computer', and 'electronic'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/performance performance]** -- SCP is or is used in a performance art, such as a dance or play.
+ * //Supersedes 'artistic'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/photographic photographic]** -- SCP is or deals with photography or features a photograph as part of the primary anomaly.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/recording recording]** -- SCP is or contains an audio and/or visual recording.
  * //Often used with 'media'//
@@ -507,7 +512,6 @@ Tags that describe where the SCP is, where it comes from, or that apply to SCPs 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/geological geological]** -- SCP is or affects natural geological formations (such as caves, cliffs, mountains, valleys, or volcanoes) or significant geological events (such as earthquakes, landslides, or sinkholes).
  * //Superseded by 'planet'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/moon moon]** -- SCP is, is related to, or affects a natural satellite or moon, which may or may not be our moon.
- * //Often used with 'satellite'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/planet planet]** -- SCP is, resembles, or affects a planet, which may or may not be our planet.
  * //Supersedes 'geological'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/satellite satellite]** -- SCP is a natural or artificial satellite orbiting a celestial body.
@@ -1117,6 +1121,7 @@ The following applies to all tags in this section:
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_ua _ua]** -- Translated from the [http://scp-ukrainian.wikidot.com/ Ukrainian Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_pt _pt]** -- Translated from the [http://scp-pt-br.wikidot.com/ Portuguese Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_zh _zh]** -- Translated from the [http://scp-zh-tr.wikidot.com/ Traditional Chinese Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_el _el]** -- Translated from the [http://scp-el.wikidot.com/ Greek Site].
 
 [[/tab]]
 
@@ -1407,7 +1412,7 @@ description = "SCP is or exhibits traits of apian or bee-like animals."
 
 [[tags]]
 name = "arachnid"
-description = "SCP is or exhibits traits of arachnid or spider-like animals."
+description = "SCP is or exhibits traits of arachnid or spider-like animals, including scorpions, mites and ticks."
 
 [[tags]]
 name = "arthropod"
@@ -1451,11 +1456,11 @@ description = "SCP is or is related to feline or cat-like animals."
 
 [[tags]]
 name = "insect"
-description = "SCP is or is related to insects. This does not includes spiders."
+description = "SCP is or is related to insects. This does not includes spiders, centipedes or millipedes."
 
 [[tags]]
 name = "invertebrate"
-description = "SCP exhibits traits of invertebrates or animals lacking spinal columns."
+description = "SCP exhibits traits of invertebrates, animals lacking spinal columns."
 
 [[tags]]
 name = "lepidopteran"
@@ -3780,6 +3785,10 @@ description = "Translated from the Portuguese Site."
 [[tags]]
 name = "_zh"
 description = "Translated from the Traditional Chinese Site."
+
+[[tags]]
+name = "_el"
+description = "Translated from the Greek Site."
 
 [[/code]]
 [[/collapsible]]

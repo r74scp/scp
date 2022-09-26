@@ -464,11 +464,12 @@
     {
         "id": 77,
         "tag": "arachnid",
-        "desc": "SCP is or exhibits traits of arachnid or spider-like animals.",
+        "desc": "SCP is or exhibits traits of arachnid or spider-like animals, including scorpions, mites and ticks.",
         "type": "Animal",
         "category": "SCP Attributes",
         "list": [
-            "//Often used with 'animal'//"
+            "//Often used with 'animal'//",
+            "//Conflicts with 'insect'//"
         ]
     },
     {
@@ -477,7 +478,9 @@
         "desc": "SCP is or exhibits traits of arthropods or animals with exoskeletons, segmented bodies, and jointed appendages.",
         "type": "Animal",
         "category": "SCP Attributes",
-        "list": []
+        "list": [
+            "//Supersedes 'invertebrate'//"
+        ]
     },
     {
         "id": 79,
@@ -517,7 +520,9 @@
         "desc": "SCP is or exhibits traits of cephalopods or animals including the cuttlefish, octopus, and squid.",
         "type": "Animal",
         "category": "SCP Attributes",
-        "list": []
+        "list": [
+            "//Often used with 'animal'//"
+        ]
     },
     {
         "id": 84,
@@ -546,7 +551,7 @@
     {
         "id": 87,
         "tag": "insect",
-        "desc": "SCP is or is related to insects. (This **does not** includes spiders, which should be tagged as //arachnid//).",
+        "desc": "SCP is or is related to insects, which are six-legged arthropods. (This **does not** includes spiders, which should be tagged as //arachnid//. This also does not include centipedes or millipedes).",
         "type": "Animal",
         "category": "SCP Attributes",
         "list": [
@@ -557,7 +562,7 @@
     {
         "id": 88,
         "tag": "invertebrate",
-        "desc": "SCP exhibits traits of invertebrates or animals lacking spinal columns.",
+        "desc": "SCP exhibits traits of invertebrates, animals lacking spinal columns.",
         "type": "Animal",
         "category": "SCP Attributes",
         "list": []
@@ -658,7 +663,9 @@
         "desc": "SCP is or exhibits traits of vermian, or worm-like animals.",
         "type": "Animal",
         "category": "SCP Attributes",
-        "list": []
+        "list": [
+            "//Often used with 'animal'//"
+        ]
     },
     {
         "id": 101,
@@ -1516,6 +1523,14 @@
     },
     {
         "id": 268,
+        "tag": "performance",
+        "desc": "SCP is or is used in a performance art, such as a dance or play.",
+        "type": "Object",
+        "category": "SCP Attributes",
+        "list": []
+    },
+    {
+        "id": 269,
         "tag": "recording",
         "desc": "SCP is or contains an audio and/or visual recording.",
         "type": "Object",
@@ -1523,7 +1538,7 @@
         "list": []
     },
     {
-        "id": 269,
+        "id": 270,
         "tag": "sculpture",
         "desc": "SCP is a three-dimensional piece of artwork. To be considered a //sculpture//, the object in question must have been formed, carved, or molded.",
         "type": "Object",
@@ -1533,7 +1548,7 @@
         ]
     },
     {
-        "id": 270,
+        "id": 271,
         "tag": "statue",
         "desc": "SCP is or was a statue. A statue is defined as a free-standing, full-body //sculpture// of a person or animal.",
         "type": "Object",
@@ -1541,7 +1556,7 @@
         "list": []
     },
     {
-        "id": 271,
+        "id": 272,
         "tag": "timepiece",
         "desc": "SCP is, or a major component of, an instrument or mechanism designed to measure time.",
         "type": "Object",
@@ -1551,7 +1566,7 @@
         ]
     },
     {
-        "id": 272,
+        "id": 273,
         "tag": "tool",
         "desc": "SCP is (or was intended to be) used as a tool.",
         "type": "Object",
@@ -1559,7 +1574,7 @@
         "list": []
     },
     {
-        "id": 273,
+        "id": 274,
         "tag": "toy",
         "desc": "SCP is, or was primarily intended to be, used as a toy.",
         "type": "Object",
@@ -1567,7 +1582,7 @@
         "list": []
     },
     {
-        "id": 274,
+        "id": 275,
         "tag": "weapon",
         "desc": "SCP is or is intended to be used as a weapon.",
         "type": "Object",
@@ -1575,7 +1590,7 @@
         "list": []
     },
     {
-        "id": 275,
+        "id": 276,
         "tag": "vehicle",
         "desc": "SCP is or is intended to be used as a vehicle.",
         "type": "Object",
@@ -1583,7 +1598,7 @@
         "list": []
     },
     {
-        "id": 283,
+        "id": 284,
         "tag": "currency",
         "desc": "SCP is, is related to, affects, or is activated by money or other objects primarily intended to be used as a medium of exchange.",
         "type": "Object",
@@ -1591,7 +1606,7 @@
         "list": ""
     },
     {
-        "id": 285,
+        "id": 286,
         "tag": "electronic",
         "desc": "SCP is or resembles an electronic device.",
         "type": "Object",
@@ -1599,7 +1614,7 @@
         "list": ""
     },
     {
-        "id": 286,
+        "id": 287,
         "tag": "food",
         "desc": "SCP is primarily intended to be an edible object or substance.",
         "type": "Object",
@@ -1607,7 +1622,7 @@
         "list": ""
     },
     {
-        "id": 287,
+        "id": 288,
         "tag": "furniture",
         "desc": "SCP is or resembles a piece of furniture.",
         "type": "Object",
@@ -1615,7 +1630,7 @@
         "list": ""
     },
     {
-        "id": 289,
+        "id": 290,
         "tag": "instrument",
         "desc": "SCP is an instrument or a tool intended for either delicate, scientific, or measuring work.",
         "type": "Object",
@@ -1623,7 +1638,7 @@
         "list": ""
     },
     {
-        "id": 291,
+        "id": 292,
         "tag": "key",
         "desc": "SCP is a standard key or otherwise intended to unlock one or more devices or containers.",
         "type": "Object",
@@ -1631,7 +1646,7 @@
         "list": ""
     },
     {
-        "id": 292,
+        "id": 293,
         "tag": "map",
         "desc": "SCP is a map, has a map, or otherwise exhibits visual representations in the manner of a map.",
         "type": "Object",
@@ -1639,15 +1654,7 @@
         "list": ""
     },
     {
-        "id": 297,
-        "tag": "performance",
-        "desc": "SCP is or is used in a performance art, such as a dance or play.",
-        "type": "Object",
-        "category": "SCP Attributes",
-        "list": ""
-    },
-    {
-        "id": 298,
+        "id": 299,
         "tag": "photographic",
         "desc": "SCP is or deals with photography or features a photograph as part of the primary anomaly.",
         "type": "Object",
@@ -1655,7 +1662,7 @@
         "list": ""
     },
     {
-        "id": 307,
+        "id": 308,
         "tag": "building",
         "desc": "SCP is, is a part of, or otherwise is related to or affects a building, defined as a structure intended for human occupation.",
         "type": "Location",
@@ -1663,7 +1670,7 @@
         "list": []
     },
     {
-        "id": 308,
+        "id": 309,
         "tag": "city",
         "desc": "SCP is a city, town, or other settlement intended for human occupation. Should only be used if a significant portion of the city is considered anomalous.",
         "type": "Location",
@@ -1671,7 +1678,7 @@
         "list": []
     },
     {
-        "id": 309,
+        "id": 310,
         "tag": "extradimensional",
         "desc": "SCP is of extradimensional origin, moves or propagates extradimensionally, and/or enables extradimensional travel.",
         "type": "Location",
@@ -1679,7 +1686,7 @@
         "list": []
     },
     {
-        "id": 310,
+        "id": 311,
         "tag": "location",
         "desc": "SCP is a unique geographical location.",
         "type": "Location",
@@ -1687,17 +1694,9 @@
         "list": []
     },
     {
-        "id": 311,
+        "id": 312,
         "tag": "geological",
         "desc": "SCP is or affects natural geological formations (such as caves, cliffs, mountains, valleys, or volcanoes) or significant geological events (such as earthquakes, landslides, or sinkholes).",
-        "type": "Location",
-        "category": "SCP Attributes",
-        "list": []
-    },
-    {
-        "id": 312,
-        "tag": "moon",
-        "desc": "SCP is, is related to, or affects a natural satellite or moon, which may or may not be our moon.",
         "type": "Location",
         "category": "SCP Attributes",
         "list": []
@@ -1746,6 +1745,14 @@
         "id": 321,
         "tag": "extraterrestrial",
         "desc": "SCP originates or is found in outer space and/or enables or exhibits extraterrestrial travel.",
+        "type": "Location",
+        "category": "SCP Attributes",
+        "list": ""
+    },
+    {
+        "id": 324,
+        "tag": "moon",
+        "desc": "SCP is, is related to, or affects a natural satellite or moon, which may or may not be our moon.",
         "type": "Location",
         "category": "SCP Attributes",
         "list": ""
@@ -5143,6 +5150,14 @@
         "id": 810,
         "tag": "_zh",
         "desc": "Translated from the [http://scp-zh-tr.wikidot.com/ Traditional Chinese Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 811,
+        "tag": "_el",
+        "desc": "Translated from the [http://scp-el.wikidot.com/ Greek Site].",
         "type": "Language Codes",
         "category": "Translation",
         "list": ""
