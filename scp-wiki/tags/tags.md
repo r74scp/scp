@@ -214,64 +214,62 @@ Tags that apply to creatures that are **alive**, or to **autonomous** or non-liv
 
 Tags that apply to animals, or to entities that resemble animals.
 
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/animal animal]** -- SCP is or exhibits traits of animal life.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/apian apian]** -- SCP is or exhibits traits of apian or bee-like animals.
- * //Often used with 'animal', and 'insect'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/arachnid arachnid]** -- SCP is or exhibits traits of arachnid or spider-like animals, including scorpions, mites and ticks.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/animal animal]** -- SCP is or affects animal life.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/amphibian amphibian]** -- SCP is, affects or resembles amphibians, including frogs and toads.
+ * //Often used with 'animal'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/arachnid arachnid]** -- SCP is, affects or resembles spider-like animals, including scorpions, mites and ticks.
  * //Often used with 'animal'//
  * //Conflicts with 'insect'//
  * //Supersedes 'invertebrate', and 'arthropod'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/arthropod arthropod]** -- SCP is or exhibits traits of arthropods or animals with exoskeletons, segmented bodies, and jointed appendages.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/arthropod arthropod]** -- SCP is, affects or resembles arthropods, animals with exoskeletons, segmented bodies, and jointed appendages.
  * //Supersedes 'invertebrate'//
  * //Superseded by 'arachnid', and 'insect'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/avian avian]** -- SCP is or exhibits traits of avian or bird-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/bear bear]** -- SCP is, affects or resembles bears (ursine).
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/bovine bovine]** -- SCP is or exhibits traits of bovine or cattle-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/bee bee]** -- SCP is, affects or resembles bees (apian).
+ * //Often used with 'animal', and 'insect'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/bird bird]** -- SCP is, affects or resembles birds (avian).
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/canine canine]** -- SCP is or exhibits traits of canine or dog-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/bovine bovine]** -- SCP is, affects or resembles cattle-like animals, including buffalo and bison.
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/cervine cervine]** -- SCP is or exhibits traits of cervine or deer-like animals. Also includes elk and moose.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/butterfly butterfly]** -- SCP is, affects or resembles lepidopteran insects, including butterflies, moths, and skippers.
+ * //Often used with 'animal', and 'insect'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/canine canine]** -- SCP is, affects or resembles dog-like animals, including wolves and jackals.
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/cephalopodic cephalopodic]** -- SCP is or exhibits traits of cephalopods or animals including the cuttlefish, octopus, and squid.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/cephalopod cephalopod]** -- SCP is, affects or resembles cephalopods, including the cuttlefish, octopus, and squid.
  * //Often used with 'animal'//
  * //Supersedes 'invertebrate'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/cetacean cetacean]** -- SCP is or exhibits traits of cetacean or whale-like animal.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/cetacean cetacean]** -- SCP is, affects or resembles whales, dolphins or porpoises.
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/dinosaurian dinosaurian]** -- SCP is or relates to a non-avian dinosaur.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/equine equine]** -- SCP is or exhibits traits of equine or horse-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/deer deer]** -- SCP is, affects or resembles deer, including elk and moose (cervine).
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/feline feline]** -- SCP is or is related to feline or cat-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/dinosaur dinosaur]** -- SCP is, affects or resembles non-avian dinosaurs. Includes pterosaurs and extinct marine reptiles.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/equine equine]** -- SCP is, affects or resembles horse-like animals, including zebra and donkeys.
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/insect insect]** -- SCP is or is related to insects, which are six-legged arthropods. (This **does not** includes spiders, which should be tagged as //arachnid//. This also does not include centipedes or millipedes).
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/feline feline]** -- SCP is, affects or resembles cat-like animals, including big cats like lions and tigers.
+ * //Often used with 'animal'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/fish fish]** -- SCP is, affects or resembles fish (piscine).
+ * //Often used with 'animal'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/insect insect]** -- SCP is, affects or resembles insects, which are six-legged arthropods. (This **does not** includes spiders, which should be tagged as //arachnid//. This also does not include centipedes or millipedes).
  * //Often used with 'animal'//
  * //Conflicts with 'arachnid'//
  * //Supersedes 'invertebrate', and 'arthropod'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/invertebrate invertebrate]** -- SCP exhibits traits of invertebrates, animals lacking spinal columns.
- * //Superseded by 'arachnid', 'arthropod', 'cephalopodic', 'insect', and 'vermian'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/lepidopteran lepidopteran]** -- SCP is or exhibits traits of lepidopteran or butterfly-, moth-, or skipper-like animals.
- * //Often used with 'animal', and 'insect'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/leporine leporine]** -- SCP is or exhibits traits of leporine or rabbit- or hare-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/invertebrate invertebrate]** -- SCP is, affects or resembles invertebrates, animals lacking spinal columns.
+ * //Superseded by 'arachnid', 'arthropod', 'cephalopod', 'insect', and 'worm'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/primate primate]** -- SCP is, affects or resembles apes or monkeys (simian).
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/murine murine]** -- SCP is or exhibits traits of murine, or mouse-like or rat-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/rabbit rabbit]** -- SCP is, affects or resembles rabbits or hares (leporine).
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ophidian ophidian]** -- SCP is or exhibits traits of ophidian, or snake-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/reptile reptile]** -- SCP is, affects or resembles reptiles.
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/piscine piscine]** -- SCP is or exhibits traits of piscine or fish-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/rodent rodent]** -- SCP is, affects or resembles rodents, including mice, rats, squirrels and beavers.
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ranine ranine]** -- SCP is or exhibits traits of ranine or frog-like animals.
- * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/reptilian reptilian]** -- SCP is or exhibits traits of reptilian or reptile-like animals.
- * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/sciurine sciurine]** -- SCP is or exhibits traits of sciurine or squirrel-like animals.
- * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/selachian selachian]** -- SCP is or exhibits traits of selacian or shark-like animals. Also includes rays and skates.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/shark shark]** -- SCP is, affects or resembles sharks, including rays and skates (selachian).
  * //Requires 'piscine'//
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/simian simian]** -- SCP is or exhibits traits of simian, or ape-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/snake snake]** -- SCP is, affects or resembles snakes (ophidian).
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ursine ursine]** -- SCP is or exhibits traits of ursine, or bear-like animals.
- * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/vermian vermian]** -- SCP is or exhibits traits of vermian, or worm-like animals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/worm worm]** -- SCP is, affects or resembles worms (vermian).
  * //Often used with 'animal'//
  * //Supersedes 'invertebrate'//
 
@@ -1369,111 +1367,107 @@ description = "SCP exhibits traits of viral agents."
 
 [[tags]]
 name = "animal"
-description = "SCP is or exhibits traits of animal life."
+description = "SCP is or affects animal life."
 
 [[tags]]
-name = "apian"
-description = "SCP is or exhibits traits of apian or bee-like animals."
+name = "amphibian"
+description = "SCP is, affects or resembles amphibians, including frogs and toads."
 
 [[tags]]
 name = "arachnid"
-description = "SCP is or exhibits traits of arachnid or spider-like animals, including scorpions, mites and ticks."
+description = "SCP is, affects or resembles spider-like animals, including scorpions, mites and ticks."
 
 [[tags]]
 name = "arthropod"
-description = "SCP is or exhibits traits of arthropods or animals with exoskeletons, segmented bodies, and jointed appendages."
+description = "SCP is, affects or resembles arthropods. Not applied to insects or arachnids."
 
 [[tags]]
-name = "avian"
-description = "SCP is or exhibits traits of avian or bird-like animals."
+name = "bear"
+description = "SCP is, affects or resembles bears (ursine)."
+
+[[tags]]
+name = "bee"
+description = "SCP is, affects or resembles bees (apian)."
+
+[[tags]]
+name = "bird"
+description = "SCP is, affects or resembles birds (avian)."
 
 [[tags]]
 name = "bovine"
-description = "SCP is or exhibits traits of bovine or cattle-like animals."
+description = "SCP is, affects or resembles cattle-like animals, including buffalo and bison."
+
+[[tags]]
+name = "butterfly"
+description = "SCP is, affects or resembles lepidopteran insects, including butterflies, moths, and skippers."
 
 [[tags]]
 name = "canine"
-description = "SCP is or exhibits traits of canine or dog-like animals."
+description = "SCP is, affects or resembles dog-like animals, including wolves and jackals."
 
 [[tags]]
-name = "cervine"
-description = "SCP is or exhibits traits of cervine or deer-like animals. Also includes elk and moose."
-
-[[tags]]
-name = "cephalopodic"
-description = "SCP is or exhibits traits of cephalopods or animals including the cuttlefish, octopus, and squid."
+name = "cephalopod"
+description = "SCP is, affects or resembles cephalopods, including the cuttlefish, octopus, and squid."
 
 [[tags]]
 name = "cetacean"
-description = "SCP is or exhibits traits of cetacean or whale-like animal."
+description = "SCP is, affects or resembles whales, dolphins or porpoises."
 
 [[tags]]
-name = "dinosaurian"
-description = "SCP is or relates to a non-avian dinosaur."
+name = "deer"
+description = "SCP is, affects or resembles deer, including elk and moose (cervine)."
+
+[[tags]]
+name = "dinosaur"
+description = "SCP is, affects or resembles non-avian dinosaurs. Includes pterosaurs and extinct marine reptiles."
 
 [[tags]]
 name = "equine"
-description = "SCP is or exhibits traits of equine or horse-like animals."
+description = "SCP is, affects or resembles horse-like animals, including zebra and donkeys."
 
 [[tags]]
 name = "feline"
-description = "SCP is or is related to feline or cat-like animals."
+description = "SCP is, affects or resembles cat-like animals, including big cats like lions and tigers."
+
+[[tags]]
+name = "fish"
+description = "SCP is, affects or resembles fish (piscine)."
 
 [[tags]]
 name = "insect"
-description = "SCP is or is related to insects. This does not includes spiders, centipedes or millipedes."
+description = "SCP is, affects or resembles insects. This does not include spiders, centipedes or millipedes."
 
 [[tags]]
 name = "invertebrate"
-description = "SCP exhibits traits of invertebrates, animals lacking spinal columns."
+description = "SCP is, affects or resembles invertebrates. Not applied to arthropods and cephalopods."
 
 [[tags]]
-name = "lepidopteran"
-description = "SCP is or exhibits traits of lepidopteran or butterfly-, moth-, or skipper-like animals."
+name = "primate"
+description = "SCP is, affects or resembles apes or monkeys (simian)."
 
 [[tags]]
-name = "leporine"
-description = "SCP is or exhibits traits of leporine or rabbit- or hare-like animals."
+name = "rabbit"
+description = "SCP is, affects or resembles rabbits or hares (leporine)."
 
 [[tags]]
-name = "murine"
-description = "SCP is or exhibits traits of murine, or mouse-like or rat-like animals."
+name = "reptile"
+description = "SCP is, affects or resembles reptiles."
 
 [[tags]]
-name = "ophidian"
-description = "SCP is or exhibits traits of ophidian, or snake-like animals."
+name = "rodent"
+description = "SCP is, affects or resembles rodents, including mice, rats, squirrels and beavers."
 
 [[tags]]
-name = "piscine"
-description = "SCP is or exhibits traits of piscine or fish-like animals."
+name = "shark"
+description = "SCP is, affects or resembles sharks, including rays and skates (selachian)."
 
 [[tags]]
-name = "ranine"
-description = "SCP is or exhibits traits of ranine or frog-like animals."
+name = "snake"
+description = "SCP is, affects or resembles snakes (ophidian)."
 
 [[tags]]
-name = "reptilian"
-description = "SCP is or exhibits traits of reptilian or reptile-like animals."
-
-[[tags]]
-name = "sciurine"
-description = "SCP is or exhibits traits of sciurine or squirrel-like animals."
-
-[[tags]]
-name = "selachian"
-description = "SCP is or exhibits traits of selacian or shark-like animals. Also includes rays and skates."
-
-[[tags]]
-name = "simian"
-description = "SCP is or exhibits traits of simian, or ape-like animals."
-
-[[tags]]
-name = "ursine"
-description = "SCP is or exhibits traits of ursine, or bear-like animals."
-
-[[tags]]
-name = "vermian"
-description = "SCP is or exhibits traits of vermian, or worm-like animals."
+name = "worm"
+description = "SCP is, affects or resembles worms (vermian)."
 
 [[tags]]
 name = "biological"
