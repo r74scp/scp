@@ -1006,6 +1006,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/4000 4000]** -- An entry to the [https://scp-wiki.wikidot.com/scp4000contesthub SCP-4000 Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/5000 5000]** -- An entry to the [https://scp-wiki.wikidot.com/scp5000contesthub SCP-5000 Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/6000 6000]** -- An entry to the [https://scp-wiki.wikidot.com/scp6000contesthub SCP-6000 Contest].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/7000 7000]** -- An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-7000 Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/af2016 af2016]** -- An entry to the [https://scp-wiki.wikidot.com/an-incredibly-important-announcement Crack Fiction Contest] 2016 April Fool's prank.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/art2017 art2017]** -- An entry to the [https://scp-wiki.wikidot.com/social-media-art-contest 2017 Art Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/canon2020 canon2020]** -- An entry to the [https://scp-wiki.wikidot.com/canon-renaissance-contest 2020 Canon Renaissance Contest].
@@ -1022,6 +1023,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/goi2014 goi2014]** -- An entry to the [https://scp-wiki.wikidot.com/goi-contest-2014 2014 Groups of Interest Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/goi2019 goi2019]** -- An entry to the [http://scp-int.wikidot.com/international-goi-contest-2019 International Groups of Interest Contest 2019].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/halloween2018 halloween2018]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-contest-2018 2018 Halloween Contest].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/halloweencon2022 halloweencon2022]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-con-2022 2022 Halloweencon].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hc2012 hc2012]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-contest 2012 Halloween Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hiscon2017 hiscon2017]** -- An entry to the [https://scp-wiki.wikidot.com/history-contest 2017 History Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/jam-con2018 jam-con2018]** -- An entry to the [https://scp-wiki.wikidot.com/72-hour-jam-contest 2018 72 Hour Jam Contest].
@@ -3458,6 +3460,10 @@ name = "6000"
 description = "An entry to the SCP-6000 Contest."
 
 [[tags]]
+name = "7000"
+description = "An entry to the SCP-7000 Contest."
+
+[[tags]]
 name = "af2016"
 description = "An entry to the Crack Fiction Contest 2016 April Fool's prank."
 
@@ -3520,6 +3526,10 @@ description = "An entry to the International Groups of Interest Contest 2019."
 [[tags]]
 name = "halloween2018"
 description = "An entry to the 2018 Halloween Contest."
+
+[[tags]]
+name = "halloweencon2022"
+description = "An entry to the 2022 Halloweencon."
 
 [[tags]]
 name = "hc2012"
