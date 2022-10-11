@@ -219,7 +219,7 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/arachnid arachnid]** -- SCP is, affects or resembles spider-like animals, including scorpions, mites and ticks.
  * //Often used with 'animal'//
- * //Conflicts with 'insect'//
+ * //Conflicts with 'crustacean', and 'insect'//
  * //Supersedes 'invertebrate', and 'arthropod'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/arthropod arthropod]** -- SCP is, affects or resembles arthropods, animals with exoskeletons, segmented bodies, and jointed appendages.
  * //Supersedes 'invertebrate'//
@@ -241,6 +241,9 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Supersedes 'invertebrate'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cetacean cetacean]** -- SCP is, affects or resembles whales, dolphins or porpoises.
  * //Often used with 'animal'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/crustacean crustacean]** --  SCP is, affects or is related to crustaceans, the family of arthropods that includes crabs, lobsters, shrimp, isopods and barnacles.
+ * //Often used with 'animal'//
+ * //Conflicts with 'arachnid', and 'insect'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/deer deer]** -- SCP is, affects or resembles deer, including elk and moose (cervine).
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/dinosaur dinosaur]** -- SCP is, affects or resembles non-avian dinosaurs. Includes pterosaurs and extinct marine reptiles.
@@ -250,9 +253,9 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/fish fish]** -- SCP is, affects or resembles fish (piscine).
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/insect insect]** -- SCP is, affects or resembles insects, which are six-legged arthropods. (This **does not** includes spiders, which should be tagged as //arachnid//. This also does not include centipedes or millipedes).
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/insect insect]** -- SCP is, affects or resembles insects, which are six-legged arthropods. (This **does not** includes spiders, which should be tagged as //arachnid//, or woodlice, which should be tagged as //crustacean//. This also does not include centipedes or millipedes).
  * //Often used with 'animal'//
- * //Conflicts with 'arachnid'//
+ * //Conflicts with 'arachnid', and 'crustacean'//
  * //Supersedes 'invertebrate', and 'arthropod'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/invertebrate invertebrate]** -- SCP is, affects or resembles invertebrates, animals lacking spinal columns.
  * //Superseded by 'arachnid', 'arthropod', 'cephalopod', 'insect', and 'worm'//
@@ -520,85 +523,98 @@ Any tags that do not fit into the other sections.
 
 [[/tab]]
 
-[[tab Groups of Interest]]
-++ Groups of Interest
+[[tab Groups]]
+++ Groups
+
+The following tags are for specific Departments or Groups of Interest.
+
++++ Departments
+
+These tags are used to designate pages that prominently feature a Foundation Department or Mobile Task Force.
+
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/abnormalities abnormalities]** -- Of of related to the Department of Abnormalities.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of of related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation Ethics Committee.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Of or related to the [department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/miscommunications miscommunications]** -- Of or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Of or related to the Pataphysics Department.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Of or related to the Foundation Department of Procurement and Liquidation.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Of or related to the Foundation Department of Surrealistics.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/tactical-theology tactical-theology]** -- Of or related to the Department of Tactical Theology.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/telecom-office telecom-office]** -- Of or related to the Foundation [https://scp-wiki.wikidot.com/telecommunications-monitoring-office-hub Telecommunications Monitoring Office].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/unreality-dept unreality-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/unreality-hub Unreality Department].
+
++++ Groups of Interest
 
 These tags are used to designate pages that prominently feature a Group of Interest.
 
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/abnormalities abnormalities]** -- Of of related to the Department of Abnormalities.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/accelerate-the-future accelerate-the-future]** -- Of or related to Accelerate the Future.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/alexylva alexylva]** -- Of or related to the Alexylva University group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ambrose-restaurant ambrose-restaurant]** -- Of or related to the Ambrose Restaurant.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/anderson anderson]** -- Of or related to the Anderson Robotics group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/arcadia arcadia]** -- Of or related to the ##purple|Arcadia## organization.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/are-we-cool-yet are-we-cool-yet]** -- Of or related to the Are We Cool Yet? (AWCY) group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/alexylva alexylva]** -- Of or related to the [https://scp-wiki.wikidot.com/alexylva-university-hub Alexylva University] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ambrose-restaurant ambrose-restaurant]** -- Of or related to the [https://scp-wiki.wikidot.com/ambrose-restaurant-hub Ambrose Restaurant] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/anderson anderson]** -- Of or related to the [https://scp-wiki.wikidot.com/anderson-robotics-hub Anderson Robotics] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/arcadia arcadia]** -- Of or related to the ##purple|[https://scp-wiki.wikidot.com/arcadia-hub Arcadia]## group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/are-we-cool-yet are-we-cool-yet]** -- Of or related to the [https://scp-wiki.wikidot.com/are-we-cool-yet-hub Are We Cool Yet?] (AWCY) group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/asci asci]** -- Of or related to the American Secure Containment Initiative.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/avelar avelar]** -- Of or related to Avelar Professional Products.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/black-queen black-queen]** -- Of or related to the Black Queen group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/blackwood blackwood]** -- Of or related to The Adventures of Lord Blackwood, Explorer and Gentleman.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/avelar avelar]** -- Of or related to the Avelar Professional Products group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/black-queen black-queen]** -- Of or related to the [https://scp-wiki.wikidot.com/black-queen-hub Black Queen] person or group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/blackwood blackwood]** -- Of or related to [https://scp-wiki.wikidot.com/new The Adventures of Lord Blackwood, Explorer and Gentleman], aka SCP-1867.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/british-occult-service british-occult-service]** -- Of or related to the British Occult Service (MI666) group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/broken-god broken-god]** -- Of or related to Mekhane, or the Church of the Broken God (CotBG) group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/brothers-of-death brothers-of-death]** -- Of or related to the Brothers of Death canon or characers.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/chaos-insurgency chaos-insurgency]** -- Of or related to the Chaos Insurgency (CI) group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/chicago-spirit chicago-spirit]** -- Of or related to the Chicago Spirit group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/broken-god broken-god]** -- Of or related to Mekhane, or the [https://scp-wiki.wikidot.com/church-of-the-broken-god-hub Church of the Broken God] (CotBG) group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/brothers-of-death brothers-of-death]** -- Of or related to the Brothers of Death canon or characters.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/chaos-insurgency chaos-insurgency]** -- Of or related to the [https://scp-wiki.wikidot.com/chaos-insurgency-hub Chaos Insurgency] (CI) group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/chicago-spirit chicago-spirit]** -- Of or related to the [https://scp-wiki.wikidot.com/chicago-spirit Chicago Spirit] group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/children-of-the-night children-of-the-night]** -- Of or related to the Children of the Night, outlined in [https://scp-wiki.wikidot.com/scp-1000 SCP-1000].
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/children-of-the-torch children-of-the-torch]** -- SCP is of or related to the Children of the Torch group of Interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/children-of-the-torch children-of-the-torch]** -- SCP is of or related to the Children of the Torch group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/class-of-76 class-of-76]** -- Of or related to the [https://scp-wiki.wikidot.com/remembrance Class of '76] SCPs and stories.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/daevite daevite]** -- Of or related to the Daevites.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the Decommissioning Department.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/deer-college deer-college]** -- Of or related to the Deer College group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/dr-wondertainment dr-wondertainment]** -- Of or related to the Dr. Wondertainment individual or group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation Ethics Committee.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/factory factory]** -- Of or related to The Factory group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/fifthist fifthist]** -- Of or related to The Fifthist Church group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Of or related to the Foundation Department of Mythology and Folkloristics.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/gamers-against-weed gamers-against-weed]** -- Of or related to The Gamers Against Weed group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/global-occult-coalition global-occult-coalition]** -- Of or related to the Global Occult Coalition (GOC) group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/daevite daevite]** -- Of or related to [https://scp-wiki.wikidot.com/daevite-hub the Daevites].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/deer-college deer-college]** -- Of or related to the [https://scp-wiki.wikidot.com/deer-college-hub Deer College] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/dr-wondertainment dr-wondertainment]** -- Of or related to the [https://scp-wiki.wikidot.com/dr-wondertainment-hub Dr. Wondertainment] person or group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/factory factory]** -- Of or related to [https://scp-wiki.wikidot.com/factory-hub The Factory] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/fifthist fifthist]** -- Of or related to [https://scp-wiki.wikidot.com/fifthist-hub The Fifth Church] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/gamers-against-weed gamers-against-weed]** -- Of or related to the [https://scp-wiki.wikidot.com/gamers-against-weed-hub Gamers Against Weed] (GAW) group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/global-occult-coalition global-occult-coalition]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page Global Occult Coalition (GOC)] group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/golden-horde golden-horde]** -- Of or related to the Golden Horde group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/greazeburger greazeburger]** -- Of or related to the Greazeburger group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/gru-division-p gru-division-p]** -- Of or related to the GRU Division "P" group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/herman-fuller herman-fuller]** -- Of or related to the Herman Fuller's Circus of the Disquieting group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/greazeburger greazeburger]** -- Of or related to the [https://scp-wiki.wikidot.com/greazeburger-incorporated-hub Greazeburger Incorporated] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/gru-division-p gru-division-p]** -- Of or related to the [https://scp-wiki.wikidot.com/gru-p-hub GRU Division P] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/herman-fuller herman-fuller]** -- Of or related to the [https://scp-wiki.wikidot.com/herman-fuller-hub Herman Fuller's Circus of the Disquieting] group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hmfscp hmfscp]** -- Of or related to His/Her Majesty's Foundation For The Study of Curiosities and Phantasmagoria.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/homo-sapiens-sidhe homo-sapiens-sidhe]** -- Of or related to the Fae/Homo sapiens sidhe, as outlined in [https://scp-wiki.wikidot.com/from-120-s-archives-hub From 120's Archives].
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/horizon-initiative horizon-initiative]** -- Of or related to the Horizon Initiative group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/icsut icsut]** -- Of or related to the International Center for the Study of Unified Thaumatology.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ijamea ijamea]** -- Of or related to the Imperial Japanese Anomalous Matters Examination Agency.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/madao madao]** -- Of or related to the Italian GoI Medicean Academy of Occult Art (Medicea Accademia Dell'Arte Occulta).
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/mages-academy mages-academy]** -- Of or related to the Mages Academy group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/manna-charitable-foundation manna-charitable-foundation]** -- Of or related to the Manna Charitable Foundation group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/marshall-carter-and-dark marshall-carter-and-dark]** -- Of or related to the Marshall, Carter, and Dark Ltd. (MC&D) group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/miscommunications miscommunications]** -- Of or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/horizon-initiative horizon-initiative]** -- Of or related to [https://scp-wiki.wikidot.com/horizon-initiative-hub The Horizon Initiative] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/icsut icsut]** -- Of or related to the International Center for the Study of Unified Thaumatology, member of the GOC's Council of 108.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ijamea ijamea]** -- Of or related to the [https://scp-wiki.wikidot.com/ijamea-hub Imperial Japanese Anomalous Matters Examination Agency] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/madao madao]** -- Of or related to the Italian [https://scp-wiki.wikidot.com/hub-madao Medicean Academy of Occult Art] (Medicea Accademia Dell'Arte Occulta) group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/mages-academy mages-academy]** -- Of or related to the German [https://scp-wiki.wikidot.com/magierakademie-hub Mages Academy] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/manna-charitable-foundation manna-charitable-foundation]** -- Of or related to the [https://scp-wiki.wikidot.com/manna-charitable-foundation-hub Manna Charitable Foundation] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/marshall-carter-and-dark marshall-carter-and-dark]** -- Of or related to the [https://scp-wiki.wikidot.com/marshall-carter-and-dark-hub Marshall, Carter, and Dark Ltd.] (MC&D) group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/nameless nameless]** -- Of or related to the Nameless, or the Fae, outlined in [https://scp-wiki.wikidot.com/scp-4000 SCP-4000].
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/nobody nobody]** -- Of or related to the 'Nobody' group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/nobody nobody]** -- Of or related to the "[https://scp-wiki.wikidot.com/nobody-hub Nobody]" person or group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/obearwatch obearwatch]** -- Of or related to the Obearwatch group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/obskura obskura]** -- Of or related to the Obskura Corps group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/oneiroi oneiroi]** -- Of or related to the Oneiroi Collective group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/parawatch parawatch]** -- Of or related to the Parawatch Wiki.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Of or related to the Pataphysics Department.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/oneiroi oneiroi]** -- Of or related to the [https://scp-wiki.wikidot.com/oneiroi Oneiroi Collective] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/oria oria]** -- Of or related to the [https://scp-wiki.wikidot.com/oria-hub Office For The Reclamation of Islamic Artifacts (ORIA)] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/parawatch parawatch]** -- Of or related to the [https://scp-wiki.wikidot.com/parawatch-hub Parawatch Wiki] group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/pattern-screamer pattern-screamer]** -- Of or related to pattern screamers.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/pentagram pentagram]** -- Of or related to Pentagram.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/pentagram pentagram]** -- Of or related to Pentagram group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/professor-aw professor-aw]** -- Of or related to the inventions and curiosities of one Professor A. W.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/prometheus prometheus]** -- Of or related to the Prometheus Labs group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/reclamation reclamation]** -- Of or related to the Office For The Reclamation of Islamic Artifacts (ORIA) group of interest. .
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/sapphire sapphire]** -- Of or related to the SAPPHIRE group of interest. .
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/sarkic sarkic]** -- Of or related to the Sarkic Cults group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/second-hytoth second-hytoth]** -- Of or related to the Church of the Second Hytoth group of Interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/serpents-hand serpents-hand]** -- Of or related to the Serpent's Hand group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/shark-punching-center shark-punching-center]** -- Of or related to the Shark Punching Center.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/silicon-nornir silicon-nornir]** -- Of or related to the Servants of the Silicon Nornir religion.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/sugarcomb-confectionery sugarcomb-confectionery]** -- Of or related to Sugarcomb Confectionery.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Of or related to the Foundation Department of Surrealistics.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/tactical-theology tactical-theology]** -- Of or related to the Department of Tactical Theology.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/telecom-office telecom-office]** -- Of or related to the Foundation Telecommunications Monitoring Office.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/three-moons-initiative three-moons-initiative]** -- Of or related to the Three Moons Initiative.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/prometheus prometheus]** -- Of or related to the [https://scp-wiki.wikidot.com/prometheus-labs-hub Prometheus Labs] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/sapphire sapphire]** -- Of or related to the French [https://scp-wiki.wikidot.com/saphir-centre SAPPHIRE] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/sarkic sarkic]** -- Of or related to the [https://scp-wiki.wikidot.com/sarkicism-hub Sarkic Cults] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/scarlet-king scarlet-king]** -- Of or related to the The Scarlet King, or the [https://scp-wiki.wikidot.com/cotsk-hub Children of the Scarlet King] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/second-hytoth second-hytoth]** -- Of or related to the [https://scp-wiki.wikidot.com/second-hytoth-hub Church of the Second Hytoth] group of Interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/serpents-hand serpents-hand]** -- Of or related to [https://scp-wiki.wikidot.com/serpent-s-hand-hub The Serpent's Hand] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/shark-punching-center shark-punching-center]** -- Of or related to the [https://scp-wiki.wikidot.com/spc-hub Shark Punching Center] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/silicon-nornir silicon-nornir]** -- Of or related to the Servants of the Silicon Nornir religion, a member of the GOC's Council of 108.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/sugarcomb-confectionery sugarcomb-confectionery]** -- Of or related to the Sugarcomb Confectionery group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/three-moons-initiative three-moons-initiative]** -- Of or related to [https://scp-wiki.wikidot.com/three-moons-initiative-hub The Three Moons Initiative] group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/totleighsoft totleighsoft]** -- Of or related to the anomalous software development corporation TotleighSoft.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/unreality-dept unreality-dept]** -- Of or related to the Unreality Department.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/unusual-cargo unusual-cargo]** -- Of or related to the Commission on Unusual Cargo.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/unusual-incidents-unit unusual-incidents-unit]** -- Of or related to the Federal Bureau of Investigation Unusual Incidents Unit (UIU) group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/vikander-kneed vikander-kneed]** -- Of or related to the Vikander-Kneed Technical Media group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/wandsmen wandsmen]** -- Of of related to the Wandsmen group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/unusual-incidents-unit unusual-incidents-unit]** -- Of or related to the Federal Bureau of Investigation [https://scp-wiki.wikidot.com/unusual-incidents-unit-hub Unusual Incidents Unit (UIU)] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/valravn valravn]** -- Of or related to the [https://scp-wiki.wikidot.com/valravn-corporation-hub Valravn Corporation] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/vikander-kneed vikander-kneed]** -- Of or related to the [https://scp-wiki.wikidot.com/vikander-kneed-technical-media-hub Vikander-Kneed Technical Media] group of interest.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/wandsmen wandsmen]** -- Of of related to [https://scp-wiki.wikidot.com/wandsmen-hub The Wandsmen] group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/westhead-media westhead-media]** -- Of or related to the Westhead Media group of interest.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/wilsons-wildlife wilsons-wildlife]** -- Of or related to the Wilson's Wildlife organization.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/wilsons-wildlife wilsons-wildlife]** -- Of or related to the [https://scp-wiki.wikidot.com/wilson-s-wildlife-solutions-hub Wilson's Wildlife Solutions] group of interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/xia-dynasty xia-dynasty]** -- Of or related to the Xia Dynasty.
 
 [[/tab]]
@@ -665,11 +681,11 @@ The following applies to all tags in this category:
  * //Requires 'nobody'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_oneiroi _oneiroi]** -- An article following the Oneiroi format.
  * //Requires 'oneiroi'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_oria _oria]** -- An article following the ORIA format.
+ * //Requires 'oria'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_other _other]** -- A GoI Format following a format not associated with a tagged Group of Interest.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_prometheus _prometheus]** -- An article following the Prometheus format.
  * //Requires 'prometheus'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_reclamation _reclamation]** -- An article following the Reclamation format.
- * //Requires 'reclamation'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_sapphire _sapphire]** -- An article following the SAPPHIRE format.
  * //Requires 'sapphire'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_sarkic _sarkic]** -- An article following the Sarkic format.
@@ -686,6 +702,8 @@ The following applies to all tags in this category:
  * //Requires 'unusual-cargo'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_unusual-incidents-unit _unusual-incidents-unit]** -- An article following the Unusual Incidents Unit format.
  * //Requires 'unusual-incidents-unit'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_valravn _valravn]** -- An article following the Valravn corporation format.
+ * //Requires 'valravn'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_wandsmen _wandsmen]** -- An article following the Wandsmen format.
  * //Requires 'wandsmen'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_wilsons-wildlife _wilsons-wildlife]** -- An article following the Wilsons' Wildlife format.
@@ -754,11 +772,13 @@ Tags for long tale series, that may or may not have a Hub.
 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/anabasis anabasis]** -- Of or related to the [https://scp-wiki.wikidot.com/anabasis-hub Anabasis] stories.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ao-tale ao-tale]** -- Of or related to the [https://scp-wiki.wikidot.com/ao-hub Tales of Anomalous Items] stories.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/bury-the-survivors bury-the-survivors]** -- Of or related to the [https://scp-wiki.wikidot.com/bury-the-survivors-hub Bury the Survivors] series.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/classical-revival classical-revival]** -- Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/collector-tale collector-tale]** -- Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#toc111 Global Occult Coalition Casefiles] stories.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Of or related to the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]** -- Of or related to the "Little Misters" series of anomalous individuals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/old-foes old-foes]** -- Of or related to the Resurection: Old Foes series.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/olympia olympia]** -- Of or related to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/orientation orientation]** -- Of or related to the Orientation series.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/palisade palisade]** -- Of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
@@ -772,7 +792,7 @@ Tags for long tale series, that may or may not have a Hub.
 [[tab Characters]]
 ++ Characters
 
-Tags indicating that a specific character has a significant presence within the article. See [https://scp-wiki.wikidot.com/forum/t-1938874/character-tags this thread] for further details.
+Tags indicating that a specific character has a significant presence within the article.
 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/8-ball 8-ball]** -- 8-ball, aka 8B-A1.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/aaron-siegel aaron-siegel]** -- Aaron Siegel.
@@ -802,7 +822,8 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cousin-johnny cousin-johnny]** -- Cousin Johnny, aka SCP-2852.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/d-7294 d-7294]** -- D-7294.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/d-11424 d-11424]** -- D-11424.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/dado dado]** -- dado is taking care of u in dis one. u no worry.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/dado dado]** -- [https://scp-wiki.wikidot.com/dado-hub dado] is taking care of u in dis one. u no worry.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/damien-nowak damien-nowak]** -- Damien Nowak.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/dc-al-fine dc-al-fine]** -- D.C. al Fine, Undersecretary-General of the Global Occult Coalition.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/director-aktus director-aktus]** -- Director Aktus.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/director-bold director-bold]** -- Director Cal Bold of the Decommissioning Department.
@@ -903,12 +924,11 @@ Tags indicating that a specific character has a significant presence within the 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ruiz-duchamp ruiz-duchamp]** -- Ruiz Duchamp, an anartist.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hedwig, a prophet of Maxwellism.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/scarlet-king scarlet-king]** -- The Scarlet King.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/sheldon-katz sheldon-katz]** -- Sheldon Katz.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/shy-guy shy-guy]** -- The Shy Guy, aka SCP-096.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/sigurros sigurros]** -- Sigurrós Stefánsdóttir, aka SCP-239.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/simon-pietrykau simon-pietrykau]** -- Simon Pietrykau.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/tau-5-samsara tau-5-samsara]** -- Mobile Task Force Tau-5 'Samsara'.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/tau-5-samsara tau-5-samsara]** -- Mobile Task Force Tau-5 "Samsara".
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ten-dots ten-dots]** -- SCP-2521.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/thad-xyank thad-xyank]** -- Dr. Thaddeus "Thad" Xyank.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-administrator the-administrator]** -- The Administrator (as a separate entity from the O5 Council).
@@ -1381,7 +1401,7 @@ description = "SCP is, affects or resembles spider-like animals, including scorp
 
 [[tags]]
 name = "arthropod"
-description = "SCP is, affects or resembles arthropods. Not applied to insects or arachnids."
+description = "SCP is, affects or resembles arthropods. Not applied to arachnids, crustaceans or insects."
 
 [[tags]]
 name = "bear"
@@ -1416,6 +1436,10 @@ name = "cetacean"
 description = "SCP is, affects or resembles whales, dolphins or porpoises."
 
 [[tags]]
+name = "crustacean"
+description = " SCP is, affects or is related to crustaceans, the family of arthropods that includes crabs, lobsters, shrimp, isopods and barnacles."
+
+[[tags]]
 name = "deer"
 description = "SCP is, affects or resembles deer, including elk and moose (cervine)."
 
@@ -1437,7 +1461,7 @@ description = "SCP is, affects or resembles fish (piscine)."
 
 [[tags]]
 name = "insect"
-description = "SCP is, affects or resembles insects. This does not include spiders, centipedes or millipedes."
+description = "SCP is, affects or resembles insects."
 
 [[tags]]
 name = "invertebrate"
@@ -2020,6 +2044,50 @@ name = "abnormalities"
 description = "Of of related to the Department of Abnormalities."
 
 [[tags]]
+name = "angle-grinders"
+description = "Of of related to Mobile Task Force Theta-90 \"Angle Grinders\"."
+
+[[tags]]
+name = "decommissioning-dept"
+description = "Of or related to the Decommissioning Department."
+
+[[tags]]
+name = "ethics-committee"
+description = "Of or related to the Foundation Ethics Committee."
+
+[[tags]]
+name = "folklore-dept"
+description = "Of or related to the Department of Mythology and Folkloristics."
+
+[[tags]]
+name = "miscommunications"
+description = "Of or related to the Department of Miscommunications."
+
+[[tags]]
+name = "pataphysics-dept"
+description = "Of or related to the Pataphysics Department."
+
+[[tags]]
+name = "procurement-liquidation-dept"
+description = "Of or related to the Foundation Department of Procurement and Liquidation."
+
+[[tags]]
+name = "surrealistics-dept"
+description = "Of or related to the Foundation Department of Surrealistics."
+
+[[tags]]
+name = "tactical-theology"
+description = "Of or related to the Department of Tactical Theology."
+
+[[tags]]
+name = "telecom-office"
+description = "Of or related to the Foundation Telecommunications Monitoring Office."
+
+[[tags]]
+name = "unreality-dept"
+description = "Of or related to the Unreality Department."
+
+[[tags]]
 name = "accelerate-the-future"
 description = "Of or related to Accelerate the Future."
 
@@ -2029,7 +2097,7 @@ description = "Of or related to the Alexylva University group of interest."
 
 [[tags]]
 name = "ambrose-restaurant"
-description = "Of or related to the Ambrose Restaurant."
+description = "Of or related to the Ambrose Restaurant group of interest."
 
 [[tags]]
 name = "anderson"
@@ -2037,7 +2105,7 @@ description = "Of or related to the Anderson Robotics group of interest."
 
 [[tags]]
 name = "arcadia"
-description = "Of or related to the Arcadia organization."
+description = "Of or related to the Arcadia group of interest."
 
 [[tags]]
 name = "are-we-cool-yet"
@@ -2049,15 +2117,15 @@ description = "Of or related to the American Secure Containment Initiative."
 
 [[tags]]
 name = "avelar"
-description = "Of or related to Avelar Professional Products."
+description = "Of or related to the Avelar Professional Products group of interest."
 
 [[tags]]
 name = "black-queen"
-description = "Of or related to the Black Queen group of interest."
+description = "Of or related to the Black Queen person or group of interest."
 
 [[tags]]
 name = "blackwood"
-description = "Of or related to The Adventures of Lord Blackwood, Explorer and Gentleman."
+description = "Of or related to The Adventures of Lord Blackwood, Explorer and Gentleman, aka SCP-1867."
 
 [[tags]]
 name = "british-occult-service"
@@ -2069,7 +2137,7 @@ description = "Of or related to Mekhane, or the Church of the Broken God (CotBG)
 
 [[tags]]
 name = "brothers-of-death"
-description = "Of or related to the Brothers of Death canon or characers."
+description = "Of or related to the Brothers of Death canon or characters."
 
 [[tags]]
 name = "chaos-insurgency"
@@ -2085,7 +2153,7 @@ description = "Of or related to the Children of the Night, outlined in SCP-1000.
 
 [[tags]]
 name = "children-of-the-torch"
-description = "SCP is of or related to the Children of the Torch group of Interest."
+description = "SCP is of or related to the Children of the Torch group of interest."
 
 [[tags]]
 name = "class-of-76"
@@ -2096,20 +2164,12 @@ name = "daevite"
 description = "Of or related to the Daevites."
 
 [[tags]]
-name = "decommissioning-dept"
-description = "Of or related to the Decommissioning Department."
-
-[[tags]]
 name = "deer-college"
 description = "Of or related to the Deer College group of interest."
 
 [[tags]]
 name = "dr-wondertainment"
-description = "Of or related to the Dr. Wondertainment individual or group of interest."
-
-[[tags]]
-name = "ethics-committee"
-description = "Of or related to the Foundation Ethics Committee."
+description = "Of or related to the Dr. Wondertainment person or group of interest."
 
 [[tags]]
 name = "factory"
@@ -2117,15 +2177,11 @@ description = "Of or related to The Factory group of interest."
 
 [[tags]]
 name = "fifthist"
-description = "Of or related to The Fifthist Church group of interest."
-
-[[tags]]
-name = "folklore-dept"
-description = "Of or related to the Foundation Department of Mythology and Folkloristics."
+description = "Of or related to The Fifth Church group of interest."
 
 [[tags]]
 name = "gamers-against-weed"
-description = "Of or related to The Gamers Against Weed group of interest."
+description = "Of or related to The Gamers Against Weed (GAW) group of interest."
 
 [[tags]]
 name = "global-occult-coalition"
@@ -2137,7 +2193,7 @@ description = "Of or related to the Golden Horde group of interest."
 
 [[tags]]
 name = "greazeburger"
-description = "Of or related to the Greazeburger group of interest."
+description = "Of or related to the Greazeburger Incorporated group of interest."
 
 [[tags]]
 name = "gru-division-p"
@@ -2161,19 +2217,19 @@ description = "Of or related to the Horizon Initiative group of interest."
 
 [[tags]]
 name = "icsut"
-description = "Of or related to the International Center for the Study of Unified Thaumatology."
+description = "Of or related to the International Center for the Study of Unified Thaumatology, member of the GOC's Council of 108."
 
 [[tags]]
 name = "ijamea"
-description = "Of or related to the Imperial Japanese Anomalous Matters Examination Agency."
+description = "Of or related to the Imperial Japanese Anomalous Matters Examination Agency group of interest."
 
 [[tags]]
 name = "madao"
-description = "Of or related to the Italian GoI Medicean Academy of Occult Art (Medicea Accademia Dell'Arte Occulta)."
+description = "Of or related to the Italian Medicean Academy of Occult Art (Medicea Accademia Dell'Arte Occulta) group of interest."
 
 [[tags]]
 name = "mages-academy"
-description = "Of or related to the Mages Academy group of interest."
+description = "Of or related to the German Mages Academy group of interest."
 
 [[tags]]
 name = "manna-charitable-foundation"
@@ -2184,16 +2240,12 @@ name = "marshall-carter-and-dark"
 description = "Of or related to the Marshall, Carter, and Dark Ltd. (MC&D) group of interest."
 
 [[tags]]
-name = "miscommunications"
-description = "Of or related to the Department of Miscommunications."
-
-[[tags]]
 name = "nameless"
 description = "Of or related to the Nameless, or the Fae, outlined in SCP-4000."
 
 [[tags]]
 name = "nobody"
-description = "Of or related to the 'Nobody' group of interest."
+description = "Of or related to the \"Nobody\" person or group of interest."
 
 [[tags]]
 name = "obearwatch"
@@ -2208,12 +2260,12 @@ name = "oneiroi"
 description = "Of or related to the Oneiroi Collective group of interest."
 
 [[tags]]
-name = "parawatch"
-description = "Of or related to the Parawatch Wiki."
+name = "oria"
+description = "Of or related to the Office For The Reclamation of Islamic Artifacts (ORIA) group of interest."
 
 [[tags]]
-name = "pataphysics-dept"
-description = "Of or related to the Pataphysics Department."
+name = "parawatch"
+description = "Of or related to the Parawatch Wiki group of interest."
 
 [[tags]]
 name = "pattern-screamer"
@@ -2221,7 +2273,7 @@ description = "Of or related to pattern screamers."
 
 [[tags]]
 name = "pentagram"
-description = "Of or related to Pentagram."
+description = "Of or related to Pentagram group of interest."
 
 [[tags]]
 name = "professor-aw"
@@ -2232,16 +2284,16 @@ name = "prometheus"
 description = "Of or related to the Prometheus Labs group of interest."
 
 [[tags]]
-name = "reclamation"
-description = "Of or related to the Office For The Reclamation of Islamic Artifacts (ORIA) group of interest. ."
-
-[[tags]]
 name = "sapphire"
-description = "Of or related to the SAPPHIRE group of interest. ."
+description = "Of or related to the French SAPPHIRE group of interest."
 
 [[tags]]
 name = "sarkic"
 description = "Of or related to the Sarkic Cults group of interest."
+
+[[tags]]
+name = "scarlet-king"
+description = "Of or related to the The Scarlet King, or the Children of the Scarlet King group of interest."
 
 [[tags]]
 name = "second-hytoth"
@@ -2253,39 +2305,23 @@ description = "Of or related to the Serpent's Hand group of interest."
 
 [[tags]]
 name = "shark-punching-center"
-description = "Of or related to the Shark Punching Center."
+description = "Of or related to the Shark Punching Center group of interest."
 
 [[tags]]
 name = "silicon-nornir"
-description = "Of or related to the Servants of the Silicon Nornir religion."
+description = "Of or related to the Servants of the Silicon Nornir religion, a member of the GOC's Council of 108."
 
 [[tags]]
 name = "sugarcomb-confectionery"
-description = "Of or related to Sugarcomb Confectionery."
-
-[[tags]]
-name = "surrealistics-dept"
-description = "Of or related to the Foundation Department of Surrealistics."
-
-[[tags]]
-name = "tactical-theology"
-description = "Of or related to the Department of Tactical Theology."
-
-[[tags]]
-name = "telecom-office"
-description = "Of or related to the Foundation Telecommunications Monitoring Office."
+description = "Of or related to the Sugarcomb Confectionery group of interest."
 
 [[tags]]
 name = "three-moons-initiative"
-description = "Of or related to the Three Moons Initiative."
+description = "Of or related to the Three Moons Initiative group of interest."
 
 [[tags]]
 name = "totleighsoft"
 description = "Of or related to the anomalous software development corporation TotleighSoft."
-
-[[tags]]
-name = "unreality-dept"
-description = "Of or related to the Unreality Department."
 
 [[tags]]
 name = "unusual-cargo"
@@ -2296,12 +2332,16 @@ name = "unusual-incidents-unit"
 description = "Of or related to the Federal Bureau of Investigation Unusual Incidents Unit (UIU) group of interest."
 
 [[tags]]
+name = "valravn"
+description = "Of or related to the Valravn group of interest."
+
+[[tags]]
 name = "vikander-kneed"
 description = "Of or related to the Vikander-Kneed Technical Media group of interest."
 
 [[tags]]
 name = "wandsmen"
-description = "Of of related to the Wandsmen group of interest."
+description = "Of of related to The Wandsmen group of interest."
 
 [[tags]]
 name = "westhead-media"
@@ -2309,7 +2349,7 @@ description = "Of or related to the Westhead Media group of interest."
 
 [[tags]]
 name = "wilsons-wildlife"
-description = "Of or related to the Wilson's Wildlife organization."
+description = "Of or related to the Wilson's Wildlife Solutions group of interest."
 
 [[tags]]
 name = "xia-dynasty"
@@ -2416,16 +2456,16 @@ name = "_oneiroi"
 description = "An article following the Oneiroi format."
 
 [[tags]]
+name = "_oria"
+description = "An article following the ORIA format."
+
+[[tags]]
 name = "_other"
 description = "A GoI Format following a format not associated with a tagged Group of Interest."
 
 [[tags]]
 name = "_prometheus"
 description = "An article following the Prometheus format."
-
-[[tags]]
-name = "_reclamation"
-description = "An article following the Reclamation format."
 
 [[tags]]
 name = "_sapphire"
@@ -2458,6 +2498,10 @@ description = "An article following the Unusual Cargo format."
 [[tags]]
 name = "_unusual-incidents-unit"
 description = "An article following the Unusual Incidents Unit format."
+
+[[tags]]
+name = "_valravn"
+description = "An article following the Valravn corporation format."
 
 [[tags]]
 name = "_wandsmen"
@@ -2660,6 +2704,10 @@ name = "ao-tale"
 description = "Articles based on an anomalous object."
 
 [[tags]]
+name = "bury-the-survivors"
+description = "Of or related to the Bury the Survivors series."
+
+[[tags]]
 name = "classical-revival"
 description = "Of or related to the Classical Revival stories."
 
@@ -2678,6 +2726,10 @@ description = "Of or related to the Kiryu Labs series."
 [[tags]]
 name = "mister"
 description = "Of or related to the \"Little Misters\" series of anomalous individuals."
+
+[[tags]]
+name = "old-foes"
+description = "Of or related to the Resurection: Old Foes series."
 
 [[tags]]
 name = "olympia"
@@ -2822,6 +2874,10 @@ description = "D-11424."
 [[tags]]
 name = "dado"
 description = "dado is taking care of u in dis one. u no worry."
+
+[[tags]]
+name = "damien-nowak"
+description = "Damien Nowak."
 
 [[tags]]
 name = "dc-al-fine"
@@ -3224,10 +3280,6 @@ name = "saturn-deer"
 description = "Saturn Deer."
 
 [[tags]]
-name = "scarlet-king"
-description = "The Scarlet King."
-
-[[tags]]
 name = "sheldon-katz"
 description = "Sheldon Katz."
 
@@ -3245,7 +3297,7 @@ description = "Simon Pietrykau."
 
 [[tags]]
 name = "tau-5-samsara"
-description = "Mobile Task Force Tau-5 'Samsara'."
+description = "Mobile Task Force Tau-5 \"Samsara\"."
 
 [[tags]]
 name = "ten-dots"

@@ -455,7 +455,7 @@
         "category": "SCP Attributes",
         "list": [
             "//Often used with 'animal'//",
-            "//Conflicts with 'insect'//"
+            "//Conflicts with 'crustacean', and 'insect'//"
         ]
     },
     {
@@ -536,6 +536,16 @@
     },
     {
         "id": 82,
+        "tag": "crustacean",
+        "desc": " SCP is, affects or is related to crustaceans, the family of arthropods that includes crabs, lobsters, shrimp, isopods and barnacles.",
+        "type": "Animal",
+        "category": "SCP Attributes",
+        "list": [
+            "//Often used with 'animal'//"
+        ]
+    },
+    {
+        "id": 83,
         "tag": "deer",
         "desc": "SCP is, affects or resembles deer, including elk and moose (cervine).",
         "type": "Animal",
@@ -543,7 +553,7 @@
         "list": []
     },
     {
-        "id": 83,
+        "id": 84,
         "tag": "equine",
         "desc": "SCP is, affects or resembles horse-like animals, including zebra and donkeys.",
         "type": "Animal",
@@ -551,7 +561,7 @@
         "list": []
     },
     {
-        "id": 84,
+        "id": 85,
         "tag": "feline",
         "desc": "SCP is, affects or resembles cat-like animals, including big cats like lions and tigers.",
         "type": "Animal",
@@ -559,7 +569,7 @@
         "list": []
     },
     {
-        "id": 85,
+        "id": 86,
         "tag": "fish",
         "desc": "SCP is, affects or resembles fish (piscine).",
         "type": "Animal",
@@ -567,18 +577,18 @@
         "list": []
     },
     {
-        "id": 86,
+        "id": 87,
         "tag": "insect",
-        "desc": "SCP is, affects or resembles insects, which are six-legged arthropods. (This **does not** includes spiders, which should be tagged as //arachnid//. This also does not include centipedes or millipedes).",
+        "desc": "SCP is, affects or resembles insects, which are six-legged arthropods. (This **does not** includes spiders, which should be tagged as //arachnid//, or woodlice, which should be tagged as //crustacean//. This also does not include centipedes or millipedes).",
         "type": "Animal",
         "category": "SCP Attributes",
         "list": [
             "//Often used with 'animal'//",
-            "//Conflicts with 'arachnid'//"
+            "//Conflicts with 'arachnid', and 'crustacean'//"
         ]
     },
     {
-        "id": 87,
+        "id": 88,
         "tag": "invertebrate",
         "desc": "SCP is, affects or resembles invertebrates, animals lacking spinal columns.",
         "type": "Animal",
@@ -586,7 +596,7 @@
         "list": []
     },
     {
-        "id": 88,
+        "id": 89,
         "tag": "primate",
         "desc": "SCP is, affects or resembles apes or monkeys (simian).",
         "type": "Animal",
@@ -594,7 +604,7 @@
         "list": []
     },
     {
-        "id": 89,
+        "id": 90,
         "tag": "rabbit",
         "desc": "SCP is, affects or resembles rabbits or hares (leporine).",
         "type": "Animal",
@@ -602,7 +612,7 @@
         "list": []
     },
     {
-        "id": 90,
+        "id": 91,
         "tag": "reptile",
         "desc": "SCP is, affects or resembles reptiles.",
         "type": "Animal",
@@ -610,7 +620,7 @@
         "list": []
     },
     {
-        "id": 91,
+        "id": 92,
         "tag": "rodent",
         "desc": "SCP is, affects or resembles rodents, including mice, rats, squirrels and beavers.",
         "type": "Animal",
@@ -618,7 +628,7 @@
         "list": []
     },
     {
-        "id": 92,
+        "id": 93,
         "tag": "shark",
         "desc": "SCP is, affects or resembles sharks, including rays and skates (selachian).",
         "type": "Animal",
@@ -628,7 +638,7 @@
         ]
     },
     {
-        "id": 93,
+        "id": 94,
         "tag": "snake",
         "desc": "SCP is, affects or resembles snakes (ophidian).",
         "type": "Animal",
@@ -636,7 +646,7 @@
         "list": []
     },
     {
-        "id": 94,
+        "id": 95,
         "tag": "worm",
         "desc": "SCP is, affects or resembles worms (vermian).",
         "type": "Animal",
@@ -646,7 +656,7 @@
         ]
     },
     {
-        "id": 95,
+        "id": 96,
         "tag": "animal",
         "desc": "SCP is or affects animal life.",
         "type": "Animal",
@@ -654,7 +664,7 @@
         "list": ""
     },
     {
-        "id": 108,
+        "id": 110,
         "tag": "dinosaur",
         "desc": "SCP is, affects or resembles non-avian dinosaurs. Includes pterosaurs and extinct marine reptiles.",
         "type": "Animal",
@@ -662,7 +672,7 @@
         "list": ""
     },
     {
-        "id": 121,
+        "id": 123,
         "tag": "biological",
         "desc": "SCP consists of biological molecules, tissues or organs. Please see the [https://05command.wikidot.com/tech-hub-tag FAQ] for more details.",
         "type": "Biological",
@@ -670,7 +680,7 @@
         "list": []
     },
     {
-        "id": 122,
+        "id": 124,
         "tag": "cadaver",
         "desc": "SCP is, affects, or is related to corpses, carcasses, or any dead biological matter.",
         "type": "Biological",
@@ -678,7 +688,7 @@
         "list": []
     },
     {
-        "id": 123,
+        "id": 125,
         "tag": "contagion",
         "desc": "SCP is a contagious agent or exhibits contagious spread.",
         "type": "Biological",
@@ -688,7 +698,7 @@
         ]
     },
     {
-        "id": 124,
+        "id": 126,
         "tag": "parasitic",
         "desc": "SCP exhibits traits of parasitic or parasitoid organisms.",
         "type": "Biological",
@@ -696,7 +706,7 @@
         "list": []
     },
     {
-        "id": 125,
+        "id": 127,
         "tag": "reanimation",
         "desc": "SCP has been restored or restores others, either whole or in part, to life from a clinically dead state.",
         "type": "Biological",
@@ -704,7 +714,7 @@
         "list": []
     },
     {
-        "id": 126,
+        "id": 128,
         "tag": "reproductive",
         "desc": "SCP anomalously affects or interferes with the normal biological reproductive processes of an organism (which may include humans), or has anomalous biological reproductive methods other than that covered by //parasitic// or //self-replicating//.",
         "type": "Biological",
@@ -712,7 +722,7 @@
         "list": []
     },
     {
-        "id": 128,
+        "id": 130,
         "tag": "biohazard",
         "desc": "SCP poses a hazard to humans or the environment as a result of biological function, or is a biological hazard.",
         "type": "Biological",
@@ -720,7 +730,7 @@
         "list": ""
     },
     {
-        "id": 131,
+        "id": 133,
         "tag": "dental",
         "desc": "SCP is or deals with teeth or the practice of dentistry.",
         "type": "Biological",
@@ -728,7 +738,7 @@
         "list": ""
     },
     {
-        "id": 132,
+        "id": 134,
         "tag": "extremity",
         "desc": "SCP is or affects specific extremities, regardless of species.",
         "type": "Biological",
@@ -736,7 +746,7 @@
         "list": ""
     },
     {
-        "id": 133,
+        "id": 135,
         "tag": "genetic",
         "desc": "SCP is related to or functions primarily via genetic encoding and decoding.",
         "type": "Biological",
@@ -744,7 +754,7 @@
         "list": ""
     },
     {
-        "id": 134,
+        "id": 136,
         "tag": "medical",
         "desc": "SCP is used or intended for use as a medical device or otherwise has medical significance outside of pathology.",
         "type": "Biological",
@@ -752,7 +762,7 @@
         "list": ""
     },
     {
-        "id": 135,
+        "id": 137,
         "tag": "nocturnal",
         "desc": "SCP is triggered by, activated by, or otherwise is only significantly active at night.",
         "type": "Biological",
@@ -760,7 +770,7 @@
         "list": ""
     },
     {
-        "id": 136,
+        "id": 138,
         "tag": "ocular",
         "desc": "SCP resembles, is related to, or affects eyes.",
         "type": "Biological",
@@ -768,7 +778,7 @@
         "list": ""
     },
     {
-        "id": 140,
+        "id": 142,
         "tag": "sexual",
         "desc": "SCP includes or affects sexual organs, sexual activities, or concepts related to sex. Does not imply that the work is intended for adult audiences only.",
         "type": "Biological",
@@ -776,7 +786,7 @@
         "list": ""
     },
     {
-        "id": 141,
+        "id": 143,
         "tag": "skeletal",
         "desc": "SCP is, is a component of, or affects the skeletal tissue of an organism. A skeleton is the structural support tissue of a multi-celled organism, and includes both bones and cartilage.",
         "type": "Biological",
@@ -784,7 +794,7 @@
         "list": ""
     },
     {
-        "id": 142,
+        "id": 144,
         "tag": "toxic",
         "desc": "SCP induces chemical toxicity in subjects.",
         "type": "Biological",
@@ -792,7 +802,7 @@
         "list": ""
     },
     {
-        "id": 143,
+        "id": 145,
         "tag": "antimemetic",
         "desc": "SCP is or involves the use of (an) antimeme(s) to suppress knowledge and/or understanding of an idea or concept, including itself.",
         "type": "Mental",
@@ -800,7 +810,7 @@
         "list": []
     },
     {
-        "id": 144,
+        "id": 146,
         "tag": "auditory",
         "desc": "SCP is triggered by, activated by, or affects the sense of hearing.",
         "type": "Mental",
@@ -808,7 +818,7 @@
         "list": []
     },
     {
-        "id": 145,
+        "id": 147,
         "tag": "cognitohazard",
         "desc": "SCP is hazardous to subjects when observed by any of the traditional 5 senses.",
         "type": "Mental",
@@ -816,7 +826,7 @@
         "list": []
     },
     {
-        "id": 146,
+        "id": 148,
         "tag": "empathic",
         "desc": "SCP is capable of reading or conveying emotion, feelings, or sensations.",
         "type": "Mental",
@@ -824,7 +834,7 @@
         "list": []
     },
     {
-        "id": 147,
+        "id": 149,
         "tag": "hallucination",
         "desc": "SCP induces hallucinations in subjects or is a hallucination.",
         "type": "Mental",
@@ -832,7 +842,7 @@
         "list": []
     },
     {
-        "id": 148,
+        "id": 150,
         "tag": "knowledge",
         "desc": "SCP absorbs, stores, generates, grants, or possesses knowledge that is anomalous, or through an anomalous process. SCPs capable of accurate predictions should be tagged //predictive// instead.",
         "type": "Mental",
@@ -842,7 +852,7 @@
         ]
     },
     {
-        "id": 149,
+        "id": 151,
         "tag": "memetic",
         "desc": "SCP is a memetic agent or exhibits traits of [https://scp-wiki.wikidot.com/Understanding-Memetics memetic propagation]. See Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for extended clarifications.",
         "type": "Mental",
@@ -853,7 +863,7 @@
         ]
     },
     {
-        "id": 150,
+        "id": 152,
         "tag": "mimetic",
         "desc": "SCP exhibits anomalous mimicry.",
         "type": "Mental",
@@ -861,7 +871,7 @@
         "list": []
     },
     {
-        "id": 151,
+        "id": 153,
         "tag": "memory-affecting",
         "desc": "SCP imparts, changes, or removes memories in intelligent beings such as human subjects.",
         "type": "Mental",
@@ -869,7 +879,7 @@
         "list": []
     },
     {
-        "id": 152,
+        "id": 154,
         "tag": "mind-affecting",
         "desc": "SCP affects the thinking of subjects, which can include behavior and overall intelligence. See Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for extended clarifications.",
         "type": "Mental",
@@ -877,7 +887,7 @@
         "list": []
     },
     {
-        "id": 153,
+        "id": 155,
         "tag": "neurological",
         "desc": "SCP directly or indirectly affects the neurological system of subjects. Only applicable in situations where objective neurological changes are confirmed, as opposed to a simple change of behavior in the subject.",
         "type": "Mental",
@@ -885,7 +895,7 @@
         "list": []
     },
     {
-        "id": 154,
+        "id": 156,
         "tag": "observational",
         "desc": "SCP has properties that are triggered or suppressed when directly or indirectly observed. These properties may or may not also be //cognitohazards//.",
         "type": "Mental",
@@ -893,7 +903,7 @@
         "list": []
     },
     {
-        "id": 155,
+        "id": 157,
         "tag": "predictive",
         "desc": "SCP is capable of imparting information or acting in a predictive manner.",
         "type": "Mental",
@@ -901,7 +911,7 @@
         "list": []
     },
     {
-        "id": 156,
+        "id": 158,
         "tag": "sensory",
         "desc": "SCP affects sensory perception.",
         "type": "Mental",
@@ -909,7 +919,7 @@
         "list": []
     },
     {
-        "id": 157,
+        "id": 159,
         "tag": "visual",
         "desc": "SCP is triggered by, activated by, or affects the sense of sight.",
         "type": "Mental",
@@ -917,7 +927,7 @@
         "list": []
     },
     {
-        "id": 158,
+        "id": 160,
         "tag": "addictive",
         "desc": "SCP causes desire or addictive behavior in affected subjects.",
         "type": "Mental",
@@ -925,7 +935,7 @@
         "list": ""
     },
     {
-        "id": 162,
+        "id": 164,
         "tag": "compulsion",
         "desc": "SCP induces compulsive behavior in subjects or otherwise causes subjects to do things they normally would not. See Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for extended clarifications.",
         "type": "Mental",
@@ -933,7 +943,7 @@
         "list": ""
     },
     {
-        "id": 164,
+        "id": 166,
         "tag": "gustatory",
         "desc": "SCP is triggered by, activated by, or affects the sense of taste.",
         "type": "Mental",
@@ -941,7 +951,7 @@
         "list": ""
     },
     {
-        "id": 166,
+        "id": 168,
         "tag": "infohazard",
         "desc": "SCP has an effect that is triggered when it is described or referred to. See Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for extended clarifications.",
         "type": "Mental",
@@ -949,7 +959,7 @@
         "list": ""
     },
     {
-        "id": 168,
+        "id": 170,
         "tag": "language",
         "desc": "SCP imparts, exhibits, or is an anomalous language.",
         "type": "Mental",
@@ -957,7 +967,7 @@
         "list": ""
     },
     {
-        "id": 175,
+        "id": 177,
         "tag": "olfactory",
         "desc": "SCP exhibits anomalous scent, is propagated through smell, or affects the sense of smelling.",
         "type": "Mental",
@@ -965,7 +975,7 @@
         "list": ""
     },
     {
-        "id": 178,
+        "id": 180,
         "tag": "sleep",
         "desc": "SCP is related to sleep.",
         "type": "Mental",
@@ -973,7 +983,7 @@
         "list": ""
     },
     {
-        "id": 179,
+        "id": 181,
         "tag": "tactile",
         "desc": "SCP is activated by, triggered by, or affects the sense of touch. Note that this refers specifically to the sense of touch, not simply something that can activate by touching something else.",
         "type": "Mental",
@@ -981,7 +991,7 @@
         "list": ""
     },
     {
-        "id": 180,
+        "id": 182,
         "tag": "telepathic",
         "desc": "SCP can transfer information via anomalous means.",
         "type": "Mental",
@@ -989,7 +999,7 @@
         "list": ""
     },
     {
-        "id": 182,
+        "id": 184,
         "tag": "acoustic",
         "desc": "SCP is composed of, affects, generates, or is propagated by sound waves.",
         "type": "Physical",
@@ -999,7 +1009,7 @@
         ]
     },
     {
-        "id": 183,
+        "id": 185,
         "tag": "cube",
         "desc": "SCP is cubical. Should only be used where the entire SCP is cubical or composed of cubes, rather than SCPs in which only one or more components are cubical.",
         "type": "Physical",
@@ -1007,7 +1017,7 @@
         "list": []
     },
     {
-        "id": 184,
+        "id": 186,
         "tag": "ectoentropic",
         "desc": "SCP produces energy or matter in an unexplained way, violating the principle that entropy (the disorder of a system) must always increase.",
         "type": "Physical",
@@ -1017,7 +1027,7 @@
         ]
     },
     {
-        "id": 185,
+        "id": 187,
         "tag": "microscopic",
         "desc": "SCP is too small to be seen or otherwise meaningfully observed by the naked eye.",
         "type": "Physical",
@@ -1025,7 +1035,7 @@
         "list": []
     },
     {
-        "id": 186,
+        "id": 188,
         "tag": "miniature",
         "desc": "SCP is much smaller than objects it resembles.",
         "type": "Physical",
@@ -1033,7 +1043,7 @@
         "list": []
     },
     {
-        "id": 187,
+        "id": 189,
         "tag": "mobile",
         "desc": "SCP is capable of movement by anomalous means. Generally only applies to objects or entities that are normally incapable of movement.",
         "type": "Physical",
@@ -1041,7 +1051,7 @@
         "list": []
     },
     {
-        "id": 188,
+        "id": 190,
         "tag": "portal",
         "desc": "SCP is an opening or doorway that exhibits inconsistent connectivity.",
         "type": "Physical",
@@ -1049,7 +1059,7 @@
         "list": []
     },
     {
-        "id": 189,
+        "id": 191,
         "tag": "paradox",
         "desc": "SCP generates, exhibits, or is involved in paradoxical events or situations.",
         "type": "Physical",
@@ -1057,7 +1067,7 @@
         "list": []
     },
     {
-        "id": 190,
+        "id": 192,
         "tag": "polyhedral",
         "desc": "SCP is a polyhedron: a three-dimensional shape with flat faces and straight edges.",
         "type": "Physical",
@@ -1065,7 +1075,7 @@
         "list": []
     },
     {
-        "id": 191,
+        "id": 193,
         "tag": "reality-bending",
         "desc": "SCP is capable of manipulating reality through anomalous means (aka 'ontokinetic', 'reality-bending' or 'reality warping') .",
         "type": "Physical",
@@ -1073,7 +1083,7 @@
         "list": []
     },
     {
-        "id": 192,
+        "id": 194,
         "tag": "self-replicating",
         "desc": "SCP exhibits an anomalous ability to replicate other than via biological reproduction.",
         "type": "Physical",
@@ -1081,7 +1091,7 @@
         "list": []
     },
     {
-        "id": 193,
+        "id": 195,
         "tag": "teleportation",
         "desc": "SCP can move without occupying intervening space or otherwise displace itself via anomalous means that preclude normal movement.",
         "type": "Physical",
@@ -1089,7 +1099,7 @@
         "list": []
     },
     {
-        "id": 194,
+        "id": 196,
         "tag": "vibration",
         "desc": "SCP generates anomalous vibrations or other repetitive movement.",
         "type": "Physical",
@@ -1097,7 +1107,7 @@
         "list": []
     },
     {
-        "id": 196,
+        "id": 198,
         "tag": "chemical",
         "desc": "SCP is an anomalous chemical compound or produces chemical compounds in an anomalous way.",
         "type": "Physical",
@@ -1105,7 +1115,7 @@
         "list": ""
     },
     {
-        "id": 198,
+        "id": 200,
         "tag": "corrosive",
         "desc": "SCP exhibits corrosive properties.",
         "type": "Physical",
@@ -1113,7 +1123,7 @@
         "list": ""
     },
     {
-        "id": 200,
+        "id": 202,
         "tag": "electrical",
         "desc": "SCP generates, stores, or uses electric energy.",
         "type": "Physical",
@@ -1121,7 +1131,7 @@
         "list": ""
     },
     {
-        "id": 201,
+        "id": 203,
         "tag": "electromagnetic",
         "desc": "SCP generates, stores, or uses electromagnetic energy or fields.",
         "type": "Physical",
@@ -1129,7 +1139,7 @@
         "list": ""
     },
     {
-        "id": 202,
+        "id": 204,
         "tag": "entropic",
         "desc": "SCP is, exhibits traits of, or is related to entropy or entropic decay.",
         "type": "Physical",
@@ -1137,7 +1147,7 @@
         "list": ""
     },
     {
-        "id": 203,
+        "id": 205,
         "tag": "fire",
         "desc": "SCP is composed of fire, is related to fire, or enables the process of combustion.",
         "type": "Physical",
@@ -1145,7 +1155,7 @@
         "list": ""
     },
     {
-        "id": 204,
+        "id": 206,
         "tag": "gaseous",
         "desc": "SCP is or generates a gas.",
         "type": "Physical",
@@ -1153,7 +1163,7 @@
         "list": ""
     },
     {
-        "id": 205,
+        "id": 207,
         "tag": "gravity",
         "desc": "SCP affects or is significantly affected by gravitational force.",
         "type": "Physical",
@@ -1161,7 +1171,7 @@
         "list": ""
     },
     {
-        "id": 206,
+        "id": 208,
         "tag": "immobile",
         "desc": "SCP cannot be moved via any means known by the Foundation.",
         "type": "Physical",
@@ -1169,7 +1179,7 @@
         "list": ""
     },
     {
-        "id": 207,
+        "id": 209,
         "tag": "indestructible",
         "desc": "SCP cannot be destroyed via any means known by the Foundation.",
         "type": "Physical",
@@ -1177,7 +1187,7 @@
         "list": ""
     },
     {
-        "id": 208,
+        "id": 210,
         "tag": "intangible",
         "desc": "SCP is intangible in a manner that precludes definition as a gas.",
         "type": "Physical",
@@ -1185,7 +1195,7 @@
         "list": ""
     },
     {
-        "id": 209,
+        "id": 211,
         "tag": "light",
         "desc": "SCP is triggered, activated, or propagated by or otherwise related to the presence or absence of visible light.",
         "type": "Physical",
@@ -1193,7 +1203,7 @@
         "list": ""
     },
     {
-        "id": 210,
+        "id": 212,
         "tag": "liquid",
         "desc": "SCP is or generates a liquid.",
         "type": "Physical",
@@ -1201,7 +1211,7 @@
         "list": ""
     },
     {
-        "id": 211,
+        "id": 213,
         "tag": "magnetic",
         "desc": "SCP is magnetic or exhibits traits of magnetic charge and/or attraction.",
         "type": "Physical",
@@ -1209,7 +1219,7 @@
         "list": ""
     },
     {
-        "id": 212,
+        "id": 214,
         "tag": "meteorological",
         "desc": "SCP is, affects, or is affected by significant weather elements.",
         "type": "Physical",
@@ -1217,7 +1227,7 @@
         "list": ""
     },
     {
-        "id": 219,
+        "id": 221,
         "tag": "radioactive",
         "desc": "SCP emits radiation or affects radioactivity.",
         "type": "Physical",
@@ -1225,7 +1235,7 @@
         "list": ""
     },
     {
-        "id": 221,
+        "id": 223,
         "tag": "self-repairing",
         "desc": "SCP exhibits an anomalous ability restore or repair itself to functional condition.",
         "type": "Physical",
@@ -1233,7 +1243,7 @@
         "list": ""
     },
     {
-        "id": 223,
+        "id": 225,
         "tag": "shadow",
         "desc": "SCP is triggered, activated, or otherwise significantly affected by shadows cast by subjects.",
         "type": "Physical",
@@ -1241,7 +1251,7 @@
         "list": ""
     },
     {
-        "id": 224,
+        "id": 226,
         "tag": "spacetime",
         "desc": "SCP warps space-time or affects or violates laws of space-time.",
         "type": "Physical",
@@ -1249,7 +1259,7 @@
         "list": ""
     },
     {
-        "id": 225,
+        "id": 227,
         "tag": "sphere",
         "desc": "SCP is spherical.",
         "type": "Physical",
@@ -1257,7 +1267,7 @@
         "list": ""
     },
     {
-        "id": 226,
+        "id": 228,
         "tag": "telekinetic",
         "desc": "SCP can manipulate objects or initiate or affect reactions through anomalous means.",
         "type": "Physical",
@@ -1265,7 +1275,7 @@
         "list": ""
     },
     {
-        "id": 228,
+        "id": 230,
         "tag": "temporal",
         "desc": "SCP affects or is otherwise related to the passage of time.",
         "type": "Physical",
@@ -1273,7 +1283,7 @@
         "list": ""
     },
     {
-        "id": 229,
+        "id": 231,
         "tag": "thermal",
         "desc": "SCP is activated by, triggered by, or propagates via changes in temperature. This includes both increases and decreases in temperature.",
         "type": "Physical",
@@ -1281,7 +1291,7 @@
         "list": ""
     },
     {
-        "id": 230,
+        "id": 232,
         "tag": "thermodynamic",
         "desc": "SCP affects, or is otherwise significantly related to the laws of thermodynamics.",
         "type": "Physical",
@@ -1289,7 +1299,7 @@
         "list": ""
     },
     {
-        "id": 231,
+        "id": 233,
         "tag": "transfiguration",
         "desc": "SCP alters the shape or substance of subjects in an anomalous manner.",
         "type": "Physical",
@@ -1297,7 +1307,7 @@
         "list": ""
     },
     {
-        "id": 232,
+        "id": 234,
         "tag": "transmission",
         "desc": "SCP transmits information, typically via radio waves or other electromagnetic means.",
         "type": "Physical",
@@ -1305,7 +1315,7 @@
         "list": ""
     },
     {
-        "id": 234,
+        "id": 236,
         "tag": "appliance",
         "desc": "SCP is or resembles a household or domestic appliance.",
         "type": "Artifact",
@@ -1316,7 +1326,7 @@
         ]
     },
     {
-        "id": 235,
+        "id": 237,
         "tag": "artistic",
         "desc": "SCP is a work of art, exhibits artistic properties, or has artistic significance.",
         "type": "Artifact",
@@ -1326,7 +1336,7 @@
         ]
     },
     {
-        "id": 236,
+        "id": 238,
         "tag": "artifact",
         "desc": "SCP is or was originally created by humans.",
         "type": "Artifact",
@@ -1334,7 +1344,7 @@
         "list": []
     },
     {
-        "id": 237,
+        "id": 239,
         "tag": "clockwork",
         "desc": "SCP operates primarily via clockworks, defined as mechanical devices constructed primarily using toothed wheels and/or powered by a mainspring.",
         "type": "Artifact",
@@ -1342,7 +1352,7 @@
         "list": []
     },
     {
-        "id": 238,
+        "id": 240,
         "tag": "clothing",
         "desc": "SCP is an artifact primarily intended to be worn for protection or comfort, including armor and protective helmets.",
         "type": "Artifact",
@@ -1352,7 +1362,7 @@
         ]
     },
     {
-        "id": 239,
+        "id": 241,
         "tag": "computer",
         "desc": "SCP is a computational device or affects computational devices.",
         "type": "Artifact",
@@ -1362,7 +1372,7 @@
         ]
     },
     {
-        "id": 240,
+        "id": 242,
         "tag": "document",
         "desc": "SCP is a textual document of some sort. Includes books.",
         "type": "Artifact",
@@ -1370,7 +1380,7 @@
         "list": []
     },
     {
-        "id": 241,
+        "id": 243,
         "tag": "food",
         "desc": "SCP is primarily intended to be an edible object or substance.",
         "type": "Artifact",
@@ -1378,7 +1388,7 @@
         "list": []
     },
     {
-        "id": 242,
+        "id": 244,
         "tag": "inscription",
         "desc": "SCP features carvings, engravings or inscriptions of words, numbers or other designs.",
         "type": "Artifact",
@@ -1386,7 +1396,7 @@
         "list": []
     },
     {
-        "id": 243,
+        "id": 245,
         "tag": "jewelry",
         "desc": "SCP is an object primarily intended to be worn in a decorative manner.",
         "type": "Artifact",
@@ -1396,7 +1406,7 @@
         ]
     },
     {
-        "id": 244,
+        "id": 246,
         "tag": "mechanical",
         "desc": "SCP operates primarily in a mechanical manner or is a mechanical device.",
         "type": "Artifact",
@@ -1404,7 +1414,7 @@
         "list": []
     },
     {
-        "id": 245,
+        "id": 247,
         "tag": "media",
         "desc": "SCP is or is contained on, one or more items of fixed or removable analog or digital media, such as a tape, record, disc, or drive.",
         "type": "Artifact",
@@ -1412,7 +1422,7 @@
         "list": []
     },
     {
-        "id": 246,
+        "id": 248,
         "tag": "musical",
         "desc": "SCP is, generates, or is generated by musical compositions.",
         "type": "Artifact",
@@ -1420,7 +1430,7 @@
         "list": []
     },
     {
-        "id": 247,
+        "id": 249,
         "tag": "online",
         "desc": "SCP is available on, utilizes, or is dependent on a connection to the internet.",
         "type": "Artifact",
@@ -1428,7 +1438,7 @@
         "list": []
     },
     {
-        "id": 248,
+        "id": 250,
         "tag": "performance",
         "desc": "SCP is or is used in a performance art, such as a dance or play.",
         "type": "Artifact",
@@ -1436,7 +1446,7 @@
         "list": []
     },
     {
-        "id": 249,
+        "id": 251,
         "tag": "robotic",
         "desc": "SCP is a device or construct designed to operate on its own. Applicable to anything that can be described as a 'robot' or 'automaton'.",
         "type": "Artifact",
@@ -1446,7 +1456,7 @@
         ]
     },
     {
-        "id": 250,
+        "id": 252,
         "tag": "sculpture",
         "desc": "SCP is a three-dimensional piece of artwork. To be considered a //sculpture//, the object in question must have been formed, carved, or molded.",
         "type": "Artifact",
@@ -1454,7 +1464,7 @@
         "list": []
     },
     {
-        "id": 251,
+        "id": 253,
         "tag": "tool",
         "desc": "SCP is (or was intended to be) used as a tool.",
         "type": "Artifact",
@@ -1462,7 +1472,7 @@
         "list": []
     },
     {
-        "id": 252,
+        "id": 254,
         "tag": "toy",
         "desc": "SCP is, or was primarily intended to be, used as a toy.",
         "type": "Artifact",
@@ -1470,7 +1480,7 @@
         "list": []
     },
     {
-        "id": 253,
+        "id": 255,
         "tag": "weapon",
         "desc": "SCP is or is intended to be used as a weapon.",
         "type": "Artifact",
@@ -1478,7 +1488,7 @@
         "list": []
     },
     {
-        "id": 254,
+        "id": 256,
         "tag": "vehicle",
         "desc": "SCP is or is intended to be used as a vehicle.",
         "type": "Artifact",
@@ -1486,7 +1496,7 @@
         "list": []
     },
     {
-        "id": 261,
+        "id": 263,
         "tag": "currency",
         "desc": "SCP is, is related to, affects, or is activated by money or other objects primarily intended to be used as a medium of exchange.",
         "type": "Artifact",
@@ -1494,7 +1504,7 @@
         "list": ""
     },
     {
-        "id": 263,
+        "id": 265,
         "tag": "electronic",
         "desc": "SCP is or resembles an electronic device.",
         "type": "Artifact",
@@ -1502,7 +1512,7 @@
         "list": ""
     },
     {
-        "id": 272,
+        "id": 274,
         "tag": "photographic",
         "desc": "SCP is or deals with photography or features a photograph as part of the primary anomaly.",
         "type": "Artifact",
@@ -1510,7 +1520,7 @@
         "list": ""
     },
     {
-        "id": 279,
+        "id": 281,
         "tag": "building",
         "desc": "SCP is, is a part of, or otherwise is related to or affects a building, defined as a structure intended for human occupation.",
         "type": "Location",
@@ -1518,7 +1528,7 @@
         "list": []
     },
     {
-        "id": 280,
+        "id": 282,
         "tag": "city",
         "desc": "SCP is a city, town, or other settlement intended for human occupation. Should only be used if a significant portion of the city is considered anomalous.",
         "type": "Location",
@@ -1526,7 +1536,7 @@
         "list": []
     },
     {
-        "id": 281,
+        "id": 283,
         "tag": "extradimensional",
         "desc": "SCP is of extradimensional origin, moves or propagates extradimensionally, and/or enables extradimensional travel.",
         "type": "Location",
@@ -1534,7 +1544,7 @@
         "list": []
     },
     {
-        "id": 282,
+        "id": 284,
         "tag": "geological",
         "desc": "SCP is or affects natural geological formations (such as caves, cliffs, mountains, valleys, or volcanoes) or significant geological events (such as earthquakes, landslides, or sinkholes).",
         "type": "Location",
@@ -1542,7 +1552,7 @@
         "list": []
     },
     {
-        "id": 283,
+        "id": 285,
         "tag": "location",
         "desc": "SCP is a unique geographical location.",
         "type": "Location",
@@ -1550,7 +1560,7 @@
         "list": []
     },
     {
-        "id": 284,
+        "id": 286,
         "tag": "planet",
         "desc": "SCP is, resembles, or affects a planet, which may or may not be our planet.",
         "type": "Location",
@@ -1558,7 +1568,7 @@
         "list": []
     },
     {
-        "id": 285,
+        "id": 287,
         "tag": "structure",
         "desc": "SCP is an artificial or natural structure; if it is intended for human occupation, it should be tagged //building// instead.",
         "type": "Location",
@@ -1566,7 +1576,7 @@
         "list": []
     },
     {
-        "id": 286,
+        "id": 288,
         "tag": "airborne",
         "desc": "SCP lives in, moves through, or spreads through the air.",
         "type": "Location",
@@ -1574,7 +1584,7 @@
         "list": ""
     },
     {
-        "id": 287,
+        "id": 289,
         "tag": "aquatic",
         "desc": "SCP lives in, moves through or spreads through water.",
         "type": "Location",
@@ -1582,7 +1592,7 @@
         "list": ""
     },
     {
-        "id": 291,
+        "id": 293,
         "tag": "extraterrestrial",
         "desc": "SCP originates or is found in outer space and/or enables or exhibits extraterrestrial travel.",
         "type": "Location",
@@ -1590,7 +1600,7 @@
         "list": ""
     },
     {
-        "id": 293,
+        "id": 295,
         "tag": "library",
         "desc": "SCP is, or is otherwise related to or affects libraries, defined as a room or building containing books for people to read or borrow.",
         "type": "Location",
@@ -1598,7 +1608,7 @@
         "list": ""
     },
     {
-        "id": 295,
+        "id": 297,
         "tag": "moon",
         "desc": "SCP is, is related to, or affects a natural satellite or moon, which may or may not be our moon.",
         "type": "Location",
@@ -1606,7 +1616,7 @@
         "list": ""
     },
     {
-        "id": 297,
+        "id": 299,
         "tag": "satellite",
         "desc": "SCP is a natural or artificial satellite orbiting a celestial body.",
         "type": "Location",
@@ -1614,7 +1624,7 @@
         "list": ""
     },
     {
-        "id": 299,
+        "id": 301,
         "tag": "subterranean",
         "desc": "SCP is located or operates wholly or significantly underground, defined as below the surface of the Earth. Does not apply objects that are simply contained underground for safety or convenience.",
         "type": "Location",
@@ -1622,7 +1632,7 @@
         "list": ""
     },
     {
-        "id": 300,
+        "id": 302,
         "tag": "sun",
         "desc": "SCP is, is related to, or affects a sun, which may or may not be our sun.",
         "type": "Location",
@@ -1630,7 +1640,7 @@
         "list": ""
     },
     {
-        "id": 301,
+        "id": 303,
         "tag": "future",
         "desc": "SCP is from the future or was otherwise temporally displaced from a later time frame into an earlier one.",
         "type": "Other",
@@ -1638,7 +1648,7 @@
         "list": []
     },
     {
-        "id": 302,
+        "id": 304,
         "tag": "game",
         "desc": "SCP is, is used in, is activated by, or is otherwise related to one or more games, defined as a method of play or a sport -- especially a competitive one -- that can be won or lost by skill, strength, or luck.",
         "type": "Other",
@@ -1646,7 +1656,7 @@
         "list": []
     },
     {
-        "id": 303,
+        "id": 305,
         "tag": "military",
         "desc": "SCP is military equipment, part or member of a military unit, or otherwise has military significance.",
         "type": "Other",
@@ -1654,7 +1664,7 @@
         "list": []
     },
     {
-        "id": 304,
+        "id": 306,
         "tag": "sport",
         "desc": "SCP is, is used in, is activated by, or is otherwise related to one or more sports, defined as an activity involving physical exertion and skill in which one or more individuals compete against other individuals or teams. Sports should also be tagged with //game//. Equipment or gear specifically or exclusively used in sporting events should also be tagged with //clothing// or //tool//, as appropriate.",
         "type": "Other",
@@ -1662,7 +1672,7 @@
         "list": []
     },
     {
-        "id": 305,
+        "id": 307,
         "tag": "corporate",
         "desc": "SCP affects the operations of a business or corporation.",
         "type": "Other",
@@ -1670,7 +1680,7 @@
         "list": ""
     },
     {
-        "id": 306,
+        "id": 308,
         "tag": "concept",
         "desc": "SCP is or affects a purely non-physical concept. Should not be used in conjunction with tags describing physical qualities.",
         "type": "Other",
@@ -1678,7 +1688,7 @@
         "list": ""
     },
     {
-        "id": 307,
+        "id": 309,
         "tag": "exchange",
         "desc": "SCP involves or is triggered by some form of exchange of physical or intangible goods, including but not limited to bartering and monetary trade.",
         "type": "Other",
@@ -1686,7 +1696,7 @@
         "list": ""
     },
     {
-        "id": 308,
+        "id": 310,
         "tag": "foundation-made",
         "desc": "SCP was created, intentionally or otherwise, by the SCP Foundation itself. Note that only the objects whose creation resulted directly from specific actions of the Foundation are applicable. This excludes phenomena which formed spontaneously at a Foundation site due to the area's routine exposure to a large number of contained anomalies.",
         "type": "Other",
@@ -1694,7 +1704,7 @@
         "list": ""
     },
     {
-        "id": 311,
+        "id": 313,
         "tag": "historical",
         "desc": "SCP affects or is prominent in historical events or has historical significance.",
         "type": "Other",
@@ -1702,7 +1712,7 @@
         "list": ""
     },
     {
-        "id": 312,
+        "id": 314,
         "tag": "k-class-scenario",
         "desc": "SCP is involved in or capable of instigating one or more K-Class End of the World scenarios. Should only be used in articles that specifically name a type of K-Class scenario.",
         "type": "Other",
@@ -1710,7 +1720,7 @@
         "list": ""
     },
     {
-        "id": 313,
+        "id": 315,
         "tag": "loop",
         "desc": "SCP exhibits or is engaged in a repeating loop of activity.",
         "type": "Other",
@@ -1718,7 +1728,7 @@
         "list": ""
     },
     {
-        "id": 314,
+        "id": 316,
         "tag": "mathematical",
         "desc": "SCP is or affects a number, number system, mathematical equation, or otherwise has mathematical significance.",
         "type": "Other",
@@ -1726,7 +1736,7 @@
         "list": ""
     },
     {
-        "id": 316,
+        "id": 318,
         "tag": "meta",
         "desc": "SCP affects or is affected by its documentation or requires containment procedures regarding the way it is documented. See Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for extended clarifications.",
         "type": "Other",
@@ -1734,7 +1744,7 @@
         "list": ""
     },
     {
-        "id": 317,
+        "id": 319,
         "tag": "narrative",
         "desc": "SCP is, is related to, or propagates via narrative information or documents.",
         "type": "Other",
@@ -1742,7 +1752,7 @@
         "list": ""
     },
     {
-        "id": 318,
+        "id": 320,
         "tag": "probability",
         "desc": "SCP alters or manipulates the probability of certain events or outcomes.",
         "type": "Other",
@@ -1750,7 +1760,7 @@
         "list": ""
     },
     {
-        "id": 319,
+        "id": 321,
         "tag": "religious",
         "desc": "SCP is associated with or otherwise has significance to one or more organized religions.",
         "type": "Other",
@@ -1758,7 +1768,7 @@
         "list": ""
     },
     {
-        "id": 320,
+        "id": 322,
         "tag": "ritual",
         "desc": "SCP is or is triggered or activated through ritualistic behavior.",
         "type": "Other",
@@ -1766,7 +1776,7 @@
         "list": ""
     },
     {
-        "id": 322,
+        "id": 324,
         "tag": "uncontained",
         "desc": "SCP is neither fully nor partially contained. This should only be applied to SCPs where no instances are contained at all and does not apply if the Foundation successfully contains one or more instances.",
         "type": "Other",
@@ -1774,866 +1784,905 @@
         "list": ""
     },
     {
-        "id": 323,
+        "id": 325,
         "tag": "abnormalities",
         "desc": "Of of related to the Department of Abnormalities.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
-    },
-    {
-        "id": 324,
-        "tag": "accelerate-the-future",
-        "desc": "Of or related to Accelerate the Future.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
-    },
-    {
-        "id": 325,
-        "tag": "alexylva",
-        "desc": "Of or related to the Alexylva University group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 326,
-        "tag": "ambrose-restaurant",
-        "desc": "Of or related to the Ambrose Restaurant.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "angle-grinders",
+        "desc": "Of of related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] \"Angle Grinders\".",
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 327,
-        "tag": "anderson",
-        "desc": "Of or related to the Anderson Robotics group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "decommissioning-dept",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].",
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 328,
-        "tag": "arcadia",
-        "desc": "Of or related to the ##purple|Arcadia## organization.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "ethics-committee",
+        "desc": "Of or related to the Foundation Ethics Committee.",
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 329,
-        "tag": "are-we-cool-yet",
-        "desc": "Of or related to the Are We Cool Yet? (AWCY) group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "folklore-dept",
+        "desc": "Of or related to the [department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].",
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 330,
-        "tag": "asci",
-        "desc": "Of or related to the American Secure Containment Initiative.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "miscommunications",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].",
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 331,
-        "tag": "avelar",
-        "desc": "Of or related to Avelar Professional Products.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "pataphysics-dept",
+        "desc": "Of or related to the Pataphysics Department.",
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 332,
-        "tag": "black-queen",
-        "desc": "Of or related to the Black Queen group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "procurement-liquidation-dept",
+        "desc": "Of or related to the Foundation Department of Procurement and Liquidation.",
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 333,
-        "tag": "blackwood",
-        "desc": "Of or related to The Adventures of Lord Blackwood, Explorer and Gentleman.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "surrealistics-dept",
+        "desc": "Of or related to the Foundation Department of Surrealistics.",
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 334,
-        "tag": "british-occult-service",
-        "desc": "Of or related to the British Occult Service (MI666) group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "tactical-theology",
+        "desc": "Of or related to the Department of Tactical Theology.",
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 335,
-        "tag": "broken-god",
-        "desc": "Of or related to Mekhane, or the Church of the Broken God (CotBG) group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "telecom-office",
+        "desc": "Of or related to the Foundation [https://scp-wiki.wikidot.com/telecommunications-monitoring-office-hub Telecommunications Monitoring Office].",
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 336,
-        "tag": "brothers-of-death",
-        "desc": "Of or related to the Brothers of Death canon or characers.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "unreality-dept",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/unreality-hub Unreality Department].",
+        "type": "Departments",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 337,
-        "tag": "chaos-insurgency",
-        "desc": "Of or related to the Chaos Insurgency (CI) group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "accelerate-the-future",
+        "desc": "Of or related to Accelerate the Future.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 338,
-        "tag": "chicago-spirit",
-        "desc": "Of or related to the Chicago Spirit group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "alexylva",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/alexylva-university-hub Alexylva University] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 339,
-        "tag": "children-of-the-night",
-        "desc": "Of or related to the Children of the Night, outlined in [https://scp-wiki.wikidot.com/scp-1000 SCP-1000].",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "ambrose-restaurant",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/ambrose-restaurant-hub Ambrose Restaurant] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 340,
-        "tag": "children-of-the-torch",
-        "desc": "SCP is of or related to the Children of the Torch group of Interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "anderson",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/anderson-robotics-hub Anderson Robotics] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 341,
-        "tag": "class-of-76",
-        "desc": "Of or related to the [https://scp-wiki.wikidot.com/remembrance Class of '76] SCPs and stories.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "arcadia",
+        "desc": "Of or related to the ##purple|[https://scp-wiki.wikidot.com/arcadia-hub Arcadia]## group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 342,
-        "tag": "daevite",
-        "desc": "Of or related to the Daevites.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "are-we-cool-yet",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/are-we-cool-yet-hub Are We Cool Yet?] (AWCY) group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 343,
-        "tag": "decommissioning-dept",
-        "desc": "Of or related to the Decommissioning Department.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "asci",
+        "desc": "Of or related to the American Secure Containment Initiative.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 344,
-        "tag": "deer-college",
-        "desc": "Of or related to the Deer College group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "avelar",
+        "desc": "Of or related to the Avelar Professional Products group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 345,
-        "tag": "dr-wondertainment",
-        "desc": "Of or related to the Dr. Wondertainment individual or group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "black-queen",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/black-queen-hub Black Queen] person or group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 346,
-        "tag": "ethics-committee",
-        "desc": "Of or related to the Foundation Ethics Committee.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "blackwood",
+        "desc": "Of or related to [https://scp-wiki.wikidot.com/new The Adventures of Lord Blackwood, Explorer and Gentleman], aka SCP-1867.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 347,
-        "tag": "factory",
-        "desc": "Of or related to The Factory group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "british-occult-service",
+        "desc": "Of or related to the British Occult Service (MI666) group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 348,
-        "tag": "fifthist",
-        "desc": "Of or related to The Fifthist Church group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "broken-god",
+        "desc": "Of or related to Mekhane, or the [https://scp-wiki.wikidot.com/church-of-the-broken-god-hub Church of the Broken God] (CotBG) group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 349,
-        "tag": "folklore-dept",
-        "desc": "Of or related to the Foundation Department of Mythology and Folkloristics.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "brothers-of-death",
+        "desc": "Of or related to the Brothers of Death canon or characters.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 350,
-        "tag": "gamers-against-weed",
-        "desc": "Of or related to The Gamers Against Weed group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "chaos-insurgency",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/chaos-insurgency-hub Chaos Insurgency] (CI) group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 351,
-        "tag": "global-occult-coalition",
-        "desc": "Of or related to the Global Occult Coalition (GOC) group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "chicago-spirit",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/chicago-spirit Chicago Spirit] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 352,
-        "tag": "golden-horde",
-        "desc": "Of or related to the Golden Horde group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "children-of-the-night",
+        "desc": "Of or related to the Children of the Night, outlined in [https://scp-wiki.wikidot.com/scp-1000 SCP-1000].",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 353,
-        "tag": "greazeburger",
-        "desc": "Of or related to the Greazeburger group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "children-of-the-torch",
+        "desc": "SCP is of or related to the Children of the Torch group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 354,
-        "tag": "gru-division-p",
-        "desc": "Of or related to the GRU Division \"P\" group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "class-of-76",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/remembrance Class of '76] SCPs and stories.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 355,
-        "tag": "herman-fuller",
-        "desc": "Of or related to the Herman Fuller's Circus of the Disquieting group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "daevite",
+        "desc": "Of or related to [https://scp-wiki.wikidot.com/daevite-hub the Daevites].",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 356,
-        "tag": "hmfscp",
-        "desc": "Of or related to His/Her Majesty's Foundation For The Study of Curiosities and Phantasmagoria.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "deer-college",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/deer-college-hub Deer College] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 357,
-        "tag": "homo-sapiens-sidhe",
-        "desc": "Of or related to the Fae/Homo sapiens sidhe, as outlined in [https://scp-wiki.wikidot.com/from-120-s-archives-hub From 120's Archives].",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "dr-wondertainment",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/dr-wondertainment-hub Dr. Wondertainment] person or group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 358,
-        "tag": "horizon-initiative",
-        "desc": "Of or related to the Horizon Initiative group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "factory",
+        "desc": "Of or related to [https://scp-wiki.wikidot.com/factory-hub The Factory] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 359,
-        "tag": "icsut",
-        "desc": "Of or related to the International Center for the Study of Unified Thaumatology.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "fifthist",
+        "desc": "Of or related to [https://scp-wiki.wikidot.com/fifthist-hub The Fifth Church] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 360,
-        "tag": "ijamea",
-        "desc": "Of or related to the Imperial Japanese Anomalous Matters Examination Agency.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "gamers-against-weed",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/gamers-against-weed-hub Gamers Against Weed] (GAW) group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 361,
-        "tag": "madao",
-        "desc": "Of or related to the Italian GoI Medicean Academy of Occult Art (Medicea Accademia Dell'Arte Occulta).",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "global-occult-coalition",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page Global Occult Coalition (GOC)] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 362,
-        "tag": "mages-academy",
-        "desc": "Of or related to the Mages Academy group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "golden-horde",
+        "desc": "Of or related to the Golden Horde group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 363,
-        "tag": "manna-charitable-foundation",
-        "desc": "Of or related to the Manna Charitable Foundation group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "greazeburger",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/greazeburger-incorporated-hub Greazeburger Incorporated] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 364,
-        "tag": "marshall-carter-and-dark",
-        "desc": "Of or related to the Marshall, Carter, and Dark Ltd. (MC&D) group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "gru-division-p",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/gru-p-hub GRU Division P] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 365,
-        "tag": "miscommunications",
-        "desc": "Of or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "herman-fuller",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/herman-fuller-hub Herman Fuller's Circus of the Disquieting] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 366,
-        "tag": "nameless",
-        "desc": "Of or related to the Nameless, or the Fae, outlined in [https://scp-wiki.wikidot.com/scp-4000 SCP-4000].",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "hmfscp",
+        "desc": "Of or related to His/Her Majesty's Foundation For The Study of Curiosities and Phantasmagoria.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 367,
-        "tag": "nobody",
-        "desc": "Of or related to the 'Nobody' group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "homo-sapiens-sidhe",
+        "desc": "Of or related to the Fae/Homo sapiens sidhe, as outlined in [https://scp-wiki.wikidot.com/from-120-s-archives-hub From 120's Archives].",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 368,
-        "tag": "obearwatch",
-        "desc": "Of or related to the Obearwatch group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "horizon-initiative",
+        "desc": "Of or related to [https://scp-wiki.wikidot.com/horizon-initiative-hub The Horizon Initiative] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 369,
-        "tag": "obskura",
-        "desc": "Of or related to the Obskura Corps group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "icsut",
+        "desc": "Of or related to the International Center for the Study of Unified Thaumatology, member of the GOC's Council of 108.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 370,
-        "tag": "oneiroi",
-        "desc": "Of or related to the Oneiroi Collective group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "ijamea",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/ijamea-hub Imperial Japanese Anomalous Matters Examination Agency] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 371,
-        "tag": "parawatch",
-        "desc": "Of or related to the Parawatch Wiki.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "madao",
+        "desc": "Of or related to the Italian [https://scp-wiki.wikidot.com/hub-madao Medicean Academy of Occult Art] (Medicea Accademia Dell'Arte Occulta) group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 372,
-        "tag": "pataphysics-dept",
-        "desc": "Of or related to the Pataphysics Department.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "mages-academy",
+        "desc": "Of or related to the German [https://scp-wiki.wikidot.com/magierakademie-hub Mages Academy] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 373,
-        "tag": "pattern-screamer",
-        "desc": "Of or related to pattern screamers.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "manna-charitable-foundation",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/manna-charitable-foundation-hub Manna Charitable Foundation] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 374,
-        "tag": "pentagram",
-        "desc": "Of or related to Pentagram.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "marshall-carter-and-dark",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/marshall-carter-and-dark-hub Marshall, Carter, and Dark Ltd.] (MC&D) group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 375,
-        "tag": "professor-aw",
-        "desc": "Of or related to the inventions and curiosities of one Professor A. W.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "nameless",
+        "desc": "Of or related to the Nameless, or the Fae, outlined in [https://scp-wiki.wikidot.com/scp-4000 SCP-4000].",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 376,
-        "tag": "prometheus",
-        "desc": "Of or related to the Prometheus Labs group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "nobody",
+        "desc": "Of or related to the \"[https://scp-wiki.wikidot.com/nobody-hub Nobody]\" person or group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 377,
-        "tag": "reclamation",
-        "desc": "Of or related to the Office For The Reclamation of Islamic Artifacts (ORIA) group of interest. .",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "obearwatch",
+        "desc": "Of or related to the Obearwatch group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 378,
-        "tag": "sapphire",
-        "desc": "Of or related to the SAPPHIRE group of interest. .",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "obskura",
+        "desc": "Of or related to the Obskura Corps group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 379,
-        "tag": "sarkic",
-        "desc": "Of or related to the Sarkic Cults group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "oneiroi",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/oneiroi Oneiroi Collective] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 380,
-        "tag": "second-hytoth",
-        "desc": "Of or related to the Church of the Second Hytoth group of Interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "oria",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/oria-hub Office For The Reclamation of Islamic Artifacts (ORIA)] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 381,
-        "tag": "serpents-hand",
-        "desc": "Of or related to the Serpent's Hand group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "parawatch",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/parawatch-hub Parawatch Wiki] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 382,
-        "tag": "shark-punching-center",
-        "desc": "Of or related to the Shark Punching Center.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "pattern-screamer",
+        "desc": "Of or related to pattern screamers.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 383,
-        "tag": "silicon-nornir",
-        "desc": "Of or related to the Servants of the Silicon Nornir religion.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "pentagram",
+        "desc": "Of or related to Pentagram group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 384,
-        "tag": "sugarcomb-confectionery",
-        "desc": "Of or related to Sugarcomb Confectionery.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "professor-aw",
+        "desc": "Of or related to the inventions and curiosities of one Professor A. W.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 385,
-        "tag": "surrealistics-dept",
-        "desc": "Of or related to the Foundation Department of Surrealistics.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "prometheus",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/prometheus-labs-hub Prometheus Labs] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 386,
-        "tag": "tactical-theology",
-        "desc": "Of or related to the Department of Tactical Theology.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "sapphire",
+        "desc": "Of or related to the French [https://scp-wiki.wikidot.com/saphir-centre SAPPHIRE] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 387,
-        "tag": "telecom-office",
-        "desc": "Of or related to the Foundation Telecommunications Monitoring Office.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "sarkic",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/sarkicism-hub Sarkic Cults] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 388,
-        "tag": "three-moons-initiative",
-        "desc": "Of or related to the Three Moons Initiative.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "scarlet-king",
+        "desc": "Of or related to the The Scarlet King, or the [https://scp-wiki.wikidot.com/cotsk-hub Children of the Scarlet King] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 389,
-        "tag": "totleighsoft",
-        "desc": "Of or related to the anomalous software development corporation TotleighSoft.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "second-hytoth",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/second-hytoth-hub Church of the Second Hytoth] group of Interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 390,
-        "tag": "unreality-dept",
-        "desc": "Of or related to the Unreality Department.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "serpents-hand",
+        "desc": "Of or related to [https://scp-wiki.wikidot.com/serpent-s-hand-hub The Serpent's Hand] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 391,
-        "tag": "unusual-cargo",
-        "desc": "Of or related to the Commission on Unusual Cargo.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "shark-punching-center",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/spc-hub Shark Punching Center] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 392,
-        "tag": "unusual-incidents-unit",
-        "desc": "Of or related to the Federal Bureau of Investigation Unusual Incidents Unit (UIU) group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "silicon-nornir",
+        "desc": "Of or related to the Servants of the Silicon Nornir religion, a member of the GOC's Council of 108.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 393,
-        "tag": "vikander-kneed",
-        "desc": "Of or related to the Vikander-Kneed Technical Media group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "sugarcomb-confectionery",
+        "desc": "Of or related to the Sugarcomb Confectionery group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 394,
-        "tag": "wandsmen",
-        "desc": "Of of related to the Wandsmen group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "three-moons-initiative",
+        "desc": "Of or related to [https://scp-wiki.wikidot.com/three-moons-initiative-hub The Three Moons Initiative] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 395,
-        "tag": "westhead-media",
-        "desc": "Of or related to the Westhead Media group of interest.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "totleighsoft",
+        "desc": "Of or related to the anomalous software development corporation TotleighSoft.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 396,
-        "tag": "wilsons-wildlife",
-        "desc": "Of or related to the Wilson's Wildlife organization.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "unusual-cargo",
+        "desc": "Of or related to the Commission on Unusual Cargo.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 397,
-        "tag": "xia-dynasty",
-        "desc": "Of or related to the Xia Dynasty.",
-        "category": "Groups of Interest",
-        "list": "",
-        "type": ""
+        "tag": "unusual-incidents-unit",
+        "desc": "Of or related to the Federal Bureau of Investigation [https://scp-wiki.wikidot.com/unusual-incidents-unit-hub Unusual Incidents Unit (UIU)] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
     },
     {
         "id": 398,
+        "tag": "valravn",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/valravn-corporation-hub Valravn Corporation] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
+    },
+    {
+        "id": 399,
+        "tag": "vikander-kneed",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/vikander-kneed-technical-media-hub Vikander-Kneed Technical Media] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
+    },
+    {
+        "id": 400,
+        "tag": "wandsmen",
+        "desc": "Of of related to [https://scp-wiki.wikidot.com/wandsmen-hub The Wandsmen] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
+    },
+    {
+        "id": 401,
+        "tag": "westhead-media",
+        "desc": "Of or related to the Westhead Media group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
+    },
+    {
+        "id": 402,
+        "tag": "wilsons-wildlife",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/wilson-s-wildlife-solutions-hub Wilson's Wildlife Solutions] group of interest.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
+    },
+    {
+        "id": 403,
+        "tag": "xia-dynasty",
+        "desc": "Of or related to the Xia Dynasty.",
+        "type": "Groups of Interest",
+        "category": "Groups",
+        "list": ""
+    },
+    {
+        "id": 404,
         "tag": "_alexylva",
         "desc": "An article following the Alexylva Universiy format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 399,
+        "id": 405,
         "tag": "_ambrose-restaurant",
         "desc": "An article following the Ambrose Restaurants format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 400,
+        "id": 406,
         "tag": "_anderson",
         "desc": "An article following the Anderson Robotics format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 401,
+        "id": 407,
         "tag": "_arcadia",
         "desc": "An article following the Arcadia format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 402,
+        "id": 408,
         "tag": "_are-we-cool-yet",
         "desc": "An article following the Are We Cool Yet? format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 403,
+        "id": 409,
         "tag": "_black-queen",
         "desc": "An article following the Black Queen format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 404,
+        "id": 410,
         "tag": "_broken-god",
         "desc": "An article following the Church of the Broken God format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 405,
+        "id": 411,
         "tag": "_chaos-insurgency",
         "desc": "An article following the Chaos Insurgency format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 406,
+        "id": 412,
         "tag": "_chicago-spirit",
         "desc": "An article following the Chicago Spirit format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 407,
+        "id": 413,
         "tag": "_deer-college",
         "desc": "An article following the Deer College format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 408,
+        "id": 414,
         "tag": "_eric",
         "desc": "An article following the Eric format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 409,
+        "id": 415,
         "tag": "_factory",
         "desc": "An article following the Factory format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 410,
+        "id": 416,
         "tag": "_fifthist",
         "desc": "An article following the Fifthist format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 411,
+        "id": 417,
         "tag": "_global-occult-coalition",
         "desc": "An article following the Global Occult Coalition format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 412,
+        "id": 418,
         "tag": "_gru-division-p",
         "desc": "An article following the GRU Division P format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 413,
+        "id": 419,
         "tag": "_herman-fuller",
         "desc": "An article following the Herman Fuller format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 414,
+        "id": 420,
         "tag": "_horizon-initiative",
         "desc": "An article following the Horizon Initiative format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 415,
+        "id": 421,
         "tag": "_icsut",
         "desc": "An article following the International Center for the Study of Unified Thaumatology.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 416,
+        "id": 422,
         "tag": "_ijamea",
         "desc": "An article following the IJAMEA format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 417,
+        "id": 423,
         "tag": "_la-rue-macabre",
         "desc": "An article following the La Rue Macabre format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 418,
+        "id": 424,
         "tag": "_madao",
         "desc": "An article following the Medicea Accademia format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 419,
+        "id": 425,
         "tag": "_manna-charitable-foundation",
         "desc": "An article following the Manna Charitable Foundation format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 420,
+        "id": 426,
         "tag": "_marshall-carter-and-dark",
         "desc": "An article following the Marshall, Carter and Dark format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 421,
+        "id": 427,
         "tag": "_nobody",
         "desc": "An article following the Nobody format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 422,
+        "id": 428,
         "tag": "_oneiroi",
         "desc": "An article following the Oneiroi format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 423,
+        "id": 429,
+        "tag": "_oria",
+        "desc": "An article following the ORIA format.",
+        "category": "GoI Formats",
+        "list": []
+    },
+    {
+        "id": 430,
         "tag": "_prometheus",
         "desc": "An article following the Prometheus format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 424,
-        "tag": "_reclamation",
-        "desc": "An article following the Reclamation format.",
-        "category": "GoI Formats",
-        "list": []
-    },
-    {
-        "id": 425,
+        "id": 431,
         "tag": "_sapphire",
         "desc": "An article following the SAPPHIRE format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 426,
+        "id": 432,
         "tag": "_sarkic",
         "desc": "An article following the Sarkic format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 427,
+        "id": 433,
         "tag": "_second-hytoth",
         "desc": "An article following the Second Hytoth format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 428,
+        "id": 434,
         "tag": "_serpents-hand",
         "desc": "An article following the Serpents' Hand format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 429,
+        "id": 435,
         "tag": "_shark-punching-center",
         "desc": "An article following the Shark Punching Center format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 430,
+        "id": 436,
         "tag": "_three-moons-initiative",
         "desc": "An article following the Three Moons Initiative format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 431,
+        "id": 437,
         "tag": "_unusual-cargo",
         "desc": "An article following the Unusual Cargo format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 432,
+        "id": 438,
         "tag": "_unusual-incidents-unit",
         "desc": "An article following the Unusual Incidents Unit format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 433,
+        "id": 439,
+        "tag": "_valravn",
+        "desc": "An article following the Valravn corporation format.",
+        "category": "GoI Formats",
+        "list": []
+    },
+    {
+        "id": 440,
         "tag": "_wandsmen",
         "desc": "An article following the Wandsmen format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 434,
+        "id": 441,
         "tag": "_wilsons-wildlife",
         "desc": "An article following the Wilsons' Wildlife format.",
         "category": "GoI Formats",
         "list": []
     },
     {
-        "id": 460,
+        "id": 468,
         "tag": "_other",
         "desc": "A GoI Format following a format not associated with a tagged Group of Interest.",
         "category": "GoI Formats",
@@ -2641,7 +2690,7 @@
         "type": ""
     },
     {
-        "id": 473,
+        "id": 481,
         "tag": "aces-and-eights",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/aces-and-eights Aces and Eights] canon.",
         "category": "Canons",
@@ -2649,7 +2698,7 @@
         "type": ""
     },
     {
-        "id": 474,
+        "id": 482,
         "tag": "aiad",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/aiad-homescreen AIAD] canon.",
         "category": "Canons",
@@ -2657,7 +2706,7 @@
         "type": ""
     },
     {
-        "id": 475,
+        "id": 483,
         "tag": "ad-astra",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/ad-astra-per-aspera-hub Ad Astra Per Aspera] canon.",
         "category": "Canons",
@@ -2665,7 +2714,7 @@
         "type": ""
     },
     {
-        "id": 476,
+        "id": 484,
         "tag": "alchemy-department",
         "desc": "Of or related to [https://scp-wiki.wikidot.com/the-alchemy-department-hub The Alchemy Department] canon.",
         "category": "Canons",
@@ -2673,7 +2722,7 @@
         "type": ""
     },
     {
-        "id": 477,
+        "id": 485,
         "tag": "antarctic-exchange",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/antarctic-exchange-hub Antarctic Exchange] canon.",
         "category": "Canons",
@@ -2681,7 +2730,7 @@
         "type": ""
     },
     {
-        "id": 478,
+        "id": 486,
         "tag": "apotheosis",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/antarctic-exchange-hub Apotheosis] canon.",
         "category": "Canons",
@@ -2689,7 +2738,7 @@
         "type": ""
     },
     {
-        "id": 479,
+        "id": 487,
         "tag": "bellerverse",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/bellerverse Bellerverse] canon.",
         "category": "Canons",
@@ -2697,7 +2746,7 @@
         "type": ""
     },
     {
-        "id": 480,
+        "id": 488,
         "tag": "black-rabbit-company",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/stealingsolidarityhub Stealing Solidarity] canon.",
         "category": "Canons",
@@ -2705,7 +2754,7 @@
         "type": ""
     },
     {
-        "id": 481,
+        "id": 489,
         "tag": "broken-masquerade",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/broken-masquerade-hub Broken Masquerade] canon.",
         "category": "Canons",
@@ -2713,7 +2762,7 @@
         "type": ""
     },
     {
-        "id": 482,
+        "id": 490,
         "tag": "competitive-eschatology",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/Competitive-Eschatology-Hub Competitive Eschatology] canon.",
         "category": "Canons",
@@ -2721,7 +2770,7 @@
         "type": ""
     },
     {
-        "id": 483,
+        "id": 491,
         "tag": "cool-war-2",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/cool-war-2-hub Cool War 2: Ruiz From Your Grave] canon.",
         "category": "Canons",
@@ -2729,7 +2778,7 @@
         "type": ""
     },
     {
-        "id": 484,
+        "id": 492,
         "tag": "daybreak",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/daybreak Daybreak] canon.",
         "category": "Canons",
@@ -2737,7 +2786,7 @@
         "type": ""
     },
     {
-        "id": 485,
+        "id": 493,
         "tag": "deepwell-catalog",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/site-17-hub Site-17 Deepwell] canon.",
         "category": "Canons",
@@ -2745,7 +2794,7 @@
         "type": ""
     },
     {
-        "id": 486,
+        "id": 494,
         "tag": "doctors-of-the-church",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/doctors-of-the-church-hub Doctors of the Church] canon.",
         "category": "Canons",
@@ -2753,7 +2802,7 @@
         "type": ""
     },
     {
-        "id": 487,
+        "id": 495,
         "tag": "dread&circuses",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/dread-circuses-hub Dread and Circuses] canon.",
         "category": "Canons",
@@ -2761,7 +2810,7 @@
         "type": ""
     },
     {
-        "id": 488,
+        "id": 496,
         "tag": "end-of-death",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/end-of-death-hub End of Death] canon.",
         "category": "Canons",
@@ -2769,7 +2818,7 @@
         "type": ""
     },
     {
-        "id": 489,
+        "id": 497,
         "tag": "etdp",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] canon.",
         "category": "Canons",
@@ -2777,7 +2826,7 @@
         "type": ""
     },
     {
-        "id": 490,
+        "id": 498,
         "tag": "from-120s-archives",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/from-120-s-archives-hub From 120's Archives] canon.",
         "category": "Canons",
@@ -2785,7 +2834,7 @@
         "type": ""
     },
     {
-        "id": 491,
+        "id": 499,
         "tag": "green-king",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/codename-green-king-hub Codename: Green King hub].",
         "category": "Canons",
@@ -2793,7 +2842,7 @@
         "type": ""
     },
     {
-        "id": 492,
+        "id": 500,
         "tag": "heimdall",
         "desc": "Of or related to [https://scp-wiki.wikidot.com/Project-Heimdall Project Heimdall].",
         "category": "Canons",
@@ -2801,7 +2850,7 @@
         "type": ""
     },
     {
-        "id": 493,
+        "id": 501,
         "tag": "insect-hell",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/arbh-class-hub Insect Hell] canon.",
         "category": "Canons",
@@ -2809,7 +2858,7 @@
         "type": ""
     },
     {
-        "id": 494,
+        "id": 502,
         "tag": "lolfoundation",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/lolfoundation-hub-page lolFoundation] canon.",
         "category": "Canons",
@@ -2817,7 +2866,7 @@
         "type": ""
     },
     {
-        "id": 495,
+        "id": 503,
         "tag": "man-who-wasnt-there",
         "desc": "Of or relating to [https://scp-wiki.wikidot.com/the-man-who-wasnt-there-hub The Man Who Wasn't There] canon.",
         "category": "Canons",
@@ -2825,7 +2874,7 @@
         "type": ""
     },
     {
-        "id": 496,
+        "id": 504,
         "tag": "memoria-adytum",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/memoria-adytum In Memoria, Adytum] canon.",
         "category": "Canons",
@@ -2833,7 +2882,7 @@
         "type": ""
     },
     {
-        "id": 497,
+        "id": 505,
         "tag": "nightfall",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/nightfall-hub Nightfall] canon.",
         "category": "Canons",
@@ -2841,7 +2890,7 @@
         "type": ""
     },
     {
-        "id": 498,
+        "id": 506,
         "tag": "no-return",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/no-return-hub No Return] canon.",
         "category": "Canons",
@@ -2849,7 +2898,7 @@
         "type": ""
     },
     {
-        "id": 499,
+        "id": 507,
         "tag": "old-man-in-the-sea",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/old-man-in-the-sea-hub Old Man in the Sea] canon.",
         "category": "Canons",
@@ -2857,7 +2906,7 @@
         "type": ""
     },
     {
-        "id": 500,
+        "id": 508,
         "tag": "on-guard-43",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/on-guard-43-hub On Guard 43] canon.",
         "category": "Canons",
@@ -2865,7 +2914,7 @@
         "type": ""
     },
     {
-        "id": 501,
+        "id": 509,
         "tag": "on-mount-golgotha",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/on-mount-golgotha-hub On Mount Golgotha] canon.",
         "category": "Canons",
@@ -2873,7 +2922,7 @@
         "type": ""
     },
     {
-        "id": 502,
+        "id": 510,
         "tag": "only-game-in-town",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/only-game-in-town-hub Only Game in Town] canon.",
         "category": "Canons",
@@ -2881,7 +2930,7 @@
         "type": ""
     },
     {
-        "id": 503,
+        "id": 511,
         "tag": "orcadia",
         "desc": "Of or related to the Seas of Orcadia canon.",
         "category": "Canons",
@@ -2889,7 +2938,7 @@
         "type": ""
     },
     {
-        "id": 504,
+        "id": 512,
         "tag": "pitch-haven",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/pitch-haven-hub Pitch Haven] canon.",
         "category": "Canons",
@@ -2897,7 +2946,7 @@
         "type": ""
     },
     {
-        "id": 505,
+        "id": 513,
         "tag": "rats-nest",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/rat-s-nest-hub Rat's Nest] canon.",
         "category": "Canons",
@@ -2905,7 +2954,7 @@
         "type": ""
     },
     {
-        "id": 506,
+        "id": 514,
         "tag": "resurrection",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/resurrection Resurrection] project.",
         "category": "Canons",
@@ -2913,7 +2962,7 @@
         "type": ""
     },
     {
-        "id": 507,
+        "id": 515,
         "tag": "s&c-plastics",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/the-s-c-plastics-hub S & C Plastics] canon.",
         "category": "Canons",
@@ -2921,7 +2970,7 @@
         "type": ""
     },
     {
-        "id": 508,
+        "id": 516,
         "tag": "ship-in-a-bottle",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/siabhub Ship In A Bottle] canon.",
         "category": "Canons",
@@ -2929,7 +2978,7 @@
         "type": ""
     },
     {
-        "id": 509,
+        "id": 517,
         "tag": "sotm",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/sotmhub Straight On Till Morning] canon.",
         "category": "Canons",
@@ -2937,7 +2986,7 @@
         "type": ""
     },
     {
-        "id": 510,
+        "id": 518,
         "tag": "the-coldest-war",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/the-coldest-war-hub Coldest War] canon.",
         "category": "Canons",
@@ -2945,7 +2994,7 @@
         "type": ""
     },
     {
-        "id": 511,
+        "id": 519,
         "tag": "the-gulf",
         "desc": "Of or related to [https://scp-wiki.wikidot.com/The-Gulf The Gulf] canon.",
         "category": "Canons",
@@ -2953,7 +3002,7 @@
         "type": ""
     },
     {
-        "id": 512,
+        "id": 520,
         "tag": "the-trashfire",
         "desc": "Of or relating to [https://scp-wiki.wikidot.com/the-trashfire The Trashfire] canon.",
         "category": "Canons",
@@ -2961,7 +3010,7 @@
         "type": ""
     },
     {
-        "id": 513,
+        "id": 521,
         "tag": "third-law",
         "desc": "Of or pertaining to the [https://scp-wiki.wikidot.com/third-law-hub Third Law] canon.",
         "category": "Canons",
@@ -2969,7 +3018,7 @@
         "type": ""
     },
     {
-        "id": 514,
+        "id": 522,
         "tag": "twisted-pines",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/those-twisted-pines-hub Those Twisted Pines] canon.",
         "category": "Canons",
@@ -2977,7 +3026,7 @@
         "type": ""
     },
     {
-        "id": 515,
+        "id": 523,
         "tag": "unfounded",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/unfounded-hub Unfounded] canon.",
         "category": "Canons",
@@ -2985,7 +3034,7 @@
         "type": ""
     },
     {
-        "id": 516,
+        "id": 524,
         "tag": "unhuman",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/unhuman-hub UnHuman] canon.",
         "category": "Canons",
@@ -2993,7 +3042,7 @@
         "type": ""
     },
     {
-        "id": 517,
+        "id": 525,
         "tag": "war-on-all-fronts",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/war-on-all-fronts-hub War On All Fronts] canon.",
         "category": "Canons",
@@ -3001,7 +3050,7 @@
         "type": ""
     },
     {
-        "id": 518,
+        "id": 526,
         "tag": "wonderful-world",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/wonder-world What a Wonderful World] canon.",
         "category": "Canons",
@@ -3009,7 +3058,7 @@
         "type": ""
     },
     {
-        "id": 519,
+        "id": 527,
         "tag": "anabasis",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/anabasis-hub Anabasis] stories.",
         "category": "Tale Series",
@@ -3017,7 +3066,7 @@
         "type": ""
     },
     {
-        "id": 520,
+        "id": 528,
         "tag": "ao-tale",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/ao-hub Tales of Anomalous Items] stories.",
         "category": "Tale Series",
@@ -3025,7 +3074,15 @@
         "type": ""
     },
     {
-        "id": 521,
+        "id": 529,
+        "tag": "bury-the-survivors",
+        "desc": "Of or related to the [https://scp-wiki.wikidot.com/bury-the-survivors-hub Bury the Survivors] series.",
+        "category": "Tale Series",
+        "list": "",
+        "type": ""
+    },
+    {
+        "id": 530,
         "tag": "classical-revival",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.",
         "category": "Tale Series",
@@ -3033,7 +3090,7 @@
         "type": ""
     },
     {
-        "id": 522,
+        "id": 531,
         "tag": "collector-tale",
         "desc": "Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).",
         "category": "Tale Series",
@@ -3041,7 +3098,7 @@
         "type": ""
     },
     {
-        "id": 523,
+        "id": 532,
         "tag": "goc-casefiles",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#toc111 Global Occult Coalition Casefiles] stories.",
         "category": "Tale Series",
@@ -3049,7 +3106,7 @@
         "type": ""
     },
     {
-        "id": 524,
+        "id": 533,
         "tag": "kiryu-labs",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.",
         "category": "Tale Series",
@@ -3057,7 +3114,7 @@
         "type": ""
     },
     {
-        "id": 525,
+        "id": 534,
         "tag": "mister",
         "desc": "Of or related to the \"Little Misters\" series of anomalous individuals.",
         "category": "Tale Series",
@@ -3065,7 +3122,15 @@
         "type": ""
     },
     {
-        "id": 526,
+        "id": 535,
+        "tag": "old-foes",
+        "desc": "Of or related to the Resurection: Old Foes series.",
+        "category": "Tale Series",
+        "list": "",
+        "type": ""
+    },
+    {
+        "id": 536,
         "tag": "olympia",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].",
         "category": "Tale Series",
@@ -3073,7 +3138,7 @@
         "type": ""
     },
     {
-        "id": 527,
+        "id": 537,
         "tag": "orientation",
         "desc": "Of or related to the Orientation series.",
         "category": "Tale Series",
@@ -3081,7 +3146,7 @@
         "type": ""
     },
     {
-        "id": 528,
+        "id": 538,
         "tag": "palisade",
         "desc": "Of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.",
         "category": "Tale Series",
@@ -3089,7 +3154,7 @@
         "type": ""
     },
     {
-        "id": 529,
+        "id": 539,
         "tag": "project-crossover",
         "desc": "Of or related to [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].",
         "category": "Tale Series",
@@ -3097,7 +3162,7 @@
         "type": ""
     },
     {
-        "id": 530,
+        "id": 540,
         "tag": "project-thaumiel",
         "desc": "Of or related to [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].",
         "category": "Tale Series",
@@ -3105,7 +3170,7 @@
         "type": ""
     },
     {
-        "id": 531,
+        "id": 541,
         "tag": "team-bird",
         "desc": "Of or related to [https://scp-wiki.wikidot.com/bird Team Bird].",
         "category": "Tale Series",
@@ -3113,7 +3178,7 @@
         "type": ""
     },
     {
-        "id": 532,
+        "id": 542,
         "tag": "time-after-time-password",
         "desc": "Of or related to the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.",
         "category": "Tale Series",
@@ -3121,7 +3186,7 @@
         "type": ""
     },
     {
-        "id": 533,
+        "id": 543,
         "tag": "8-ball",
         "desc": "8-ball, aka 8B-A1.",
         "category": "Characters",
@@ -3129,7 +3194,7 @@
         "type": ""
     },
     {
-        "id": 534,
+        "id": 544,
         "tag": "aaron-siegel",
         "desc": "Aaron Siegel.",
         "category": "Characters",
@@ -3137,7 +3202,7 @@
         "type": ""
     },
     {
-        "id": 535,
+        "id": 545,
         "tag": "able",
         "desc": "Able, aka SCP-076.",
         "category": "Characters",
@@ -3145,7 +3210,7 @@
         "type": ""
     },
     {
-        "id": 536,
+        "id": 546,
         "tag": "agent-green",
         "desc": "Agent Green.",
         "category": "Characters",
@@ -3153,7 +3218,7 @@
         "type": ""
     },
     {
-        "id": 537,
+        "id": 547,
         "tag": "agent-kazmarek",
         "desc": "Agent Travis Kazmarek.",
         "category": "Characters",
@@ -3161,7 +3226,7 @@
         "type": ""
     },
     {
-        "id": 538,
+        "id": 548,
         "tag": "agent-laferrier",
         "desc": "Agent V.A. LaFerrier.",
         "category": "Characters",
@@ -3169,7 +3234,7 @@
         "type": ""
     },
     {
-        "id": 539,
+        "id": 549,
         "tag": "agent-lament",
         "desc": "Agent Troy Lament.",
         "category": "Characters",
@@ -3177,7 +3242,7 @@
         "type": ""
     },
     {
-        "id": 540,
+        "id": 550,
         "tag": "agent-lurk",
         "desc": "Agent Dietrich M. Lurk.",
         "category": "Characters",
@@ -3185,7 +3250,7 @@
         "type": ""
     },
     {
-        "id": 541,
+        "id": 551,
         "tag": "agent-merlo",
         "desc": "Agent Sasha Merlo.",
         "category": "Characters",
@@ -3193,7 +3258,7 @@
         "type": ""
     },
     {
-        "id": 542,
+        "id": 552,
         "tag": "agent-navarro",
         "desc": "Agent Daniel Navarro.",
         "category": "Characters",
@@ -3201,7 +3266,7 @@
         "type": ""
     },
     {
-        "id": 543,
+        "id": 553,
         "tag": "agent-popescu",
         "desc": "Agent Lucretia Popescu.",
         "category": "Characters",
@@ -3209,7 +3274,7 @@
         "type": ""
     },
     {
-        "id": 544,
+        "id": 554,
         "tag": "agent-strelnikov",
         "desc": "Agent Dmitri Strelnikov.",
         "category": "Characters",
@@ -3217,7 +3282,7 @@
         "type": ""
     },
     {
-        "id": 545,
+        "id": 555,
         "tag": "agent-trauss",
         "desc": "Agent Trauss, aka C-51174.",
         "category": "Characters",
@@ -3225,7 +3290,7 @@
         "type": ""
     },
     {
-        "id": 546,
+        "id": 556,
         "tag": "agent-yoric",
         "desc": "Agent Yoric Elroy, aka Jack \"Poor Yoric\" Dawkins.",
         "category": "Characters",
@@ -3233,7 +3298,7 @@
         "type": ""
     },
     {
-        "id": 547,
+        "id": 557,
         "tag": "aldon",
         "desc": "Aldon.",
         "category": "Characters",
@@ -3241,7 +3306,7 @@
         "type": ""
     },
     {
-        "id": 548,
+        "id": 558,
         "tag": "alexandra",
         "desc": "Alexandra, AI unit.",
         "category": "Characters",
@@ -3249,7 +3314,7 @@
         "type": ""
     },
     {
-        "id": 549,
+        "id": 559,
         "tag": "alexei-belitrov",
         "desc": "Alexei Belitrov, aka SCP-2273.",
         "category": "Characters",
@@ -3257,7 +3322,7 @@
         "type": ""
     },
     {
-        "id": 550,
+        "id": 560,
         "tag": "alleged-god",
         "desc": "SCP-343, aka \"God\".",
         "category": "Characters",
@@ -3265,7 +3330,7 @@
         "type": ""
     },
     {
-        "id": 551,
+        "id": 561,
         "tag": "bailey-brothers",
         "desc": "Tristan, Thomas and Trevor Bailey.",
         "category": "Characters",
@@ -3273,7 +3338,7 @@
         "type": ""
     },
     {
-        "id": 552,
+        "id": 562,
         "tag": "big-cheese-horace",
         "desc": "Big Cheese Horace of the Fifthists.",
         "category": "Characters",
@@ -3281,7 +3346,7 @@
         "type": ""
     },
     {
-        "id": 553,
+        "id": 563,
         "tag": "bobble-the-clown",
         "desc": "Bobble The Clown, aka SCP-993.",
         "category": "Characters",
@@ -3289,7 +3354,7 @@
         "type": ""
     },
     {
-        "id": 554,
+        "id": 564,
         "tag": "bones",
         "desc": "Bones, aka SCP-2721-LORD or Eli.",
         "category": "Characters",
@@ -3297,7 +3362,7 @@
         "type": ""
     },
     {
-        "id": 555,
+        "id": 565,
         "tag": "brainy-brian",
         "desc": "Brainy Brian of Wondertainment/MC&D, also known as 'Doctor Neurosis'.",
         "category": "Characters",
@@ -3305,7 +3370,7 @@
         "type": ""
     },
     {
-        "id": 556,
+        "id": 566,
         "tag": "cain",
         "desc": "Cain, aka SCP-073.",
         "category": "Characters",
@@ -3313,7 +3378,7 @@
         "type": ""
     },
     {
-        "id": 557,
+        "id": 567,
         "tag": "chaz-ambrose",
         "desc": "Chaz Ambrose, founder of Ambrose Restaurants.",
         "category": "Characters",
@@ -3321,7 +3386,7 @@
         "type": ""
     },
     {
-        "id": 558,
+        "id": 568,
         "tag": "cousin-johnny",
         "desc": "Cousin Johnny, aka SCP-2852.",
         "category": "Characters",
@@ -3329,7 +3394,7 @@
         "type": ""
     },
     {
-        "id": 559,
+        "id": 569,
         "tag": "d-7294",
         "desc": "D-7294.",
         "category": "Characters",
@@ -3337,7 +3402,7 @@
         "type": ""
     },
     {
-        "id": 560,
+        "id": 570,
         "tag": "d-11424",
         "desc": "D-11424.",
         "category": "Characters",
@@ -3345,15 +3410,23 @@
         "type": ""
     },
     {
-        "id": 561,
+        "id": 571,
         "tag": "dado",
-        "desc": "dado is taking care of u in dis one. u no worry.",
+        "desc": "[https://scp-wiki.wikidot.com/dado-hub dado] is taking care of u in dis one. u no worry.",
         "category": "Characters",
         "list": "",
         "type": ""
     },
     {
-        "id": 562,
+        "id": 572,
+        "tag": "damien-nowak",
+        "desc": "Damien Nowak.",
+        "category": "Characters",
+        "list": "",
+        "type": ""
+    },
+    {
+        "id": 573,
         "tag": "dc-al-fine",
         "desc": "D.C. al Fine, Undersecretary-General of the Global Occult Coalition.",
         "category": "Characters",
@@ -3361,7 +3434,7 @@
         "type": ""
     },
     {
-        "id": 563,
+        "id": 574,
         "tag": "director-aktus",
         "desc": "Director Aktus.",
         "category": "Characters",
@@ -3369,7 +3442,7 @@
         "type": ""
     },
     {
-        "id": 564,
+        "id": 575,
         "tag": "director-bold",
         "desc": "Director Cal Bold of the Decommissioning Department.",
         "category": "Characters",
@@ -3377,7 +3450,7 @@
         "type": ""
     },
     {
-        "id": 565,
+        "id": 576,
         "tag": "director-diaghilev",
         "desc": "Director Ruslav Diaghilev of the Alchemy Department.",
         "category": "Characters",
@@ -3385,7 +3458,7 @@
         "type": ""
     },
     {
-        "id": 566,
+        "id": 577,
         "tag": "director-gillespie",
         "desc": "Director Gillespie.",
         "category": "Characters",
@@ -3393,7 +3466,7 @@
         "type": ""
     },
     {
-        "id": 567,
+        "id": 578,
         "tag": "director-mcinnis",
         "desc": "Dr. Allan J. McInnis, Director of Site-43.",
         "category": "Characters",
@@ -3401,7 +3474,7 @@
         "type": ""
     },
     {
-        "id": 568,
+        "id": 579,
         "tag": "director-mctiriss",
         "desc": "Director Kate McTiriss.",
         "category": "Characters",
@@ -3409,7 +3482,7 @@
         "type": ""
     },
     {
-        "id": 569,
+        "id": 580,
         "tag": "director-moose",
         "desc": "Director Moose.",
         "category": "Characters",
@@ -3417,7 +3490,7 @@
         "type": ""
     },
     {
-        "id": 570,
+        "id": 581,
         "tag": "director-lague",
         "desc": "Director Paul Lague, of the Integration Program and Site-322.",
         "category": "Characters",
@@ -3425,7 +3498,7 @@
         "type": ""
     },
     {
-        "id": 571,
+        "id": 582,
         "tag": "django-bridge",
         "desc": "Django Bridge.",
         "category": "Characters",
@@ -3433,7 +3506,7 @@
         "type": ""
     },
     {
-        "id": 572,
+        "id": 583,
         "tag": "doctor-asheworth",
         "desc": "Dr. Daniel Asheworth.",
         "category": "Characters",
@@ -3441,7 +3514,7 @@
         "type": ""
     },
     {
-        "id": 573,
+        "id": 584,
         "tag": "doctor-blank",
         "desc": "Dr. Harold R. Blank.",
         "category": "Characters",
@@ -3449,7 +3522,7 @@
         "type": ""
     },
     {
-        "id": 574,
+        "id": 585,
         "tag": "doctor-bright",
         "desc": "Dr. Bright.",
         "category": "Characters",
@@ -3457,7 +3530,7 @@
         "type": ""
     },
     {
-        "id": 575,
+        "id": 586,
         "tag": "doctor-cimmerian",
         "desc": "Dr. Cimmerian.",
         "category": "Characters",
@@ -3465,7 +3538,7 @@
         "type": ""
     },
     {
-        "id": 576,
+        "id": 587,
         "tag": "doctor-clef",
         "desc": "Dr. Alto Clef.",
         "category": "Characters",
@@ -3473,7 +3546,7 @@
         "type": ""
     },
     {
-        "id": 577,
+        "id": 588,
         "tag": "doctor-dan",
         "desc": "Dr. Dan ███████, of SCP-096.",
         "category": "Characters",
@@ -3481,7 +3554,7 @@
         "type": ""
     },
     {
-        "id": 578,
+        "id": 589,
         "tag": "doctor-edison",
         "desc": "Dr. Michael Edison.",
         "category": "Characters",
@@ -3489,7 +3562,7 @@
         "type": ""
     },
     {
-        "id": 579,
+        "id": 590,
         "tag": "doctor-elliott",
         "desc": "Dr. Chelsea Elliott.",
         "category": "Characters",
@@ -3497,7 +3570,7 @@
         "type": ""
     },
     {
-        "id": 580,
+        "id": 591,
         "tag": "doctor-everwood",
         "desc": "Dr. Everwood, GOI specialist.",
         "category": "Characters",
@@ -3505,7 +3578,7 @@
         "type": ""
     },
     {
-        "id": 581,
+        "id": 592,
         "tag": "doctor-fynegan",
         "desc": "Dr. Fynegan.",
         "category": "Characters",
@@ -3513,7 +3586,7 @@
         "type": ""
     },
     {
-        "id": 582,
+        "id": 593,
         "tag": "doctor-gears",
         "desc": "Dr. Gears.",
         "category": "Characters",
@@ -3521,7 +3594,7 @@
         "type": ""
     },
     {
-        "id": 583,
+        "id": 594,
         "tag": "doctor-gerald",
         "desc": "Dr. Gerald.",
         "category": "Characters",
@@ -3529,7 +3602,7 @@
         "type": ""
     },
     {
-        "id": 584,
+        "id": 595,
         "tag": "doctor-glass",
         "desc": "Dr. Simon Glass.",
         "category": "Characters",
@@ -3537,7 +3610,7 @@
         "type": ""
     },
     {
-        "id": 585,
+        "id": 596,
         "tag": "doctor-heiden",
         "desc": "Dr. Frederick Heiden.",
         "category": "Characters",
@@ -3545,7 +3618,7 @@
         "type": ""
     },
     {
-        "id": 586,
+        "id": 597,
         "tag": "doctor-hoygull",
         "desc": "Dr. Hoygull, Avian Division.",
         "category": "Characters",
@@ -3553,7 +3626,7 @@
         "type": ""
     },
     {
-        "id": 587,
+        "id": 598,
         "tag": "doctor-iceberg",
         "desc": "Dr. Iceberg.",
         "category": "Characters",
@@ -3561,7 +3634,7 @@
         "type": ""
     },
     {
-        "id": 588,
+        "id": 599,
         "tag": "doctor-king",
         "desc": "Dr. King.",
         "category": "Characters",
@@ -3569,7 +3642,7 @@
         "type": ""
     },
     {
-        "id": 589,
+        "id": 600,
         "tag": "doctor-kondraki",
         "desc": "Dr. Kondraki.",
         "category": "Characters",
@@ -3577,7 +3650,7 @@
         "type": ""
     },
     {
-        "id": 590,
+        "id": 601,
         "tag": "doctor-light",
         "desc": "Dr. Sophia N. Light.",
         "category": "Characters",
@@ -3585,7 +3658,7 @@
         "type": ""
     },
     {
-        "id": 591,
+        "id": 602,
         "tag": "doctor-lillihammer",
         "desc": "Dr. Lillian S. Lillihammer.",
         "category": "Characters",
@@ -3593,7 +3666,7 @@
         "type": ""
     },
     {
-        "id": 592,
+        "id": 603,
         "tag": "doctor-mann",
         "desc": "Dr. Everett Mann.",
         "category": "Characters",
@@ -3601,7 +3674,7 @@
         "type": ""
     },
     {
-        "id": 593,
+        "id": 604,
         "tag": "doctor-mcdoctorate",
         "desc": "Dr. Placeholder McDoctorate.",
         "category": "Characters",
@@ -3609,7 +3682,7 @@
         "type": ""
     },
     {
-        "id": 594,
+        "id": 605,
         "tag": "doctor-reynders",
         "desc": "Dr. Ilse Reynders.",
         "category": "Characters",
@@ -3617,7 +3690,7 @@
         "type": ""
     },
     {
-        "id": 595,
+        "id": 606,
         "tag": "doctor-rights",
         "desc": "Dr. Rights.",
         "category": "Characters",
@@ -3625,7 +3698,7 @@
         "type": ""
     },
     {
-        "id": 596,
+        "id": 607,
         "tag": "doctor-rivera",
         "desc": "Dr. Jessie Rivera.",
         "category": "Characters",
@@ -3633,7 +3706,7 @@
         "type": ""
     },
     {
-        "id": 597,
+        "id": 608,
         "tag": "doctor-roget",
         "desc": "Dr. Ralph Roget.",
         "category": "Characters",
@@ -3641,7 +3714,7 @@
         "type": ""
     },
     {
-        "id": 598,
+        "id": 609,
         "tag": "doctor-thereven",
         "desc": "Doctor Cole Thereven.",
         "category": "Characters",
@@ -3649,7 +3722,7 @@
         "type": ""
     },
     {
-        "id": 599,
+        "id": 610,
         "tag": "doctor-sinclair",
         "desc": "Dr. Katherine Sinclair.",
         "category": "Characters",
@@ -3657,7 +3730,7 @@
         "type": ""
     },
     {
-        "id": 600,
+        "id": 611,
         "tag": "doctor-sorts",
         "desc": "Dr. Johannes Sorts.",
         "category": "Characters",
@@ -3665,7 +3738,7 @@
         "type": ""
     },
     {
-        "id": 601,
+        "id": 612,
         "tag": "doctor-spanko",
         "desc": "Dr. Spanko.",
         "category": "Characters",
@@ -3673,7 +3746,7 @@
         "type": ""
     },
     {
-        "id": 602,
+        "id": 613,
         "tag": "doctor-vang",
         "desc": "Dr. S. Vang.",
         "category": "Characters",
@@ -3681,7 +3754,7 @@
         "type": ""
     },
     {
-        "id": 603,
+        "id": 614,
         "tag": "doctor-wettle",
         "desc": "Dr. William Wallace Wettle.",
         "category": "Characters",
@@ -3689,7 +3762,7 @@
         "type": ""
     },
     {
-        "id": 604,
+        "id": 615,
         "tag": "donkman",
         "desc": "Ulysses B. Donkman.",
         "category": "Characters",
@@ -3697,7 +3770,7 @@
         "type": ""
     },
     {
-        "id": 605,
+        "id": 616,
         "tag": "draven-kondraki",
         "desc": "Dr./Director Draven Kondraki.",
         "category": "Characters",
@@ -3705,7 +3778,7 @@
         "type": ""
     },
     {
-        "id": 606,
+        "id": 617,
         "tag": "eric",
         "desc": "Eric, a mysterious character.",
         "category": "Characters",
@@ -3713,7 +3786,7 @@
         "type": ""
     },
     {
-        "id": 607,
+        "id": 618,
         "tag": "esther-kogan",
         "desc": "Esther Kogan, aka lesbian_gengar of Gamers Against Weed.",
         "category": "Characters",
@@ -3721,7 +3794,7 @@
         "type": ""
     },
     {
-        "id": 608,
+        "id": 619,
         "tag": "faeowynn-wilson",
         "desc": "Faeowynn \"Fae\" Wilson.",
         "category": "Characters",
@@ -3729,7 +3802,7 @@
         "type": ""
     },
     {
-        "id": 609,
+        "id": 620,
         "tag": "finnegan",
         "desc": "Finnegan.",
         "category": "Characters",
@@ -3737,7 +3810,7 @@
         "type": ""
     },
     {
-        "id": 610,
+        "id": 621,
         "tag": "fred",
         "desc": "Fred, aka SCP-423.",
         "category": "Characters",
@@ -3745,7 +3818,7 @@
         "type": ""
     },
     {
-        "id": 611,
+        "id": 622,
         "tag": "general-bowe",
         "desc": "General Bowe.",
         "category": "Characters",
@@ -3753,7 +3826,7 @@
         "type": ""
     },
     {
-        "id": 612,
+        "id": 623,
         "tag": "glacon",
         "desc": "Glacon.aic.",
         "category": "Characters",
@@ -3761,7 +3834,7 @@
         "type": ""
     },
     {
-        "id": 613,
+        "id": 624,
         "tag": "grabnok",
         "desc": "Grabnok the Destroyer, aka SCP-507.",
         "category": "Characters",
@@ -3769,7 +3842,7 @@
         "type": ""
     },
     {
-        "id": 614,
+        "id": 625,
         "tag": "grand-karcist-ion",
         "desc": "Grand Karcist Ion, a Sarkic figure.",
         "category": "Characters",
@@ -3777,7 +3850,7 @@
         "type": ""
     },
     {
-        "id": 615,
+        "id": 626,
         "tag": "halyna-ieva",
         "desc": "Karcist Halyna Ieva, aka The Mother Who Demands One's Toes.",
         "category": "Characters",
@@ -3785,7 +3858,7 @@
         "type": ""
     },
     {
-        "id": 616,
+        "id": 627,
         "tag": "hanged-king",
         "desc": "Of or relating to the Hanged King.",
         "category": "Characters",
@@ -3793,7 +3866,7 @@
         "type": ""
     },
     {
-        "id": 617,
+        "id": 628,
         "tag": "hard-to-kill-reptile",
         "desc": "The \"Hard-To-Destroy Reptile\", aka SCP-682.",
         "category": "Characters",
@@ -3801,7 +3874,7 @@
         "type": ""
     },
     {
-        "id": 618,
+        "id": 629,
         "tag": "heather-mason",
         "desc": "Heather Mason, aka \"Ms. Mad About Video Games\" or SCP-3090.",
         "category": "Characters",
@@ -3809,7 +3882,7 @@
         "type": ""
     },
     {
-        "id": 619,
+        "id": 630,
         "tag": "holly-light",
         "desc": "Holly Light.",
         "category": "Characters",
@@ -3817,7 +3890,7 @@
         "type": ""
     },
     {
-        "id": 620,
+        "id": 631,
         "tag": "icky",
         "desc": "Veronica the Magic Clown.",
         "category": "Characters",
@@ -3825,7 +3898,7 @@
         "type": ""
     },
     {
-        "id": 621,
+        "id": 632,
         "tag": "iris-dark",
         "desc": "Iris Dark.",
         "category": "Characters",
@@ -3833,7 +3906,7 @@
         "type": ""
     },
     {
-        "id": 622,
+        "id": 633,
         "tag": "iris-thompson",
         "desc": "Iris Thompson, aka SCP-105.",
         "category": "Characters",
@@ -3841,7 +3914,7 @@
         "type": ""
     },
     {
-        "id": 623,
+        "id": 634,
         "tag": "isabel-v",
         "desc": "Isabel Helga Anastasia Parvati Wondertainment V.",
         "category": "Characters",
@@ -3849,7 +3922,7 @@
         "type": ""
     },
     {
-        "id": 624,
+        "id": 635,
         "tag": "jockjamsvol6",
         "desc": "JJ, AKA jockjamsvol6 of Gamers Against Weed.",
         "category": "Characters",
@@ -3857,7 +3930,7 @@
         "type": ""
     },
     {
-        "id": 625,
+        "id": 636,
         "tag": "jude-kriyot",
         "desc": "Jude Kriyot, AKA bluntfiend of Gamers Against Weed.",
         "category": "Characters",
@@ -3865,7 +3938,7 @@
         "type": ""
     },
     {
-        "id": 626,
+        "id": 637,
         "tag": "judith-low",
         "desc": "Dr. Judith Low, Department of History.",
         "category": "Characters",
@@ -3873,7 +3946,7 @@
         "type": ""
     },
     {
-        "id": 627,
+        "id": 638,
         "tag": "judy-papill",
         "desc": "Judy Papill, AKA Judy the Tongue.",
         "category": "Characters",
@@ -3881,7 +3954,7 @@
         "type": ""
     },
     {
-        "id": 628,
+        "id": 639,
         "tag": "kain-pathos-crow",
         "desc": "Professor Kain Pathos Crow.",
         "category": "Characters",
@@ -3889,7 +3962,7 @@
         "type": ""
     },
     {
-        "id": 629,
+        "id": 640,
         "tag": "kenneth-spencer",
         "desc": "Kenneth Spencer.",
         "category": "Characters",
@@ -3897,7 +3970,7 @@
         "type": ""
     },
     {
-        "id": 630,
+        "id": 641,
         "tag": "kindness",
         "desc": "A kind man.",
         "category": "Characters",
@@ -3905,7 +3978,7 @@
         "type": ""
     },
     {
-        "id": 631,
+        "id": 642,
         "tag": "legate-trunnion",
         "desc": "Legate Trunnion, prophet of the Cogwork Orthodoxy.",
         "category": "Characters",
@@ -3913,7 +3986,7 @@
         "type": ""
     },
     {
-        "id": 632,
+        "id": 643,
         "tag": "leslie",
         "desc": "Leslie, instance of SCP-3774.",
         "category": "Characters",
@@ -3921,7 +3994,7 @@
         "type": ""
     },
     {
-        "id": 633,
+        "id": 644,
         "tag": "lewitt-zairi-family",
         "desc": "The Lewitt Zairi Family.",
         "category": "Characters",
@@ -3929,7 +4002,7 @@
         "type": ""
     },
     {
-        "id": 634,
+        "id": 645,
         "tag": "lombardi",
         "desc": "[https://scp-wiki.wikidot.com/the-lombardi-tales Agent Lombardi].",
         "category": "Characters",
@@ -3937,7 +4010,7 @@
         "type": ""
     },
     {
-        "id": 635,
+        "id": 646,
         "tag": "manny",
         "desc": "Manny, aka The Man With the Upside Down Face of Herman Fuller.",
         "category": "Characters",
@@ -3945,7 +4018,7 @@
         "type": ""
     },
     {
-        "id": 636,
+        "id": 647,
         "tag": "maria-jones",
         "desc": "Maria Jones of RAISA.",
         "category": "Characters",
@@ -3953,7 +4026,7 @@
         "type": ""
     },
     {
-        "id": 637,
+        "id": 648,
         "tag": "marion-wheeler",
         "desc": "Marion Wheeler.",
         "category": "Characters",
@@ -3961,7 +4034,7 @@
         "type": ""
     },
     {
-        "id": 638,
+        "id": 649,
         "tag": "mark-kiryu",
         "desc": "Mark Kiryu of Kiryu Labs.",
         "category": "Characters",
@@ -3969,7 +4042,7 @@
         "type": ""
     },
     {
-        "id": 639,
+        "id": 650,
         "tag": "moon-champion",
         "desc": "Moon Champion, aka Champion of the Moon or SCP-1233.",
         "category": "Characters",
@@ -3977,7 +4050,7 @@
         "type": ""
     },
     {
-        "id": 640,
+        "id": 651,
         "tag": "mr-fish",
         "desc": "Mr. Fish, Little Mister from Dr. Wondertainment and SCP-527.",
         "category": "Characters",
@@ -3985,7 +4058,7 @@
         "type": ""
     },
     {
-        "id": 641,
+        "id": 652,
         "tag": "pangloss",
         "desc": "Of or related to the Pangloss individual of interest.",
         "category": "Characters",
@@ -3993,7 +4066,7 @@
         "type": ""
     },
     {
-        "id": 642,
+        "id": 653,
         "tag": "philip-deering",
         "desc": "Philip E. Deering, formerly SCP-5056-B.",
         "category": "Characters",
@@ -4001,7 +4074,7 @@
         "type": ""
     },
     {
-        "id": 643,
+        "id": 654,
         "tag": "plague-doctor",
         "desc": "The Plague Doctor, aka SCP-049.",
         "category": "Characters",
@@ -4009,7 +4082,7 @@
         "type": ""
     },
     {
-        "id": 644,
+        "id": 655,
         "tag": "polaricecraps",
         "desc": "Polaricecraps.",
         "category": "Characters",
@@ -4017,7 +4090,7 @@
         "type": ""
     },
     {
-        "id": 645,
+        "id": 656,
         "tag": "possessive-mask",
         "desc": "The Possessive Mask, aka SCP-035.",
         "category": "Characters",
@@ -4025,7 +4098,7 @@
         "type": ""
     },
     {
-        "id": 646,
+        "id": 657,
         "tag": "professor-bjornsen",
         "desc": "Professor Anders Bjornsen.",
         "category": "Characters",
@@ -4033,7 +4106,7 @@
         "type": ""
     },
     {
-        "id": 647,
+        "id": 658,
         "tag": "rainer-miller",
         "desc": "Rainer Miller, aka SCP-4051.",
         "category": "Characters",
@@ -4041,7 +4114,7 @@
         "type": ""
     },
     {
-        "id": 648,
+        "id": 659,
         "tag": "researcher-conwell",
         "desc": "Researcher Jacob Conwell.",
         "category": "Characters",
@@ -4049,7 +4122,7 @@
         "type": ""
     },
     {
-        "id": 649,
+        "id": 660,
         "tag": "researcher-james",
         "desc": "Junior Researcher James, best foundation researcher ever! (Age 5).",
         "category": "Characters",
@@ -4057,7 +4130,7 @@
         "type": ""
     },
     {
-        "id": 650,
+        "id": 661,
         "tag": "researcher-labelle",
         "desc": "Researcher Rose Labelle.",
         "category": "Characters",
@@ -4065,7 +4138,7 @@
         "type": ""
     },
     {
-        "id": 651,
+        "id": 662,
         "tag": "researcher-lloyd",
         "desc": "Researcher Lloyd, Destroyer of Worlds.",
         "category": "Characters",
@@ -4073,7 +4146,7 @@
         "type": ""
     },
     {
-        "id": 652,
+        "id": 663,
         "tag": "researcher-rosen",
         "desc": "Researcher David Rosen.",
         "category": "Characters",
@@ -4081,7 +4154,7 @@
         "type": ""
     },
     {
-        "id": 653,
+        "id": 664,
         "tag": "researcher-smalls",
         "desc": "Researcher Adamo Smalls.",
         "category": "Characters",
@@ -4089,7 +4162,7 @@
         "type": ""
     },
     {
-        "id": 654,
+        "id": 665,
         "tag": "researcher-talloran",
         "desc": "Researcher Talloran.",
         "category": "Characters",
@@ -4097,7 +4170,7 @@
         "type": ""
     },
     {
-        "id": 655,
+        "id": 666,
         "tag": "richard-chappell",
         "desc": "Richard Davis Chappell, founder of the Chicago Spirit.",
         "category": "Characters",
@@ -4105,7 +4178,7 @@
         "type": ""
     },
     {
-        "id": 656,
+        "id": 667,
         "tag": "riven-mercer",
         "desc": "Riven Mercer of Kiryu Labs.",
         "category": "Characters",
@@ -4113,7 +4186,7 @@
         "type": ""
     },
     {
-        "id": 657,
+        "id": 668,
         "tag": "robert-bumaro",
         "desc": "Robert Bumaro, a prophet of Mekhane.",
         "category": "Characters",
@@ -4121,7 +4194,7 @@
         "type": ""
     },
     {
-        "id": 658,
+        "id": 669,
         "tag": "robin-thorne",
         "desc": "Robin Thorne.",
         "category": "Characters",
@@ -4129,7 +4202,7 @@
         "type": ""
     },
     {
-        "id": 659,
+        "id": 670,
         "tag": "ruiz-duchamp",
         "desc": "Ruiz Duchamp, an anartist.",
         "category": "Characters",
@@ -4137,7 +4210,7 @@
         "type": ""
     },
     {
-        "id": 660,
+        "id": 671,
         "tag": "saint-hedwig",
         "desc": "Saint Hedwig, a prophet of Maxwellism.",
         "category": "Characters",
@@ -4145,7 +4218,7 @@
         "type": ""
     },
     {
-        "id": 661,
+        "id": 672,
         "tag": "saturn-deer",
         "desc": "Saturn Deer.",
         "category": "Characters",
@@ -4153,15 +4226,7 @@
         "type": ""
     },
     {
-        "id": 662,
-        "tag": "scarlet-king",
-        "desc": "The Scarlet King.",
-        "category": "Characters",
-        "list": "",
-        "type": ""
-    },
-    {
-        "id": 663,
+        "id": 673,
         "tag": "sheldon-katz",
         "desc": "Sheldon Katz.",
         "category": "Characters",
@@ -4169,7 +4234,7 @@
         "type": ""
     },
     {
-        "id": 664,
+        "id": 674,
         "tag": "shy-guy",
         "desc": "The Shy Guy, aka SCP-096.",
         "category": "Characters",
@@ -4177,7 +4242,7 @@
         "type": ""
     },
     {
-        "id": 665,
+        "id": 675,
         "tag": "sigurros",
         "desc": "Sigurrós Stefánsdóttir, aka SCP-239.",
         "category": "Characters",
@@ -4185,7 +4250,7 @@
         "type": ""
     },
     {
-        "id": 666,
+        "id": 676,
         "tag": "simon-pietrykau",
         "desc": "Simon Pietrykau.",
         "category": "Characters",
@@ -4193,15 +4258,15 @@
         "type": ""
     },
     {
-        "id": 667,
+        "id": 677,
         "tag": "tau-5-samsara",
-        "desc": "Mobile Task Force Tau-5 'Samsara'.",
+        "desc": "Mobile Task Force Tau-5 \"Samsara\".",
         "category": "Characters",
         "list": "",
         "type": ""
     },
     {
-        "id": 668,
+        "id": 678,
         "tag": "ten-dots",
         "desc": "SCP-2521.",
         "category": "Characters",
@@ -4209,7 +4274,7 @@
         "type": ""
     },
     {
-        "id": 669,
+        "id": 679,
         "tag": "thad-xyank",
         "desc": "Dr. Thaddeus \"Thad\" Xyank.",
         "category": "Characters",
@@ -4217,7 +4282,7 @@
         "type": ""
     },
     {
-        "id": 670,
+        "id": 680,
         "tag": "the-administrator",
         "desc": "The Administrator (as a separate entity from the O5 Council).",
         "category": "Characters",
@@ -4225,7 +4290,7 @@
         "type": ""
     },
     {
-        "id": 671,
+        "id": 681,
         "tag": "the-engineer",
         "desc": "The Engineer, of the Chaos Insurgency.",
         "category": "Characters",
@@ -4233,7 +4298,7 @@
         "type": ""
     },
     {
-        "id": 672,
+        "id": 682,
         "tag": "the-old-man",
         "desc": "The Old Man, aka SCP-106.",
         "category": "Characters",
@@ -4241,7 +4306,7 @@
         "type": ""
     },
     {
-        "id": 673,
+        "id": 683,
         "tag": "the-sculpture",
         "desc": "The sculpture, aka SCP-173.",
         "category": "Characters",
@@ -4249,7 +4314,7 @@
         "type": ""
     },
     {
-        "id": 674,
+        "id": 684,
         "tag": "the-specter",
         "desc": "The Specter, aka SCP-4944.",
         "category": "Characters",
@@ -4257,7 +4322,7 @@
         "type": ""
     },
     {
-        "id": 675,
+        "id": 685,
         "tag": "thilo-zwist",
         "desc": "Thilo Zwist.",
         "category": "Characters",
@@ -4265,7 +4330,7 @@
         "type": ""
     },
     {
-        "id": 676,
+        "id": 686,
         "tag": "tim-wilson",
         "desc": "Tim Wilson, of Wilson's Wildlife Solutions.",
         "category": "Characters",
@@ -4273,7 +4338,7 @@
         "type": ""
     },
     {
-        "id": 677,
+        "id": 687,
         "tag": "veronica-fitzroy",
         "desc": "Veronica Katherine Fitzroy, anartist/d-class.",
         "category": "Characters",
@@ -4281,7 +4346,7 @@
         "type": ""
     },
     {
-        "id": 678,
+        "id": 688,
         "tag": "vincent-anderson",
         "desc": "Vincent Anderson, of Anderson Robotics.",
         "category": "Characters",
@@ -4289,7 +4354,7 @@
         "type": ""
     },
     {
-        "id": 679,
+        "id": 689,
         "tag": "zyn-kiryu",
         "desc": "Researcher Zyn Kiryu.",
         "category": "Characters",
@@ -4297,7 +4362,7 @@
         "type": ""
     },
     {
-        "id": 680,
+        "id": 690,
         "tag": "alagadda",
         "desc": "The kingdom of Alagadda.",
         "category": "Locations",
@@ -4305,7 +4370,7 @@
         "type": ""
     },
     {
-        "id": 681,
+        "id": 691,
         "tag": "backdoor-soho",
         "desc": "The city of Backdoor Soho.",
         "category": "Locations",
@@ -4313,7 +4378,7 @@
         "type": ""
     },
     {
-        "id": 682,
+        "id": 692,
         "tag": "esterberg",
         "desc": "The Free Port known as Esterberg.",
         "category": "Locations",
@@ -4321,7 +4386,7 @@
         "type": ""
     },
     {
-        "id": 683,
+        "id": 693,
         "tag": "eurtec",
         "desc": "The metropolis of Eurtec.",
         "category": "Locations",
@@ -4329,7 +4394,7 @@
         "type": ""
     },
     {
-        "id": 684,
+        "id": 694,
         "tag": "hy-brasil",
         "desc": "The island of Hy-Brasil.",
         "category": "Locations",
@@ -4337,7 +4402,7 @@
         "type": ""
     },
     {
-        "id": 685,
+        "id": 695,
         "tag": "la-rue-macabre",
         "desc": "The free port of La Rue Macabre.",
         "category": "Locations",
@@ -4345,7 +4410,7 @@
         "type": ""
     },
     {
-        "id": 686,
+        "id": 696,
         "tag": "three-portlands",
         "desc": "The city of Three Portlands.",
         "category": "Locations",
@@ -4353,7 +4418,7 @@
         "type": ""
     },
     {
-        "id": 687,
+        "id": 697,
         "tag": "wanderers-library",
         "desc": "The Wanderer's Library.",
         "category": "Locations",
@@ -4361,7 +4426,7 @@
         "type": ""
     },
     {
-        "id": 688,
+        "id": 698,
         "tag": "adult",
         "desc": "Denotes mature content, view at your own discretion.",
         "category": "Content Markers",
@@ -4369,7 +4434,7 @@
         "type": ""
     },
     {
-        "id": 689,
+        "id": 699,
         "tag": "audio",
         "desc": "//audio// pages are pages with one or more audio files attached.",
         "category": "Content Markers",
@@ -4377,7 +4442,7 @@
         "type": ""
     },
     {
-        "id": 690,
+        "id": 700,
         "tag": "interactive",
         "desc": "The article contains elements that require user input or interaction, e.g. making a decision (making the user click a single link or open a collapsible does not count).",
         "category": "Content Markers",
@@ -4385,7 +4450,7 @@
         "type": ""
     },
     {
-        "id": 691,
+        "id": 701,
         "tag": "video",
         "desc": "//video// pages are pages with one or more video files attached.",
         "category": "Content Markers",
@@ -4393,7 +4458,7 @@
         "type": ""
     },
     {
-        "id": 692,
+        "id": 702,
         "tag": "_cc",
         "desc": "This tag indicates that all images on the page in question have been demonstrated to be fully compliant with current licensing policy. __This tag should **only** be added by a member of the Licensing team__. This tag conflicts with _image.",
         "category": "Staff Process",
@@ -4402,7 +4467,7 @@
         ]
     },
     {
-        "id": 693,
+        "id": 703,
         "tag": "_image",
         "desc": "This is a temporary tag that the tagging team applies to new articles that include one or more images, irrespective of whatever licensing information is provided by the author. This tag acts as an indicator to the Licensing team that there are images whose license status need to be confirmed and/or verified. Licensing will remove the _image tag and replace it with the _cc tag (or, if images are removed, no tag at all) when appropriate.",
         "category": "Staff Process",
@@ -4411,7 +4476,7 @@
         ]
     },
     {
-        "id": 694,
+        "id": 704,
         "tag": "in-rewrite",
         "desc": "This is a temporary tag that may be placed on an article //by members of the Rewrite Team// only. It indicates the article is currently being rewritten and should be removed when said rewrite is posted. It should only be placed on articles where for reasons of site history, the original article will not be deleted before the rewrite is posted.",
         "category": "Staff Process",
@@ -4419,7 +4484,7 @@
         "type": ""
     },
     {
-        "id": 695,
+        "id": 705,
         "tag": "rewritable",
         "desc": "This is a temporary tag that may be be placed on an article //by members of the Rewrite Team// only. It indicates that the article is eligible to be rewritten due to circumstances falling outside the usual case of low rating and old age.",
         "category": "Staff Process",
@@ -4427,7 +4492,7 @@
         "type": ""
     },
     {
-        "id": 696,
+        "id": 706,
         "tag": "rewrite",
         "desc": "This tag indicates that the article in question is a rewrite of another article.",
         "category": "Staff Process",
@@ -4435,7 +4500,7 @@
         "type": ""
     },
     {
-        "id": 697,
+        "id": 707,
         "tag": "in-deletion",
         "desc": "This is a temporary tag that indicates the article is currently being voted on for deletion. It should only be placed on articles where a deletion vote has been started. Other tags should be removed when this tag is added to a page. Remove if deletion is permanently cancelled for whatever reason.",
         "category": "Staff Process",
@@ -4443,7 +4508,7 @@
         "type": ""
     },
     {
-        "id": 698,
+        "id": 708,
         "tag": "featured",
         "desc": "Designates [https://scp-wiki.wikidot.com/featured-scp-archive Featured Articles] and [https://scp-wiki.wikidot.com/featured-tale-archive Featured Tales].",
         "category": "Staff Process",
@@ -4451,7 +4516,7 @@
         "type": ""
     },
     {
-        "id": 699,
+        "id": 709,
         "tag": "prize-feature",
         "desc": "Designates articles featured by the winner of a site contest.",
         "category": "Staff Process",
@@ -4459,7 +4524,7 @@
         "type": ""
     },
     {
-        "id": 700,
+        "id": 710,
         "tag": "reviewers-spotlight",
         "desc": "Designates articles featured by a [https://scp-wiki.wikidot.com/reviewers-spotlight-archive forum reviewer].",
         "category": "Staff Process",
@@ -4467,7 +4532,7 @@
         "type": ""
     },
     {
-        "id": 701,
+        "id": 711,
         "tag": "event-featured",
         "desc": "Designates articles featured on special event days such as International Talk Like a Pirate Day.",
         "category": "Staff Process",
@@ -4475,7 +4540,7 @@
         "type": ""
     },
     {
-        "id": 702,
+        "id": 712,
         "tag": "metadata",
         "desc": "Designates pages with meta information about articles.",
         "category": "Staff Process",
@@ -4483,7 +4548,7 @@
         "type": ""
     },
     {
-        "id": 705,
+        "id": 715,
         "tag": "_licensebox",
         "desc": "A tag for designating that an article has a standard license info block that is tracked on the [https://scp-wiki.wikidot.com/licensing-master-list Licensing Master List].",
         "category": "Staff Process",
@@ -4491,7 +4556,7 @@
         "type": ""
     },
     {
-        "id": 706,
+        "id": 716,
         "tag": "_listpages",
         "desc": "A tag to denote that this page is an LPT article. LPT (ListPages Presented Text) means that the article presents its content through offsets served via ListPages.",
         "category": "Staff Process",
@@ -4499,7 +4564,7 @@
         "type": ""
     },
     {
-        "id": 707,
+        "id": 717,
         "tag": "_theme-temp",
         "desc": "Temporary tag used for marking old theme locations while they were moved from the {{component:}} category to the {{theme:}} category.",
         "category": "Staff Process",
@@ -4507,7 +4572,7 @@
         "type": ""
     },
     {
-        "id": 708,
+        "id": 718,
         "tag": "crosslink",
         "desc": "This is a temporary tag that indicates the Wikiwalk Subteam of MAST is currently proposing revisions on the page, which should be seen in the comments.",
         "category": "Staff Process",
@@ -4515,7 +4580,7 @@
         "type": ""
     },
     {
-        "id": 709,
+        "id": 719,
         "tag": "_dark-and-stormy",
         "desc": "An entry to the 'Dark and Stormy' category of the 2018 72 Hour Jam Contest.",
         "type": "Contests",
@@ -4523,7 +4588,7 @@
         "list": []
     },
     {
-        "id": 710,
+        "id": 720,
         "tag": "_murder-mystery",
         "desc": "An entry to the 'Murder Mystery' category of the 2018 72 Hour Jam Contest.",
         "type": "Contests",
@@ -4531,7 +4596,7 @@
         "list": []
     },
     {
-        "id": 711,
+        "id": 721,
         "tag": "_tropical",
         "desc": "An entry to the 'Tropical' category of the 2018 72 Hour Jam Contest.",
         "type": "Contests",
@@ -4539,7 +4604,7 @@
         "list": []
     },
     {
-        "id": 712,
+        "id": 722,
         "tag": "_shaggy-dog",
         "desc": "An entry to the 'Shaggy Dog' category of the 2019 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4547,7 +4612,7 @@
         "list": []
     },
     {
-        "id": 713,
+        "id": 723,
         "tag": "_pulp-fiction",
         "desc": "An entry to the 'Pulp Fiction' category of the 2019 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4555,7 +4620,7 @@
         "list": []
     },
     {
-        "id": 714,
+        "id": 724,
         "tag": "_all-a-dream",
         "desc": "An entry to the 'All a Dream' category of the 2019 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4563,7 +4628,7 @@
         "list": []
     },
     {
-        "id": 715,
+        "id": 725,
         "tag": "_explosions",
         "desc": "An entry to the 'Explosions' category of the 2020 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4571,7 +4636,7 @@
         "list": []
     },
     {
-        "id": 716,
+        "id": 726,
         "tag": "_delicious",
         "desc": "An entry to the 'Delicious' category of the 2020 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4579,7 +4644,7 @@
         "list": []
     },
     {
-        "id": 717,
+        "id": 727,
         "tag": "_meets-the-eye",
         "desc": "An entry to the 'Meets the Eye' category of the 2020 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4587,7 +4652,7 @@
         "list": []
     },
     {
-        "id": 718,
+        "id": 728,
         "tag": "_marine",
         "desc": "An entry to the 'Marine' category of JamCon 2021.",
         "type": "Contests",
@@ -4595,7 +4660,7 @@
         "list": []
     },
     {
-        "id": 719,
+        "id": 729,
         "tag": "_corruption",
         "desc": "An entry to the 'Corruption' category of JamCon 2021.",
         "type": "Contests",
@@ -4603,7 +4668,7 @@
         "list": []
     },
     {
-        "id": 720,
+        "id": 730,
         "tag": "_famouslastwords",
         "desc": "An entry to the '\"What could possibly go wrong?\"' category of JamCon 2021.",
         "type": "Contests",
@@ -4611,7 +4676,7 @@
         "list": []
     },
     {
-        "id": 721,
+        "id": 731,
         "tag": "1000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/forum/t-376556 SCP-1000 Contest].",
         "type": "Contests",
@@ -4619,7 +4684,7 @@
         "list": ""
     },
     {
-        "id": 722,
+        "id": 732,
         "tag": "2000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp2000contesthub SCP-2000 Contest].",
         "type": "Contests",
@@ -4627,7 +4692,7 @@
         "list": ""
     },
     {
-        "id": 723,
+        "id": 733,
         "tag": "3000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp3000contesthub SCP-3000 Contest].",
         "type": "Contests",
@@ -4635,7 +4700,7 @@
         "list": ""
     },
     {
-        "id": 724,
+        "id": 734,
         "tag": "4000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp4000contesthub SCP-4000 Contest].",
         "type": "Contests",
@@ -4643,7 +4708,7 @@
         "list": ""
     },
     {
-        "id": 725,
+        "id": 735,
         "tag": "5000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp5000contesthub SCP-5000 Contest].",
         "type": "Contests",
@@ -4651,7 +4716,7 @@
         "list": ""
     },
     {
-        "id": 726,
+        "id": 736,
         "tag": "6000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp6000contesthub SCP-6000 Contest].",
         "type": "Contests",
@@ -4659,7 +4724,7 @@
         "list": ""
     },
     {
-        "id": 727,
+        "id": 737,
         "tag": "7000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-7000 Contest].",
         "type": "Contests",
@@ -4667,7 +4732,7 @@
         "list": ""
     },
     {
-        "id": 728,
+        "id": 738,
         "tag": "af2016",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/an-incredibly-important-announcement Crack Fiction Contest] 2016 April Fool's prank.",
         "type": "Contests",
@@ -4675,7 +4740,7 @@
         "list": ""
     },
     {
-        "id": 729,
+        "id": 739,
         "tag": "art2017",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/social-media-art-contest 2017 Art Contest].",
         "type": "Contests",
@@ -4683,7 +4748,7 @@
         "list": ""
     },
     {
-        "id": 730,
+        "id": 740,
         "tag": "canon2020",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/canon-renaissance-contest 2020 Canon Renaissance Contest].",
         "type": "Contests",
@@ -4691,7 +4756,7 @@
         "list": ""
     },
     {
-        "id": 731,
+        "id": 741,
         "tag": "cliche2019",
         "desc": "An entry to [https://scp-wiki.wikidot.com/cliche-con-2019 Cliche-Con 2019].",
         "type": "Contests",
@@ -4699,7 +4764,7 @@
         "list": ""
     },
     {
-        "id": 732,
+        "id": 742,
         "tag": "collab-con2019",
         "desc": "An entry to [https://scp-wiki.wikidot.com/collaboration-contest Collab-Con 2019].",
         "type": "Contests",
@@ -4707,7 +4772,7 @@
         "list": ""
     },
     {
-        "id": 733,
+        "id": 743,
         "tag": "cupid2021",
         "desc": "An entry to [https://scp-wiki.wikidot.com/cupid-contest-2021 Cupid Contest 2021].",
         "type": "Contests",
@@ -4715,7 +4780,7 @@
         "list": ""
     },
     {
-        "id": 734,
+        "id": 744,
         "tag": "d-con2016",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/d-class-contest 2016 D-Class Contest].",
         "type": "Contests",
@@ -4723,7 +4788,7 @@
         "list": ""
     },
     {
-        "id": 735,
+        "id": 745,
         "tag": "dc2014",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/Dystopia-Contest 2014 Dystopia Contest].",
         "type": "Contests",
@@ -4731,7 +4796,7 @@
         "list": ""
     },
     {
-        "id": 736,
+        "id": 746,
         "tag": "departmentcon2022",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/department-contest 2022 Department Contest].",
         "type": "Contests",
@@ -4739,7 +4804,7 @@
         "list": ""
     },
     {
-        "id": 737,
+        "id": 747,
         "tag": "doomsday2018",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/doomsday-contest 2018 Doomsday Contest].",
         "type": "Contests",
@@ -4747,7 +4812,7 @@
         "list": ""
     },
     {
-        "id": 738,
+        "id": 748,
         "tag": "exquisite-corpse2020",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/exquisite-corpse-contest 2020 Exquisite Corpse Contest].",
         "type": "Contests",
@@ -4755,7 +4820,7 @@
         "list": ""
     },
     {
-        "id": 739,
+        "id": 749,
         "tag": "five-questions",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/five-questions Five Questions Contest].",
         "type": "Contests",
@@ -4763,7 +4828,7 @@
         "list": ""
     },
     {
-        "id": 740,
+        "id": 750,
         "tag": "gbc09",
         "desc": "An entry to [https://scp-wiki.wikidot.com/gears-birthday-contest-2009 2009 Gears' Birthday Contest].",
         "type": "Contests",
@@ -4771,7 +4836,7 @@
         "list": ""
     },
     {
-        "id": 741,
+        "id": 751,
         "tag": "goi2014",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/goi-contest-2014 2014 Groups of Interest Contest].",
         "type": "Contests",
@@ -4779,7 +4844,7 @@
         "list": ""
     },
     {
-        "id": 742,
+        "id": 752,
         "tag": "goi2019",
         "desc": "An entry to the [http://scp-int.wikidot.com/international-goi-contest-2019 International Groups of Interest Contest 2019].",
         "type": "Contests",
@@ -4787,7 +4852,7 @@
         "list": ""
     },
     {
-        "id": 743,
+        "id": 753,
         "tag": "halloween2018",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/halloween-contest-2018 2018 Halloween Contest].",
         "type": "Contests",
@@ -4795,7 +4860,7 @@
         "list": ""
     },
     {
-        "id": 744,
+        "id": 754,
         "tag": "halloweencon2022",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/halloween-con-2022 2022 Halloweencon].",
         "type": "Contests",
@@ -4803,7 +4868,7 @@
         "list": ""
     },
     {
-        "id": 745,
+        "id": 755,
         "tag": "hc2012",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/halloween-contest 2012 Halloween Contest].",
         "type": "Contests",
@@ -4811,7 +4876,7 @@
         "list": ""
     },
     {
-        "id": 746,
+        "id": 756,
         "tag": "hiscon2017",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/history-contest 2017 History Contest].",
         "type": "Contests",
@@ -4819,7 +4884,7 @@
         "list": ""
     },
     {
-        "id": 747,
+        "id": 757,
         "tag": "jam-con2018",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/72-hour-jam-contest 2018 72 Hour Jam Contest].",
         "type": "Contests",
@@ -4827,7 +4892,7 @@
         "list": ""
     },
     {
-        "id": 751,
+        "id": 761,
         "tag": "jam-con2019",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/144-hour-jam-contest 2019 144-Hour Jam Contest].",
         "type": "Contests",
@@ -4835,7 +4900,7 @@
         "list": ""
     },
     {
-        "id": 755,
+        "id": 765,
         "tag": "jam-con2020",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/144-hour-jam-contest-two 2020 144-Hour Jam Contest].",
         "type": "Contests",
@@ -4843,7 +4908,7 @@
         "list": ""
     },
     {
-        "id": 759,
+        "id": 769,
         "tag": "jam-con2021",
         "desc": "An entry to [http://scp-wiki.wikidot.com/jam-con-2021 JamCon 2021].",
         "type": "Contests",
@@ -4851,7 +4916,7 @@
         "list": ""
     },
     {
-        "id": 763,
+        "id": 773,
         "tag": "mtf2016",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/mobile-task-force-contest 2016 Mobile Task Force Contest].",
         "type": "Contests",
@@ -4859,7 +4924,7 @@
         "list": ""
     },
     {
-        "id": 764,
+        "id": 774,
         "tag": "nyc2013",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/new-years-contest 2013 New Year's Canon Contest].",
         "type": "Contests",
@@ -4867,7 +4932,7 @@
         "list": ""
     },
     {
-        "id": 765,
+        "id": 775,
         "tag": "rei2015",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/reimagining-contest 2015 Reimagining Contest].",
         "type": "Contests",
@@ -4875,7 +4940,7 @@
         "list": ""
     },
     {
-        "id": 766,
+        "id": 776,
         "tag": "sc2015",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/short-works-contest 2015 Short Works Contest].",
         "type": "Contests",
@@ -4883,7 +4948,7 @@
         "list": ""
     },
     {
-        "id": 767,
+        "id": 777,
         "tag": "tc2013",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/time-contest 2013 Time Contest].",
         "type": "Contests",
@@ -4891,7 +4956,7 @@
         "list": ""
     },
     {
-        "id": 768,
+        "id": 778,
         "tag": "uac2014",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/under-appreciated-contest 2014 Under-Appreciated SCPs Contest].",
         "type": "Contests",
@@ -4899,7 +4964,7 @@
         "list": ""
     },
     {
-        "id": 769,
+        "id": 779,
         "tag": "memecon2021-unofficial",
         "desc": "An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].",
         "type": "Contests",
@@ -4907,7 +4972,7 @@
         "list": ""
     },
     {
-        "id": 770,
+        "id": 780,
         "tag": "_int",
         "desc": "Translated from the [http://scp-int.wikidot.com/ International Site].",
         "type": "Language Codes",
@@ -4915,7 +4980,7 @@
         "list": ""
     },
     {
-        "id": 771,
+        "id": 781,
         "tag": "_ru",
         "desc": "Translated from the [http://scpfoundation.net/ Russian Site].",
         "type": "Language Codes",
@@ -4923,7 +4988,7 @@
         "list": ""
     },
     {
-        "id": 772,
+        "id": 782,
         "tag": "_ko",
         "desc": "Translated from the [http://scpko.wikidot.com/ Korean Site].",
         "type": "Language Codes",
@@ -4931,7 +4996,7 @@
         "list": ""
     },
     {
-        "id": 773,
+        "id": 783,
         "tag": "_cn",
         "desc": "Translated from the [http://scp-wiki-cn.wikidot.com/ Chinese Site].",
         "type": "Language Codes",
@@ -4939,7 +5004,7 @@
         "list": ""
     },
     {
-        "id": 774,
+        "id": 784,
         "tag": "_fr",
         "desc": "Translated from the [http://fondationscp.wikidot.com/ French Site].",
         "type": "Language Codes",
@@ -4947,7 +5012,7 @@
         "list": ""
     },
     {
-        "id": 775,
+        "id": 785,
         "tag": "_pl",
         "desc": "Translated from the [http://scp-wiki.net.pl/ Polish Site].",
         "type": "Language Codes",
@@ -4955,7 +5020,7 @@
         "list": ""
     },
     {
-        "id": 776,
+        "id": 786,
         "tag": "_es",
         "desc": "Translated from the [http://lafundacionscp.wikidot.com/ Spanish Site].",
         "type": "Language Codes",
@@ -4963,7 +5028,7 @@
         "list": ""
     },
     {
-        "id": 777,
+        "id": 787,
         "tag": "_th",
         "desc": "Translated from the [http://scp-th.wikidot.com/main Thai Site].",
         "type": "Language Codes",
@@ -4971,7 +5036,7 @@
         "list": ""
     },
     {
-        "id": 778,
+        "id": 788,
         "tag": "_jp",
         "desc": "Translated from the [http://scp-jp.wikidot.com/ Japanese Site].",
         "type": "Language Codes",
@@ -4979,7 +5044,7 @@
         "list": ""
     },
     {
-        "id": 779,
+        "id": 789,
         "tag": "_de",
         "desc": "Translated from the [http://scp-wiki-de.wikidot.com/ German Site].",
         "type": "Language Codes",
@@ -4987,7 +5052,7 @@
         "list": ""
     },
     {
-        "id": 780,
+        "id": 790,
         "tag": "_it",
         "desc": "Translated from the [http://fondazionescp.wikidot.com/ Italian Site].",
         "type": "Language Codes",
@@ -4995,7 +5060,7 @@
         "list": ""
     },
     {
-        "id": 781,
+        "id": 791,
         "tag": "_ua",
         "desc": "Translated from the [http://scp-ukrainian.wikidot.com/ Ukrainian Site].",
         "type": "Language Codes",
@@ -5003,7 +5068,7 @@
         "list": ""
     },
     {
-        "id": 782,
+        "id": 792,
         "tag": "_pt",
         "desc": "Translated from the [http://scp-pt-br.wikidot.com/ Portuguese Site].",
         "type": "Language Codes",
@@ -5011,7 +5076,7 @@
         "list": ""
     },
     {
-        "id": 783,
+        "id": 793,
         "tag": "_zh",
         "desc": "Translated from the [http://scp-zh-tr.wikidot.com/ Traditional Chinese Site].",
         "type": "Language Codes",
@@ -5019,7 +5084,7 @@
         "list": ""
     },
     {
-        "id": 784,
+        "id": 794,
         "tag": "_el",
         "desc": "Translated from the [http://scp-el.wikidot.com/ Greek Site].",
         "type": "Language Codes",
