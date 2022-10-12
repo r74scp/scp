@@ -210,7 +210,7 @@ Tags that apply to creatures that are **alive**, or to **autonomous** or non-liv
 Tags that apply to animals, or to entities that resemble animals.
 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/animal animal]** -- SCP is or affects animal life.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/amphibian amphibian]** -- SCP is, affects or resembles amphibians, including frogs and toads.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/amphibian amphibian]** -- SCP is, affects or resembles amphibians, including frogs, toads and salamanders.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/arachnid arachnid]** -- SCP is, affects or resembles spider-like animals, including scorpions, mites and ticks.
  * //Often used with 'animal'//
@@ -218,7 +218,7 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Supersedes 'invertebrate', and 'arthropod'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/arthropod arthropod]** -- SCP is, affects or resembles arthropods, animals with exoskeletons, segmented bodies, and jointed appendages.
  * //Supersedes 'invertebrate'//
- * //Superseded by 'arachnid', and 'insect'//
+ * //Superseded by 'arachnid', 'crustacean', and 'insect'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bear bear]** -- SCP is, affects or resembles bears (ursine).
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bee bee]** -- SCP is, affects or resembles bees (apian).
@@ -239,6 +239,7 @@ Tags that apply to animals, or to entities that resemble animals.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/crustacean crustacean]** --  SCP is, affects or is related to crustaceans, the family of arthropods that includes crabs, lobsters, shrimp, isopods and barnacles.
  * //Often used with 'animal'//
  * //Conflicts with 'arachnid', and 'insect'//
+ * //Supersedes 'invertebrate', and 'arthropod'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/deer deer]** -- SCP is, affects or resembles deer, including elk and moose (cervine).
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/dinosaur dinosaur]** -- SCP is, affects or resembles non-avian dinosaurs. Includes pterosaurs and extinct marine reptiles.
@@ -253,8 +254,8 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Conflicts with 'arachnid', and 'crustacean'//
  * //Supersedes 'invertebrate', and 'arthropod'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/invertebrate invertebrate]** -- SCP is, affects or resembles invertebrates, animals lacking spinal columns.
- * //Superseded by 'arachnid', 'arthropod', 'cephalopod', 'insect', and 'worm'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/primate primate]** -- SCP is, affects or resembles apes or monkeys (simian).
+ * //Superseded by 'arachnid', 'arthropod', 'cephalopod', 'crustacean', 'insect', and 'worm'//
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/primate primate]** -- SCP is, affects or resembles non-human apes or monkeys (simian).
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/rabbit rabbit]** -- SCP is, affects or resembles rabbits or hares (leporine).
  * //Often used with 'animal'//
@@ -266,7 +267,7 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Requires 'piscine'//
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/snake snake]** -- SCP is, affects or resembles snakes (ophidian).
- * //Often used with 'animal'//
+ * //Often used with 'animal', and 'reptile'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/worm worm]** -- SCP is, affects or resembles worms (vermian).
  * //Often used with 'animal'//
  * //Supersedes 'invertebrate'//
@@ -531,7 +532,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of of related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation Ethics Committee.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Of or related to the [department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/miscommunications miscommunications]** -- Of or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Of or related to the Pataphysics Department.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Of or related to the Foundation Department of Procurement and Liquidation.
@@ -781,6 +782,7 @@ Tags for long tale series, that may or may not have a Hub.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Of or related to [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/team-bird team-bird]** -- Of or related to [https://scp-wiki.wikidot.com/bird Team Bird].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Of or related to the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/we-meet-again we-meet-again]** -- Of or related to the [https://scp-wiki.wikidot.com/and-every-time-we-meet-again-hub And Every Time We Meet Again] series.
 
 [[/tab]]
 
@@ -1388,7 +1390,7 @@ description = "SCP is or affects animal life."
 
 [[tags]]
 name = "amphibian"
-description = "SCP is, affects or resembles amphibians, including frogs and toads."
+description = "SCP is, affects or resembles amphibians, including frogs, toads and salamanders."
 
 [[tags]]
 name = "arachnid"
@@ -1464,7 +1466,7 @@ description = "SCP is, affects or resembles invertebrates. Not applied to arthro
 
 [[tags]]
 name = "primate"
-description = "SCP is, affects or resembles apes or monkeys (simian)."
+description = "SCP is, affects or resembles non-human apes or monkeys (simian)."
 
 [[tags]]
 name = "rabbit"
@@ -2753,6 +2755,10 @@ description = "Of or related to Team Bird."
 [[tags]]
 name = "time-after-time-password"
 description = "Of or related to the Time After Time Password series."
+
+[[tags]]
+name = "we-meet-again"
+description = "Of or related to the And Every Time We Meet Again series."
 
 [[tags]]
 name = "8-ball"
