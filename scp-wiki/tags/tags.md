@@ -958,6 +958,7 @@ Tags indicating that a tale or SCP article takes place in a specific location th
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hy-brasil hy-brasil]** -- The island of Hy-Brasil.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- The free port of La Rue Macabre.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/three-portlands three-portlands]** -- The city of Three Portlands.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/undervegas undervegas]** -- The demonic city of Undervegas.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/wanderers-library wanderers-library]** -- The Wanderer's Library.
 
 [[/tab]]
@@ -1116,6 +1117,7 @@ The following applies to all tags in this section:
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_ua _ua]** -- Translated from the [http://scp-ukrainian.wikidot.com/ Ukrainian Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_pt _pt]** -- Translated from the [http://scp-pt-br.wikidot.com/ Portuguese Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_zh _zh]** -- Translated from the [http://scp-zh-tr.wikidot.com/ Traditional Chinese Site].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/_vn _vn]** -- Translated from the [http://scp-vn.wikidot.com/ Vietnamese Site].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/_el _el]** -- Translated from the [http://scp-el.wikidot.com/ Greek Site].
 
 [[/tab]]
@@ -2083,7 +2085,7 @@ description = "Of or related to the Department of Tactical Theology."
 
 [[tags]]
 name = "tau-5-samsara"
-description = "Mobile Task Force Tau-5 \"Samsara\"."
+description = "Of or related to Mobile Task Force Tau-5 \"Samsara\"."
 
 [[tags]]
 name = "telecom-office"
@@ -3382,6 +3384,10 @@ name = "three-portlands"
 description = "The city of Three Portlands."
 
 [[tags]]
+name = "undervegas"
+description = "The demonic city of Undervegas."
+
+[[tags]]
 name = "wanderers-library"
 description = "The Wanderer's Library."
 
@@ -3748,6 +3754,10 @@ description = "Translated from the Portuguese Site."
 [[tags]]
 name = "_zh"
 description = "Translated from the Traditional Chinese Site."
+
+[[tags]]
+name = "_vn"
+description = "Translated from the Vietnamese Site."
 
 [[tags]]
 name = "_el"

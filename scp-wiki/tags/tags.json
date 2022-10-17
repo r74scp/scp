@@ -4428,6 +4428,14 @@
     },
     {
         "id": 698,
+        "tag": "undervegas",
+        "desc": "The demonic city of Undervegas.",
+        "category": "Locations",
+        "list": "",
+        "type": ""
+    },
+    {
+        "id": 699,
         "tag": "wanderers-library",
         "desc": "The Wanderer's Library.",
         "category": "Locations",
@@ -4435,7 +4443,7 @@
         "type": ""
     },
     {
-        "id": 699,
+        "id": 700,
         "tag": "adult",
         "desc": "Denotes mature content, view at your own discretion.",
         "category": "Content Markers",
@@ -4443,7 +4451,7 @@
         "type": ""
     },
     {
-        "id": 700,
+        "id": 701,
         "tag": "audio",
         "desc": "//audio// pages are pages with one or more audio files attached.",
         "category": "Content Markers",
@@ -4451,7 +4459,7 @@
         "type": ""
     },
     {
-        "id": 701,
+        "id": 702,
         "tag": "interactive",
         "desc": "The article contains elements that require user input or interaction, e.g. making a decision (making the user click a single link or open a collapsible does not count).",
         "category": "Content Markers",
@@ -4459,7 +4467,7 @@
         "type": ""
     },
     {
-        "id": 702,
+        "id": 703,
         "tag": "video",
         "desc": "//video// pages are pages with one or more video files attached.",
         "category": "Content Markers",
@@ -4467,7 +4475,7 @@
         "type": ""
     },
     {
-        "id": 703,
+        "id": 704,
         "tag": "_cc",
         "desc": "This tag indicates that all images on the page in question have been demonstrated to be fully compliant with current licensing policy. __This tag should **only** be added by a member of the Licensing team__. This tag conflicts with _image.",
         "category": "Staff Process",
@@ -4476,7 +4484,7 @@
         ]
     },
     {
-        "id": 704,
+        "id": 705,
         "tag": "_image",
         "desc": "This is a temporary tag that the tagging team applies to new articles that include one or more images, irrespective of whatever licensing information is provided by the author. This tag acts as an indicator to the Licensing team that there are images whose license status need to be confirmed and/or verified. Licensing will remove the _image tag and replace it with the _cc tag (or, if images are removed, no tag at all) when appropriate.",
         "category": "Staff Process",
@@ -4485,7 +4493,7 @@
         ]
     },
     {
-        "id": 705,
+        "id": 706,
         "tag": "in-rewrite",
         "desc": "This is a temporary tag that may be placed on an article //by members of the Rewrite Team// only. It indicates the article is currently being rewritten and should be removed when said rewrite is posted. It should only be placed on articles where for reasons of site history, the original article will not be deleted before the rewrite is posted.",
         "category": "Staff Process",
@@ -4493,7 +4501,7 @@
         "type": ""
     },
     {
-        "id": 706,
+        "id": 707,
         "tag": "rewritable",
         "desc": "This is a temporary tag that may be be placed on an article //by members of the Rewrite Team// only. It indicates that the article is eligible to be rewritten due to circumstances falling outside the usual case of low rating and old age.",
         "category": "Staff Process",
@@ -4501,7 +4509,7 @@
         "type": ""
     },
     {
-        "id": 707,
+        "id": 708,
         "tag": "rewrite",
         "desc": "This tag indicates that the article in question is a rewrite of another article.",
         "category": "Staff Process",
@@ -4509,7 +4517,7 @@
         "type": ""
     },
     {
-        "id": 708,
+        "id": 709,
         "tag": "in-deletion",
         "desc": "This is a temporary tag that indicates the article is currently being voted on for deletion. It should only be placed on articles where a deletion vote has been started. Other tags should be removed when this tag is added to a page. Remove if deletion is permanently cancelled for whatever reason.",
         "category": "Staff Process",
@@ -4517,7 +4525,7 @@
         "type": ""
     },
     {
-        "id": 709,
+        "id": 710,
         "tag": "featured",
         "desc": "Designates [https://scp-wiki.wikidot.com/featured-scp-archive Featured Articles] and [https://scp-wiki.wikidot.com/featured-tale-archive Featured Tales].",
         "category": "Staff Process",
@@ -4525,7 +4533,7 @@
         "type": ""
     },
     {
-        "id": 710,
+        "id": 711,
         "tag": "prize-feature",
         "desc": "Designates articles featured by the winner of a site contest.",
         "category": "Staff Process",
@@ -4533,7 +4541,7 @@
         "type": ""
     },
     {
-        "id": 711,
+        "id": 712,
         "tag": "reviewers-spotlight",
         "desc": "Designates articles featured by a [https://scp-wiki.wikidot.com/reviewers-spotlight-archive forum reviewer].",
         "category": "Staff Process",
@@ -4541,7 +4549,7 @@
         "type": ""
     },
     {
-        "id": 712,
+        "id": 713,
         "tag": "event-featured",
         "desc": "Designates articles featured on special event days such as International Talk Like a Pirate Day.",
         "category": "Staff Process",
@@ -4549,7 +4557,7 @@
         "type": ""
     },
     {
-        "id": 713,
+        "id": 714,
         "tag": "metadata",
         "desc": "Designates pages with meta information about articles.",
         "category": "Staff Process",
@@ -4557,7 +4565,7 @@
         "type": ""
     },
     {
-        "id": 716,
+        "id": 717,
         "tag": "_licensebox",
         "desc": "A tag for designating that an article has a standard license info block that is tracked on the [https://scp-wiki.wikidot.com/licensing-master-list Licensing Master List].",
         "category": "Staff Process",
@@ -4565,7 +4573,7 @@
         "type": ""
     },
     {
-        "id": 717,
+        "id": 718,
         "tag": "_listpages",
         "desc": "A tag to denote that this page is an LPT article. LPT (ListPages Presented Text) means that the article presents its content through offsets served via ListPages.",
         "category": "Staff Process",
@@ -4573,7 +4581,7 @@
         "type": ""
     },
     {
-        "id": 718,
+        "id": 719,
         "tag": "_theme-temp",
         "desc": "Temporary tag used for marking old theme locations while they were moved from the {{component:}} category to the {{theme:}} category.",
         "category": "Staff Process",
@@ -4581,7 +4589,7 @@
         "type": ""
     },
     {
-        "id": 719,
+        "id": 720,
         "tag": "crosslink",
         "desc": "This is a temporary tag that indicates the Wikiwalk Subteam of MAST is currently proposing revisions on the page, which should be seen in the comments.",
         "category": "Staff Process",
@@ -4589,7 +4597,7 @@
         "type": ""
     },
     {
-        "id": 720,
+        "id": 721,
         "tag": "_dark-and-stormy",
         "desc": "An entry to the 'Dark and Stormy' category of the 2018 72 Hour Jam Contest.",
         "type": "Contests",
@@ -4597,7 +4605,7 @@
         "list": []
     },
     {
-        "id": 721,
+        "id": 722,
         "tag": "_murder-mystery",
         "desc": "An entry to the 'Murder Mystery' category of the 2018 72 Hour Jam Contest.",
         "type": "Contests",
@@ -4605,7 +4613,7 @@
         "list": []
     },
     {
-        "id": 722,
+        "id": 723,
         "tag": "_tropical",
         "desc": "An entry to the 'Tropical' category of the 2018 72 Hour Jam Contest.",
         "type": "Contests",
@@ -4613,7 +4621,7 @@
         "list": []
     },
     {
-        "id": 723,
+        "id": 724,
         "tag": "_shaggy-dog",
         "desc": "An entry to the 'Shaggy Dog' category of the 2019 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4621,7 +4629,7 @@
         "list": []
     },
     {
-        "id": 724,
+        "id": 725,
         "tag": "_pulp-fiction",
         "desc": "An entry to the 'Pulp Fiction' category of the 2019 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4629,7 +4637,7 @@
         "list": []
     },
     {
-        "id": 725,
+        "id": 726,
         "tag": "_all-a-dream",
         "desc": "An entry to the 'All a Dream' category of the 2019 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4637,7 +4645,7 @@
         "list": []
     },
     {
-        "id": 726,
+        "id": 727,
         "tag": "_explosions",
         "desc": "An entry to the 'Explosions' category of the 2020 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4645,7 +4653,7 @@
         "list": []
     },
     {
-        "id": 727,
+        "id": 728,
         "tag": "_delicious",
         "desc": "An entry to the 'Delicious' category of the 2020 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4653,7 +4661,7 @@
         "list": []
     },
     {
-        "id": 728,
+        "id": 729,
         "tag": "_meets-the-eye",
         "desc": "An entry to the 'Meets the Eye' category of the 2020 144 Hour Jam Contest.",
         "type": "Contests",
@@ -4661,7 +4669,7 @@
         "list": []
     },
     {
-        "id": 729,
+        "id": 730,
         "tag": "_marine",
         "desc": "An entry to the 'Marine' category of JamCon 2021.",
         "type": "Contests",
@@ -4669,7 +4677,7 @@
         "list": []
     },
     {
-        "id": 730,
+        "id": 731,
         "tag": "_corruption",
         "desc": "An entry to the 'Corruption' category of JamCon 2021.",
         "type": "Contests",
@@ -4677,7 +4685,7 @@
         "list": []
     },
     {
-        "id": 731,
+        "id": 732,
         "tag": "_famouslastwords",
         "desc": "An entry to the '\"What could possibly go wrong?\"' category of JamCon 2021.",
         "type": "Contests",
@@ -4685,7 +4693,7 @@
         "list": []
     },
     {
-        "id": 732,
+        "id": 733,
         "tag": "1000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/forum/t-376556 SCP-1000 Contest].",
         "type": "Contests",
@@ -4693,7 +4701,7 @@
         "list": ""
     },
     {
-        "id": 733,
+        "id": 734,
         "tag": "2000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp2000contesthub SCP-2000 Contest].",
         "type": "Contests",
@@ -4701,7 +4709,7 @@
         "list": ""
     },
     {
-        "id": 734,
+        "id": 735,
         "tag": "3000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp3000contesthub SCP-3000 Contest].",
         "type": "Contests",
@@ -4709,7 +4717,7 @@
         "list": ""
     },
     {
-        "id": 735,
+        "id": 736,
         "tag": "4000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp4000contesthub SCP-4000 Contest].",
         "type": "Contests",
@@ -4717,7 +4725,7 @@
         "list": ""
     },
     {
-        "id": 736,
+        "id": 737,
         "tag": "5000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp5000contesthub SCP-5000 Contest].",
         "type": "Contests",
@@ -4725,7 +4733,7 @@
         "list": ""
     },
     {
-        "id": 737,
+        "id": 738,
         "tag": "6000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp6000contesthub SCP-6000 Contest].",
         "type": "Contests",
@@ -4733,7 +4741,7 @@
         "list": ""
     },
     {
-        "id": 738,
+        "id": 739,
         "tag": "7000",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-7000 Contest].",
         "type": "Contests",
@@ -4741,7 +4749,7 @@
         "list": ""
     },
     {
-        "id": 739,
+        "id": 740,
         "tag": "af2016",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/an-incredibly-important-announcement Crack Fiction Contest] 2016 April Fool's prank.",
         "type": "Contests",
@@ -4749,7 +4757,7 @@
         "list": ""
     },
     {
-        "id": 740,
+        "id": 741,
         "tag": "art2017",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/social-media-art-contest 2017 Art Contest].",
         "type": "Contests",
@@ -4757,7 +4765,7 @@
         "list": ""
     },
     {
-        "id": 741,
+        "id": 742,
         "tag": "canon2020",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/canon-renaissance-contest 2020 Canon Renaissance Contest].",
         "type": "Contests",
@@ -4765,7 +4773,7 @@
         "list": ""
     },
     {
-        "id": 742,
+        "id": 743,
         "tag": "cliche2019",
         "desc": "An entry to [https://scp-wiki.wikidot.com/cliche-con-2019 Cliche-Con 2019].",
         "type": "Contests",
@@ -4773,7 +4781,7 @@
         "list": ""
     },
     {
-        "id": 743,
+        "id": 744,
         "tag": "collab-con2019",
         "desc": "An entry to [https://scp-wiki.wikidot.com/collaboration-contest Collab-Con 2019].",
         "type": "Contests",
@@ -4781,7 +4789,7 @@
         "list": ""
     },
     {
-        "id": 744,
+        "id": 745,
         "tag": "cupid2021",
         "desc": "An entry to [https://scp-wiki.wikidot.com/cupid-contest-2021 Cupid Contest 2021].",
         "type": "Contests",
@@ -4789,7 +4797,7 @@
         "list": ""
     },
     {
-        "id": 745,
+        "id": 746,
         "tag": "d-con2016",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/d-class-contest 2016 D-Class Contest].",
         "type": "Contests",
@@ -4797,7 +4805,7 @@
         "list": ""
     },
     {
-        "id": 746,
+        "id": 747,
         "tag": "dc2014",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/Dystopia-Contest 2014 Dystopia Contest].",
         "type": "Contests",
@@ -4805,7 +4813,7 @@
         "list": ""
     },
     {
-        "id": 747,
+        "id": 748,
         "tag": "departmentcon2022",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/department-contest 2022 Department Contest].",
         "type": "Contests",
@@ -4813,7 +4821,7 @@
         "list": ""
     },
     {
-        "id": 748,
+        "id": 749,
         "tag": "doomsday2018",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/doomsday-contest 2018 Doomsday Contest].",
         "type": "Contests",
@@ -4821,7 +4829,7 @@
         "list": ""
     },
     {
-        "id": 749,
+        "id": 750,
         "tag": "exquisite-corpse2020",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/exquisite-corpse-contest 2020 Exquisite Corpse Contest].",
         "type": "Contests",
@@ -4829,7 +4837,7 @@
         "list": ""
     },
     {
-        "id": 750,
+        "id": 751,
         "tag": "five-questions",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/five-questions Five Questions Contest].",
         "type": "Contests",
@@ -4837,7 +4845,7 @@
         "list": ""
     },
     {
-        "id": 751,
+        "id": 752,
         "tag": "gbc09",
         "desc": "An entry to [https://scp-wiki.wikidot.com/gears-birthday-contest-2009 2009 Gears' Birthday Contest].",
         "type": "Contests",
@@ -4845,7 +4853,7 @@
         "list": ""
     },
     {
-        "id": 752,
+        "id": 753,
         "tag": "goi2014",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/goi-contest-2014 2014 Groups of Interest Contest].",
         "type": "Contests",
@@ -4853,7 +4861,7 @@
         "list": ""
     },
     {
-        "id": 753,
+        "id": 754,
         "tag": "goi2019",
         "desc": "An entry to the [http://scp-int.wikidot.com/international-goi-contest-2019 International Groups of Interest Contest 2019].",
         "type": "Contests",
@@ -4861,7 +4869,7 @@
         "list": ""
     },
     {
-        "id": 754,
+        "id": 755,
         "tag": "halloween2018",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/halloween-contest-2018 2018 Halloween Contest].",
         "type": "Contests",
@@ -4869,7 +4877,7 @@
         "list": ""
     },
     {
-        "id": 755,
+        "id": 756,
         "tag": "halloweencon2022",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/halloween-con-2022 2022 Halloweencon].",
         "type": "Contests",
@@ -4877,7 +4885,7 @@
         "list": ""
     },
     {
-        "id": 756,
+        "id": 757,
         "tag": "hc2012",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/halloween-contest 2012 Halloween Contest].",
         "type": "Contests",
@@ -4885,7 +4893,7 @@
         "list": ""
     },
     {
-        "id": 757,
+        "id": 758,
         "tag": "hiscon2017",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/history-contest 2017 History Contest].",
         "type": "Contests",
@@ -4893,7 +4901,7 @@
         "list": ""
     },
     {
-        "id": 758,
+        "id": 759,
         "tag": "jam-con2018",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/72-hour-jam-contest 2018 72 Hour Jam Contest].",
         "type": "Contests",
@@ -4901,7 +4909,7 @@
         "list": ""
     },
     {
-        "id": 762,
+        "id": 763,
         "tag": "jam-con2019",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/144-hour-jam-contest 2019 144-Hour Jam Contest].",
         "type": "Contests",
@@ -4909,7 +4917,7 @@
         "list": ""
     },
     {
-        "id": 766,
+        "id": 767,
         "tag": "jam-con2020",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/144-hour-jam-contest-two 2020 144-Hour Jam Contest].",
         "type": "Contests",
@@ -4917,7 +4925,7 @@
         "list": ""
     },
     {
-        "id": 770,
+        "id": 771,
         "tag": "jam-con2021",
         "desc": "An entry to [http://scp-wiki.wikidot.com/jam-con-2021 JamCon 2021].",
         "type": "Contests",
@@ -4925,7 +4933,7 @@
         "list": ""
     },
     {
-        "id": 774,
+        "id": 775,
         "tag": "mtf2016",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/mobile-task-force-contest 2016 Mobile Task Force Contest].",
         "type": "Contests",
@@ -4933,7 +4941,7 @@
         "list": ""
     },
     {
-        "id": 775,
+        "id": 776,
         "tag": "nyc2013",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/new-years-contest 2013 New Year's Canon Contest].",
         "type": "Contests",
@@ -4941,7 +4949,7 @@
         "list": ""
     },
     {
-        "id": 776,
+        "id": 777,
         "tag": "rei2015",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/reimagining-contest 2015 Reimagining Contest].",
         "type": "Contests",
@@ -4949,7 +4957,7 @@
         "list": ""
     },
     {
-        "id": 777,
+        "id": 778,
         "tag": "sc2015",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/short-works-contest 2015 Short Works Contest].",
         "type": "Contests",
@@ -4957,7 +4965,7 @@
         "list": ""
     },
     {
-        "id": 778,
+        "id": 779,
         "tag": "tc2013",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/time-contest 2013 Time Contest].",
         "type": "Contests",
@@ -4965,7 +4973,7 @@
         "list": ""
     },
     {
-        "id": 779,
+        "id": 780,
         "tag": "uac2014",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/under-appreciated-contest 2014 Under-Appreciated SCPs Contest].",
         "type": "Contests",
@@ -4973,7 +4981,7 @@
         "list": ""
     },
     {
-        "id": 780,
+        "id": 781,
         "tag": "memecon2021-unofficial",
         "desc": "An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].",
         "type": "Contests",
@@ -4981,7 +4989,7 @@
         "list": ""
     },
     {
-        "id": 781,
+        "id": 782,
         "tag": "_int",
         "desc": "Translated from the [http://scp-int.wikidot.com/ International Site].",
         "type": "Language Codes",
@@ -4989,7 +4997,7 @@
         "list": ""
     },
     {
-        "id": 782,
+        "id": 783,
         "tag": "_ru",
         "desc": "Translated from the [http://scpfoundation.net/ Russian Site].",
         "type": "Language Codes",
@@ -4997,7 +5005,7 @@
         "list": ""
     },
     {
-        "id": 783,
+        "id": 784,
         "tag": "_ko",
         "desc": "Translated from the [http://scpko.wikidot.com/ Korean Site].",
         "type": "Language Codes",
@@ -5005,7 +5013,7 @@
         "list": ""
     },
     {
-        "id": 784,
+        "id": 785,
         "tag": "_cn",
         "desc": "Translated from the [http://scp-wiki-cn.wikidot.com/ Chinese Site].",
         "type": "Language Codes",
@@ -5013,7 +5021,7 @@
         "list": ""
     },
     {
-        "id": 785,
+        "id": 786,
         "tag": "_fr",
         "desc": "Translated from the [http://fondationscp.wikidot.com/ French Site].",
         "type": "Language Codes",
@@ -5021,7 +5029,7 @@
         "list": ""
     },
     {
-        "id": 786,
+        "id": 787,
         "tag": "_pl",
         "desc": "Translated from the [http://scp-wiki.net.pl/ Polish Site].",
         "type": "Language Codes",
@@ -5029,7 +5037,7 @@
         "list": ""
     },
     {
-        "id": 787,
+        "id": 788,
         "tag": "_es",
         "desc": "Translated from the [http://lafundacionscp.wikidot.com/ Spanish Site].",
         "type": "Language Codes",
@@ -5037,7 +5045,7 @@
         "list": ""
     },
     {
-        "id": 788,
+        "id": 789,
         "tag": "_th",
         "desc": "Translated from the [http://scp-th.wikidot.com/main Thai Site].",
         "type": "Language Codes",
@@ -5045,7 +5053,7 @@
         "list": ""
     },
     {
-        "id": 789,
+        "id": 790,
         "tag": "_jp",
         "desc": "Translated from the [http://scp-jp.wikidot.com/ Japanese Site].",
         "type": "Language Codes",
@@ -5053,7 +5061,7 @@
         "list": ""
     },
     {
-        "id": 790,
+        "id": 791,
         "tag": "_de",
         "desc": "Translated from the [http://scp-wiki-de.wikidot.com/ German Site].",
         "type": "Language Codes",
@@ -5061,7 +5069,7 @@
         "list": ""
     },
     {
-        "id": 791,
+        "id": 792,
         "tag": "_it",
         "desc": "Translated from the [http://fondazionescp.wikidot.com/ Italian Site].",
         "type": "Language Codes",
@@ -5069,7 +5077,7 @@
         "list": ""
     },
     {
-        "id": 792,
+        "id": 793,
         "tag": "_ua",
         "desc": "Translated from the [http://scp-ukrainian.wikidot.com/ Ukrainian Site].",
         "type": "Language Codes",
@@ -5077,7 +5085,7 @@
         "list": ""
     },
     {
-        "id": 793,
+        "id": 794,
         "tag": "_pt",
         "desc": "Translated from the [http://scp-pt-br.wikidot.com/ Portuguese Site].",
         "type": "Language Codes",
@@ -5085,7 +5093,7 @@
         "list": ""
     },
     {
-        "id": 794,
+        "id": 795,
         "tag": "_zh",
         "desc": "Translated from the [http://scp-zh-tr.wikidot.com/ Traditional Chinese Site].",
         "type": "Language Codes",
@@ -5093,7 +5101,15 @@
         "list": ""
     },
     {
-        "id": 795,
+        "id": 796,
+        "tag": "_vn",
+        "desc": "Translated from the [http://scp-vn.wikidot.com/ Vietnamese Site].",
+        "type": "Language Codes",
+        "category": "Translation",
+        "list": ""
+    },
+    {
+        "id": 797,
         "tag": "_el",
         "desc": "Translated from the [http://scp-el.wikidot.com/ Greek Site].",
         "type": "Language Codes",
