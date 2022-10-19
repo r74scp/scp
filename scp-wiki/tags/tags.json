@@ -3189,1186 +3189,1186 @@
     {
         "id": 543,
         "tag": "8-ball",
-        "desc": "8-ball, aka 8B-A1.",
+        "desc": "8-ball, aka 8B-A1, an artificial intelligence.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 544,
-        "tag": "blackwood",
-        "desc": "[https://scp-wiki.wikidot.com/new Lord Blackwood, Explorer and Gentleman], aka [https://scp-wiki.wikidot.com/scp-1867 SCP-1867].",
+        "tag": "aaron-siegel",
+        "desc": "Aaron Siegel, O5-1.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 545,
-        "tag": "aaron-siegel",
-        "desc": "Aaron Siegel.",
+        "tag": "agent-green",
+        "desc": "Agent Green.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 546,
-        "tag": "able",
-        "desc": "Able, aka [https://scp-wiki.wikidot.com/scp-076 SCP-076].",
+        "tag": "agent-kazmarek",
+        "desc": "Agent Travis Kazmarek.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 547,
-        "tag": "agent-green",
-        "desc": "Agent Green.",
+        "tag": "agent-laferrier",
+        "desc": "Agent V.A. LaFerrier.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 548,
-        "tag": "agent-kazmarek",
-        "desc": "Agent Travis Kazmarek.",
+        "tag": "agent-lament",
+        "desc": "Agent Troy Lament.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 549,
-        "tag": "agent-laferrier",
-        "desc": "Agent V.A. LaFerrier.",
+        "tag": "agent-lurk",
+        "desc": "Agent Dietrich M. Lurk.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 550,
-        "tag": "agent-lament",
-        "desc": "Agent Troy Lament.",
+        "tag": "agent-merlo",
+        "desc": "Agent Sasha Merlo.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 551,
-        "tag": "agent-lurk",
-        "desc": "Agent Dietrich M. Lurk.",
+        "tag": "agent-navarro",
+        "desc": "Agent Daniel Navarro.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 552,
-        "tag": "agent-merlo",
-        "desc": "Agent Sasha Merlo.",
+        "tag": "agent-popescu",
+        "desc": "Agent Lucretia Popescu.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 553,
-        "tag": "agent-navarro",
-        "desc": "Agent Daniel Navarro.",
+        "tag": "agent-strelnikov",
+        "desc": "Agent Dmitri Strelnikov.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 554,
-        "tag": "agent-popescu",
-        "desc": "Agent Lucretia Popescu.",
+        "tag": "agent-trauss",
+        "desc": "Agent Trauss, aka C-51174.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 555,
-        "tag": "agent-strelnikov",
-        "desc": "Agent Dmitri Strelnikov.",
+        "tag": "agent-yoric",
+        "desc": "Agent Yoric Elroy, aka Jack \"Poor Yoric\" Dawkins.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 556,
-        "tag": "agent-trauss",
-        "desc": "Agent Trauss, aka C-51174.",
+        "tag": "alexandra",
+        "desc": "Alexandra, an artificial intelligence.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 557,
-        "tag": "agent-yoric",
-        "desc": "Agent Yoric Elroy, aka Jack \"Poor Yoric\" Dawkins.",
+        "tag": "bailey-brothers",
+        "desc": "Tristan, Thomas and Trevor Bailey.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 558,
-        "tag": "aldon",
-        "desc": "Aldon.",
+        "tag": "d-7294",
+        "desc": "D-7294.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 559,
-        "tag": "alexandra",
-        "desc": "Alexandra, AI unit.",
+        "tag": "d-11424",
+        "desc": "D-11424.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 560,
-        "tag": "alexei-belitrov",
-        "desc": "Alexei Belitrov, aka [https://scp-wiki.wikidot.com/scp-2273 SCP-2273].",
+        "tag": "director-aktus",
+        "desc": "Director Aktus.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 561,
-        "tag": "alleged-god",
-        "desc": "[https://scp-wiki.wikidot.com/scp-343 SCP-343], aka \"God\".",
+        "tag": "director-bold",
+        "desc": "Director Cal Bold of the Decommissioning Department.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 562,
-        "tag": "bailey-brothers",
-        "desc": "Tristan, Thomas and Trevor Bailey.",
+        "tag": "director-diaghilev",
+        "desc": "Director Ruslav Diaghilev of the Alchemy Department.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 563,
-        "tag": "big-cheese-horace",
-        "desc": "Big Cheese Horace of the Fifthists.",
+        "tag": "director-gillespie",
+        "desc": "Director Gillespie.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 564,
-        "tag": "bobble-the-clown",
-        "desc": "Bobble The Clown, aka  [https://scp-wiki.wikidot.com/scp-993 SCP-993].",
+        "tag": "director-mcinnis",
+        "desc": "Dr. Allan J. McInnis, Director of Site-43.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 565,
-        "tag": "bones",
-        "desc": "Bones, aka [https://scp-wiki.wikidot.com/protected:scp-2721 SCP-2721-LORD] or Eli.",
+        "tag": "director-mctiriss",
+        "desc": "Director Kate McTiriss.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 566,
-        "tag": "brainy-brian",
-        "desc": "Brainy Brian of Wondertainment/MC&D, also known as 'Doctor Neurosis'.",
+        "tag": "director-moose",
+        "desc": "Director Moose.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 567,
-        "tag": "cain",
-        "desc": "Cain, aka [https://scp-wiki.wikidot.com/scp-073 SCP-073].",
+        "tag": "director-lague",
+        "desc": "Director Paul Lague, of the Integration Program and Site-322.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 568,
-        "tag": "chaz-ambrose",
-        "desc": "Chaz Ambrose, founder of Ambrose Restaurants.",
+        "tag": "django-bridge",
+        "desc": "Django Bridge.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 569,
-        "tag": "cousin-johnny",
-        "desc": "Cousin Johnny, aka [https://scp-wiki.wikidot.com/scp-2852 SCP-2852].",
+        "tag": "doctor-asheworth",
+        "desc": "Dr. Daniel Asheworth.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 570,
-        "tag": "d-7294",
-        "desc": "D-7294.",
+        "tag": "doctor-blank",
+        "desc": "Dr. Harold R. Blank.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 571,
-        "tag": "d-11424",
-        "desc": "D-11424.",
+        "tag": "doctor-bright",
+        "desc": "Dr. Bright.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 572,
-        "tag": "dado",
-        "desc": "[https://scp-wiki.wikidot.com/dado-hub dado] is taking care of u in dis one. u no worry.",
+        "tag": "doctor-cimmerian",
+        "desc": "Dr. Cimmerian.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 573,
-        "tag": "damien-nowak",
-        "desc": "Damien Nowak.",
+        "tag": "doctor-clef",
+        "desc": "Dr. Alto Clef.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 574,
-        "tag": "dc-al-fine",
-        "desc": "D.C. al Fine, Undersecretary-General of the Global Occult Coalition.",
+        "tag": "doctor-dan",
+        "desc": "Dr. Dan ███████, of SCP-096.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 575,
-        "tag": "director-aktus",
-        "desc": "Director Aktus.",
+        "tag": "doctor-edison",
+        "desc": "Dr. Michael Edison.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 576,
-        "tag": "director-bold",
-        "desc": "Director Cal Bold of the Decommissioning Department.",
+        "tag": "doctor-elliott",
+        "desc": "Dr. Chelsea Elliott.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 577,
-        "tag": "director-diaghilev",
-        "desc": "Director Ruslav Diaghilev of the Alchemy Department.",
+        "tag": "doctor-everwood",
+        "desc": "Dr. Everwood, GOI specialist.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 578,
-        "tag": "director-gillespie",
-        "desc": "Director Gillespie.",
+        "tag": "doctor-fynegan",
+        "desc": "Dr. Fynegan.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 579,
-        "tag": "director-mcinnis",
-        "desc": "Dr. Allan J. McInnis, Director of Site-43.",
+        "tag": "doctor-gears",
+        "desc": "Dr. Gears.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 580,
-        "tag": "director-mctiriss",
-        "desc": "Director Kate McTiriss.",
+        "tag": "doctor-gerald",
+        "desc": "Dr. Gerald.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 581,
-        "tag": "director-moose",
-        "desc": "Director Moose.",
+        "tag": "doctor-glass",
+        "desc": "Dr. Simon Glass.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 582,
-        "tag": "director-lague",
-        "desc": "Director Paul Lague, of the Integration Program and Site-322.",
+        "tag": "doctor-heiden",
+        "desc": "Dr. Frederick Heiden.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 583,
-        "tag": "django-bridge",
-        "desc": "Django Bridge.",
+        "tag": "doctor-hoygull",
+        "desc": "Dr. Hoygull, Avian Division.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 584,
-        "tag": "doctor-asheworth",
-        "desc": "Dr. Daniel Asheworth.",
+        "tag": "doctor-iceberg",
+        "desc": "Dr. Iceberg.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 585,
-        "tag": "doctor-blank",
-        "desc": "Dr. Harold R. Blank.",
+        "tag": "doctor-king",
+        "desc": "Dr. King.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 586,
-        "tag": "doctor-bright",
-        "desc": "Dr. Bright.",
+        "tag": "doctor-kondraki",
+        "desc": "Dr. Kondraki.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 587,
-        "tag": "doctor-cimmerian",
-        "desc": "Dr. Cimmerian.",
+        "tag": "doctor-light",
+        "desc": "Dr. Sophia N. Light.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 588,
-        "tag": "doctor-clef",
-        "desc": "Dr. Alto Clef.",
+        "tag": "doctor-lillihammer",
+        "desc": "Dr. Lillian S. Lillihammer.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 589,
-        "tag": "doctor-dan",
-        "desc": "Dr. Dan ███████, of SCP-096.",
+        "tag": "doctor-mann",
+        "desc": "Dr. Everett Mann.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 590,
-        "tag": "doctor-edison",
-        "desc": "Dr. Michael Edison.",
+        "tag": "doctor-mcdoctorate",
+        "desc": "Dr. Placeholder McDoctorate, previously known as Director Nathan Valis.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 591,
-        "tag": "doctor-elliott",
-        "desc": "Dr. Chelsea Elliott.",
+        "tag": "doctor-reynders",
+        "desc": "Dr. Ilse Reynders.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 592,
-        "tag": "doctor-everwood",
-        "desc": "Dr. Everwood, GOI specialist.",
+        "tag": "doctor-rights",
+        "desc": "Dr. Rights.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 593,
-        "tag": "doctor-fynegan",
-        "desc": "Dr. Fynegan.",
+        "tag": "doctor-rivera",
+        "desc": "Dr. Jessie Rivera.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 594,
-        "tag": "doctor-gears",
-        "desc": "Dr. Gears.",
+        "tag": "doctor-roget",
+        "desc": "Dr. Ralph Roget.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 595,
-        "tag": "doctor-gerald",
-        "desc": "Dr. Gerald.",
+        "tag": "doctor-thereven",
+        "desc": "Doctor Cole Thereven.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 596,
-        "tag": "doctor-glass",
-        "desc": "Dr. Simon Glass.",
+        "tag": "doctor-sinclair",
+        "desc": "Dr. Katherine Sinclair.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 597,
-        "tag": "doctor-heiden",
-        "desc": "Dr. Frederick Heiden.",
+        "tag": "doctor-sorts",
+        "desc": "Dr. Johannes Sorts.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 598,
-        "tag": "doctor-hoygull",
-        "desc": "Dr. Hoygull, Avian Division.",
+        "tag": "doctor-vang",
+        "desc": "Dr. S. Vang.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 599,
-        "tag": "doctor-iceberg",
-        "desc": "Dr. Iceberg.",
+        "tag": "doctor-wettle",
+        "desc": "Dr. William Wallace Wettle.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 600,
-        "tag": "doctor-king",
-        "desc": "Dr. King.",
+        "tag": "draven-kondraki",
+        "desc": "Dr./Director Draven Kondraki.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 601,
-        "tag": "doctor-kondraki",
-        "desc": "Dr. Kondraki.",
+        "tag": "general-bowe",
+        "desc": "General Bowe.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 602,
-        "tag": "doctor-light",
-        "desc": "Dr. Sophia N. Light.",
+        "tag": "glacon",
+        "desc": "Glacon.aic, an artificial intelligence.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 603,
-        "tag": "doctor-lillihammer",
-        "desc": "Dr. Lillian S. Lillihammer.",
+        "tag": "judith-low",
+        "desc": "Dr. Judith Low, Department of History.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 604,
-        "tag": "doctor-mann",
-        "desc": "Dr. Everett Mann.",
+        "tag": "kain-pathos-crow",
+        "desc": "Professor Kain Pathos Crow.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 605,
-        "tag": "doctor-mcdoctorate",
-        "desc": "Dr. Placeholder McDoctorate.",
+        "tag": "lombardi",
+        "desc": "[https://scp-wiki.wikidot.com/the-lombardi-tales Agent Lombardi].",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 606,
-        "tag": "doctor-reynders",
-        "desc": "Dr. Ilse Reynders.",
+        "tag": "maria-jones",
+        "desc": "Maria Jones, of RAISA.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 607,
-        "tag": "doctor-rights",
-        "desc": "Dr. Rights.",
+        "tag": "marion-wheeler",
+        "desc": "Marion Wheeler, of the Antimemetics Division.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 608,
-        "tag": "doctor-rivera",
-        "desc": "Dr. Jessie Rivera.",
+        "tag": "mark-kiryu",
+        "desc": "Mark Kiryu of Kiryu Labs.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 609,
-        "tag": "doctor-roget",
-        "desc": "Dr. Ralph Roget.",
+        "tag": "philip-deering",
+        "desc": "Philip E. Deering, formerly [https://scp-wiki.wikidot.com/scp-5056 SCP-5056-B].",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 610,
-        "tag": "doctor-thereven",
-        "desc": "Doctor Cole Thereven.",
+        "tag": "professor-bjornsen",
+        "desc": "Professor Anders Bjornsen.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 611,
-        "tag": "doctor-sinclair",
-        "desc": "Dr. Katherine Sinclair.",
+        "tag": "researcher-conwell",
+        "desc": "Researcher Jacob Conwell.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 612,
-        "tag": "doctor-sorts",
-        "desc": "Dr. Johannes Sorts.",
+        "tag": "researcher-james",
+        "desc": "Junior Researcher James, best foundation researcher ever! (Age 5).",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 613,
-        "tag": "doctor-spanko",
-        "desc": "Dr. Spanko.",
+        "tag": "researcher-labelle",
+        "desc": "Researcher Rose Labelle.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 614,
-        "tag": "doctor-vang",
-        "desc": "Dr. S. Vang.",
+        "tag": "researcher-lloyd",
+        "desc": "Researcher Lloyd, Destroyer of Worlds.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 615,
-        "tag": "doctor-wettle",
-        "desc": "Dr. William Wallace Wettle.",
+        "tag": "researcher-rosen",
+        "desc": "Researcher David Rosen.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 616,
-        "tag": "donkman",
-        "desc": "Ulysses B. Donkman.",
+        "tag": "researcher-smalls",
+        "desc": "Researcher Adamo Smalls.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 617,
-        "tag": "draven-kondraki",
-        "desc": "Dr./Director Draven Kondraki.",
+        "tag": "researcher-talloran",
+        "desc": "Researcher Talloran.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 618,
-        "tag": "eric",
-        "desc": "Eric, a mysterious character.",
+        "tag": "riven-mercer",
+        "desc": "Riven Mercer of Kiryu Labs.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 619,
-        "tag": "esther-kogan",
-        "desc": "Esther Kogan, aka lesbian_gengar of Gamers Against Weed.",
+        "tag": "sheldon-katz",
+        "desc": "Sheldon Katz, of the Legal Department.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 620,
-        "tag": "faeowynn-wilson",
-        "desc": "Faeowynn \"Fae\" Wilson.",
+        "tag": "simon-pietrykau",
+        "desc": "Simon Pietrykau, of the Department of Analytics.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 621,
-        "tag": "finnegan",
-        "desc": "Finnegan.",
+        "tag": "thad-xyank",
+        "desc": "Dr. Thaddeus \"Thad\" Xyank, of the Department of Temporal Anomalies.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 622,
-        "tag": "fred",
-        "desc": "Fred, aka [https://scp-wiki.wikidot.com/scp-423 SCP-423].",
+        "tag": "the-administrator",
+        "desc": "The Administrator (as a separate entity from the O5 Council).",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 623,
-        "tag": "general-bowe",
-        "desc": "General Bowe.",
+        "tag": "zyn-kiryu",
+        "desc": "Researcher Zyn Kiryu.",
+        "type": "Foundation Employees",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 624,
-        "tag": "glacon",
-        "desc": "Glacon.aic.",
+        "tag": "able",
+        "desc": "Able, aka [https://scp-wiki.wikidot.com/scp-076 SCP-076].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 625,
-        "tag": "grabnok",
-        "desc": "Grabnok the Destroyer, aka [https://scp-wiki.wikidot.com/scp-507 SCP-507].",
+        "tag": "alexei-belitrov",
+        "desc": "Alexei Belitrov, aka [https://scp-wiki.wikidot.com/scp-2273 SCP-2273].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 626,
-        "tag": "grand-karcist-ion",
-        "desc": "Grand Karcist Ion, a Sarkic figure.",
+        "tag": "alleged-god",
+        "desc": "[https://scp-wiki.wikidot.com/scp-343 SCP-343], aka \"God\".",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 627,
-        "tag": "halyna-ieva",
-        "desc": "Karcist Halyna Ieva, aka [https://scp-wiki.wikidot.com/mother-who-demands-ones-toes The Mother Who Demands One's Toes].",
+        "tag": "blackwood",
+        "desc": "[https://scp-wiki.wikidot.com/new Lord Blackwood, Explorer and Gentleman], aka [https://scp-wiki.wikidot.com/scp-1867 SCP-1867].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 628,
-        "tag": "hanged-king",
-        "desc": "Of or relating to the Hanged King.",
+        "tag": "bobble-the-clown",
+        "desc": "Bobble The Clown, aka  [https://scp-wiki.wikidot.com/scp-993 SCP-993].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 629,
-        "tag": "hard-to-kill-reptile",
-        "desc": "The \"Hard-To-Destroy Reptile\", aka [https://scp-wiki.wikidot.com/scp-682 SCP-682].",
+        "tag": "bones",
+        "desc": "Bones, aka [https://scp-wiki.wikidot.com/protected:scp-2721 SCP-2721-LORD] or Eli.",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 630,
-        "tag": "heather-mason",
-        "desc": "Heather Mason, aka \"Ms. Mad About Video Games\" or [https://scp-wiki.wikidot.com/scp-3090 SCP-3090].",
+        "tag": "cain",
+        "desc": "Cain, aka [https://scp-wiki.wikidot.com/scp-073 SCP-073].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 631,
-        "tag": "holly-light",
-        "desc": "Holly Light.",
+        "tag": "cousin-johnny",
+        "desc": "Cousin Johnny, aka [https://scp-wiki.wikidot.com/scp-2852 SCP-2852].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 632,
-        "tag": "icky",
-        "desc": "Veronica Mason, aka [https://scp-wiki.wikidot.com/icky-the-magic-clown Icky the Magic Clown].",
+        "tag": "doctor-spanko",
+        "desc": "[https://scp-wiki.wikidot.com/doctor-spanko-hub Dr. Spanko], aka [https://scp-wiki.wikidot.com/scp-2337 SCP-2337].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 633,
-        "tag": "iris-dark",
-        "desc": "Iris Dark.",
+        "tag": "donkman",
+        "desc": "Ulysses B. Donkman, aka [https://scp-wiki.wikidot.com/scp-4768 SCP-4768].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 634,
-        "tag": "iris-thompson",
-        "desc": "Iris Thompson, aka [https://scp-wiki.wikidot.com/scp-105 SCP-105].",
+        "tag": "fred",
+        "desc": "Fred, aka [https://scp-wiki.wikidot.com/scp-423 SCP-423].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 635,
-        "tag": "isabel-v",
-        "desc": "Isabel Helga Anastasia Parvati Wondertainment V.",
+        "tag": "grabnok",
+        "desc": "Grabnok the Destroyer, aka [https://scp-wiki.wikidot.com/scp-507 SCP-507].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 636,
-        "tag": "jockjamsvol6",
-        "desc": "JJ, AKA jockjamsvol6 of Gamers Against Weed.",
+        "tag": "hard-to-kill-reptile",
+        "desc": "The \"Hard-To-Destroy Reptile\", aka [https://scp-wiki.wikidot.com/scp-682 SCP-682].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 637,
-        "tag": "jude-kriyot",
-        "desc": "Jude Kriyot, AKA bluntfiend of Gamers Against Weed.",
+        "tag": "heather-mason",
+        "desc": "Heather Mason, aka \"Ms. Mad About Video Games\" or [https://scp-wiki.wikidot.com/scp-3090 SCP-3090].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 638,
-        "tag": "judith-low",
-        "desc": "Dr. Judith Low, Department of History.",
+        "tag": "iris-thompson",
+        "desc": "Iris Thompson, aka [https://scp-wiki.wikidot.com/scp-105 SCP-105].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 639,
-        "tag": "judy-papill",
-        "desc": "Judy Papill, AKA Judy the Tongue.",
+        "tag": "leslie",
+        "desc": "Leslie, instance of [https://scp-wiki.wikidot.com/scp-3774 SCP-3774].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 640,
-        "tag": "kain-pathos-crow",
-        "desc": "Professor Kain Pathos Crow.",
+        "tag": "moon-champion",
+        "desc": "Moon Champion, aka Champion of the Moon or [https://scp-wiki.wikidot.com/scp-1233 SCP-1233].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 641,
-        "tag": "kenneth-spencer",
-        "desc": "Kenneth Spencer.",
+        "tag": "mr-fish",
+        "desc": "Mr. Fish, Little Mister from Dr. Wondertainment and [https://scp-wiki.wikidot.com/scp-527 SCP-527].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 642,
-        "tag": "kindness",
-        "desc": "A kind man.",
+        "tag": "plague-doctor",
+        "desc": "The Plague Doctor, aka [https://scp-wiki.wikidot.com/scp-049 SCP-049].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 643,
-        "tag": "legate-trunnion",
-        "desc": "Legate Trunnion, prophet of the Cogwork Orthodoxy.",
+        "tag": "possessive-mask",
+        "desc": "The Possessive Mask, aka [https://scp-wiki.wikidot.com/scp-035 SCP-035].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 644,
-        "tag": "leslie",
-        "desc": "Leslie, instance of [https://scp-wiki.wikidot.com/scp-3774 SCP-3774].",
+        "tag": "rainer-miller",
+        "desc": "Rainer Miller, aka [https://scp-wiki.wikidot.com/scp-4051 SCP-4051].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 645,
-        "tag": "lewitt-zairi-family",
-        "desc": "The Lewitt Zairi Family.",
+        "tag": "shy-guy",
+        "desc": "The Shy Guy, aka [https://scp-wiki.wikidot.com/scp-096 SCP-096].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 646,
-        "tag": "lombardi",
-        "desc": "[https://scp-wiki.wikidot.com/the-lombardi-tales Agent Lombardi].",
+        "tag": "sigurros",
+        "desc": "Sigurrós Stefánsdóttir, aka [https://scp-wiki.wikidot.com/scp-239 SCP-239].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 647,
-        "tag": "manny",
-        "desc": "Manny, aka The Man With the Upside Down Face of Herman Fuller.",
+        "tag": "ten-dots",
+        "desc": "[https://scp-wiki.wikidot.com/scp-2521 SCP-2521].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 648,
-        "tag": "maria-jones",
-        "desc": "Maria Jones of RAISA.",
+        "tag": "the-old-man",
+        "desc": "The Old Man, aka [https://scp-wiki.wikidot.com/scp-106 SCP-106].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 649,
-        "tag": "marion-wheeler",
-        "desc": "Marion Wheeler.",
+        "tag": "the-sculpture",
+        "desc": "The sculpture, aka [https://scp-wiki.wikidot.com/scp-173 SCP-173].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 650,
-        "tag": "mark-kiryu",
-        "desc": "Mark Kiryu of Kiryu Labs.",
+        "tag": "the-specter",
+        "desc": "The Specter, aka [https://scp-wiki.wikidot.com/scp-4944 SCP-4944].",
+        "type": "SCP Objects",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 651,
-        "tag": "moon-champion",
-        "desc": "Moon Champion, aka Champion of the Moon or [https://scp-wiki.wikidot.com/scp-1233 SCP-1233].",
+        "tag": "aldon",
+        "desc": "Aldon, an anartist.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 652,
-        "tag": "mr-fish",
-        "desc": "Mr. Fish, Little Mister from Dr. Wondertainment and [https://scp-wiki.wikidot.com/scp-527 SCP-527].",
+        "tag": "big-cheese-horace",
+        "desc": "Big Cheese Horace of the Fifthists",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 653,
-        "tag": "pangloss",
-        "desc": "Of or related to the Pangloss individual of interest.",
+        "tag": "brainy-brian",
+        "desc": "Brainy Brian of Wondertainment/MC&D, also known as 'Doctor Neurosis'.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 654,
-        "tag": "philip-deering",
-        "desc": "Philip E. Deering, formerly [https://scp-wiki.wikidot.com/scp-5056 SCP-5056-B].",
+        "tag": "chaz-ambrose",
+        "desc": "Chaz Ambrose, founder of Ambrose Restaurants.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 655,
-        "tag": "plague-doctor",
-        "desc": "The Plague Doctor, aka [https://scp-wiki.wikidot.com/scp-049 SCP-049].",
+        "tag": "dado",
+        "desc": "[https://scp-wiki.wikidot.com/dado-hub dado] is taking care of u in dis one. u no worry.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 656,
-        "tag": "polaricecraps",
-        "desc": "Polaricecraps.",
+        "tag": "damien-nowak",
+        "desc": "Damien Nowak.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 657,
-        "tag": "possessive-mask",
-        "desc": "The Possessive Mask, aka [https://scp-wiki.wikidot.com/scp-035 SCP-035].",
+        "tag": "dc-al-fine",
+        "desc": "D.C. al Fine, Undersecretary-General of the Global Occult Coalition.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 658,
-        "tag": "professor-aw",
-        "desc": "Professor A. W, inventer and creator of curiosities.",
+        "tag": "eric",
+        "desc": "Eric, a mysterious creator of anomalies.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 659,
-        "tag": "professor-bjornsen",
-        "desc": "Professor Anders Bjornsen.",
+        "tag": "esther-kogan",
+        "desc": "Esther Kogan, aka lesbian_gengar of Gamers Against Weed.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 660,
-        "tag": "rainer-miller",
-        "desc": "Rainer Miller, aka [https://scp-wiki.wikidot.com/scp-4051 SCP-4051].",
+        "tag": "faeowynn-wilson",
+        "desc": "Faeowynn \"Fae\" Wilson.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 661,
-        "tag": "researcher-conwell",
-        "desc": "Researcher Jacob Conwell.",
+        "tag": "finnegan",
+        "desc": "Finnegan, anartist.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 662,
-        "tag": "researcher-james",
-        "desc": "Junior Researcher James, best foundation researcher ever! (Age 5).",
+        "tag": "grand-karcist-ion",
+        "desc": "Grand Karcist Ion, a Sarkic figure.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 663,
-        "tag": "researcher-labelle",
-        "desc": "Researcher Rose Labelle.",
+        "tag": "halyna-ieva",
+        "desc": "Karcist Halyna Ieva, aka [https://scp-wiki.wikidot.com/mother-who-demands-ones-toes The Mother Who Demands One's Toes].",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 664,
-        "tag": "researcher-lloyd",
-        "desc": "Researcher Lloyd, Destroyer of Worlds.",
+        "tag": "hanged-king",
+        "desc": "The Hanged King of Alagadda.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 665,
-        "tag": "researcher-rosen",
-        "desc": "Researcher David Rosen.",
+        "tag": "holly-light",
+        "desc": "Holly Light, of Dr Wondertainment.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 666,
-        "tag": "researcher-smalls",
-        "desc": "Researcher Adamo Smalls.",
+        "tag": "icky",
+        "desc": "Veronica Mason, aka [https://scp-wiki.wikidot.com/icky-the-magic-clown Icky the Magic Clown] of Herman Fuller's Circus of the Disquieting.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 667,
-        "tag": "researcher-talloran",
-        "desc": "Researcher Talloran.",
+        "tag": "iris-dark",
+        "desc": "Iris Dark, of Marshall, Carter & Dark Ltd.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 668,
-        "tag": "richard-chappell",
-        "desc": "Richard Davis Chappell, founder of the Chicago Spirit.",
+        "tag": "isabel-v",
+        "desc": "Isabel Helga Anastasia Parvati Wondertainment V.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 669,
-        "tag": "riven-mercer",
-        "desc": "Riven Mercer of Kiryu Labs.",
+        "tag": "jockjamsvol6",
+        "desc": "JJ, AKA jockjamsvol6 of Gamers Against Weed.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 670,
-        "tag": "robert-bumaro",
-        "desc": "Robert Bumaro, a prophet of Mekhane.",
+        "tag": "jude-kriyot",
+        "desc": "Jude Kriyot, AKA bluntfiend of Gamers Against Weed.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 671,
-        "tag": "robin-thorne",
-        "desc": "Robin Thorne.",
+        "tag": "judy-papill",
+        "desc": "Judy Papill, aka Judy the Tongue of Doctor Wondertainment.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 672,
-        "tag": "ruiz-duchamp",
-        "desc": "Ruiz Duchamp, an anartist.",
+        "tag": "kenneth-spencer",
+        "desc": "Kenneth Spencer, of the FBI Unusual Investigations Unit.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 673,
-        "tag": "saint-hedwig",
-        "desc": "Saint Hedwig, a prophet of Maxwellism.",
+        "tag": "kindness",
+        "desc": "A kind man.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 674,
-        "tag": "saturn-deer",
-        "desc": "Saturn Deer.",
+        "tag": "legate-trunnion",
+        "desc": "Legate Trunnion, prophet of the Cogwork Orthodoxy.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 675,
-        "tag": "sheldon-katz",
-        "desc": "Sheldon Katz.",
+        "tag": "lewitt-zairi-family",
+        "desc": "The Lewitt Zairi Family, of the Horizon Initiative.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 676,
-        "tag": "shy-guy",
-        "desc": "The Shy Guy, aka [https://scp-wiki.wikidot.com/scp-096 SCP-096].",
+        "tag": "manny",
+        "desc": "Manny, aka The Man With the Upside Down Face of Herman Fuller's Circus of the Disquieting.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 677,
-        "tag": "sigurros",
-        "desc": "Sigurrós Stefánsdóttir, aka [https://scp-wiki.wikidot.com/scp-239 SCP-239].",
+        "tag": "pangloss",
+        "desc": "Pangloss.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 678,
-        "tag": "simon-pietrykau",
-        "desc": "Simon Pietrykau.",
+        "tag": "polaricecraps",
+        "desc": "Polaricecraps, of Gamers Against Weed.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 679,
-        "tag": "ten-dots",
-        "desc": "[https://scp-wiki.wikidot.com/scp-2521 SCP-2521].",
+        "tag": "professor-aw",
+        "desc": "Professor A. W, inventer and creator of curiosities.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 680,
-        "tag": "thad-xyank",
-        "desc": "Dr. Thaddeus \"Thad\" Xyank.",
+        "tag": "richard-chappell",
+        "desc": "Richard Davis Chappell, founder of the Chicago Spirit.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 681,
-        "tag": "the-administrator",
-        "desc": "The Administrator (as a separate entity from the O5 Council).",
+        "tag": "robert-bumaro",
+        "desc": "Robert Bumaro, a prophet of Mekhane.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 682,
-        "tag": "the-engineer",
-        "desc": "The Engineer, of the Chaos Insurgency.",
+        "tag": "robin-thorne",
+        "desc": "Robin Thorne, of the FBI Unusual Investigations Unit.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 683,
-        "tag": "the-old-man",
-        "desc": "The Old Man, aka [https://scp-wiki.wikidot.com/scp-106 SCP-106].",
+        "tag": "ruiz-duchamp",
+        "desc": "Ruiz Duchamp, an anartist.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 684,
-        "tag": "the-sculpture",
-        "desc": "The sculpture, aka [https://scp-wiki.wikidot.com/scp-173 SCP-173].",
+        "tag": "saint-hedwig",
+        "desc": "Saint Hedwig, a prophet of Maxwellism.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 685,
-        "tag": "the-specter",
-        "desc": "The Specter, aka [https://scp-wiki.wikidot.com/scp-4944 SCP-4944].",
+        "tag": "saturn-deer",
+        "desc": "Saturn Deer.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 686,
-        "tag": "thilo-zwist",
-        "desc": "Thilo Zwist.",
+        "tag": "the-engineer",
+        "desc": "The Engineer, of the Chaos Insurgency.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 687,
-        "tag": "tim-wilson",
-        "desc": "Tim Wilson, of Wilson's Wildlife Solutions.",
+        "tag": "thilo-zwist",
+        "desc": "Thilo Zwist, memeticist.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 688,
-        "tag": "veronica-fitzroy",
-        "desc": "Veronica Katherine Fitzroy, anartist/D-class.",
+        "tag": "tim-wilson",
+        "desc": "Tim Wilson, of Wilson's Wildlife Solutions.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 689,
-        "tag": "vincent-anderson",
-        "desc": "Vincent Anderson, of Anderson Robotics.",
+        "tag": "veronica-fitzroy",
+        "desc": "Veronica Katherine Fitzroy, anartist/D-class.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 690,
-        "tag": "zyn-kiryu",
-        "desc": "Researcher Zyn Kiryu.",
+        "tag": "vincent-anderson",
+        "desc": "Vincent Anderson, of Anderson Robotics.",
+        "type": "Persons of Interest",
         "category": "Characters",
-        "list": "",
-        "type": ""
+        "list": ""
     },
     {
         "id": 691,
