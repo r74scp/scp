@@ -1145,6 +1145,7 @@
 * **[[[/system:page-tags/tag/goc事件簿|goc事件簿]]]** //(goc-casefiles)// - [[[goc-hub-page#toc11|世界オカルト連合事件簿]]]。
 * **[[[/system:page-tags/tag/kiryu-labs|kiryu-labs]]]** //(kiryu-labs)// - [[[kiryu-labs-hub|桐生研究所]]]。
 * **[[[/system:page-tags/tag/mister|mister]]]** //(mister)// - リトル・ミスターズ。
+* **[[[/system:page-tags/tag/旧敵たち|旧敵たち]]]** //(old-foes)// - [[[resurrection-old-foes-hub|リザレクション: 旧敵たち]]]。
 * **[[[/system:page-tags/tag/olympia|olympia]]]** //(olympia)// - [[[olympia-project|オリンピア・プロジェクト]]]。
 * **[[[/system:page-tags/tag/orientation|orientation]]]** //(orientation)// - オリエンテーション。
 * **[[[/system:page-tags/tag/防御柵計画|防御柵計画]]]** //(palisade)// - [[[project-palisade|防御柵計画]]]。
@@ -1424,7 +1425,7 @@
 * **[[[/system:page-tags/tag/ロゴス|ロゴス]]]** //(Логос)// - [[[fsa-data|株式会社"ロゴス"]]]。
 * **[[[/system:page-tags/tag/左利き|左利き]]]** //(Левша)// - 左利き。
 * **[[[/system:page-tags/tag/ミート・サーカス|ミート・サーカス]]]** //(Мясной_цирк)// - ミート・サーカス。
-* **[[[/system:page-tags/tag/プログレス研究所|プログレス研究所]]]** //(НИИ_Прогресс)// - [[[progress-institute-hub|"プログレス"研究所]]]。
+* **[[[/system:page-tags/tag/プログレス総合研究所|プログレス総合研究所]]]** //(НИИ_Прогресс)// - [[[progress-institute-hub|"プログレス"総合研究所]]]。
 
 [[/tab]]
 [[tab KO]]
