@@ -1027,6 +1027,7 @@
 * **[[[/system:page-tags/tag/thanatomania|thanatomania]]]** - [[[thanatomania-hub|Thanatomania]]]。
 * **[[[/system:page-tags/tag/大正150年|大正150年]]]** - [[[taisho150-hub|大正150年]]]。
 * **[[[/system:page-tags/tag/まずしいざいだん|まずしいざいだん]]]** - [[[poor-foundation-hub|まずしいざいだん]]]。
+* **[[[/system:page-tags/tag/氷我記|氷我記]]]** - [[[hyogaki-hub|氷我記]]]。
 
 [[/tab]][!--JP--]
 [[tab RU]]
@@ -1198,7 +1199,6 @@
 * **[[[/system:page-tags/tag/レ・テュウール・デリ|レ・テュウール・デリ]]]** - [[[les-tueurs-d-eris-hub|レ・テュウール・デリ]]]。
 * **[[[/system:page-tags/tag/h-e-r-operation|h-e-r-operation]]]** - [[[h-e-r-operation-hub|H.E.R.オペレーション]]]。
 * **[[[/system:page-tags/tag/蛇と焚書のカルテット|蛇と焚書のカルテット]]]** - [[[quartet-hub|蛇と焚書のカルテット]]]。
-* **[[[/system:page-tags/tag/氷我記|氷我記]]]** - [[[hyogaki-hub|氷我記]]]。
 * **[[[/system:page-tags/tag/人内魔境|人内魔境]]]** - [[[humankind-hub|人内魔境]]]。
 * **[[[/system:page-tags/tag/財団探偵|財団探偵]]]** - [[[foundation-detective-hub|財団探偵]]]。
 * **[[[/system:page-tags/tag/依談|依談]]]** - [[[yidan-hub|依談]]]。

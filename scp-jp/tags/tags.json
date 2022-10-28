@@ -4185,6 +4185,15 @@
     },
     {
         "id": 644,
+        "tag": "氷我記",
+        "trans": "",
+        "desc": "[[[hyogaki-hub|氷我記]]]。",
+        "type": "カノン-JP",
+        "category": "JP",
+        "list": ""
+    },
+    {
+        "id": 645,
         "tag": "サイト-7",
         "trans": "Хаб_3оны_7",
         "desc": "[[[site-7-hub|サイト-7]]]。",
@@ -4193,7 +4202,7 @@
         "list": ""
     },
     {
-        "id": 645,
+        "id": 646,
         "tag": "scp-h",
         "trans": "h",
         "desc": "[[[h|H (ホープタウン)]]]。",
@@ -4202,7 +4211,7 @@
         "list": ""
     },
     {
-        "id": 646,
+        "id": 647,
         "tag": "dira",
         "trans": "dira",
         "desc": "[[[dira-hub|内部調査分析部門 (DIRA)]]]。",
@@ -4211,7 +4220,7 @@
         "list": ""
     },
     {
-        "id": 647,
+        "id": 648,
         "tag": "朝鮮",
         "trans": "조선",
         "desc": "[[[joseon-hub|朝鮮]]]。",
@@ -4220,7 +4229,7 @@
         "list": ""
     },
     {
-        "id": 648,
+        "id": 649,
         "tag": "霧津",
         "trans": "무진",
         "desc": "[[[mujin-yarn|霧津奇譚]]]。",
@@ -4229,7 +4238,7 @@
         "list": ""
     },
     {
-        "id": 649,
+        "id": 650,
         "tag": "アノマリンピック",
         "trans": "초상올림픽",
         "desc": "[[[anomalympic-hub|アノマリンピック]]]。",
@@ -4238,7 +4247,7 @@
         "list": ""
     },
     {
-        "id": 650,
+        "id": 651,
         "tag": "生",
         "trans": "生",
         "desc": "[[[alive|生]]]。",
@@ -4247,7 +4256,7 @@
         "list": ""
     },
     {
-        "id": 651,
+        "id": 652,
         "tag": "ニルヴァーナ",
         "trans": "nirvana",
         "desc": "[[[nirvana-hub|ニルヴァーナ]]]。",
@@ -4256,7 +4265,7 @@
         "list": ""
     },
     {
-        "id": 652,
+        "id": 653,
         "tag": "豊穣公社",
         "trans": "丰饶公社",
         "desc": "[[[the-society-of-cornucopia|豊穣公社]]]。",
@@ -4265,7 +4274,7 @@
         "list": ""
     },
     {
-        "id": 653,
+        "id": 654,
         "tag": "忘れ難きもの",
         "trans": "再难遗忘",
         "desc": "[[[zai-nan-yi-wang|忘れ難きもの]]]。",
@@ -4274,7 +4283,7 @@
         "list": ""
     },
     {
-        "id": 654,
+        "id": 655,
         "tag": "鏡面の引火点",
         "trans": "镜面闪点",
         "desc": "[[[mirror-flashpoint|鏡面の引火点]]]。",
@@ -4283,7 +4292,7 @@
         "list": ""
     },
     {
-        "id": 655,
+        "id": 656,
         "tag": "深淵の光",
         "trans": "深渊之光",
         "desc": "[[[abyssal-light|深淵の光同修会]]]。",
@@ -4292,7 +4301,7 @@
         "list": ""
     },
     {
-        "id": 656,
+        "id": 657,
         "tag": "財団4k",
         "trans": "基金会4K",
         "desc": "[[[f4k|財団4K]]]。",
@@ -4301,7 +4310,7 @@
         "list": ""
     },
     {
-        "id": 657,
+        "id": 658,
         "tag": "公費旅行",
         "trans": "公款旅游",
         "desc": "[[[travel-by-public-funds-hub|公費旅行]]]。",
@@ -4310,7 +4319,7 @@
         "list": ""
     },
     {
-        "id": 658,
+        "id": 659,
         "tag": "散結",
         "trans": "散结",
         "desc": "[[[endin|散結]]]。",
@@ -4319,7 +4328,7 @@
         "list": ""
     },
     {
-        "id": 659,
+        "id": 660,
         "tag": "医院",
         "trans": "医院",
         "desc": "[[[hospital-hub|医院]]]。",
@@ -4328,7 +4337,7 @@
         "list": ""
     },
     {
-        "id": 660,
+        "id": 661,
         "tag": "空と大地のラプソディ",
         "trans": "空地狂想曲",
         "desc": "[[[air-land-rhapsody|空と大地のラプソディ]]]。",
@@ -4337,7 +4346,7 @@
         "list": ""
     },
     {
-        "id": 661,
+        "id": 662,
         "tag": "linkage",
         "trans": "linkage",
         "desc": "[[[linkAge-hub|linkAge]]]。",
@@ -4346,7 +4355,7 @@
         "list": ""
     },
     {
-        "id": 662,
+        "id": 663,
         "tag": "アイディタ計画",
         "trans": "爱蒂塔计划",
         "desc": "[[[project-aidita-hub|アイディタ計画]]]。",
@@ -4355,7 +4364,7 @@
         "list": ""
     },
     {
-        "id": 663,
+        "id": 664,
         "tag": "港城江",
         "trans": "港城江",
         "desc": "[[[k-s-g-hub|港．城．江]]]。",
@@ -4364,7 +4373,7 @@
         "list": ""
     },
     {
-        "id": 664,
+        "id": 665,
         "tag": "荏苒荒涼",
         "trans": "荏苒荒凉",
         "desc": "[[[slipping-desolation|荏苒荒涼]]]。",
@@ -4373,7 +4382,7 @@
         "list": ""
     },
     {
-        "id": 665,
+        "id": 666,
         "tag": "retour-à-l-anormal",
         "trans": "retour-à-l-anormal",
         "desc": "[[[retour-a-l-anormal|Retour à l'Anormal]]]。",
@@ -4382,7 +4391,7 @@
         "list": ""
     },
     {
-        "id": 666,
+        "id": 667,
         "tag": "bsia",
         "trans": "bsia",
         "desc": "[[[bsia|特異個体監督課]]]。",
@@ -4391,7 +4400,7 @@
         "list": ""
     },
     {
-        "id": 667,
+        "id": 668,
         "tag": "楽屋裏",
         "trans": "dans-les-coulisses",
         "desc": "[[[dans-les-coulisses|楽屋裏]]]。",
@@ -4400,7 +4409,7 @@
         "list": ""
     },
     {
-        "id": 668,
+        "id": 669,
         "tag": "人的資源",
         "trans": "ressources-humaines",
         "desc": "[[[ressources-humaines|人的資源]]]。",
@@ -4409,7 +4418,7 @@
         "list": ""
     },
     {
-        "id": 669,
+        "id": 670,
         "tag": "壁を背に",
         "trans": "dos-au-mur",
         "desc": "[[[dos-au-mur|壁を背に]]]。",
@@ -4418,7 +4427,7 @@
         "list": ""
     },
     {
-        "id": 670,
+        "id": 671,
         "tag": "雑草",
         "trans": "chwasty",
         "desc": "[[[chwasty-hub|雑草]]]。",
@@ -4427,7 +4436,7 @@
         "list": ""
     },
     {
-        "id": 671,
+        "id": 672,
         "tag": "潜伏治療",
         "trans": "przyczajone-leczenie",
         "desc": "[[[przyczajone-leczenie-hub|潜伏治療]]]。",
@@ -4436,7 +4445,7 @@
         "list": ""
     },
     {
-        "id": 672,
+        "id": 673,
         "tag": "i-57",
         "trans": "i-57",
         "desc": "[[[i-57-hub|施設-57]]]。",
@@ -4445,7 +4454,7 @@
         "list": ""
     },
     {
-        "id": 673,
+        "id": 674,
         "tag": "死せる星の観測",
         "trans": "estrellas-muertas",
         "desc": "[[[oem-hub|死せる星の観測]]]。",
@@ -4454,7 +4463,7 @@
         "list": ""
     },
     {
-        "id": 674,
+        "id": 675,
         "tag": "核の夢",
         "trans": "sueño-nuclear",
         "desc": "[[[hub-sueno-nuclear|核の夢]]]。",
@@ -4463,7 +4472,7 @@
         "list": ""
     },
     {
-        "id": 675,
+        "id": 676,
         "tag": "ホラーな財団",
         "trans": "horror-foundation",
         "desc": "[[[horror-foundation|ホラーな財団]]]。",
@@ -4472,7 +4481,7 @@
         "list": ""
     },
     {
-        "id": 676,
+        "id": 677,
         "tag": "ドイツscp財団",
         "trans": "scp-de",
         "desc": "[[[scp-foundation-in-deutschland-portal|ドイツSCP財団]]]。",
@@ -4481,7 +4490,7 @@
         "list": ""
     },
     {
-        "id": 677,
+        "id": 678,
         "tag": "machina",
         "trans": "machina",
         "desc": "[[[machina-portal|Machina]]]。",
@@ -4490,7 +4499,7 @@
         "list": ""
     },
     {
-        "id": 678,
+        "id": 679,
         "tag": "asp",
         "trans": "asp",
         "desc": "Machinaのデリバティブ記事[[footnote]] SCP-DE独自の記事区分です。[#faq 翻訳に関するFAQ]の項目も参照してください。 [[/footnote]]。",
@@ -4499,7 +4508,7 @@
         "list": ""
     },
     {
-        "id": 679,
+        "id": 680,
         "tag": "トリックスター計画",
         "trans": "projekt-trickster",
         "desc": "[[[projekt-trickster|トリックスター計画]]]。",
@@ -4508,7 +4517,7 @@
         "list": ""
     },
     {
-        "id": 680,
+        "id": 681,
         "tag": "青玉色の空",
         "trans": "sapphire-u",
         "desc": "[[[sapphire-portal|青玉色の空]]]。",
@@ -4517,7 +4526,7 @@
         "list": ""
     },
     {
-        "id": 681,
+        "id": 682,
         "tag": "hue",
         "trans": "hue",
         "desc": "碧玉色の空のデリバティブ記事。",
@@ -4526,7 +4535,7 @@
         "list": ""
     },
     {
-        "id": 682,
+        "id": 683,
         "tag": "skp",
         "trans": "skp",
         "desc": "[[[skp-portal|異常利用特殊部隊]]]。",
@@ -4535,7 +4544,7 @@
         "list": ""
     },
     {
-        "id": 683,
+        "id": 684,
         "tag": "ニュークリオン・バンク",
         "trans": "核裂擠兌",
         "desc": "[[[operation-nucleon-bank|ニュークリオン・バンク]]]。",
@@ -4544,7 +4553,7 @@
         "list": ""
     },
     {
-        "id": 684,
+        "id": 685,
         "tag": "神異博覧会",
         "trans": "神異博覽會",
         "desc": "[[[taiwan-miracle-exposition|神異博覧会1935]]]。",
@@ -4553,7 +4562,7 @@
         "list": ""
     },
     {
-        "id": 685,
+        "id": 686,
         "tag": "転生計画",
         "trans": "轉世計劃",
         "desc": "転生計画。",
@@ -4562,7 +4571,7 @@
         "list": ""
     },
     {
-        "id": 686,
+        "id": 687,
         "tag": "アナバシス",
         "trans": "anabasis",
         "desc": "[[[anabasis-hub|アナバシス]]]。",
@@ -4571,7 +4580,7 @@
         "list": ""
     },
     {
-        "id": 687,
+        "id": 688,
         "tag": "ao-tale",
         "trans": "ao-tale",
         "desc": "[[[ao-hub|Anomalousアイテムの物語]]]。",
@@ -4580,7 +4589,7 @@
         "list": ""
     },
     {
-        "id": 688,
+        "id": 689,
         "tag": "classical-revival",
         "trans": "classical-revival",
         "desc": "[[[classicalrevivalindex|クラシカル・リバイバル]]]。",
@@ -4589,7 +4598,7 @@
         "list": ""
     },
     {
-        "id": 689,
+        "id": 690,
         "tag": "コレクターtale",
         "trans": "collector-tale",
         "desc": "ミスター・コレクター(参照: //mister//タグ)。",
@@ -4598,7 +4607,7 @@
         "list": ""
     },
     {
-        "id": 690,
+        "id": 691,
         "tag": "goc事件簿",
         "trans": "goc-casefiles",
         "desc": "[[[goc-hub-page#toc11|世界オカルト連合事件簿]]]。",
@@ -4607,7 +4616,7 @@
         "list": ""
     },
     {
-        "id": 691,
+        "id": 692,
         "tag": "kiryu-labs",
         "trans": "kiryu-labs",
         "desc": "[[[kiryu-labs-hub|桐生研究所]]]。",
@@ -4616,7 +4625,7 @@
         "list": ""
     },
     {
-        "id": 692,
+        "id": 693,
         "tag": "mister",
         "trans": "mister",
         "desc": "リトル・ミスターズ。",
@@ -4625,7 +4634,7 @@
         "list": ""
     },
     {
-        "id": 693,
+        "id": 694,
         "tag": "旧敵たち",
         "trans": "old-foes",
         "desc": "[[[resurrection-old-foes-hub|リザレクション: 旧敵たち]]]。",
@@ -4634,7 +4643,7 @@
         "list": ""
     },
     {
-        "id": 694,
+        "id": 695,
         "tag": "olympia",
         "trans": "olympia",
         "desc": "[[[olympia-project|オリンピア・プロジェクト]]]。",
@@ -4643,7 +4652,7 @@
         "list": ""
     },
     {
-        "id": 695,
+        "id": 696,
         "tag": "orientation",
         "trans": "orientation",
         "desc": "オリエンテーション。",
@@ -4652,7 +4661,7 @@
         "list": ""
     },
     {
-        "id": 696,
+        "id": 697,
         "tag": "防御柵計画",
         "trans": "palisade",
         "desc": "[[[project-palisade|防御柵計画]]]。",
@@ -4661,7 +4670,7 @@
         "list": ""
     },
     {
-        "id": 697,
+        "id": 698,
         "tag": "project-crossover",
         "trans": "project-crossover",
         "desc": "[[[crossoverprojectindex|クロスオーバープロジェクト]]]。",
@@ -4670,7 +4679,7 @@
         "list": ""
     },
     {
-        "id": 698,
+        "id": 699,
         "tag": "project-thaumiel",
         "trans": "project-thaumiel",
         "desc": "[[[thaumiel|プロジェクトThaumiel]]]。",
@@ -4679,7 +4688,7 @@
         "list": ""
     },
     {
-        "id": 699,
+        "id": 700,
         "tag": "team-bird",
         "trans": "team-bird",
         "desc": "[[[bird|チームバード]]]。",
@@ -4688,7 +4697,7 @@
         "list": ""
     },
     {
-        "id": 700,
+        "id": 701,
         "tag": "タイム・アフター・タイム・パスワード",
         "trans": "time-after-time-password",
         "desc": "[[[the-time-after-time-password-hub|タイム・アフター・タイム・パスワード]]]。",
@@ -4697,7 +4706,7 @@
         "list": ""
     },
     {
-        "id": 701,
+        "id": 702,
         "tag": "忘年会2013",
         "trans": "",
         "desc": "[[[bounenkai|財団日本支部年中行事 - 2013年忘年会]]]。",
@@ -4706,7 +4715,7 @@
         "list": ""
     },
     {
-        "id": 702,
+        "id": 703,
         "tag": "財団夏祭り",
         "trans": "",
         "desc": "[[[foundation-summer-festival|財団夏祭り]]]。",
@@ -4715,7 +4724,7 @@
         "list": ""
     },
     {
-        "id": 703,
+        "id": 704,
         "tag": "タタールの軛",
         "trans": "",
         "desc": "[[[tataro-yoke|タタールの軛]]]。",
@@ -4724,7 +4733,7 @@
         "list": ""
     },
     {
-        "id": 704,
+        "id": 705,
         "tag": "大怪獣決戦テイル",
         "trans": "",
         "desc": "[[[monster-decisive-battle-hub|大怪獣決戦テイルシリーズ]]]。",
@@ -4733,7 +4742,7 @@
         "list": ""
     },
     {
-        "id": 705,
+        "id": 706,
         "tag": "宴の後",
         "trans": "",
         "desc": "[[[after-party-hub|宴の後]]]。",
@@ -4742,7 +4751,7 @@
         "list": ""
     },
     {
-        "id": 706,
+        "id": 707,
         "tag": "ゲーデ・フィルム",
         "trans": "",
         "desc": "[[[goede-film-hub|『ゲーデ・フィルム』]]]。",
@@ -4751,7 +4760,7 @@
         "list": ""
     },
     {
-        "id": 707,
+        "id": 708,
         "tag": "青鈍色の空",
         "trans": "",
         "desc": "[[[aonibiiro-hub|青鈍色の空]]]。",
@@ -4760,7 +4769,7 @@
         "list": ""
     },
     {
-        "id": 708,
+        "id": 709,
         "tag": "剖検",
         "trans": "",
         "desc": "[[[autopsy-hub|剖検]]]。",
@@ -4769,7 +4778,7 @@
         "list": ""
     },
     {
-        "id": 709,
+        "id": 710,
         "tag": "白色家系図録",
         "trans": "",
         "desc": "[[[shironose-hub|白乃瀬の一族]]]。",
@@ -4778,7 +4787,7 @@
         "list": ""
     },
     {
-        "id": 710,
+        "id": 711,
         "tag": "怪奇銘々伝",
         "trans": "",
         "desc": "[[[kaiki-meimeiden-hub|怪奇銘々伝]]]。",
@@ -4787,7 +4796,7 @@
         "list": ""
     },
     {
-        "id": 711,
+        "id": 712,
         "tag": "rror",
         "trans": "",
         "desc": "[[[rror-hub|rror]]]。",
@@ -4796,7 +4805,7 @@
         "list": ""
     },
     {
-        "id": 712,
+        "id": 713,
         "tag": "purple",
         "trans": "",
         "desc": "[[[purple-hub|PURPLE]]]。",
@@ -4805,7 +4814,7 @@
         "list": ""
     },
     {
-        "id": 713,
+        "id": 714,
         "tag": "グレースケール",
         "trans": "",
         "desc": "[[[grayscale-hub|グレースケール]]]。。",
@@ -4814,7 +4823,7 @@
         "list": ""
     },
     {
-        "id": 714,
+        "id": 715,
         "tag": "レ・テュウール・デリ",
         "trans": "",
         "desc": "[[[les-tueurs-d-eris-hub|レ・テュウール・デリ]]]。",
@@ -4823,7 +4832,7 @@
         "list": ""
     },
     {
-        "id": 715,
+        "id": 716,
         "tag": "h-e-r-operation",
         "trans": "",
         "desc": "[[[h-e-r-operation-hub|H.E.R.オペレーション]]]。",
@@ -4832,19 +4841,10 @@
         "list": ""
     },
     {
-        "id": 716,
+        "id": 717,
         "tag": "蛇と焚書のカルテット",
         "trans": "",
         "desc": "[[[quartet-hub|蛇と焚書のカルテット]]]。",
-        "type": "連作-JP",
-        "category": "JP",
-        "list": ""
-    },
-    {
-        "id": 717,
-        "tag": "氷我記",
-        "trans": "",
-        "desc": "[[[hyogaki-hub|氷我記]]]。",
         "type": "連作-JP",
         "category": "JP",
         "list": ""
