@@ -2195,6 +2195,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/halloween2018|halloween2018]]]** //(halloween2018)// - [[[halloween-contest-2018|2018年ハロウィンコンテスト]]]。
 
+* **[[[/system:page-tags/tag/halloweencon2022|halloweencon2022]]]** //(halloweencon2022)// - [[[halloween-con-2022|2022年ハロウィンコンテスト]]]。
+
 * **[[[/system:page-tags/tag/hc2012|hc2012]]]** //(hc2012)// - [[[halloween-contest|2012年ハロウィンコンテスト]]]。
 
 * **[[[/system:page-tags/tag/hiscon2017|hiscon2017]]]** //(hiscon2017)// - [[[history-contest|2017年歴史コンテスト]]]。
