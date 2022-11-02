@@ -970,7 +970,7 @@
 * **[[[/system:page-tags/tag/ドレッド&サーカス|ドレッド&サーカス]]]** //(dread&circuses)// - [[[dread-circuses-hub|ドレッド&サーカス]]]。
 * **[[[/system:page-tags/tag/死の終焉|死の終焉]]]** //(end-of-death)// - [[[end-of-death-hub|死の終焉]]]。
 * **[[[/system:page-tags/tag/etdp|etdp]]]** //(etdp)// - [[[etdp-hub-page|そして私は神を求めた]]]。
-* **[[[/system:page-tags/tag/120の史料館より|120の史料館より]]]** //(from-120s-archives)// - [[[from-120-s-archives-hub|120の史料館より]]]。
+* **[[[/system:page-tags/tag/120の記録書庫より|120の記録書庫より]]]** //(from-120s-archives)// - [[[from-120-s-archives-hub|120の記録書庫より]]]。
 * **[[[/system:page-tags/tag/翠の王|翠の王]]]** //(green-king)// - [[[codename-green-king-hub|コードネーム：翠の王]]]。
 * **[[[/system:page-tags/tag/ヘイムダル|ヘイムダル]]]** //(heimdall)// - [[[project-heimdall|ヘイムダル計画]]]。
 * **[[[/system:page-tags/tag/insect-hell|insect-hell]]]** //(insect-hell)// - [[[arbh-class-hub|”昆虫地獄”]]]。
@@ -1302,7 +1302,7 @@
 * **[[[/system:page-tags/tag/金帳汗国|金帳汗国]]]** //(golden-horde)// - 金帳汗国。
 * **[[[/system:page-tags/tag/グリーズバーガー|グリーズバーガー]]]** //(greazeburger)// - [[[greazeburger-incorporated-hub|グリーズバーガー]]]。
 * **[[[/system:page-tags/tag/hmfscp|hmfscp]]]** //(hmfscp)// - 超常現象の確保収容に関する王立財団 / 珍品と過ぎ往く幻想の研究の為の王立財団 (HMFSCP)。
-* **[[[/system:page-tags/tag/homo-sapiens-sidhe|homo-sapiens-sidhe]]]** //(homo-sapiens-sidhe)// - [[[from-120-s-archives-hub|120の史料館より]]]準拠の妖精/Homo sapiens sidhe。
+* **[[[/system:page-tags/tag/homo-sapiens-sidhe|homo-sapiens-sidhe]]]** //(homo-sapiens-sidhe)// - [[[from-120-s-archives-hub|120の記録書庫より]]]準拠の妖精/Homo sapiens sidhe。
 * **[[[/system:page-tags/tag/icsut|icsut]]]** (//icsut//) - 国際統一奇跡論研究センター (ICSUT)。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。要注意領域-ENの項目も参照してください。
 * **[[[/system:page-tags/tag/名もなきもの|名もなきもの]]]** //(nameless)// - [[[SCP-4000]]]に登場する”名もなきもの”あるいは”妖精”。
@@ -1758,6 +1758,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/d-7294|d-7294]]]** //(d-7294)// - D-7294。
 * **[[[/system:page-tags/tag/d-11424|d-11424]]]** //(d-11424)// - D-11424。
 * **[[[/system:page-tags/tag/dado|dado]]]** //(dado)// - dado これであなた せわする。しんぱい むよう。
+* **[[[/system:page-tags/tag/ダミアン・ノヴァク|ダミアン・ノヴァク]]]** //(damien-nowak)// - ダミアン・ノヴァク。
 * **[[[/system:page-tags/tag/d.c.アルフィーネ|d.c.アルフィーネ]]]** //(dc-al-fine)// - 世界オカルト連合事務総長、D.C.al Fine。
 * **[[[/system:page-tags/tag/アクタス管理官|アクタス管理官]]]** //(director-aktus)// - サイト管理官アクタス。
 * **[[[/system:page-tags/tag/ボールド管理官|ボールド管理官]]]** //(director-bold)// - 解体部門のカル・ボールド管理官。
