@@ -269,7 +269,7 @@ Tags that apply to animals, or to entities that resemble animals.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/rodent rodent]** -- SCP is, affects or resembles rodents, including mice, rats, squirrels and beavers.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/shark shark]** -- SCP is, affects or resembles sharks, including rays and skates (selachian).
- * //Requires 'piscine'//
+ * //Requires 'fish'//
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/snake snake]** -- SCP is, affects or resembles snakes (ophidian).
  * //Often used with 'animal', and 'reptile'//
