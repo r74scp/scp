@@ -234,7 +234,7 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/butterfly butterfly]** -- SCP is, affects or resembles lepidopteran insects, including butterflies, moths, and skippers.
  * //Often used with 'animal', and 'insect'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/canine canine]** -- SCP is, affects or resembles dog-like animals, including wolves and jackals.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/canine canine]** -- SCP is, affects or resembles dog-like animals, including wolves, coyote and jackals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cephalopod cephalopod]** -- SCP is, affects or resembles cephalopods, including the cuttlefish, octopus, and squid.
  * //Often used with 'animal'//
@@ -254,7 +254,7 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Often used with 'animal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/fish fish]** -- SCP is, affects or resembles fish (piscine).
  * //Often used with 'animal'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/insect insect]** -- SCP is, affects or resembles insects, which are six-legged arthropods. (This **does not** includes spiders, which should be tagged as //arachnid//, or woodlice, which should be tagged as //crustacean//. This also does not include centipedes or millipedes).
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/insect insect]** -- SCP is, affects or resembles insects, which are six-legged arthropods. (This **does not** include spiders, which should be tagged as //arachnid//, or woodlice, which should be tagged as //crustacean//. This also does not include centipedes or millipedes).
  * //Often used with 'animal'//
  * //Conflicts with 'arachnid', and 'crustacean'//
  * //Supersedes 'invertebrate', and 'arthropod'//
@@ -472,6 +472,7 @@ Tags that typically apply to objects created by humans, including **artifacts** 
 
 Tags that describe where the SCP is, where it comes from, or that apply to SCPs that describe or affect specific locations.
 
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/afterlife afterlife]** -- SCP describes or is otherwise related to what happens to consciousness after death.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/airborne airborne]** -- SCP lives in, moves through, or spreads through the air.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/aquatic aquatic]** -- SCP lives in, moves through or spreads through water.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/building building]** -- SCP is, is a part of, or otherwise is related to or affects a building, defined as a structure intended for human occupation.
@@ -537,6 +538,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of of related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation Ethics Committee.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Of or related to the Foundations Fire Surpession Department.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/miscommunications miscommunications]** -- Of or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Of or related to the Pataphysics Department.
@@ -765,11 +767,12 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 
 [[/tab]]
 
-[[tab Tale Series]]
-++ Tale Series
+[[tab Series]]
+++ Series
 
-Tags for long tale series, that may or may not have a Hub.
+Tags for tale and SCP series, that may or may not have a Hub.
 
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/abcs-of-death abcs-of-death]** -- Part of the ABC's of Death [https://scp-wiki.wikidot.com/scp-anthology-hub anthology].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/anabasis anabasis]** -- Of or related to the [https://scp-wiki.wikidot.com/anabasis-hub Anabasis] stories.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ao-tale ao-tale]** -- Of or related to the [https://scp-wiki.wikidot.com/ao-hub Tales of Anomalous Items] stories.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bury-the-survivors bury-the-survivors]** -- Of or related to the [https://scp-wiki.wikidot.com/bury-the-survivors-hub Bury the Survivors] series.
@@ -885,27 +888,30 @@ Employees of the Foundation.
 
 SCP Objects with their own character tags.
 
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/able able]** -- Able, aka [https://scp-wiki.wikidot.com/scp-076 SCP-076].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/able able]** -- Able, aka [https://scp-wiki.wikidot.com/scp-076 SCP-076-2].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/alexei-belitrov alexei-belitrov]** -- Alexei Belitrov, aka [https://scp-wiki.wikidot.com/scp-2273 SCP-2273].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/alleged-god alleged-god]** -- [https://scp-wiki.wikidot.com/scp-343 SCP-343], aka "God".
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/blackwood blackwood]** -- [https://scp-wiki.wikidot.com/new Lord Blackwood, Explorer and Gentleman], aka [https://scp-wiki.wikidot.com/scp-1867 SCP-1867].
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/bobble-the-clown bobble-the-clown]** -- Bobble The Clown, aka  [https://scp-wiki.wikidot.com/scp-993 SCP-993].
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/bones bones]** -- Bones, aka [https://scp-wiki.wikidot.com/protected:scp-2721 SCP-2721-LORD] or Eli.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/bobble-the-clown bobble-the-clown]** -- Bobble The Clown, aka [https://scp-wiki.wikidot.com/scp-993 SCP-993].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/bones bones]** -- Bones, aka [https://scp-wiki.wikidot.com/scp-2721 SCP-2721-LORD] or Eli.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cain cain]** -- Cain, aka [https://scp-wiki.wikidot.com/scp-073 SCP-073].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cousin-johnny cousin-johnny]** -- Cousin Johnny, aka [https://scp-wiki.wikidot.com/scp-2852 SCP-2852].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/doctor-spanko doctor-spanko]** -- [https://scp-wiki.wikidot.com/doctor-spanko-hub Dr. Spanko], aka [https://scp-wiki.wikidot.com/scp-2337 SCP-2337].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/donkman donkman]** -- Ulysses B. Donkman, aka [https://scp-wiki.wikidot.com/scp-4768 SCP-4768].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/fred fred]** -- Fred, aka [https://scp-wiki.wikidot.com/scp-423 SCP-423].
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/grabnok grabnok]** -- Grabnok the Destroyer, aka [https://scp-wiki.wikidot.com/scp-507 SCP-507].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/grabnok grabnok]** -- Grabnok the Destroyer, the Reluctant Dimension Hopper, aka [https://scp-wiki.wikidot.com/scp-507 SCP-507].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hard-to-kill-reptile hard-to-kill-reptile]** -- The "Hard-To-Destroy Reptile", aka [https://scp-wiki.wikidot.com/scp-682 SCP-682].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/heather-mason heather-mason]** -- Heather Mason, aka "Ms. Mad About Video Games" or [https://scp-wiki.wikidot.com/scp-3090 SCP-3090].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/hogslice hogslice]** -- Hogslice, aka [https://scp-wiki.wikidot.com/scp-6599 SCP-6599].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/iris-thompson iris-thompson]** -- Iris Thompson, aka [https://scp-wiki.wikidot.com/scp-105 SCP-105].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/leslie leslie]** -- Leslie, instance of [https://scp-wiki.wikidot.com/scp-3774 SCP-3774].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/moon-champion moon-champion]** -- Moon Champion, aka Champion of the Moon or [https://scp-wiki.wikidot.com/scp-1233 SCP-1233].
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/mr-fish mr-fish]** -- Mr. Fish, Little Mister from Dr. Wondertainment and [https://scp-wiki.wikidot.com/scp-527 SCP-527].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/mr-fish mr-fish]** -- Mr. Fish, Little Mister from Dr. Wondertainment, aka [https://scp-wiki.wikidot.com/scp-527 SCP-527].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/old-ai old-ai]** -- "Old AI", aka [https://scp-wiki.wikidot.com/scp-079 SCP-079].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/plague-doctor plague-doctor]** -- The Plague Doctor, aka [https://scp-wiki.wikidot.com/scp-049 SCP-049].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/possessive-mask possessive-mask]** -- The Possessive Mask, aka [https://scp-wiki.wikidot.com/scp-035 SCP-035].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/rainer-miller rainer-miller]** -- Rainer Miller, aka [https://scp-wiki.wikidot.com/scp-4051 SCP-4051].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/sauelsuesor sauelsuesor]** -- Sauelsuesor, aka [https://scp-wiki.wikidot.com/scp-179 SCP-179].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/shy-guy shy-guy]** -- The Shy Guy, aka [https://scp-wiki.wikidot.com/scp-096 SCP-096].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/sigurros sigurros]** -- Sigurrós Stefánsdóttir, aka [https://scp-wiki.wikidot.com/scp-239 SCP-239].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ten-dots ten-dots]** -- [https://scp-wiki.wikidot.com/scp-2521 SCP-2521].
@@ -919,39 +925,40 @@ Other individuals involved in the anomalous.
 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/aldon aldon]** -- Aldon, an anartist.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/big-cheese-horace big-cheese-horace]** -- Big Cheese Horace of the Fifthists
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/brainy-brian brainy-brian]** -- Brainy Brian of Wondertainment/MC&D, also known as 'Doctor Neurosis'.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/brainy-brian brainy-brian]** -- Brainy Brian of Wondertainment/MC&D, also known as "Doctor Neurosis".
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/chaz-ambrose chaz-ambrose]** -- Chaz Ambrose, founder of Ambrose Restaurants.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/dado dado]** -- [https://scp-wiki.wikidot.com/dado-hub dado] is taking care of u in dis one. u no worry.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/damien-nowak damien-nowak]** -- Damien Nowak.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/damien-nowak damien-nowak]** -- Damien Nowak, cult leader.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/dc-al-fine dc-al-fine]** -- D.C. al Fine, Undersecretary-General of the Global Occult Coalition.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/eric eric]** -- Eric, a mysterious creator of anomalies.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/esther-kogan esther-kogan]** -- Esther Kogan, aka lesbian_gengar of Gamers Against Weed.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/faeowynn-wilson faeowynn-wilson]** -- Faeowynn "Fae" Wilson.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/faeowynn-wilson faeowynn-wilson]** -- Faeowynn "Fae" Wilson, of Wilson's Wildlife Solutions.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/finnegan finnegan]** -- Finnegan, anartist.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/grand-karcist-ion grand-karcist-ion]** -- Grand Karcist Ion, a Sarkic figure.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/grand-karcist-ion grand-karcist-ion]** -- Grand Karcist Ion, founder of Sarkicism.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/halyna-ieva halyna-ieva]** -- Karcist Halyna Ieva, aka [https://scp-wiki.wikidot.com/mother-who-demands-ones-toes The Mother Who Demands One's Toes].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hanged-king hanged-king]** -- The Hanged King of Alagadda.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/holly-light holly-light]** -- Holly Light, of Dr Wondertainment.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/icky icky]** -- Veronica Mason, aka [https://scp-wiki.wikidot.com/icky-the-magic-clown Icky the Magic Clown] of Herman Fuller's Circus of the Disquieting.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/iris-dark iris-dark]** -- Iris Dark, of Marshall, Carter & Dark Ltd.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/isabel-v isabel-v]** -- Isabel Helga Anastasia Parvati Wondertainment V.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/jockjamsvol6 jockjamsvol6]** -- JJ, AKA jockjamsvol6 of Gamers Against Weed.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/jude-kriyot jude-kriyot]** -- Jude Kriyot, AKA bluntfiend of Gamers Against Weed.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/jockjamsvol6 jockjamsvol6]** -- JJ, aka jockjamsvol6 of Gamers Against Weed.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/jude-kriyot jude-kriyot]** -- Jude Kriyot, aka bluntfiend of Gamers Against Weed.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/judy-papill judy-papill]** -- Judy Papill, aka Judy the Tongue of Doctor Wondertainment.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/kenneth-spencer kenneth-spencer]** -- Kenneth Spencer, of the FBI Unusual Investigations Unit.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/kindness kindness]** -- A kind man.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/legate-trunnion legate-trunnion]** -- Legate Trunnion, prophet of the Cogwork Orthodoxy.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/lewitt-zairi-family lewitt-zairi-family]** -- The Lewitt Zairi Family, of the Horizon Initiative.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/manny manny]** -- Manny, aka The Man With the Upside Down Face of Herman Fuller's Circus of the Disquieting.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/orok orok]** -- Orok, one of the four Klavigars of Sarkicism.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/polaricecraps polaricecraps]** -- Polaricecraps, of Gamers Against Weed.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/professor-aw professor-aw]** -- Professor A. W, inventer and creator of curiosities.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/professor-aw professor-aw]** -- Professor A.W., inventor and creator of curiosities.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/richard-chappell richard-chappell]** -- Richard Davis Chappell, founder of the Chicago Spirit.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/robert-bumaro robert-bumaro]** -- Robert Bumaro, a prophet of Mekhane.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/robert-bumaro robert-bumaro]** -- Robert Bumaro, prophet of Mekhane.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/robin-thorne robin-thorne]** -- Robin Thorne, of the FBI Unusual Investigations Unit.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ruiz-duchamp ruiz-duchamp]** -- Ruiz Duchamp, an anartist.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hedwig, a prophet of Maxwellism.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer, serial reincarnator and false prophet.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-engineer the-engineer]** -- The Engineer, of the Chaos Insurgency.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/thilo-zwist thilo-zwist]** -- Thilo Zwist, memeticist.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/tim-wilson tim-wilson]** -- Tim Wilson, of Wilson's Wildlife Solutions.
@@ -1443,7 +1450,7 @@ description = "SCP is, affects or resembles lepidopteran insects, including butt
 
 [[tags]]
 name = "canine"
-description = "SCP is, affects or resembles dog-like animals, including wolves and jackals."
+description = "SCP is, affects or resembles dog-like animals, including wolves, coyote and jackals."
 
 [[tags]]
 name = "cephalopod"
@@ -1926,6 +1933,10 @@ name = "vehicle"
 description = "SCP is or is intended to be used as a vehicle."
 
 [[tags]]
+name = "afterlife"
+description = "SCP describes or is otherwise related to what happens to consciousness after death."
+
+[[tags]]
 name = "airborne"
 description = "SCP lives in, moves through, or spreads through the air."
 
@@ -2072,6 +2083,10 @@ description = "Of or related to the Decommissioning Department."
 [[tags]]
 name = "ethics-committee"
 description = "Of or related to the Foundation Ethics Committee."
+
+[[tags]]
+name = "fire-suppression-dept"
+description = "Of or related to the Foundations Fire Surpession Department."
 
 [[tags]]
 name = "folklore-dept"
@@ -2710,6 +2725,10 @@ name = "wonderful-world"
 description = "Of or related to the What a Wonderful World canon."
 
 [[tags]]
+name = "abcs-of-death"
+description = "Part of the ABC's of Death anthology"
+
+[[tags]]
 name = "anabasis"
 description = "Of or related to the Anabasis stories."
 
@@ -3103,7 +3122,7 @@ description = "Researcher Zyn Kiryu."
 
 [[tags]]
 name = "able"
-description = "Able, aka SCP-076."
+description = "Able, aka SCP-076-2."
 
 [[tags]]
 name = "alexei-belitrov"
@@ -3147,7 +3166,7 @@ description = "Fred, aka SCP-423."
 
 [[tags]]
 name = "grabnok"
-description = "Grabnok the Destroyer, aka SCP-507."
+description = "Grabnok the Destroyer, the Reluctant Dimension Hopper, aka SCP-507."
 
 [[tags]]
 name = "hard-to-kill-reptile"
@@ -3156,6 +3175,10 @@ description = "The \"Hard-To-Destroy Reptile\", aka SCP-682."
 [[tags]]
 name = "heather-mason"
 description = "Heather Mason, aka \"Ms. Mad About Video Games\" or SCP-3090."
+
+[[tags]]
+name = "hogslice"
+description = "Hogslice, aka SCP-6599."
 
 [[tags]]
 name = "iris-thompson"
@@ -3171,7 +3194,11 @@ description = "Moon Champion, aka Champion of the Moon or SCP-1233."
 
 [[tags]]
 name = "mr-fish"
-description = "Mr. Fish, Little Mister from Dr. Wondertainment and SCP-527."
+description = "Mr. Fish, Little Mister from Dr. Wondertainment, aka SCP-527."
+
+[[tags]]
+name = "old-ai"
+description = "\"Old AI\", aka SCP-079."
 
 [[tags]]
 name = "plague-doctor"
@@ -3184,6 +3211,10 @@ description = "The Possessive Mask, aka SCP-035."
 [[tags]]
 name = "rainer-miller"
 description = "Rainer Miller, aka SCP-4051."
+
+[[tags]]
+name = "sauelsuesor"
+description = "Sauelsuesor, aka SCP-179."
 
 [[tags]]
 name = "shy-guy"
@@ -3203,7 +3234,7 @@ description = "The Old Man, aka SCP-106."
 
 [[tags]]
 name = "the-sculpture"
-description = "The sculpture, aka SCP-173."
+description = "The Sculpture, aka SCP-173."
 
 [[tags]]
 name = "the-specter"
@@ -3219,7 +3250,7 @@ description = "Big Cheese Horace of the Fifthists"
 
 [[tags]]
 name = "brainy-brian"
-description = "Brainy Brian of Wondertainment/MC&D, also known as 'Doctor Neurosis'."
+description = "Brainy Brian of Wondertainment/MC&D, also known as \"Doctor Neurosis\"."
 
 [[tags]]
 name = "chaz-ambrose"
@@ -3231,7 +3262,7 @@ description = "dado is taking care of u in dis one. u no worry."
 
 [[tags]]
 name = "damien-nowak"
-description = "Damien Nowak."
+description = "Damien Nowak, cult leader."
 
 [[tags]]
 name = "dc-al-fine"
@@ -3247,7 +3278,7 @@ description = "Esther Kogan, aka lesbian_gengar of Gamers Against Weed."
 
 [[tags]]
 name = "faeowynn-wilson"
-description = "Faeowynn \"Fae\" Wilson."
+description = "Faeowynn \"Fae\" Wilson, of Wilson's Wildlife Solutions."
 
 [[tags]]
 name = "finnegan"
@@ -3255,7 +3286,7 @@ description = "Finnegan, anartist."
 
 [[tags]]
 name = "grand-karcist-ion"
-description = "Grand Karcist Ion, a Sarkic figure."
+description = "Grand Karcist Ion, founder of Sarkicism."
 
 [[tags]]
 name = "halyna-ieva"
@@ -3283,11 +3314,11 @@ description = "Isabel Helga Anastasia Parvati Wondertainment V."
 
 [[tags]]
 name = "jockjamsvol6"
-description = "JJ, AKA jockjamsvol6 of Gamers Against Weed."
+description = "JJ, aka jockjamsvol6 of Gamers Against Weed."
 
 [[tags]]
 name = "jude-kriyot"
-description = "Jude Kriyot, AKA bluntfiend of Gamers Against Weed."
+description = "Jude Kriyot, aka bluntfiend of Gamers Against Weed."
 
 [[tags]]
 name = "judy-papill"
@@ -3314,8 +3345,12 @@ name = "manny"
 description = "Manny, aka The Man With the Upside Down Face of Herman Fuller's Circus of the Disquieting."
 
 [[tags]]
+name = "orok"
+description = "Orok, one of the four Klavigars of Sarkicism."
+
+[[tags]]
 name = "pangloss"
-description = "Pangloss."
+description = "Pangloss, mythical figure and leaver of notes."
 
 [[tags]]
 name = "polaricecraps"
@@ -3323,7 +3358,7 @@ description = "Polaricecraps, of Gamers Against Weed."
 
 [[tags]]
 name = "professor-aw"
-description = "Professor A. W, inventer and creator of curiosities."
+description = "Professor A.W., inventor and creator of curiosities."
 
 [[tags]]
 name = "richard-chappell"
@@ -3331,7 +3366,7 @@ description = "Richard Davis Chappell, founder of the Chicago Spirit."
 
 [[tags]]
 name = "robert-bumaro"
-description = "Robert Bumaro, a prophet of Mekhane."
+description = "Robert Bumaro, prophet of Mekhane."
 
 [[tags]]
 name = "robin-thorne"
@@ -3347,7 +3382,7 @@ description = "Saint Hedwig, a prophet of Maxwellism."
 
 [[tags]]
 name = "saturn-deer"
-description = "Saturn Deer."
+description = "Saturn Deer, serial reincarnator and false prophet."
 
 [[tags]]
 name = "the-engineer"
