@@ -1161,6 +1161,7 @@
 [[tab EN]]
 +++ Taleシリーズ-EN
 
+* **[[[/system:page-tags/tag/死のabc|死のabc]]]** //(abcs-of-death)// -- 死のABC[[[scp-anthology-hub|アンソロジー]]]。
 * **[[[/system:page-tags/tag/アナバシス|アナバシス]]]** //(anabasis)// - [[[anabasis-hub|アナバシス]]]。
 * **[[[/system:page-tags/tag/ao-tale|ao-tale]]]** //(ao-tale)// - [[[ao-hub|Anomalousアイテムの物語]]]。
 * **[[[/system:page-tags/tag/classical-revival|classical-revival]]]** //(classical-revival)// - [[[classicalrevivalindex|クラシカル・リバイバル]]]。
