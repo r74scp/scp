@@ -533,7 +533,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of of related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation Ethics Committee.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Of or related to the Foundations Fire Surpession Department.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Of or related to the Foundations Fire Suppression Department.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/miscommunications miscommunications]** -- Of or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Of or related to the Pataphysics Department.
