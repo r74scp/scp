@@ -505,6 +505,7 @@ Any tags that do not fit into the other sections.
  * //Often used with 'sport'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/historical historical]** -- SCP affects or is prominent in historical events or has historical significance.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/k-class-scenario k-class-scenario]** -- SCP is involved in or capable of instigating one or more K-Class End of the World scenarios. Should only be used in articles that specifically name a type of K-Class scenario.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/legality legality]** -- SCP is, effects, or relates to law, legal proceedings, or legal scripture.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/loop loop]** -- SCP exhibits or is engaged in a repeating loop of activity.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/mathematical mathematical]** -- SCP is or affects a number, number system, mathematical equation, or otherwise has mathematical significance.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/military military]** -- SCP is military equipment, part or member of a military unit, or otherwise has military significance.
@@ -774,6 +775,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/classical-revival classical-revival]** -- Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/collector-tale collector-tale]** -- Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#toc111 Global Occult Coalition Casefiles] stories.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/integration-program integration-program]** -- Of or related to the [https://scp-wiki.wikidot.com/integration-program-hub Integration Program] series.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Of or related to the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]** -- Of or related to the "Little Misters" series of anomalous individuals.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/old-foes old-foes]** -- Of or related to the Resurection: Old Foes series.
@@ -799,6 +801,7 @@ Employees of the Foundation.
 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/8-ball 8-ball]** -- 8-ball, aka 8B-A1, an artificial intelligence.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/aaron-siegel aaron-siegel]** -- Aaron Siegel, O5-1.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/agent-adams agent-adams]** -- Agent Andrea Adams.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/agent-green agent-green]** -- Agent Green.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/agent-kazmarek agent-kazmarek]** -- Agent Travis Kazmarek.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/agent-laferrier agent-laferrier]** -- Agent V.A. LaFerrier.
@@ -885,7 +888,7 @@ SCP Objects with their own character tags.
 
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/able able]** -- Able, aka [https://scp-wiki.wikidot.com/scp-076 SCP-076-2].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/alexei-belitrov alexei-belitrov]** -- Alexei Belitrov, aka [https://scp-wiki.wikidot.com/scp-2273 SCP-2273].
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/alleged-god alleged-god]** -- [https://scp-wiki.wikidot.com/scp-343 SCP-343], aka "God".
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/alleged-god alleged-god]** -- "God", aka [https://scp-wiki.wikidot.com/scp-343 SCP-343].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/blackwood blackwood]** -- [https://scp-wiki.wikidot.com/new Lord Blackwood, Explorer and Gentleman], aka [https://scp-wiki.wikidot.com/scp-1867 SCP-1867].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bobble-the-clown bobble-the-clown]** -- Bobble The Clown, aka [https://scp-wiki.wikidot.com/scp-993 SCP-993].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bones bones]** -- Bones, aka [https://scp-wiki.wikidot.com/scp-2721 SCP-2721-LORD] or Eli.
@@ -911,7 +914,7 @@ SCP Objects with their own character tags.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/sigurros sigurros]** -- Sigurrós Stefánsdóttir, aka [https://scp-wiki.wikidot.com/scp-239 SCP-239].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ten-dots ten-dots]** -- [https://scp-wiki.wikidot.com/scp-2521 SCP-2521].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-old-man the-old-man]** -- The Old Man, aka [https://scp-wiki.wikidot.com/scp-106 SCP-106].
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-sculpture the-sculpture]** -- The sculpture, aka [https://scp-wiki.wikidot.com/scp-173 SCP-173].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-sculpture the-sculpture]** -- The Sculpture, aka [https://scp-wiki.wikidot.com/scp-173 SCP-173].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-specter the-specter]** -- The Specter, aka [https://scp-wiki.wikidot.com/scp-4944 SCP-4944].
 
 +++ Persons of Interest
@@ -947,6 +950,7 @@ Other individuals involved in the anomalous.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/orok orok]** -- Orok, one of the four Klavigars of Sarkicism.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/polaricecraps polaricecraps]** -- Polaricecraps, of Gamers Against Weed.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/queen-mab queen-mab]** -- Queen Mab, a Fae tyrant and goddess.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/professor-aw professor-aw]** -- Professor A.W., inventor and creator of curiosities.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/richard-chappell richard-chappell]** -- Richard Davis Chappell, founder of the Chicago Spirit.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/robert-bumaro robert-bumaro]** -- Robert Bumaro, prophet of Mekhane.
@@ -955,6 +959,7 @@ Other individuals involved in the anomalous.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hedwig, a prophet of Maxwellism.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer, serial reincarnator and false prophet.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-engineer the-engineer]** -- The Engineer, of the Chaos Insurgency.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/the-critic the-critic]** -- The Critic, of Are We Cool Yet.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/thilo-zwist thilo-zwist]** -- Thilo Zwist, memeticist.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/tim-wilson tim-wilson]** -- Tim Wilson, of Wilson's Wildlife Solutions.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/veronica-fitzroy veronica-fitzroy]** -- Veronica Katherine Fitzroy, anartist/D-class.
@@ -1059,6 +1064,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/exquisite-corpse2020 exquisite-corpse2020]** -- An entry to the [https://scp-wiki.wikidot.com/exquisite-corpse-contest 2020 Exquisite Corpse Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/five-questions five-questions]** -- An entry to the [https://scp-wiki.wikidot.com/five-questions Five Questions Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/gbc09 gbc09]** -- An entry to [https://scp-wiki.wikidot.com/gears-birthday-contest-2009 2009 Gears' Birthday Contest].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/talecon10 talecon10]** -- An entry to [https://scp-wiki.wikidot.com/the-great-short-story-contest-archives The Great Short Story Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/goi2014 goi2014]** -- An entry to the [https://scp-wiki.wikidot.com/goi-contest-2014 2014 Groups of Interest Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/goi2019 goi2019]** -- An entry to the [http://scp-int.wikidot.com/international-goi-contest-2019 International Groups of Interest Contest 2019].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/halloween2018 halloween2018]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-contest-2018 2018 Halloween Contest].
@@ -2024,6 +2030,10 @@ name = "k-class-scenario"
 description = "SCP is involved in or capable of instigating one or more K-Class End of the World scenarios."
 
 [[tags]]
+name = "legality"
+description = "SCP is, effects, or relates to law, legal proceedings, or legal scripture."
+
+[[tags]]
 name = "loop"
 description = "SCP exhibits or is engaged in a repeating loop of activity."
 
@@ -2081,7 +2091,7 @@ description = "Of or related to the Foundation Ethics Committee."
 
 [[tags]]
 name = "fire-suppression-dept"
-description = "Of or related to the Foundations Fire Surpession Department."
+description = "Of or related to the Foundations Fire Suppression Department."
 
 [[tags]]
 name = "folklore-dept"
@@ -2748,6 +2758,10 @@ name = "goc-casefiles"
 description = "Of or related to the Global Occult Coalition Casefiles stories."
 
 [[tags]]
+name = "integration-program"
+description = "Of or related to the Integration Program series."
+
+[[tags]]
 name = "kiryu-labs"
 description = "Of or related to the Kiryu Labs series."
 
@@ -2798,6 +2812,10 @@ description = "8-ball, aka 8B-A1, an artificial intelligence."
 [[tags]]
 name = "aaron-siegel"
 description = "Aaron Siegel, O5-1."
+
+[[tags]]
+name = "agent-adams"
+description = "Agent Andrea Adams."
 
 [[tags]]
 name = "agent-green"
@@ -3125,7 +3143,7 @@ description = "Alexei Belitrov, aka SCP-2273."
 
 [[tags]]
 name = "alleged-god"
-description = "SCP-343, aka \"God\"."
+description = "\"God\", aka SCP-343."
 
 [[tags]]
 name = "blackwood"
@@ -3352,6 +3370,10 @@ name = "polaricecraps"
 description = "Polaricecraps, of Gamers Against Weed."
 
 [[tags]]
+name = "queen-mab"
+description = "Queen Mab, a Fae tyrant and goddess."
+
+[[tags]]
 name = "professor-aw"
 description = "Professor A.W., inventor and creator of curiosities."
 
@@ -3382,6 +3404,10 @@ description = "Saturn Deer, serial reincarnator and false prophet."
 [[tags]]
 name = "the-engineer"
 description = "The Engineer, of the Chaos Insurgency."
+
+[[tags]]
+name = "the-critic"
+description = "The Critic, of Are We Cool Yet."
 
 [[tags]]
 name = "thilo-zwist"
@@ -3622,6 +3648,10 @@ description = "An entry to the Five Questions Contest."
 [[tags]]
 name = "gbc09"
 description = "An entry to 2009 Gears' Birthday Contest."
+
+[[tags]]
+name = "talecon10"
+description = "An entry to The Great Short Story Contest."
 
 [[tags]]
 name = "goi2014"
