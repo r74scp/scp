@@ -1145,6 +1145,7 @@
 * **[[[/system:page-tags/tag/classical-revival|classical-revival]]]** //(classical-revival)// - [[[classicalrevivalindex|クラシカル・リバイバル]]]。
 * **[[[/system:page-tags/tag/コレクターtale|コレクターtale]]]** //(collector-tale)// - ミスター・コレクター(参照: //mister//タグ)。
 * **[[[/system:page-tags/tag/goc事件簿|goc事件簿]]]** //(goc-casefiles)// - [[[goc-hub-page#toc11|世界オカルト連合事件簿]]]。
+* **[[[/system:page-tags/tag/統合プログラム|統合プログラム]]]** //(integration-program)// - [[[integration-program-hub|統合プログラム]]]。
 * **[[[/system:page-tags/tag/kiryu-labs|kiryu-labs]]]** //(kiryu-labs)// - [[[kiryu-labs-hub|桐生研究所]]]。
 * **[[[/system:page-tags/tag/mister|mister]]]** //(mister)// - リトル・ミスターズ。
 * **[[[/system:page-tags/tag/旧敵たち|旧敵たち]]]** //(old-foes)// - [[[resurrection-old-foes-hub|リザレクション: 旧敵たち]]]。
@@ -1823,6 +1824,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/アイリス・ダーク|アイリス・ダーク]]]** //(iris-dark)// - アイリス・ダーク。
 * **[[[/system:page-tags/tag/アイリス・トンプソン|アイリス・トンプソン]]]** //(iris-thompson)// - アイリス・トンプソン、通称SCP-105。
 * **[[[/system:page-tags/tag/イザベル五世|イザベル五世]]]** //(isabel-v)// - イザベル・ヘルガ・アナスタシア・パールヴァティ・ワンダーテインメント5世。
+* **[[[/system:page-tags/tag/hogslice|hogslice]]]** //(hogslice)// - Hogslice、通称SCP-6599。
 * **[[[/system:page-tags/tag/jockjamsvol6|jockjamsvol6]]]** //(jockjamsvol6)// - ゲーマーズ・アゲインスト・ウィードのJJ。通称はjockjamsvol6。
 * **[[[/system:page-tags/tag/ジュード・クライヨット|ジュード・クライヨット]]]** //(jude-kriyot)// - ゲーマーズ・アゲインスト・ウィードのジュード・クライヨット。通称はbluntfiend。
 * **[[[/system:page-tags/tag/ジュディス・ロゥ博士|ジュディス・ロゥ博士]]]** //(judith-low)// - ジュディス・ロゥ博士。
