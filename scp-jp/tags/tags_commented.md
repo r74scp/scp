@@ -2044,6 +2044,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ハイ・ブラジル|ハイ・ブラジル]]]** //(hy-brasil)// - ハイ・ブラジル島。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。
 * **[[[/system:page-tags/tag/スリー・ポートランド|スリー・ポートランド]]]** //(three-portlands)// - [[[three-portlands-hub|スリー・ポートランド]]]。
+* **[[[/system:page-tags/tag/アンダーベガス|アンダーベガス]]]** //(undervegas)// - 悪魔の街、アンダーベガス。
 * **[[[/system:page-tags/tag/放浪者の図書館|放浪者の図書館]]]** //(wanderers-library)// - [[[wanderers-library-hub|放浪者の図書館]]]。
 
 以下のタグについては、特定の他支部の項を参照してください。
@@ -2196,6 +2197,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/five-questions|five-questions]]]** //(five-questions)// - [[[five-questions|5つの謎コンテスト]]]。
 
 * **[[[/system:page-tags/tag/gbc09|gbc09]]]** //(gbc09)// - [[[gears-birthday-contest-2009|2009年ギアーズ博士の誕生日コンテスト]]]。
+
+* **[[[/system:page-tags/tag/talecon10|talecon10]]]** //(talecon10)// - [[[the-great-short-story-contest-archives|グレート・ショート・ストーリー・コンテスト]]]。
 
 * **[[[/system:page-tags/tag/goi2014|goi2014]]]** //(goi2014)// - [[[goi-contest-2014|2014年要注意団体コンテスト]]]。
 
