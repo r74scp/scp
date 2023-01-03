@@ -192,14 +192,16 @@ Tags that apply to creatures that are **alive**, or to **autonomous** or non-liv
  * //Avoid using with 'robotic'//
  * //Conflicts with 'alive'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/bacteria bacteria]** -- SCP is, resembles, or exhibits traits of a bacterial life-form.
- * //Avoid using with 'contagion'//
+ * //Often used with 'contagion'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/fungus fungus]** -- SCP is or exhibits traits of fungal life-forms.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/hive-mind hive-mind]** -- SCP exhibits traits of an external hive-mind.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/hostile hostile]** -- SCP exhibits directed hostility towards personnel or subjects above and beyond that of instinctual or predatory behavior.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/hostile hostile]** -- SCP exhibits hostility towards humans or the Foundation that is not motivated by self-defence or the need for food.
+ * //Conflicts with 'predatory'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/humanoid humanoid]** -- SCP is humanoid or exhibits traits of humanoids.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/metamorphic metamorphic]** -- SCP changes its form or shape, often to mimic the form or shape of other objects or entities. Often used to describe shapeshifters or mimics.
  * //Conflicts with 'amorphous'//
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/predatory predatory]** -- SCP exhibits predatory behavior.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/predatory predatory]** -- SCP exhibits predatory behavior, obtaining food or sustainance by hunting for prey.
+ * //Conflicts with 'hostile'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/plant plant]** -- SCP is a plant or exhibits plant-like traits.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/sapient sapient]** -- SCP demonstrates sapience, the capacity for reason, abstract thought and complex emotional responses. Used to indicate intelligence equal to or exceeding human intelligence.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/species species]** -- SCP describes an entire species, rather than one or more individuals.
@@ -287,7 +289,6 @@ Tags that apply to entities, objects or phenomena with biological effects or pro
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cadaver cadaver]** -- SCP is, affects, or is related to corpses, carcasses, or any dead biological matter.
  * //Often used with 'reanimation', and 'skeletal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/contagion contagion]** -- SCP is a contagious agent or exhibits contagious spread.
- * //Avoid using with 'bacteria'//
  * //Superseded by 'virus', and 'memetic'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/dental dental]** -- SCP is or deals with teeth or the practice of dentistry.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/extremity extremity]** -- SCP is or affects specific extremities, regardless of species.
@@ -302,7 +303,7 @@ Tags that apply to entities, objects or phenomena with biological effects or pro
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/reproductive reproductive]** -- SCP anomalously affects or interferes with the normal biological reproductive processes of an organism (which may include humans), or has anomalous biological reproductive methods other than that covered by //parasitic// or //self-replicating//.
  * //Avoid using with 'parasitic', and 'self-replicating'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/sexual sexual]** -- SCP includes or affects sexual organs, sexual activities, or concepts related to sex. Does not imply that the work is intended for adult audiences only.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/skeletal skeletal]** -- SCP is, is a component of, or affects the skeletal tissue of an organism. A skeleton is the structural support tissue of a multi-celled organism, and includes both bones and cartilage.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/skeletal skeletal]** -- SCP is a skeleton, consists of bones or cartilage from a skeleton, or affects the skeletal tissue of an organism.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/toxic toxic]** -- SCP induces chemical toxicity in subjects.
 
 +++ Mental
@@ -360,18 +361,16 @@ Tags that apply to the physical properties or effects of entities, objects or ph
  * //Often used with 'vibration'//
  * //Avoid using with 'auditory'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/chemical chemical]** -- SCP is an anomalous chemical compound or produces chemical compounds in an anomalous way.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/cube cube]** -- SCP is cubical. Should only be used where the entire SCP is cubical or composed of cubes, rather than SCPs in which only one or more components are cubical.
- * //Supersedes 'polyhedral'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/corrosive corrosive]** -- SCP exhibits corrosive properties.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ectoentropic ectoentropic]** -- SCP produces energy or matter in an unexplained way, violating the principle that entropy (the disorder of a system) must always increase.
  * //Avoid using with 'extradimensional'//
  * //Superseded by 'reality-bending'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/electrical electrical]** -- SCP generates, stores, or uses electric energy.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/electromagnetic electromagnetic]** -- SCP generates, stores, or uses electromagnetic energy or fields.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/entropic entropic]** -- SCP is, exhibits traits of, or is related to entropy or entropic decay.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/entropic entropic]** -- SCP has anomalous properties that affect or are affected by entropy, or thdresemble entropic decay.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/fire fire]** -- SCP is composed of fire, is related to fire, or enables the process of combustion.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/gaseous gaseous]** -- SCP is or generates a gas.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/gravity gravity]** -- SCP affects or is significantly affected by gravitational force.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/gravity gravity]** -- SCP has anomalous properties that affect or are significantly affected by gravitational force.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/immobile immobile]** -- SCP cannot be moved via any means known by the Foundation.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/indestructible indestructible]** -- SCP cannot be destroyed via any means known by the Foundation.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/intangible intangible]** -- SCP is intangible in a manner that precludes definition as a gas.
@@ -386,11 +385,10 @@ Tags that apply to the physical properties or effects of entities, objects or ph
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/mobile mobile]** -- SCP is capable of movement by anomalous means. Generally only applies to objects or entities that are normally incapable of movement.
  * //Avoid using with 'teleportation'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/portal portal]** -- SCP is an opening or doorway that exhibits inconsistent connectivity.
- * //Often used with 'extradimensional', and 'spacetime'//
+ * //Often used with 'extradimensional', and 'spatial'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/paradox paradox]** -- SCP generates, exhibits, or is involved in paradoxical events or situations.
  * //Compare with 'temporal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/polyhedral polyhedral]** -- SCP is a polyhedron: a three-dimensional shape with flat faces and straight edges.
- * //Superseded by 'cube'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/radioactive radioactive]** -- SCP emits radiation or affects radioactivity.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/reality-bending reality-bending]** -- SCP is capable of manipulating reality through anomalous means (aka 'ontokinetic', 'reality-bending' or 'reality warping') .
  * //Supersedes 'ectoentropic'//
@@ -398,12 +396,14 @@ Tags that apply to the physical properties or effects of entities, objects or ph
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/self-replicating self-replicating]** -- SCP exhibits an anomalous ability to replicate other than via biological reproduction.
  * //Avoid using with 'reproductive'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/shadow shadow]** -- SCP is triggered, activated, or otherwise significantly affected by shadows cast by subjects.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/spacetime spacetime]** -- SCP warps space-time or affects or violates laws of space-time.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/spatial spatial]** -- SCP warps or distorts space, creating phenomena like impossible geometries or spaces that are larger or smaller than they should be.
+ * //Often used with 'temporal'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/sphere sphere]** -- SCP is spherical.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/telekinetic telekinetic]** -- SCP can manipulate objects or initiate or affect reactions through anomalous means.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/teleportation teleportation]** -- SCP can move without occupying intervening space or otherwise displace itself via anomalous means that preclude normal movement.
  * //Avoid using with 'mobile'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/temporal temporal]** -- SCP affects or is otherwise related to the passage of time.
+ * //Often used with 'spatial'//
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/thermal thermal]** -- SCP is activated by, triggered by, or propagates via changes in temperature. This includes both increases and decreases in temperature.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/thermodynamic thermodynamic]** -- SCP affects, or is otherwise significantly related to the laws of thermodynamics.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/transfiguration transfiguration]** -- SCP alters the shape or substance of subjects in an anomalous manner.
@@ -1380,7 +1380,7 @@ description = "SCP exhibits traits of an external hive-mind."
 
 [[tags]]
 name = "hostile"
-description = "SCP exhibits directed hostility towards personnel or subjects above and beyond that of instinctual or predatory behavior."
+description = "SCP exhibits hostility towards humans or the Foundation that is not motivated by self-defence or the need for food."
 
 [[tags]]
 name = "humanoid"
@@ -1392,7 +1392,7 @@ description = "SCP changes its form or shape, often to mimic the form or shape o
 
 [[tags]]
 name = "predatory"
-description = "SCP exhibits predatory behavior."
+description = "SCP exhibits predatory behavior, obtaining food or sustainance by hunting for prey."
 
 [[tags]]
 name = "plant"
@@ -1584,7 +1584,7 @@ description = "SCP includes or affects sexual organs, sexual activities, or conc
 
 [[tags]]
 name = "skeletal"
-description = "SCP is, is a component of, or affects the skeletal tissue of an organism. A skeleton is the structural support tissue of a multi-celled organism, and includes both bones and cartilage."
+description = "SCP is a skeleton, consists of bones or cartilage from a skeleton, or affects the skeletal tissue of an organism."
 
 [[tags]]
 name = "toxic"
@@ -1695,10 +1695,6 @@ name = "chemical"
 description = "SCP is an anomalous chemical compound or produces chemical compounds in an anomalous way."
 
 [[tags]]
-name = "cube"
-description = "SCP is cubical. Should only be used where the entire SCP is cubical or composed of cubes, rather than SCPs in which only one or more components are cubical."
-
-[[tags]]
 name = "corrosive"
 description = "SCP exhibits corrosive properties."
 
@@ -1716,7 +1712,7 @@ description = "SCP generates, stores, or uses electromagnetic energy or fields."
 
 [[tags]]
 name = "entropic"
-description = "SCP is, exhibits traits of, or is related to entropy or entropic decay."
+description = "SCP has anomalous properties that affect or are affected by entropy, or thdresemble entropic decay."
 
 [[tags]]
 name = "fire"
@@ -1728,7 +1724,7 @@ description = "SCP is or generates a gas."
 
 [[tags]]
 name = "gravity"
-description = "SCP affects or is significantly affected by gravitational force."
+description = "SCP has anomalous properties that affect or are significantly affected by gravitational force."
 
 [[tags]]
 name = "immobile"
@@ -1803,8 +1799,8 @@ name = "shadow"
 description = "SCP is triggered, activated, or otherwise significantly affected by shadows cast by subjects."
 
 [[tags]]
-name = "spacetime"
-description = "SCP warps space-time or affects or violates laws of space-time."
+name = "spatial"
+description = "SCP warps or distorts space, creating phenomena like impossible geometries or spaces that are larger or smaller than they should be."
 
 [[tags]]
 name = "sphere"
