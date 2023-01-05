@@ -989,7 +989,7 @@
 * **[[[/system:page-tags/tag/最上の事|最上の事]]]** //(only-game-in-town)// - [[[only-game-in-town-hub|最上の事]]]。
 * **[[[/system:page-tags/tag/オルカディア|オルカディア]]]** //(orcadia)// - オルカディアの海。
 * **[[[/system:page-tags/tag/pitch-haven|pitch-haven]]]** //(pitch-haven)// - [[[pitch-haven-hub|Pitch Haven]]]。
-* **[[[/system:page-tags/tag/ぼさぐちゃ|ぼさぐちゃ]]]** //(rats-nest)// - [[[rat-s-nest-hub|ぼさぐちゃ]]]。
+* **[[[/system:page-tags/tag/ラッツネスト|ラッツネスト]]]** //(rats-nest)// - [[[rat-s-nest-hub|ラッツネスト]]]。
 * **[[[/system:page-tags/tag/リザレクション|リザレクション]]]** //(resurrection)// - [[[resurrection|甦──リザレクション]]]。
 * **[[[/system:page-tags/tag/s&cプラスチック|s&cプラスチック]]]** //(s&c-plastics)// - [[[the-s-c-plastics-hub|S & Cプラスチック]]]。
 * **[[[/system:page-tags/tag/ボトルシップ|ボトルシップ]]]** //(ship-in-a-bottle)// - [[[siabhub|ボトルシップ]]]。
