@@ -699,7 +699,7 @@
  * 必ず//mc&d//タグと併用してください。
 * **[[[/system:page-tags/tag/_何者でもない|_何者でもない]]]** //(_nobody)// - [[[nobody-hub|「何者でもない」]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//何者でもない//タグと併用してください。
-* **[[[/system:page-tags/tag/_oria|_oria]]]** //(_reclamation)// - [[[oria-hub|イスラム・アーティファクト開発事務局 (ORIA)]]]のGoIフォーマット記事に付与されるタグです。
+* **[[[/system:page-tags/tag/_oria|_oria]]]** //(_oria)// - [[[oria-hub|イスラム・アーティファクト開発事務局 (ORIA)]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//oria//タグと併用してください。
 * **[[[/system:page-tags/tag/_オネイロイ|_オネイロイ]]]** //(_oneiroi)// - [[[oneiroi|オネイロイ・コレクティブ]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//オネイロイ//タグと併用してください。
@@ -1278,7 +1278,7 @@
 * **[[[/system:page-tags/tag/マナによる慈善財団|マナによる慈善財団]]]** //(manna-charitable-foundation)// - [[[manna-charitable-foundation-hub|マナによる慈善財団]]]。
 * **[[[/system:page-tags/tag/mc&d|mc&d]]]** //(marshall-carter-and-dark)// - [[[marshall-carter-and-dark-hub|マーシャル・カーター＆ダーク株式会社 (MC&D)]]]。
 * **[[[/system:page-tags/tag/何者でもない|何者でもない]]]** //(nobody)// - [[[nobody-hub|「何者でもない」]]]。
-* **[[[/system:page-tags/tag/oria|oria]]]** //(reclamation)// - [[[oria-hub|イスラム・アーティファクト開発事務局 (ORIA)]]]。
+* **[[[/system:page-tags/tag/oria|oria]]]** //(oria)// - [[[oria-hub|イスラム・アーティファクト開発事務局 (ORIA)]]]。
 * **[[[/system:page-tags/tag/オネイロイ|オネイロイ]]]** //(oneiroi)// - [[[oneiroi|オネイロイ・コレクティブ]]]。
 * **[[[/system:page-tags/tag/パラウォッチ|パラウォッチ]]]** //(parawatch)// - [[[parawatch-hub|パラウォッチWiki]]]。
 * **[[[/system:page-tags/tag/プロメテウス|プロメテウス]]]** //(prometheus)// - [[[prometheus-labs-hub|株式会社プロメテウス研究所]]]。
@@ -2517,6 +2517,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/valentinstag2021|valentinstag2021]]]** //(valentinstag2021)// - [[[valentinstag-event|バレンタインデーイベント2021]]]。
 
+* **[[[/system:page-tags/tag/scp-300-de|scp-300-de]]]** //(scp-300-de)// - [[[halloween-wettbewerb-2022|ハロウィンコンテスト2022/SCP-300-DEコンテスト]]]。
+
 
 [[/tab]]
 [[tab PT]]
@@ -2642,7 +2644,7 @@ SCP-ENだけではなく、他支部でも使用されている場合があり�
 
 * **[[[/system:page-tags/tag/クロスリンク|クロスリンク]]]** //(crosslink)// - EN側のスタッフがクロスリンク追加を提案中のページに使用されるタグです。
 
-* **[[[/system:page-tags/tag/_int|_int]]]** //(_int)// / **[[[/system:page-tags/tag/_ru|_ru]]]** //(_ru)// / **[[[/system:page-tags/tag/_ko|_ko]]]** //(_ko)// / **[[[/system:page-tags/tag/_cn|_cn]]]** //(_cn)// / **[[[/system:page-tags/tag/_fr|_fr]]]** //(_fr)// / **[[[/system:page-tags/tag/_pl|_pl]]]** //(_pl)// / **[[[/system:page-tags/tag/_es|_es]]]** //(_es)// / **[[[/system:page-tags/tag/_th|_th]]]** //(_th)// / **[[[/system:page-tags/tag/_jp|_jp]]]** //(_jp)// / **[[[/system:page-tags/tag/_de|_de]]]** //(_de)// / **[[[/system:page-tags/tag/_it|_it]]]** //(_it)// / **[[[/system:page-tags/tag/_ua|_ua]]]** //(_ua)// / **[[[/system:page-tags/tag/_pt|_pt]]]** //(_pt)// / **[[[/system:page-tags/tag/_zh|_zh]]]** //(_zh)// / **[[[/system:page-tags/tag/_vn|_vn]]]** //(_vn)// - //インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。
+* **[[[/system:page-tags/tag/_int|_int]]]** //(_int)// / **[[[/system:page-tags/tag/_ru|_ru]]]** //(_ru)// / **[[[/system:page-tags/tag/_ko|_ko]]]** //(_ko)// / **[[[/system:page-tags/tag/_cn|_cn]]]** //(_cn)// / **[[[/system:page-tags/tag/_fr|_fr]]]** //(_fr)// / **[[[/system:page-tags/tag/_pl|_pl]]]** //(_pl)// / **[[[/system:page-tags/tag/_es|_es]]]** //(_es)// / **[[[/system:page-tags/tag/_th|_th]]]** //(_th)// / **[[[/system:page-tags/tag/_jp|_jp]]]** //(_jp)// / **[[[/system:page-tags/tag/_de|_de]]]** //(_de)// / **[[[/system:page-tags/tag/_it|_it]]]** //(_it)// / **[[[/system:page-tags/tag/_ua|_ua]]]** //(_ua)// / **[[[/system:page-tags/tag/_pt|_pt]]]** //(_pt)// / **[[[/system:page-tags/tag/_zh|_zh]]]** //(_zh)// / **[[[/system:page-tags/tag/_vn|_vn]]]** //(_vn)// / **[[[/system:page-tags/tag/_el|_el]]]** //(_el)// - //インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。
 
 +++ RU
 
