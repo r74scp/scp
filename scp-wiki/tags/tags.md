@@ -1060,6 +1060,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/art2017 art2017]** -- An entry to the [https://scp-wiki.wikidot.com/social-media-art-contest 2017 Art Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/canon2020 canon2020]** -- An entry to the [https://scp-wiki.wikidot.com/canon-renaissance-contest 2020 Canon Renaissance Contest].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cliche2019 cliche2019]** -- An entry to [https://scp-wiki.wikidot.com/cliche-con-2019 Cliche-Con 2019].
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/coldpostcon coldpostcon]** -- An entry to [https://scp-wiki.wikidot.com/coldpostcon ColdpostCon].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/collab-con2019 collab-con2019]** -- An entry to [https://scp-wiki.wikidot.com/collaboration-contest Collab-Con 2019].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/cupid2021 cupid2021]** -- An entry to [https://scp-wiki.wikidot.com/cupid-contest-2021 Cupid Contest 2021].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/d-con2016 d-con2016]** -- An entry to the [https://scp-wiki.wikidot.com/d-class-contest 2016 D-Class Contest].
@@ -3613,6 +3614,10 @@ description = "An entry to the 2020 Canon Renaissance Contest."
 [[tags]]
 name = "cliche2019"
 description = "An entry to Cliche-Con 2019."
+
+[[tags]]
+name = "coldpostcon"
+description = "An entry to ColdpostCon."
 
 [[tags]]
 name = "collab-con2019"

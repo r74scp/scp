@@ -4868,6 +4868,14 @@
     },
     {
         "id": 757,
+        "tag": "coldpostcon",
+        "desc": "An entry to [https://scp-wiki.wikidot.com/coldpostcon ColdpostCon].",
+        "type": "Contests",
+        "category": "Events",
+        "list": ""
+    },
+    {
+        "id": 758,
         "tag": "collab-con2019",
         "desc": "An entry to [https://scp-wiki.wikidot.com/collaboration-contest Collab-Con 2019].",
         "type": "Contests",
@@ -4875,7 +4883,7 @@
         "list": ""
     },
     {
-        "id": 758,
+        "id": 759,
         "tag": "cupid2021",
         "desc": "An entry to [https://scp-wiki.wikidot.com/cupid-contest-2021 Cupid Contest 2021].",
         "type": "Contests",
@@ -4883,7 +4891,7 @@
         "list": ""
     },
     {
-        "id": 759,
+        "id": 760,
         "tag": "d-con2016",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/d-class-contest 2016 D-Class Contest].",
         "type": "Contests",
@@ -4891,7 +4899,7 @@
         "list": ""
     },
     {
-        "id": 760,
+        "id": 761,
         "tag": "dc2014",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/Dystopia-Contest 2014 Dystopia Contest].",
         "type": "Contests",
@@ -4899,7 +4907,7 @@
         "list": ""
     },
     {
-        "id": 761,
+        "id": 762,
         "tag": "departmentcon2022",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/department-contest 2022 Department Contest].",
         "type": "Contests",
@@ -4907,7 +4915,7 @@
         "list": ""
     },
     {
-        "id": 762,
+        "id": 763,
         "tag": "doomsday2018",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/doomsday-contest 2018 Doomsday Contest].",
         "type": "Contests",
@@ -4915,7 +4923,7 @@
         "list": ""
     },
     {
-        "id": 763,
+        "id": 764,
         "tag": "exquisite-corpse2020",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/exquisite-corpse-contest 2020 Exquisite Corpse Contest].",
         "type": "Contests",
@@ -4923,7 +4931,7 @@
         "list": ""
     },
     {
-        "id": 764,
+        "id": 765,
         "tag": "five-questions",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/five-questions Five Questions Contest].",
         "type": "Contests",
@@ -4931,7 +4939,7 @@
         "list": ""
     },
     {
-        "id": 765,
+        "id": 766,
         "tag": "gbc09",
         "desc": "An entry to [https://scp-wiki.wikidot.com/gears-birthday-contest-2009 2009 Gears' Birthday Contest].",
         "type": "Contests",
@@ -4939,7 +4947,7 @@
         "list": ""
     },
     {
-        "id": 766,
+        "id": 767,
         "tag": "talecon10",
         "desc": "An entry to [https://scp-wiki.wikidot.com/the-great-short-story-contest-archives The Great Short Story Contest].",
         "type": "Contests",
@@ -4947,7 +4955,7 @@
         "list": ""
     },
     {
-        "id": 767,
+        "id": 768,
         "tag": "goi2014",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/goi-contest-2014 2014 Groups of Interest Contest].",
         "type": "Contests",
@@ -4955,7 +4963,7 @@
         "list": ""
     },
     {
-        "id": 768,
+        "id": 769,
         "tag": "goi2019",
         "desc": "An entry to the [http://scp-int.wikidot.com/international-goi-contest-2019 International Groups of Interest Contest 2019].",
         "type": "Contests",
@@ -4963,7 +4971,7 @@
         "list": ""
     },
     {
-        "id": 769,
+        "id": 770,
         "tag": "halloween2018",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/halloween-contest-2018 2018 Halloween Contest].",
         "type": "Contests",
@@ -4971,7 +4979,7 @@
         "list": ""
     },
     {
-        "id": 770,
+        "id": 771,
         "tag": "halloweencon2022",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/halloween-con-2022 2022 Halloweencon].",
         "type": "Contests",
@@ -4979,7 +4987,7 @@
         "list": ""
     },
     {
-        "id": 771,
+        "id": 772,
         "tag": "hc2012",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/halloween-contest 2012 Halloween Contest].",
         "type": "Contests",
@@ -4987,7 +4995,7 @@
         "list": ""
     },
     {
-        "id": 772,
+        "id": 773,
         "tag": "hiscon2017",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/history-contest 2017 History Contest].",
         "type": "Contests",
@@ -4995,7 +5003,7 @@
         "list": ""
     },
     {
-        "id": 773,
+        "id": 774,
         "tag": "jam-con2018",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/72-hour-jam-contest 2018 72 Hour Jam Contest].",
         "type": "Contests",
@@ -5003,7 +5011,7 @@
         "list": ""
     },
     {
-        "id": 777,
+        "id": 778,
         "tag": "jam-con2019",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/144-hour-jam-contest 2019 144-Hour Jam Contest].",
         "type": "Contests",
@@ -5011,7 +5019,7 @@
         "list": ""
     },
     {
-        "id": 781,
+        "id": 782,
         "tag": "jam-con2020",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/144-hour-jam-contest-two 2020 144-Hour Jam Contest].",
         "type": "Contests",
@@ -5019,7 +5027,7 @@
         "list": ""
     },
     {
-        "id": 785,
+        "id": 786,
         "tag": "jam-con2021",
         "desc": "An entry to [http://scp-wiki.wikidot.com/jam-con-2021 JamCon 2021].",
         "type": "Contests",
@@ -5027,7 +5035,7 @@
         "list": ""
     },
     {
-        "id": 789,
+        "id": 790,
         "tag": "mtf2016",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/mobile-task-force-contest 2016 Mobile Task Force Contest].",
         "type": "Contests",
@@ -5035,7 +5043,7 @@
         "list": ""
     },
     {
-        "id": 790,
+        "id": 791,
         "tag": "nyc2013",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/new-years-contest 2013 New Year's Canon Contest].",
         "type": "Contests",
@@ -5043,7 +5051,7 @@
         "list": ""
     },
     {
-        "id": 791,
+        "id": 792,
         "tag": "rei2015",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/reimagining-contest 2015 Reimagining Contest].",
         "type": "Contests",
@@ -5051,7 +5059,7 @@
         "list": ""
     },
     {
-        "id": 792,
+        "id": 793,
         "tag": "sc2015",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/short-works-contest 2015 Short Works Contest].",
         "type": "Contests",
@@ -5059,7 +5067,7 @@
         "list": ""
     },
     {
-        "id": 793,
+        "id": 794,
         "tag": "tc2013",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/time-contest 2013 Time Contest].",
         "type": "Contests",
@@ -5067,7 +5075,7 @@
         "list": ""
     },
     {
-        "id": 794,
+        "id": 795,
         "tag": "uac2014",
         "desc": "An entry to the [https://scp-wiki.wikidot.com/under-appreciated-contest 2014 Under-Appreciated SCPs Contest].",
         "type": "Contests",
@@ -5075,7 +5083,7 @@
         "list": ""
     },
     {
-        "id": 795,
+        "id": 796,
         "tag": "memecon2021-unofficial",
         "desc": "An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].",
         "type": "Contests",
@@ -5083,7 +5091,7 @@
         "list": ""
     },
     {
-        "id": 796,
+        "id": 797,
         "tag": "_int",
         "desc": "Translated from the [http://scp-int.wikidot.com/ International Site].",
         "type": "Language Codes",
@@ -5091,7 +5099,7 @@
         "list": ""
     },
     {
-        "id": 797,
+        "id": 798,
         "tag": "_ru",
         "desc": "Translated from the [http://scpfoundation.net/ Russian Site].",
         "type": "Language Codes",
@@ -5099,7 +5107,7 @@
         "list": ""
     },
     {
-        "id": 798,
+        "id": 799,
         "tag": "_ko",
         "desc": "Translated from the [http://scpko.wikidot.com/ Korean Site].",
         "type": "Language Codes",
@@ -5107,7 +5115,7 @@
         "list": ""
     },
     {
-        "id": 799,
+        "id": 800,
         "tag": "_cn",
         "desc": "Translated from the [http://scp-wiki-cn.wikidot.com/ Chinese Site].",
         "type": "Language Codes",
@@ -5115,7 +5123,7 @@
         "list": ""
     },
     {
-        "id": 800,
+        "id": 801,
         "tag": "_fr",
         "desc": "Translated from the [http://fondationscp.wikidot.com/ French Site].",
         "type": "Language Codes",
@@ -5123,7 +5131,7 @@
         "list": ""
     },
     {
-        "id": 801,
+        "id": 802,
         "tag": "_pl",
         "desc": "Translated from the [http://scp-wiki.net.pl/ Polish Site].",
         "type": "Language Codes",
@@ -5131,7 +5139,7 @@
         "list": ""
     },
     {
-        "id": 802,
+        "id": 803,
         "tag": "_es",
         "desc": "Translated from the [http://lafundacionscp.wikidot.com/ Spanish Site].",
         "type": "Language Codes",
@@ -5139,7 +5147,7 @@
         "list": ""
     },
     {
-        "id": 803,
+        "id": 804,
         "tag": "_th",
         "desc": "Translated from the [http://scp-th.wikidot.com/main Thai Site].",
         "type": "Language Codes",
@@ -5147,7 +5155,7 @@
         "list": ""
     },
     {
-        "id": 804,
+        "id": 805,
         "tag": "_jp",
         "desc": "Translated from the [http://scp-jp.wikidot.com/ Japanese Site].",
         "type": "Language Codes",
@@ -5155,7 +5163,7 @@
         "list": ""
     },
     {
-        "id": 805,
+        "id": 806,
         "tag": "_de",
         "desc": "Translated from the [http://scp-wiki-de.wikidot.com/ German Site].",
         "type": "Language Codes",
@@ -5163,7 +5171,7 @@
         "list": ""
     },
     {
-        "id": 806,
+        "id": 807,
         "tag": "_it",
         "desc": "Translated from the [http://fondazionescp.wikidot.com/ Italian Site].",
         "type": "Language Codes",
@@ -5171,7 +5179,7 @@
         "list": ""
     },
     {
-        "id": 807,
+        "id": 808,
         "tag": "_ua",
         "desc": "Translated from the [http://scp-ukrainian.wikidot.com/ Ukrainian Site].",
         "type": "Language Codes",
@@ -5179,7 +5187,7 @@
         "list": ""
     },
     {
-        "id": 808,
+        "id": 809,
         "tag": "_pt",
         "desc": "Translated from the [http://scp-pt-br.wikidot.com/ Portuguese Site].",
         "type": "Language Codes",
@@ -5187,7 +5195,7 @@
         "list": ""
     },
     {
-        "id": 809,
+        "id": 810,
         "tag": "_zh",
         "desc": "Translated from the [http://scp-zh-tr.wikidot.com/ Traditional Chinese Site].",
         "type": "Language Codes",
@@ -5195,7 +5203,7 @@
         "list": ""
     },
     {
-        "id": 810,
+        "id": 811,
         "tag": "_vn",
         "desc": "Translated from the [http://scp-vn.wikidot.com/ Vietnamese Site].",
         "type": "Language Codes",
@@ -5203,7 +5211,7 @@
         "list": ""
     },
     {
-        "id": 811,
+        "id": 812,
         "tag": "_el",
         "desc": "Translated from the [http://scp-el.wikidot.com/ Greek Site].",
         "type": "Language Codes",
