@@ -663,10 +663,14 @@
  * 必ず//カオス・インサージェンシー//タグと併用してください。
 * **[[[/system:page-tags/tag/_シカゴ・スピリット|_シカゴ・スピリット]]]** //(_chicago-spirit)// - [[[chicago-spirit|シカゴ・スピリット]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//シカゴ・スピリット//タグと併用してください。
+* **[[[/system:page-tags/tag/_scarlet-king|_scarlet-king]]]** //(_scarlet-king)// - [[[cotsk-hub|緋色の王の子ら]]]のGoIフォーマット記事に付与されるタグです。
+ * 必ず//scarlet-king//タグと併用してください。
 * **[[[/system:page-tags/tag/_壊れた神の教会|_壊れた神の教会]]]** //(_broken-god)// - [[[church-of-the-broken-god-hub|壊れた神の教会 (CotBG)]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//壊れた神の教会//タグと併用してください。
 * **[[[/system:page-tags/tag/_第二ハイトス教会|_第二ハイトス教会]]]** //(_second-hytoth)// - [[[second-hytoth-hub|第二ハイトス教会]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//第二ハイトス教会//タグと併用してください。
+* **[[[/system:page-tags/tag/_daevite|_daevite]]]** //(_daevite)// - [[[daevite-hub|ダエーバイト]]]のGoIフォーマット記事に付与されるタグです。
+ * 必ず//daevite//タグと併用してください。
 * **[[[/system:page-tags/tag/_ディア大学|_ディア大学]]]** //(_deer-college)// - [[[deer-college-hub|ディア大学]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//ディア大学//タグと併用してください。
 * **[[[/system:page-tags/tag/_ワンダーテインメント博士|_ワンダーテインメント博士]]]** //(_dr-wondertainment)// - [[[dr-wondertainment-hub|ワンダーテインメント博士]]]のGoIフォーマット記事に付与されるタグです。
@@ -681,6 +685,8 @@
  * 必ず//ゲーマーズアゲインストウィード//タグと併用してください。
 * **[[[/system:page-tags/tag/_世界オカルト連合|_世界オカルト連合]]]** //(_global-occult-coalition)// - [[[goc-hub-page|世界オカルト連合 (GOC)]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//世界オカルト連合//タグと併用してください。
+* **[[[/system:page-tags/tag/_グリーズバーガー|_グリーズバーガー]]]** //(_greazeburger)// - [[[greazeburger-incorporated-hub|グリーズバーガー株式会社]]]のGoIフォーマット記事に付与されるタグです。
+ * 必ず//グリーズバーガー//タグと併用してください。
 * **[[[/system:page-tags/tag/_gru-p-部局|_gru-p-部局]]]** //(_gru-division-p)// - [[[gru-p-hub|ロシア連邦軍参謀本部情報総局"P"部局]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//gru-p-部局//タグと併用してください。
 * **[[[/system:page-tags/tag/_ハーマン・フラー|_ハーマン・フラー]]]** //(_herman-fuller)// - [[[herman-fuller-hub|ハーマン・フラーの不気味サーカス]]]のGoIフォーマット記事に付与されるタグです。
@@ -1262,6 +1268,7 @@
 * **[[[/system:page-tags/tag/黒の女王|黒の女王]]]** //(black-queen)// - [[[black-queen-hub|黒の女王]]]。
 * **[[[/system:page-tags/tag/カオス・インサージェンシー|カオス・インサージェンシー]]]** //(chaos-insurgency)// - [[[chaos-insurgency-hub|カオス・インサージェンシー (CI)]]]。
 * **[[[/system:page-tags/tag/シカゴ・スピリット|シカゴ・スピリット]]]** //(chicago-spirit)// - [[[chicago-spirit|シカゴ・スピリット]]]。
+* **[[[/system:page-tags/tag/scarlet-king|scarlet-king]]]** //(scarlet-king)// - 緋色の王、ないしは[[[cotsk-hub|緋色の王の子ら]]]。
 * **[[[/system:page-tags/tag/壊れた神の教会|壊れた神の教会]]]** //(broken-god)// - [[[church-of-the-broken-god-hub|壊れた神の教会 (CotBG)]]]。
 * **[[[/system:page-tags/tag/第二ハイトス教会|第二ハイトス教会]]]** //(second-hytoth)// - [[[second-hytoth-hub|第二ハイトス教会]]]。
 * **[[[/system:page-tags/tag/daevite|daevite]]]** //(daevite)// - [[[daevite-hub|ダエーバイト]]]。
@@ -1271,6 +1278,7 @@
 * **[[[/system:page-tags/tag/第五教会|第五教会]]]** //(fifthist)// - [[[fifthist-hub|第五教会]]]。
 * **[[[/system:page-tags/tag/ゲーマーズアゲインストウィード|ゲーマーズアゲインストウィード]]]** //(gamers-against-weed)// - [[[gamers-against-weed-hub|ゲーマーズアゲインストウィード]]]。
 * **[[[/system:page-tags/tag/世界オカルト連合|世界オカルト連合]]]** //(global-occult-coalition)// - [[[goc-hub-page|世界オカルト連合 (GOC)]]]。
+* **[[[/system:page-tags/tag/グリーズバーガー|グリーズバーガー]]]** //(greazeburger)// - [[[greazeburger-incorporated-hub|グリーズバーガー株式会社]]]。
 * **[[[/system:page-tags/tag/gru-p-部局|gru-p-部局]]]** //(gru-division-p)// - [[[gru-p-hub|ロシア連邦軍参謀本部情報総局"P"部局]]]。
 * **[[[/system:page-tags/tag/ハーマン・フラー|ハーマン・フラー]]]** //(herman-fuller)// - [[[herman-fuller-hub|ハーマン・フラーの不気味サーカス]]]。
 * **[[[/system:page-tags/tag/境界線イニシアチブ|境界線イニシアチブ]]]** //(horizon-initiative)// - [[[horizon-initiative-hub|境界線イニシアチブ]]]。
@@ -1293,7 +1301,6 @@
 
 +++ 準要注意団体-EN
 
-* **[[[/system:page-tags/tag/怪奇部門|怪奇部門]]]** //(abnormalities)// - 怪奇部門。
 * **[[[/system:page-tags/tag/accelerate-the-future|accelerate-the-future]]]** //(accelerate-the-future)// - Accelerate the Future。
 * **[[[/system:page-tags/tag/asci|asci]]]** //(asci)// - 全米確保収容イニシアチブ (ASCI)。
 * **[[[/system:page-tags/tag/アベラール|アベラール]]]** //(avelar)// - アベラール・プロフェッショナル・プロダクツ。
@@ -1304,7 +1311,6 @@
 * **[[[/system:page-tags/tag/松明の子供達|松明の子供達]]]** //(children-of-the-torch)// - 松明の子供達。
 * **[[[/system:page-tags/tag/class-of-76|class-of-76]]]** //(class-of-76)// - [[[remembrance|Class of '76]]]。
 * **[[[/system:page-tags/tag/金帳汗国|金帳汗国]]]** //(golden-horde)// - 金帳汗国。
-* **[[[/system:page-tags/tag/グリーズバーガー|グリーズバーガー]]]** //(greazeburger)// - [[[greazeburger-incorporated-hub|グリーズバーガー]]]。
 * **[[[/system:page-tags/tag/hmfscp|hmfscp]]]** //(hmfscp)// - 超常現象の確保収容に関する王立財団 / 珍品と過ぎ往く幻想の研究の為の王立財団 (HMFSCP)。
 * **[[[/system:page-tags/tag/homo-sapiens-sidhe|homo-sapiens-sidhe]]]** //(homo-sapiens-sidhe)// - [[[from-120-s-archives-hub|120の記録書庫より]]]準拠の妖精/Homo sapiens sidhe。
 * **[[[/system:page-tags/tag/icsut|icsut]]]** (//icsut//) - 国際統一奇跡論研究センター (ICSUT)。
@@ -1329,18 +1335,6 @@
 * **[[[/system:page-tags/tag/魔術師学会|魔術師学会]]]** //(mages-academy)// - 要注意団体-DEの項を参照してください。
 * **[[[/system:page-tags/tag/陰陽寮|陰陽寮]]]** - JP側で独自に登録されたタグです。準要注意団体-JPの項を参照してください。
 * **[[[/system:page-tags/tag/ライト・クーリエ・エンタープライズ|ライト・クーリエ・エンタープライズ]]]** - JP側で独自に登録されたタグです。準要注意団体-JPの項を参照してください。
-
-以下のタグについては、別のカテゴリの項目を参照してください。
-
-* **[[[/system:page-tags/tag/解体部門|解体部門]]]** //(decommissioning-dept)// - 「財団下部組織」の項を参照してください。
-* **[[[/system:page-tags/tag/倫理委員会|倫理委員会]]]** //(ethics-committee)// - 「財団下部組織」の項を参照してください。
-* **[[[/system:page-tags/tag/神話・民俗学部門|神話・民俗学部門]]]** //(folklore-dept)// - 「財団下部組織」の項を参照してください。
-* **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - 「財団下部組織」の項を参照してください。
-* **[[[/system:page-tags/tag/空想科学部門|空想科学部門]]]** //(pataphysics-dept)// - 「財団下部組織」の項を参照してください。
-* **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 「財団下部組織」の項を参照してください。
-* **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - 「財団下部組織」の項を参照してください。
-* **[[[/system:page-tags/tag/電気通信監視室|電気通信監視室]]]** //(telecom-office)// - 「財団下部組織」の項を参照してください。
-* **[[[/system:page-tags/tag/非現実部門|非現実部門]]]** //(unreality-dept)// - 「財団下部組織」の項を参照してください。
 
 [[/tab]]
 [[tab JP]]
@@ -1664,7 +1658,6 @@
 [[/tab]]
 [[tab EN]]
 +++ 部門-EN
-SCP-ENでは要注意団体に分類されています。
 
 * **[[[/system:page-tags/tag/怪奇部門|怪奇部門]]]** //(abnormalities)// - 怪奇部門。
 * **[[[/system:page-tags/tag/解体部門|解体部門]]]** //(decommissioning-dept)// - [[[decom-dept-hub|解体部門]]]。
@@ -1731,40 +1724,28 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [[tab 最小化]]
 [[/tab]]
 [[tab EN]]
-+++ キャラクター-EN
+それぞれの詳細は[[[personnel-and-character-dossier|職員・人物ファイル]]]を参照してください。
 
-* **[[[/system:page-tags/tag/8-ボール|8-ボール]]]** //(8-ball)// - 8-ボール、別名8B-A1。
-* **[[[/system:page-tags/tag/aaron-siegel|aaron-siegel]]]** //(aaron-siegel)// - アーロン・シーゲル/アーロン・シーガル。
-* **[[[/system:page-tags/tag/アベル|アベル]]]** //(able)// - アベル、通称SCP-076。
++++ 財団職員-EN
+
+* **[[[/system:page-tags/tag/8-ボール|8-ボール]]]** //(8-ball)// - 人工知能の8-ボール、別名8B-A1。
+* **[[[/system:page-tags/tag/aaron-siegel|aaron-siegel]]]** //(aaron-siegel)// - O5-1のアーロン・シーゲル/アーロン・シーガル。
 * **[[[/system:page-tags/tag/エージェント・グリーン|エージェント・グリーン]]]** //(agent-green)// - エージェント・グリーン。
 * **[[[/system:page-tags/tag/エージェント・カズマレク|エージェント・カズマレク]]]** //(agent-kazmarek)// - エージェント・トラヴィス・カズマレク。
-* **[[[/system:page-tags/tag/エージェント・ラフェリエール|エージェント・ラフェリエール]]]** //(agent-laferrier)// - エージェント・ラフェリエール。
-* **[[[/system:page-tags/tag/エージェント・ラメント|エージェント・ラメント]]]** //(agent-lament)// - エージェント・ラメント。
+* **[[[/system:page-tags/tag/エージェント・ラフェリエール|エージェント・ラフェリエール]]]** //(agent-laferrier)// - エージェント・V. A. ラフェリエール。
+* **[[[/system:page-tags/tag/エージェント・ラメント|エージェント・ラメント]]]** //(agent-lament)// - エージェント・トロイ・ラメント。
 * **[[[/system:page-tags/tag/エージェント・ラーク|エージェント・ラーク]]]** //(agent-lurk)// - エージェント・ディートリッヒ・M・ラーク。
 * **[[[/system:page-tags/tag/エージェント・メルロ|エージェント・メルロ]]]** //(agent-merlo)// - エージェント・サシャ・メルロ。
 * **[[[/system:page-tags/tag/エージェント・ナヴァッロ|エージェント・ナヴァッロ]]]** //(agent-navarro)// - エージェント・ダニエル・ナヴァッロ。
 * **[[[/system:page-tags/tag/エージェント・ポペスク|エージェント・ポペスク]]]** //(agent-popescu)// - エージェント・ルクレティア・ポペスク。
-* **[[[/system:page-tags/tag/エージェント・ストレルニコフ|エージェント・ストレルニコフ]]]** //(agent-strelnikov)// - エージェント・ストレルニコフ。
+* **[[[/system:page-tags/tag/エージェント・ストレルニコフ|エージェント・ストレルニコフ]]]** //(agent-strelnikov)// - エージェント・ドミトリー・ストレルニコフ。
 * **[[[/system:page-tags/tag/エージェント・トラウス|エージェント・トラウス]]]** //(agent-trauss)// - エージェント・トラウス、別名C-51174。
 * **[[[/system:page-tags/tag/エージェント・ヨリック|エージェント・ヨリック]]]** //(agent-yoric)// - エージェント・ヨリック・エルロイ、またの名をジャック・"ダメなヨリック"・ドーキンス。
-* **[[[/system:page-tags/tag/アルドン|アルドン]]]** //(aldon)// - アルドン。
-* **[[[/system:page-tags/tag/アレクサンドラ|アレクサンドラ]]]** //(alexandra)// - AIユニットのアレクサンドラ。
-* **[[[/system:page-tags/tag/アレクセイ・ベリトロフ|アレクセイ・ベリトロフ]]]** //(alexei-belitrov)// - アレクセイ・ベリトロフ、通称SCP-2273。
-* **[[[/system:page-tags/tag/scp-343|scp-343]]]** //(alleged-god)// - SCP-343、通称"神"。
+* **[[[/system:page-tags/tag/アレクサンドラ|アレクサンドラ]]]** //(alexandra)// - 人工知能のアレクサンドラ。
 * **[[[/system:page-tags/tag/ベイリー三兄弟|ベイリー三兄弟]]]** //(bailey-brothers)// - トリスタン・ベイリー、トーマス・ベイリー、およびトレバー・ベイリー。
-* **[[[/system:page-tags/tag/ビッグチーズ・ホレス|ビッグチーズ・ホレス]]]** //(big-cheese-horace)// - 第五主義者のビッグチーズ・ホレス。
-* **[[[/system:page-tags/tag/ピエロのボブル|ピエロのボブル]]]** //(bobble-the-clown)// - ピエロのボブル、通称SCP-993。
-* **[[[/system:page-tags/tag/bones|bones]]]** //(bones)// - Bones、またの名をSCP-2721-LORD、もしくはイーライ。
-* **[[[/system:page-tags/tag/ブレイニー・ブライアン|ブレイニー・ブライアン]]]** //(brainy-brian)// - ワンダーテインメント/MC&D社のブレイニー・ブライアン。あるいは"ニューロシス博士"。
-* **[[[/system:page-tags/tag/カイン|カイン]]]** //(cain)// - カイン、通称SCP-073。
-* **[[[/system:page-tags/tag/チャズ・アンブローズ|チャズ・アンブローズ]]]** //(chaz-ambrose)// - アンブローズ・レストランの創始者、チャズ・アンブローズ。
-* **[[[/system:page-tags/tag/従兄弟のジョニー|従兄弟のジョニー]]]** //(cousin-johnny)// - 従兄弟のジョニー、通称SCP-2852。
 * **[[[/system:page-tags/tag/d-7294|d-7294]]]** //(d-7294)// - D-7294。
 * **[[[/system:page-tags/tag/d-11424|d-11424]]]** //(d-11424)// - D-11424。
-* **[[[/system:page-tags/tag/dado|dado]]]** //(dado)// - dado これであなた せわする。しんぱい むよう。
-* **[[[/system:page-tags/tag/ダミアン・ノヴァク|ダミアン・ノヴァク]]]** //(damien-nowak)// - ダミアン・ノヴァク。
-* **[[[/system:page-tags/tag/d.c.アルフィーネ|d.c.アルフィーネ]]]** //(dc-al-fine)// - 世界オカルト連合事務総長、D.C.al Fine。
-* **[[[/system:page-tags/tag/アクタス管理官|アクタス管理官]]]** //(director-aktus)// - サイト管理官アクタス。
+* **[[[/system:page-tags/tag/アクタス管理官|アクタス管理官]]]** //(director-aktus)// - アクタス管理官。
 * **[[[/system:page-tags/tag/ボールド管理官|ボールド管理官]]]** //(director-bold)// - 解体部門のカル・ボールド管理官。
 * **[[[/system:page-tags/tag/ディアギレフ管理官|ディアギレフ管理官]]]** //(director-diaghilev)// - 錬金術部門のルスラフ・ディアギレフ管理官。
 * **[[[/system:page-tags/tag/ガレスピー管理官|ガレスピー管理官]]]** //(director-gillespie)// - ガレスピー管理官。
@@ -1777,110 +1758,135 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ブランク博士|ブランク博士]]]** //(doctor-blank)// - ハロルド・R・ブランク博士。
 * **[[[/system:page-tags/tag/ブライト博士|ブライト博士]]]** //(doctor-bright)// - ブライト博士。
 * **[[[/system:page-tags/tag/シメリアン博士|シメリアン博士]]]** //(doctor-cimmerian)// - シメリアン博士。
-* **[[[/system:page-tags/tag/クレフ博士|クレフ博士]]]** //(doctor-clef)// - クレフ博士。
+* **[[[/system:page-tags/tag/クレフ博士|クレフ博士]]]** //(doctor-clef)// - アルト・クレフ博士。
 * **[[[/system:page-tags/tag/ダン博士|ダン博士]]]** //(doctor-dan)// - SCP-096担当のダン・███████博士。
 * **[[[/system:page-tags/tag/エジソン博士|エジソン博士]]]** //(doctor-edison)// - マイケル・エジソン博士。
 * **[[[/system:page-tags/tag/エリオット博士|エリオット博士]]]** //(doctor-elliott)// - チェルシー・エリオット博士。
-* **[[[/system:page-tags/tag/エバーウッド博士|エバーウッド博士]]]** //(doctor-everwood)// - GoIのスペシャリスト、エバーウッド博士。
+* **[[[/system:page-tags/tag/エバーウッド博士|エバーウッド博士]]]** //(doctor-everwood)// - GoIスペシャリストのエバーウッド博士。
 * **[[[/system:page-tags/tag/フィネガン博士|フィネガン博士]]]** (//doctor-fynegan//) - フィネガン博士。
 * **[[[/system:page-tags/tag/ギアーズ博士|ギアーズ博士]]]** //(doctor-gears)// - ギアーズ博士。
 * **[[[/system:page-tags/tag/ジェラルド博士|ジェラルド博士]]]** //(doctor-gerald)// - ジェラルド博士。
-* **[[[/system:page-tags/tag/グラス博士|グラス博士]]]** //(doctor-glass)// - グラス博士。
+* **[[[/system:page-tags/tag/グラス博士|グラス博士]]]** //(doctor-glass)// - サイモン・グラス博士。
 * **[[[/system:page-tags/tag/doctor-heiden|doctor-heiden]]]** //(doctor-heiden)// - フレドリック・ハイデン博士/ヘイデン博士。
 * **[[[/system:page-tags/tag/ホイガル博士|ホイガル博士]]]** //(doctor-hoygull)// - 鳥類部門のホイガル博士。
 * **[[[/system:page-tags/tag/アイスバーグ博士|アイスバーグ博士]]]** //(doctor-iceberg)// - アイスバーグ博士。
 * **[[[/system:page-tags/tag/キング博士|キング博士]]]** //(doctor-king)// - キング博士。
 * **[[[/system:page-tags/tag/コンドラキ博士|コンドラキ博士]]]** //(doctor-kondraki)// - コンドラキ博士。
-* **[[[/system:page-tags/tag/ライト博士|ライト博士]]]** //(doctor-light)// - ライト博士。
+* **[[[/system:page-tags/tag/ライト博士|ライト博士]]]** //(doctor-light)// - ソフィア・N・ライト博士。
 * **[[[/system:page-tags/tag/リリハンメル博士|リリハンメル博士]]]** //(doctor-lillihammer)// - リリアン・S・リリハンメル博士。
-* **[[[/system:page-tags/tag/マン博士|マン博士]]]** //(doctor-mann)// - マン博士。
-* **[[[/system:page-tags/tag/マクドクトラート博士|マクドクトラート博士]]]**//(doctor-mcdoctorate)// - プレースホルダー・マクドクトラート博士。
+* **[[[/system:page-tags/tag/マン博士|マン博士]]]** //(doctor-mann)// - エヴァレット・マン博士。
+* **[[[/system:page-tags/tag/マクドクトラート博士|マクドクトラート博士]]]**//(doctor-mcdoctorate)// - プレースホルダー・マクドクトラート博士。かつての名前はネイサン・ヴァリス管理官。
 * **[[[/system:page-tags/tag/レインデルス博士|レインデルス博士]]]** //(doctor-reynders)// - イルゼ・レインデルス博士。
 * **[[[/system:page-tags/tag/ライツ博士|ライツ博士]]]** //(doctor-rights)// - ライツ博士。
 * **[[[/system:page-tags/tag/リベラ博士|リベラ博士]]]** //(doctor-rivera)// - ジェシー・リベラ博士。
-* **[[[/system:page-tags/tag/ロジェ博士|ロジェ博士]]]** //(doctor-roget)// - ロジェ博士。
+* **[[[/system:page-tags/tag/ロジェ博士|ロジェ博士]]]** //(doctor-roget)// - ラルフ・ロジェ博士。
 * **[[[/system:page-tags/tag/セレヴン博士|セレヴン博士]]]** //(doctor-thereven)// - コール・セレヴン博士。
 * **[[[/system:page-tags/tag/シンクレア博士|シンクレア博士]]]** //(doctor-sinclair)// - キャサリン・シンクレア博士。
 * **[[[/system:page-tags/tag/ソーツ博士|ソーツ博士]]]** //(doctor-sorts)// - ヨハネス・ソーツ博士。
-* **[[[/system:page-tags/tag/ドクター・スパンコ|ドクター・スパンコ]]]** //(doctor-spanko)// - ドクター・スパンコ。
 * **[[[/system:page-tags/tag/ヴァン博士|ヴァン博士]]]** //(dr-vang)// - S.ヴァン博士。
 * **[[[/system:page-tags/tag/ウェトル博士|ウェトル博士]]]** //(doctor-wettle)// - ウィリアム・ウォレス・ウェトル博士。
-* **[[[/system:page-tags/tag/ドンクマン|ドンクマン]]]** //(donkman)// - ユリシーズ・B・ドンクマン。
 * **[[[/system:page-tags/tag/ドレイヴン・コンドラキ|ドレイヴン・コンドラキ]]]** //(draven-kondraki)// - ドレイヴン・コンドラキ博士/管理官。
-* **[[[/system:page-tags/tag/エリック|エリック]]]** //(eric)// - 謎に包まれたキャラクター、エリック。
-* **[[[/system:page-tags/tag/エスター・コーガン|エスター・コーガン]]]** //(esther-kogan)// - ゲーマーズ・アゲインスト・ウィードのエスター・コーガン。通称はlesbian_gengar。
-* **[[[/system:page-tags/tag/フェオウィン・ウィルソン|フェオウィン・ウィルソン]]]** //(faeowynn-wilson)// - フェオウィン・"フェイ"・ウィルソン。
-* **[[[/system:page-tags/tag/フィネガン|フィネガン]]]** //(finnegan)// - フィネガン。
-* **[[[/system:page-tags/tag/フレッド|フレッド]]]** //(fred)// - フレッド、通称SCP-423。
 * **[[[/system:page-tags/tag/バウ将軍|バウ将軍]]]** //(general-bowe)// - バウ将軍。
-* **[[[/system:page-tags/tag/グラソン|グラソン]]]** //(glacon)// - Glacon.aic。
-* **[[[/system:page-tags/tag/グラブノック|グラブノック]]]** //(grabnok)// - グラブノック・ザ・デストロイヤー、通称SCP-507。
-* **[[[/system:page-tags/tag/崇高なるカルキスト・イオン|崇高なるカルキスト・イオン]]]** //(grand-karcist-ion)// - 崇高なるカルキスト・イオン。
-* **[[[/system:page-tags/tag/ハリーナ・イエヴァ|ハリーナ・イエヴァ]]]** //(halyna-ieva)// - カルキスト・ハリーナ・イエヴァ、またの名を”趾を求む母”。
-* **[[[/system:page-tags/tag/吊られた王|吊られた王]]]** //(hanged-king)// - 吊られた王。
-* **[[[/system:page-tags/tag/不死身の爬虫類|不死身の爬虫類]]]** //(hard-to-kill-reptile)// - "不死身の爬虫類"、通称SCP-682。
-* **[[[/system:page-tags/tag/ヘザー・メイソン|ヘザー・メイソン]]]** //(heather-mason)// - ヘザー・メイソン、またの名を"ミズ・ビデオゲーム狂"あるいは"SCP-3090"。
-* **[[[/system:page-tags/tag/ホリィ・ライト|ホリィ・ライト]]]** //(holly-light)// - ホリィ・ライト。
-* **[[[/system:page-tags/tag/イッキィ|イッキィ]]]** //(icky)// - 魔法のクラウン・ヴェロニカ。
-* **[[[/system:page-tags/tag/アイリス・ダーク|アイリス・ダーク]]]** //(iris-dark)// - アイリス・ダーク。
-* **[[[/system:page-tags/tag/アイリス・トンプソン|アイリス・トンプソン]]]** //(iris-thompson)// - アイリス・トンプソン、通称SCP-105。
-* **[[[/system:page-tags/tag/イザベル五世|イザベル五世]]]** //(isabel-v)// - イザベル・ヘルガ・アナスタシア・パールヴァティ・ワンダーテインメント5世。
-* **[[[/system:page-tags/tag/hogslice|hogslice]]]** //(hogslice)// - Hogslice、通称SCP-6599。
-* **[[[/system:page-tags/tag/jockjamsvol6|jockjamsvol6]]]** //(jockjamsvol6)// - ゲーマーズ・アゲインスト・ウィードのJJ。通称はjockjamsvol6。
-* **[[[/system:page-tags/tag/ジュード・クライヨット|ジュード・クライヨット]]]** //(jude-kriyot)// - ゲーマーズ・アゲインスト・ウィードのジュード・クライヨット。通称はbluntfiend。
-* **[[[/system:page-tags/tag/ジュディス・ロゥ博士|ジュディス・ロゥ博士]]]** //(judith-low)// - ジュディス・ロゥ博士。
-* **[[[/system:page-tags/tag/ジュディ・パピル|ジュディ・パピル]]]** //(judy-papill)// - ジュディ・パピル、またの名を長舌ジュディ。
-* **[[[/system:page-tags/tag/ケイン・パトス・クロウ|ケイン・パトス・クロウ]]]** //(kain-pathos-crow)// - ケイン・パトス・クロウ。
-* **[[[/system:page-tags/tag/ケネス・スペンサー|ケネス・スペンサー]]]** //(kenneth-spencer)// - ケネス・スペンサー。
-* **[[[/system:page-tags/tag/kindness|kindness]]]** //(kindness)// - A kind man。
-* **[[[/system:page-tags/tag/レガーテ・トラニオン|レガーテ・トラニオン]]]** //(legate-trunnion)// - 歯車仕掛正教の預言者、[[span class="ruby"]]審問信徒[[span class="rt"]]レガーテ[[/span]][[/span]]・トラニオン。
-* **[[[/system:page-tags/tag/レスリー|レスリー]]]** //(leslie)// - SCP-3774個体のレスリー。
-* **[[[/system:page-tags/tag/ルウィット・ザイリ・ファミリー|ルウィット・ザイリ・ファミリー]]]** //(lewitt-zairi-family)// - ルウィット・ザイリ・ファミリー。
+* **[[[/system:page-tags/tag/グラソン|グラソン]]]** //(glacon)// - 人工知能のGlacon.aic。
+* **[[[/system:page-tags/tag/ジュディス・ロゥ博士|ジュディス・ロゥ博士]]]** //(judith-low)// - 歴史部門のジュディス・ロゥ博士。
+* **[[[/system:page-tags/tag/ケイン・パトス・クロウ|ケイン・パトス・クロウ]]]** //(kain-pathos-crow)// - ケイン・パトス・クロウ教授。
 * **[[[/system:page-tags/tag/ロンバルディ|ロンバルディ]]]** //(lombardi)// - [[[the-lombardi-tales|エージェント・ロンバルディ]]]。
-* **[[[/system:page-tags/tag/マニー|マニー]]]** //(manny)// - ハーマン・フラーの不気味サーカスのマニー。またの名を"逆さまの顔を持つ男"。
 * **[[[/system:page-tags/tag/マリア・ジョーンズ|マリア・ジョーンズ]]]** //(maria-jones)// - RAISAのマリア・ジョーンズ。
-* **[[[/system:page-tags/tag/マリオン・ホイーラー|マリオン・ホイーラー]]]** //(marion-wheeler)// - マリオン・ホイーラー。
+* **[[[/system:page-tags/tag/マリオン・ホイーラー|マリオン・ホイーラー]]]** //(marion-wheeler)// - 反ミーム部門のマリオン・ホイーラー。
 * **[[[/system:page-tags/tag/マーク・桐生|マーク・桐生]]]** //(mark-kiryu)// - 桐生研究所のマーク・桐生。
-* **[[[/system:page-tags/tag/ムーン・チャンピオン|ムーン・チャンピオン]]]** //(moon-champion)// - ムーン・チャンピオン、またの名を月のチャンピオンあるいはSCP-1233。
-* **[[[/system:page-tags/tag/ミスター・おさかな|ミスター・おさかな]]]** //(mr-fish)// - ミスター・おさかな、ワンダーテインメント博士のリトル・ミスターにしてSCP-527。
-* **[[[/system:page-tags/tag/パングロス|パングロス]]]** //(pangloss)// - パングロス。
 * **[[[/system:page-tags/tag/フィリップ・ディアリング|フィリップ・ディアリング]]]** //(philip-deering)// - フィリップ・E・ディアリング、元SCP-5056-B。
-* **[[[/system:page-tags/tag/ペスト医師|ペスト医師]]]** //(plague-doctor)// - ペスト医師、通称SCP-049。
-* **[[[/system:page-tags/tag/polaricecraps|polaricecraps]]]** //(polaricecraps)// - Polaricecraps。
-* **[[[/system:page-tags/tag/取り憑くマスク|取り憑くマスク]]]** //(possessive-mask)// - 取り憑くマスク、通称SCP-035。
-* **[[[/system:page-tags/tag/professor-bjornsen|professor-bjornsen]]]** //(professor-bjornsen)// - ビヨンセン/ビョルンセン教授。
-* **[[[/system:page-tags/tag/ライナー・ミラー|ライナー・ミラー]]]** //(rainer-miller)// - ライナー・ミラー、通称SCP-4051。
+* **[[[/system:page-tags/tag/professor-bjornsen|professor-bjornsen]]]** //(professor-bjornsen)// - アンダース・ビヨンセン/ビョルンセン教授。
 * **[[[/system:page-tags/tag/コーンウェル研究員|コーンウェル研究員]]]** //(researcher-conwell)// - ジェイコブ・コーンウェル研究員。
 * **[[[/system:page-tags/tag/ジェームズ研究員|ジェームズ研究員]]]** //(researcher-james)// - ジェームズ研究助手、史上最高の財団研究員！(5才)。
-* **[[[/system:page-tags/tag/researcher-labelle|researcher-labelle]]]** //(researcher-labelle)// - ラベル研究員/ラブレ研究員。
+* **[[[/system:page-tags/tag/researcher-labelle|researcher-labelle]]]** //(researcher-labelle)// - ローズ・ラベル/ラブレ研究員。
 * **[[[/system:page-tags/tag/ロイド研究員|ロイド研究員]]]** //(researcher-lloyd)// - 諸世界の破壊者、ロイド研究員。
 * **[[[/system:page-tags/tag/ローゼン研究員|ローゼン研究員]]]** //(researcher-rosen)// - [[[david-rosen-file|デイヴィッド・ローゼン研究員]]]。
-* **[[[/system:page-tags/tag/スモールズ研究員|スモールズ研究員]]]** //(researcher-smalls)// - スモールズ研究員。
+* **[[[/system:page-tags/tag/スモールズ研究員|スモールズ研究員]]]** //(researcher-smalls)// - アダモ・スモールズ研究員。
 * **[[[/system:page-tags/tag/タローラン研究員|タローラン研究員]]]** //(researcher-talloran)// - タローラン研究員。
-* **[[[/system:page-tags/tag/リチャード・チャペル|リチャード・チャペル]]]** //(richard-chappell)// - シカゴ・スピリットの創設者、リチャード・デイヴィス・チャペル。
 * **[[[/system:page-tags/tag/リーヴィン・マーサー|リーヴィン・マーサー]]]** //(riven-mercer)// - 桐生研究所のリーヴィン・マーサー。
-* **[[[/system:page-tags/tag/ロバート・ブマロ|ロバート・ブマロ]]]** //(robert-bumaro)// - ロバート・ブマロ。
-* **[[[/system:page-tags/tag/ロビン・ソーン|ロビン・ソーン]]]** //(robin-thorne)// - ロビン・ソーン。
-* **[[[/system:page-tags/tag/ルイス・デュシャン|ルイス・デュシャン]]]** //(ruiz-duchamp)// - ルイス・デュシャン、アナーティスト。
-* **[[[/system:page-tags/tag/聖ヘドウィグ|聖ヘドウィグ]]]** //(saint-hedwig)// - マクスウェリズムの預言者、聖ヘドウィグ。
-* **[[[/system:page-tags/tag/saturn-deer|saturn-deer]]]** //(saturn-deer)// - saturn-deer。
-* **[[[/system:page-tags/tag/scarlet-king|scarlet-king]]]** //(scarlet-king)// - Scarlet King。
-* **[[[/system:page-tags/tag/シェルドン・カッツ|シェルドン・カッツ]]]** //(sheldon-katz)// - シェルドン・カッツ。
-* **[[[/system:page-tags/tag/シャイガイ|シャイガイ]]]** //(shy-guy)// - シャイガイ、通称SCP-096。
-* **[[[/system:page-tags/tag/シガーロス|シガーロス]]]** //(sigurross)// - シガーロス・ステファンズドッティル、通称SCP-239。
-* **[[[/system:page-tags/tag/サイモン・ピエトリカウ|サイモン・ピエトリカウ]]]** //(simon-pietrykau)// - サイモン・ピエトリカウ。
-* **[[[/system:page-tags/tag/scp-2521|scp-2521]]]** //(ten-dots)// - SCP-2521。
-* **[[[/system:page-tags/tag/シャンク博士|シャンク博士]]]** //(thad-xyank)// - シャンク博士。
+* **[[[/system:page-tags/tag/シェルドン・カッツ|シェルドン・カッツ]]]** //(sheldon-katz)// - 法務部門のシェルドン・カッツ。
+* **[[[/system:page-tags/tag/サイモン・ピエトリカウ|サイモン・ピエトリカウ]]]** //(simon-pietrykau)// - 解析部門のサイモン・ピエトリカウ。
+* **[[[/system:page-tags/tag/シャンク博士|シャンク博士]]]** //(thad-xyank)// - 時間異常部門のタデウス・“サド”・シャンク博士。
 * **[[[/system:page-tags/tag/管理者|管理者]]]** //(the-administrator)// - 管理者(O5評議会とは別の存在です)。
-* **[[[/system:page-tags/tag/エンジニア|エンジニア]]]** //(the-engineer)// - カオス・インサージェンシーの"エンジニア"。
-* **[[[/system:page-tags/tag/オールドマン|オールドマン]]]** //(the-old-man)// - オールドマン、通称SCP-106。
-* **[[[/system:page-tags/tag/scp-173|scp-173]]]** //(the-sculpture)// - 彫刻、通称SCP-173。
-* **[[[/system:page-tags/tag/the-specter|the-specter]]]** //(the-specter)// - The Specter、通称SCP-4944。
-* **[[[/system:page-tags/tag/ティム・ウィルソン|ティム・ウィルソン]]]** //(tim-wilson)// - ウィルソンズ・ワイルドライフ・ソリューションズのティム・ウィルソン。
-* **[[[/system:page-tags/tag/ティロ・ツウィスト|ティロ・ツウィスト]]]** //(thilo-zwist)// - ティロ・ツウィスト。
-* **[[[/system:page-tags/tag/ベロニカ・フィッツロイ|ベロニカ・フィッツロイ]]]** //(veronica-fitzroy)// - 異常芸術家にしてDクラスのベロニカ・キャサリン・フィッツロイ。
-* **[[[/system:page-tags/tag/ヴィンセント・アンダーソン|ヴィンセント・アンダーソン]]]** //(vincent-anderson)// - アンダーソン・ロボティクスのヴィンセント・アンダーソン。
 * **[[[/system:page-tags/tag/ジン・桐生|ジン・桐生]]]** //(zyn-kiryu)// - ジン・桐生研究員。
+
+@@ @@
+
++++ SCPオブジェクト-EN
+
+* **[[[/system:page-tags/tag/アベル|アベル]]]** //(able)// - アベル、通称[[[SCP-076|SCP-076-2]]]。
+* **[[[/system:page-tags/tag/アレクセイ・ベリトロフ|アレクセイ・ベリトロフ]]]** //(alexei-belitrov)// - アレクセイ・ベリトロフ、通称[[[SCP-2273]]]。
+* **[[[/system:page-tags/tag/scp-343|scp-343]]]** //(alleged-god)// - "神"、通称[[[SCP-343]]]。
+* **[[[/system:page-tags/tag/blackwood|blackwood]]]** //(blackwood)// - [[[new|探検家にして紳士、ブラックウッド卿]]]、通称[[[SCP-1867]]]。
+* **[[[/system:page-tags/tag/ピエロのボブル|ピエロのボブル]]]** //(bobble-the-clown)// - ピエロのボブル、通称[[[SCP-993]]]。
+* **[[[/system:page-tags/tag/bones|bones]]]** //(bones)// - Bones、通称[[[SCP-2721|SCP-2721-LORD]]]、もしくはイーライ。
+* **[[[/system:page-tags/tag/カイン|カイン]]]** //(cain)// - カイン、通称[[[SCP-073]]]。
+* **[[[/system:page-tags/tag/従兄弟のジョニー|従兄弟のジョニー]]]** //(cousin-johnny)// - 従兄弟のジョニー、通称[[[SCP-2852]]]。
+* **[[[/system:page-tags/tag/ドクター・スパンコ|ドクター・スパンコ]]]** //(doctor-spanko)// - [[[doctor-spanko-hub|ドクター・スパンコ]]]、通称[[[SCP-2337]]]。
+* **[[[/system:page-tags/tag/ドンクマン|ドンクマン]]]** //(donkman)// - ユリシーズ・B・ドンクマン、通称[[[SCP-4768]]]。
+* **[[[/system:page-tags/tag/フレッド|フレッド]]]** //(fred)// - フレッド、通称[[[SCP-423]]]。
+* **[[[/system:page-tags/tag/グラブノック|グラブノック]]]** //(grabnok)// - グラブノック・ザ・デストロイヤー、嫌々ながらの次元旅行者、通称[[[SCP-507]]]。
+* **[[[/system:page-tags/tag/不死身の爬虫類|不死身の爬虫類]]]** //(hard-to-kill-reptile)// - "不死身の爬虫類"、通称[[[SCP-682]]]。
+* **[[[/system:page-tags/tag/ヘザー・メイソン|ヘザー・メイソン]]]** //(heather-mason)// - ヘザー・メイソン、またの名を"ミズ・ビデオゲーム狂"あるいは[[[SCP-3090]]]。
+* **[[[/system:page-tags/tag/hogslice|hogslice]]]** //(hogslice)// - Hogslice、通称[[[SCP-6599]]]。
+* **[[[/system:page-tags/tag/アイリス・トンプソン|アイリス・トンプソン]]]** //(iris-thompson)// - アイリス・トンプソン、通称[[[SCP-105]]]。
+* **[[[/system:page-tags/tag/レスリー|レスリー]]]** //(leslie)// - [[[SCP-3774]]]個体のレスリー。
+* **[[[/system:page-tags/tag/ムーン・チャンピオン|ムーン・チャンピオン]]]** //(moon-champion)// - ムーン・チャンピオン、またの名を月のチャンピオンあるいは[[[SCP-1233]]]。
+* **[[[/system:page-tags/tag/ミスター・おさかな|ミスター・おさかな]]]** //(mr-fish)// - ワンダーテインメント博士のリトル・ミスターの一員であるミスター・おさかな、通称[[[SCP-527]]]。
+* **[[[/system:page-tags/tag/ペスト医師|ペスト医師]]]** //(plague-doctor)// - ペスト医師、通称[[[SCP-049]]]。
+* **[[[/system:page-tags/tag/取り憑くマスク|取り憑くマスク]]]** //(possessive-mask)// - 取り憑くマスク、通称[[[SCP-035]]]。
+* **[[[/system:page-tags/tag/ライナー・ミラー|ライナー・ミラー]]]** //(rainer-miller)// - ライナー・ミラー、通称[[[SCP-4051]]]。
+* **[[[/system:page-tags/tag/シャイガイ|シャイガイ]]]** //(shy-guy)// - シャイガイ、通称[[[SCP-096]]]。
+* **[[[/system:page-tags/tag/シガーロス|シガーロス]]]** //(sigurross)// - シガーロス・ステファンズドッティル、通称[[[SCP-239]]]。
+* **[[[/system:page-tags/tag/scp-2521|scp-2521]]]** //(ten-dots)// - [[[SCP-2521]]]。
+* **[[[/system:page-tags/tag/オールドマン|オールドマン]]]** //(the-old-man)// - オールドマン、通称[[[SCP-106]]]。
+* **[[[/system:page-tags/tag/scp-173|scp-173]]]** //(the-sculpture)// - 彫刻、通称[[[SCP-173]]]。
+* **[[[/system:page-tags/tag/the-specter|the-specter]]]** //(the-specter)// - The Specter、通称[[[SCP-4944]]]。
+
+@@ @@
+
++++ 要注意人物-EN
+
+* **[[[/system:page-tags/tag/アルドン|アルドン]]]** //(aldon)// - アナーティストのアルドン。
+* **[[[/system:page-tags/tag/ビッグチーズ・ホレス|ビッグチーズ・ホレス]]]** //(big-cheese-horace)// - 第五主義者のビッグチーズ・ホレス。
+* **[[[/system:page-tags/tag/ブレイニー・ブライアン|ブレイニー・ブライアン]]]** //(brainy-brian)// - ワンダーテインメント/MC&D社のブレイニー・ブライアン。あるいは"ニューロシス博士"。
+* **[[[/system:page-tags/tag/チャズ・アンブローズ|チャズ・アンブローズ]]]** //(chaz-ambrose)// - アンブローズ・レストランの創設者、チャズ・アンブローズ。
+* **[[[/system:page-tags/tag/dado|dado]]]** //(dado)// - [[[dado-hub|dado]]] これであなた せわする。しんぱい むよう。
+* **[[[/system:page-tags/tag/ダミアン・ノヴァク|ダミアン・ノヴァク]]]** //(damien-nowak)// - カルト指導者、ダミアン・ノヴァク。
+* **[[[/system:page-tags/tag/d.c.アルフィーネ|d.c.アルフィーネ]]]** //(dc-al-fine)// - 世界オカルト連合事務総長、D.C.al Fine。
+* **[[[/system:page-tags/tag/エリック|エリック]]]** //(eric)// - 謎に包まれた異常製作者、エリック。
+* **[[[/system:page-tags/tag/エスター・コーガン|エスター・コーガン]]]** //(esther-kogan)// - ゲーマーズ・アゲインスト・ウィードのエスター・コーガン、通称lesbian_gengar。
+* **[[[/system:page-tags/tag/フェオウィン・ウィルソン|フェオウィン・ウィルソン]]]** //(faeowynn-wilson)// - ウィルソンズ・ワイルドライフ・ソリューションズのフェオウィン・"フェイ"・ウィルソン。
+* **[[[/system:page-tags/tag/フィネガン|フィネガン]]]** //(finnegan)// - アナーティストのフィネガン。
+* **[[[/system:page-tags/tag/崇高なるカルキスト・イオン|崇高なるカルキスト・イオン]]]** //(grand-karcist-ion)// - サーキシズムの創唱者、崇高なるカルキスト・イオン。
+* **[[[/system:page-tags/tag/ハリーナ・イエヴァ|ハリーナ・イエヴァ]]]** //(halyna-ieva)// - カルキスト・ハリーナ・イエヴァ、またの名を[[[mother-who-demands-ones-toes|“趾を求む母”]]]。
+* **[[[/system:page-tags/tag/吊られた王|吊られた王]]]** //(hanged-king)// - アラガッダの吊られた王。
+* **[[[/system:page-tags/tag/ホリィ・ライト|ホリィ・ライト]]]** //(holly-light)// - ワンダーテインメント博士社のホリィ・ライト。
+* **[[[/system:page-tags/tag/イッキィ|イッキィ]]]** //(icky)// - ハーマン・フラーの不気味サーカスのヴェロニカ・メイソン、通称[[[icky-the-magic-clown|魔法のクラウン・イッキィ]]]。
+* **[[[/system:page-tags/tag/アイリス・ダーク|アイリス・ダーク]]]** //(iris-dark)// - マーシャル・カーター&ダーク株式会社のアイリス・ダーク。
+* **[[[/system:page-tags/tag/イザベル五世|イザベル五世]]]** //(isabel-v)// - イザベル・ヘルガ・アナスタシア・パールヴァティ・ワンダーテインメント5世。
+* **[[[/system:page-tags/tag/jockjamsvol6|jockjamsvol6]]]** //(jockjamsvol6)// - ゲーマーズ・アゲインスト・ウィードのJJ、通称jockjamsvol6。
+* **[[[/system:page-tags/tag/ジュード・クライヨット|ジュード・クライヨット]]]** //(jude-kriyot)// - ゲーマーズ・アゲインスト・ウィードのジュード・クライヨット、通称bluntfiend。
+* **[[[/system:page-tags/tag/ジュディ・パピル|ジュディ・パピル]]]** //(judy-papill)// - ワンダーテインメント博士社のジュディ・パピル、またの名を長舌ジュディ。
+* **[[[/system:page-tags/tag/ケネス・スペンサー|ケネス・スペンサー]]]** //(kenneth-spencer)// - FBI異常事件課のケネス・スペンサー。
+* **[[[/system:page-tags/tag/kindness|kindness]]]** //(kindness)// - A kind man。
+* **[[[/system:page-tags/tag/レガーテ・トラニオン|レガーテ・トラニオン]]]** //(legate-trunnion)// - 歯車仕掛正教の預言者、[[span class="ruby"]]審問信徒[[span class="rt"]]レガーテ[[/span]][[/span]]・トラニオン。
+* **[[[/system:page-tags/tag/ルウィット・ザイリ・ファミリー|ルウィット・ザイリ・ファミリー]]]** //(lewitt-zairi-family)// - 境界線イニシアチブのルウィット・ザイリ・ファミリー。
+* **[[[/system:page-tags/tag/マニー|マニー]]]** //(manny)// - ハーマン・フラーの不気味サーカスのマニー、またの名を"逆さまの顔を持つ男"。
+* **[[[/system:page-tags/tag/パングロス|パングロス]]]** //(pangloss)// - 神話的存在にして残されたメモの著者、パングロス。
+* **[[[/system:page-tags/tag/polaricecraps|polaricecraps]]]** //(polaricecraps)// - ゲーマーズ・アゲインスト・ウィードのPolaricecraps。
+* **[[[/system:page-tags/tag/aw教授|aw教授]]]** //(professor-aw)// - 珍品の発明家・製作者、A.W.教授。
+* **[[[/system:page-tags/tag/リチャード・チャペル|リチャード・チャペル]]]** //(richard-chappell)// - シカゴ・スピリットの創設者、リチャード・デイヴィス・チャペル。
+* **[[[/system:page-tags/tag/ロバート・ブマロ|ロバート・ブマロ]]]** //(robert-bumaro)// - メカーネの預言者、ロバート・ブマロ。
+* **[[[/system:page-tags/tag/ロビン・ソーン|ロビン・ソーン]]]** //(robin-thorne)// - FBI異常事件課のロビン・ソーン。
+* **[[[/system:page-tags/tag/ルイス・デュシャン|ルイス・デュシャン]]]** //(ruiz-duchamp)// - アナーティストのルイス・デュシャン。
+* **[[[/system:page-tags/tag/聖ヘドウィグ|聖ヘドウィグ]]]** //(saint-hedwig)// - マクスウェリズムの預言者、聖ヘドウィグ。
+* **[[[/system:page-tags/tag/saturn-deer|saturn-deer]]]** //(saturn-deer)// - 連続転生者にして偽預言者、Saturn Deer。
+* **[[[/system:page-tags/tag/エンジニア|エンジニア]]]** //(the-engineer)// - カオス・インサージェンシーの"エンジニア"。
+* **[[[/system:page-tags/tag/ティロ・ツウィスト|ティロ・ツウィスト]]]** //(thilo-zwist)// - ミーム術師のティロ・ツウィスト。
+* **[[[/system:page-tags/tag/ティム・ウィルソン|ティム・ウィルソン]]]** //(tim-wilson)// - ウィルソンズ・ワイルドライフ・ソリューションズのティム・ウィルソン。
+* **[[[/system:page-tags/tag/ベロニカ・フィッツロイ|ベロニカ・フィッツロイ]]]** //(veronica-fitzroy)// - アナーティスト/Dクラスのベロニカ・キャサリン・フィッツロイ。
+* **[[[/system:page-tags/tag/ヴィンセント・アンダーソン|ヴィンセント・アンダーソン]]]** //(vincent-anderson)// - アンダーソン・ロボティクスのヴィンセント・アンダーソン。
 
 [[/tab]]
 [[tab JP]]
