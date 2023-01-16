@@ -1360,7 +1360,6 @@
 * **[[[/system:page-tags/tag/accelerate-the-future|accelerate-the-future]]]** //(accelerate-the-future)// - Accelerate the Future。
 * **[[[/system:page-tags/tag/asci|asci]]]** //(asci)// - 全米確保収容イニシアチブ (ASCI)。
 * **[[[/system:page-tags/tag/アベラール|アベラール]]]** //(avelar)// - アベラール・プロフェッショナル・プロダクツ。
-* **[[[/system:page-tags/tag/blackwood|blackwood]]]** //(blackwood)// - blackwood卿の冒険譚。
 * **[[[/system:page-tags/tag/british-occult-service|british-occult-service]]]** //(british-occult-service)// - 英国オカルト庁/英国オカルト局 (MI666)。
 * **[[[/system:page-tags/tag/brothers-of-death|brothers-of-death]]]** //(brothers-of-death)// - brothers-of-death。
 * **[[[/system:page-tags/tag/夜闇の子ら|夜闇の子ら]]]** //(children-of-the-night)// - 夜闇の子ら(参照: [[[scp-1000|]]])。
@@ -1376,7 +1375,6 @@
 * **[[[/system:page-tags/tag/オブスクラ|オブスクラ]]]** //(obskura)// - アーネンエルベ・オブスクラ軍団、またはその後継組織であるオブスクラ。
 * **[[[/system:page-tags/tag/pattern-screamer|pattern-screamer]]]** //(pattern-screamer)// - パターン・スクリーマーズ。
 * **[[[/system:page-tags/tag/ペンタグラム|ペンタグラム]]]** //(pentagram)// - ペンタグラム。
-* **[[[/system:page-tags/tag/aw教授|aw教授]]]** //(professor-aw)// - aw教授の発明物。
 * **[[[/system:page-tags/tag/silicon-nornir|silicon-nornir]]]** //(silicon-nornir)// - 硅/硅素のノルニルの従者達。
 * **[[[/system:page-tags/tag/シュガーコム製菓|シュガーコム製菓]]]** //(sugarcomb-confectionery)// - シュガーコム製菓。
 * **[[[/system:page-tags/tag/トトレイソフト|トトレイソフト]]]** //(totleighsoft)// - 異常なソフトウェア開発企業、トトレイソフト。
