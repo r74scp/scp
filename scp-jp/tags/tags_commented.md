@@ -723,6 +723,8 @@
  * 必ず//異常積荷委員会//タグと併用してください。
 * **[[[/system:page-tags/tag/_異常事件課|_異常事件課]]]** //(_unusual-incidents-unit)// - [[[unusual-incidents-unit-hub|連邦捜査局 (FBI) 異常事件課 (UIU)]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//異常事件課//タグと併用してください。
+* **[[[/system:page-tags/tag/_ヴァルラウン|_ヴァルラウン]]]** //(_valravn)// - [[[valravn-corporation-hub|ヴァルラウン・コーポレーション]]]のGoIフォーマット記事に付与されるタグです。
+ * 必ず//ヴァルラウン//タグと併用してください。
 * **[[[/system:page-tags/tag/_ヴィキャンデル・ニード|_ヴィキャンデル・ニード]]]** //(_vikander-kneed)// - [[[vikander-kneed-technical-media-hub|ヴィキャンデル=ニード・テクニカル・メディア]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//ヴィキャンデル・ニード//タグと併用してください。
 * **[[[/system:page-tags/tag/_堂守連盟|_堂守連盟]]]** //(_wandsmen)// - [[[wandsmen-hub|堂守連盟]]]のGoIフォーマット記事に付与されるタグです。
@@ -1069,6 +1071,7 @@
 * **[[[/system:page-tags/tag/アイディタ計画|アイディタ計画]]]** //(爱蒂塔计划)// - [[[project-aidita-hub|アイディタ計画]]]。
 * **[[[/system:page-tags/tag/港城江|港城江]]]** //(港城江)// - [[[k-s-g-hub|港．城．江]]]。
 * **[[[/system:page-tags/tag/荏苒荒涼|荏苒荒涼]]]** //(荏苒荒凉)// - [[[slipping-desolation|荏苒荒涼]]]。
+* **[[[/system:page-tags/tag/アルツハイマー・シンドローム|アルツハイマー・シンドローム]]]** //(阿尔兹海默症)// - [[[alzheimer-central|アルツハイマー・シンドローム]]]。
 
 [[/tab]]
 [[tab FR]]
@@ -1127,6 +1130,7 @@
 * **[[[/system:page-tags/tag/ニュークリオン・バンク|ニュークリオン・バンク]]]** //(核裂擠兌)// - [[[operation-nucleon-bank|ニュークリオン・バンク]]]。
 * **[[[/system:page-tags/tag/神異博覧会|神異博覧会]]]** //(神異博覽會)// - [[[taiwan-miracle-exposition|神異博覧会1935]]]。
 * **[[[/system:page-tags/tag/転生計画|転生計画]]]** //(轉世計劃)// - 転生計画。
+* **[[[/system:page-tags/tag/物理少年|物理少年]]]** //(物理少年)// - 物理少年。
 
 [[/tab]]
 [[/tabview]]
@@ -1295,6 +1299,7 @@
 * **[[[/system:page-tags/tag/サメ殴りセンター|サメ殴りセンター]]]** //(shark-punching-center)// - [[[spc-hub|サメ殴りセンター (SPC)]]]。
 * **[[[/system:page-tags/tag/三ツ月イニシアチブ|三ツ月イニシアチブ]]]** //(three-moons-initiative)// - [[[three-moons-initiative-hub|三ツ月イニシアチブ]]]。
 * **[[[/system:page-tags/tag/異常事件課|異常事件課]]]** //(unusual-incidents-unit)// - [[[unusual-incidents-unit-hub|連邦捜査局 (FBI) 異常事件課 (UIU)]]]。
+* **[[[/system:page-tags/tag/ヴァルラウン|ヴァルラウン]]]** //(valravn)// - [[[valravn-corporation-hub|ヴァルラウン・コーポレーション]]]。
 * **[[[/system:page-tags/tag/ヴィキャンデル・ニード|ヴィキャンデル・ニード]]]** //(vikander-kneed)// - [[[vikander-kneed-technical-media-hub|ヴィキャンデル=ニード・テクニカル・メディア]]]。
 * **[[[/system:page-tags/tag/堂守連盟|堂守連盟]]]** //(wandsmen)// - [[[wandsmen-hub|堂守連盟]]]。
 * **[[[/system:page-tags/tag/ウィルソンズ・ワイルドライフ|ウィルソンズ・ワイルドライフ]]]** //(wilsons-wildlife)// - [[[wilson-s-wildlife-solutions-hub|ウィルソンズ・ワイルドライフ・ソリューションズ (WWS)]]]。
@@ -1663,6 +1668,7 @@
 * **[[[/system:page-tags/tag/神話・民俗学部門|神話・民俗学部門]]]** //(folklore-dept)// - [[[department-of-mythology-and-folkloristics-hub|神話・民俗学部門]]]。
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - [[[domc-hub|誤伝達部門]]]。
 * **[[[/system:page-tags/tag/空想科学部門|空想科学部門]]]** //(pataphysics-dept)// - 空想科学部門。
+* **[[[/system:page-tags/tag/調達・精算部門|調達・精算部門]]]** //(procurement-liquidation-dept)// - 調達・精算部門。
 * **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 超現実部門。
 * **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - 戦術神学部門。
 * **[[[/system:page-tags/tag/電気通信監視室|電気通信監視室]]]** //(telecom-office)// - [[[telecommunications-monitoring-office-hub|電気通信監視室]]]。
@@ -1674,6 +1680,7 @@
 +++ 部隊-EN
 SCP-ENではキャラクターに分類されています。
 
+* **[[[/system:page-tags/tag/角度研削者|角度研削者]]]** //(angle-grinders)// - [[[mtf-theta-90-hub-page|機動部隊シータ-90 ("角度研削者")]]]。
 * **[[[/system:page-tags/tag/タウ-5-サムサラ|タウ-5-サムサラ]]]** //(tau-5-samsara)// - [[[task-forces#tau-5|機動部隊タウ-5 ("サムサラ")]]]。
 
 [[/tab]]
@@ -1728,6 +1735,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/8-ボール|8-ボール]]]** //(8-ball)// - 人工知能の8-ボール、別名8B-A1。
 * **[[[/system:page-tags/tag/aaron-siegel|aaron-siegel]]]** //(aaron-siegel)// - O5-1のアーロン・シーゲル/アーロン・シーガル。
+* **[[[/system:page-tags/tag/エージェント・アダムス|エージェント・アダムス]]]** //(agent-adams)// - エージェント・アンドレア・アダムス。
 * **[[[/system:page-tags/tag/エージェント・グリーン|エージェント・グリーン]]]** //(agent-green)// - エージェント・グリーン。
 * **[[[/system:page-tags/tag/エージェント・カズマレク|エージェント・カズマレク]]]** //(agent-kazmarek)// - エージェント・トラヴィス・カズマレク。
 * **[[[/system:page-tags/tag/エージェント・ラフェリエール|エージェント・ラフェリエール]]]** //(agent-laferrier)// - エージェント・V. A. ラフェリエール。
@@ -1831,9 +1839,11 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/レスリー|レスリー]]]** //(leslie)// - [[[SCP-3774]]]個体のレスリー。
 * **[[[/system:page-tags/tag/ムーン・チャンピオン|ムーン・チャンピオン]]]** //(moon-champion)// - ムーン・チャンピオン、またの名を月のチャンピオンあるいは[[[SCP-1233]]]。
 * **[[[/system:page-tags/tag/ミスター・おさかな|ミスター・おさかな]]]** //(mr-fish)// - ワンダーテインメント博士のリトル・ミスターの一員であるミスター・おさかな、通称[[[SCP-527]]]。
+* **[[[/system:page-tags/tag/オールドai|オールドai]]]** //(old-ai)// - "オールドAI"、通称[[[SCP-079]]]。
 * **[[[/system:page-tags/tag/ペスト医師|ペスト医師]]]** //(plague-doctor)// - ペスト医師、通称[[[SCP-049]]]。
 * **[[[/system:page-tags/tag/取り憑くマスク|取り憑くマスク]]]** //(possessive-mask)// - 取り憑くマスク、通称[[[SCP-035]]]。
 * **[[[/system:page-tags/tag/ライナー・ミラー|ライナー・ミラー]]]** //(rainer-miller)// - ライナー・ミラー、通称[[[SCP-4051]]]。
+* **[[[/system:page-tags/tag/サウエルスエソル|サウエルスエソル]]]** //(sauelsuesor)// - サウエルスエソル、通称[[[SCP-179]]](SCP-ES-026)。
 * **[[[/system:page-tags/tag/シャイガイ|シャイガイ]]]** //(shy-guy)// - シャイガイ、通称[[[SCP-096]]]。
 * **[[[/system:page-tags/tag/シガーロス|シガーロス]]]** //(sigurross)// - シガーロス・ステファンズドッティル、通称[[[SCP-239]]]。
 * **[[[/system:page-tags/tag/scp-2521|scp-2521]]]** //(ten-dots)// - [[[SCP-2521]]]。
@@ -1871,15 +1881,18 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/レガーテ・トラニオン|レガーテ・トラニオン]]]** //(legate-trunnion)// - 歯車仕掛正教の預言者、[[span class="ruby"]]審問信徒[[span class="rt"]]レガーテ[[/span]][[/span]]・トラニオン。
 * **[[[/system:page-tags/tag/ルウィット・ザイリ・ファミリー|ルウィット・ザイリ・ファミリー]]]** //(lewitt-zairi-family)// - 境界線イニシアチブのルウィット・ザイリ・ファミリー。
 * **[[[/system:page-tags/tag/マニー|マニー]]]** //(manny)// - ハーマン・フラーの不気味サーカスのマニー、またの名を"逆さまの顔を持つ男"。
+* **[[[/system:page-tags/tag/オロク|オロク]]]** //(orok)// - サーキシズムの4人のクラヴィガルの一人、オロク。
 * **[[[/system:page-tags/tag/パングロス|パングロス]]]** //(pangloss)// - 神話的存在にして残されたメモの著者、パングロス。
 * **[[[/system:page-tags/tag/polaricecraps|polaricecraps]]]** //(polaricecraps)// - ゲーマーズ・アゲインスト・ウィードのPolaricecraps。
 * **[[[/system:page-tags/tag/aw教授|aw教授]]]** //(professor-aw)// - 珍品の発明家・製作者、A.W.教授。
+* **[[[/system:page-tags/tag/マブ女帝|マブ女帝]]]** //(queen-mab)// - 妖精の暴君にして女神、マブ女帝。
 * **[[[/system:page-tags/tag/リチャード・チャペル|リチャード・チャペル]]]** //(richard-chappell)// - シカゴ・スピリットの創設者、リチャード・デイヴィス・チャペル。
 * **[[[/system:page-tags/tag/ロバート・ブマロ|ロバート・ブマロ]]]** //(robert-bumaro)// - メカーネの預言者、ロバート・ブマロ。
 * **[[[/system:page-tags/tag/ロビン・ソーン|ロビン・ソーン]]]** //(robin-thorne)// - FBI異常事件課のロビン・ソーン。
 * **[[[/system:page-tags/tag/ルイス・デュシャン|ルイス・デュシャン]]]** //(ruiz-duchamp)// - アナーティストのルイス・デュシャン。
 * **[[[/system:page-tags/tag/聖ヘドウィグ|聖ヘドウィグ]]]** //(saint-hedwig)// - マクスウェリズムの預言者、聖ヘドウィグ。
 * **[[[/system:page-tags/tag/saturn-deer|saturn-deer]]]** //(saturn-deer)// - 連続転生者にして偽預言者、Saturn Deer。
+* **[[[/system:page-tags/tag/批評家|批評家]]]** //(the-critic)// - Are We Cool Yet?の[[span class="ruby"]]"批評家"[[span class="rt"]]クリティック[[/span]][[/span]]。
 * **[[[/system:page-tags/tag/エンジニア|エンジニア]]]** //(the-engineer)// - カオス・インサージェンシーの"エンジニア"。
 * **[[[/system:page-tags/tag/ティロ・ツウィスト|ティロ・ツウィスト]]]** //(thilo-zwist)// - ミーム術師のティロ・ツウィスト。
 * **[[[/system:page-tags/tag/ティム・ウィルソン|ティム・ウィルソン]]]** //(tim-wilson)// - ウィルソンズ・ワイルドライフ・ソリューションズのティム・ウィルソン。
