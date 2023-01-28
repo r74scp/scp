@@ -1230,6 +1230,7 @@
 * **[[[/system:page-tags/tag/制空権|制空権]]]** - [[[seikuken-hub|制空権]]]。
 * **[[[/system:page-tags/tag/財団ラジオ放送局|財団ラジオ放送局]]]** - [[[foundation-radio-bureau-hub|財団ラジオ放送局]]]。
 * **[[[/system:page-tags/tag/dārum-tracer|dārum-tracer]]]** - [[[darum-tracer-hub|dārum-tracer]]]。
+* **[[[/system:page-tags/tag/地下東京奇譚|地下東京奇譚]]]** - [[[undertokyo-hub|地下東京奇譚]]]。
 
 [[/tab]][!--JP--]
 [!--[[tab RU]]
@@ -1766,7 +1767,7 @@ http://scp-slovenija.wikidot.com/is-arhiva
 * **[[[/system:page-tags/tag/神話・民俗学部門|神話・民俗学部門]]]** //(folklore-dept)// - [[[department-of-mythology-and-folkloristics-hub|神話・民俗学部門]]]。
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - [[[domc-hub|誤伝達部門]]]。
 * **[[[/system:page-tags/tag/空想科学部門|空想科学部門]]]** //(pataphysics-dept)// - 空想科学部門。
-* **[[[/system:page-tags/tag/調達・精算部門|調達・精算部門]]]** //(procurement-liquidation-dept)// - 調達・精算部門。
+* **[[[/system:page-tags/tag/調達・清算部門|調達・清算部門]]]** //(procurement-liquidation-dept)// - 調達・清算部門。
 * **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 超現実部門。
 * **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - 戦術神学部門。
 * **[[[/system:page-tags/tag/電気通信監視室|電気通信監視室]]]** //(telecom-office)// - [[[telecommunications-monitoring-office-hub|電気通信監視室]]]。
