@@ -2359,6 +2359,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/3000jp|3000jp]]]** - [[[scp3000jp-contest-hub|SCP-3000-JPコンテスト]]]。
 
+* **[[[/system:page-tags/tag/ジャムコン2023|ジャムコン2023]]]** - [[[72-hour-jam-contest-jp-2023|72時間ジャムコンテストJP-2023]]]。
+
 @@ @@
 
 +++ キャンペーン-JP
