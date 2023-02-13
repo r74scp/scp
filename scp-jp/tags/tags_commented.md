@@ -1750,6 +1750,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/エージェント・トラウス|エージェント・トラウス]]]** //(agent-trauss)// - エージェント・トラウス、別名C-51174。
 * **[[[/system:page-tags/tag/エージェント・ヨリック|エージェント・ヨリック]]]** //(agent-yoric)// - エージェント・ヨリック・エルロイ、またの名をジャック・"ダメなヨリック"・ドーキンス。
 * **[[[/system:page-tags/tag/アレクサンドラ|アレクサンドラ]]]** //(alexandra)// - 人工知能のアレクサンドラ。
+* **[[[/system:page-tags/tag/アレックス・ソーリー|アレックス・ソーリー]]]** //(alex-thorley)// - 非現実部門のアレックス・ソーリー。
 * **[[[/system:page-tags/tag/ベイリー三兄弟|ベイリー三兄弟]]]** //(bailey-brothers)// - トリスタン・ベイリー、トーマス・ベイリー、およびトレバー・ベイリー。
 * **[[[/system:page-tags/tag/d-7294|d-7294]]]** //(d-7294)// - D-7294。
 * **[[[/system:page-tags/tag/d-11424|d-11424]]]** //(d-11424)// - D-11424。
@@ -2590,6 +2591,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 +++ コンテスト-INT
 
 * **[[[/system:page-tags/tag/goi2019|goi2019]]]** //(goi2019)// - [[[international-goi-contest-2019|インターナショナルGoIコンテスト2019]]]。
+
+* **[[[/system:page-tags/tag/intcon2023|intcon2023]]]** //(intcon2023)// - [[[international-collaboration-contest-2023|国際共著コンテスト2023]]]。
 
 @@ @@
 
