@@ -535,12 +535,13 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of or related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation Ethics Committee.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Of or related to the Foundations Fire Suppression Department.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/ettra ettra]** -- Of or related to the Emergent Threat Tactical Response Authority.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Of or related to the Foundation Fire Suppression Department.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/miscommunications miscommunications]** -- Of or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Of or related to the Pataphysics Department.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Of or related to the Foundation Department of Procurement and Liquidation.
-* **[https://scp-wiki.wikidot.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Of or related to the Foundation Department of Surrealistics.
+* **[https://scp-wiki.wikidot.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Of or related to the Department of Surrealistics.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/tactical-theology tactical-theology]** -- Of or related to the Department of Tactical Theology.
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/tau-5-samsara tau-5-samsara]** -- Of or related to Mobile Task Force Tau-5 "Samsara".
 * **[https://scp-wiki.wikidot.com/system:page-tags/tag/telecom-office telecom-office]** -- Of or related to the Foundation [https://scp-wiki.wikidot.com/telecommunications-monitoring-office-hub Telecommunications Monitoring Office].
