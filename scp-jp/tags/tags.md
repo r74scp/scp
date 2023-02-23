@@ -1037,6 +1037,7 @@
 * **[[[/system:page-tags/tag/大正150年|大正150年]]]** - [[[taisho150-hub|大正150年]]]。
 * **[[[/system:page-tags/tag/まずしいざいだん|まずしいざいだん]]]** - [[[poor-foundation-hub|まずしいざいだん]]]。
 * **[[[/system:page-tags/tag/氷我記|氷我記]]]** - [[[hyogaki-hub|氷我記]]]。
+* **[[[/system:page-tags/tag/怪奇銘々伝|怪奇銘々伝]]]** - [[[kaiki-meimeiden-hub|怪奇銘々伝]]]。
 
 [[/tab]][!--JP--]
 [[tab RU]]
@@ -1204,8 +1205,7 @@
 * **[[[/system:page-tags/tag/ゲーデ・フィルム|ゲーデ・フィルム]]]** - [[[goede-film-hub|『ゲーデ・フィルム』]]]。
 * **[[[/system:page-tags/tag/青鈍色の空|青鈍色の空]]]** - [[[aonibiiro-hub|青鈍色の空]]]。
 * **[[[/system:page-tags/tag/剖検|剖検]]]** - [[[autopsy-hub|剖検]]]。
-* **[[[/system:page-tags/tag/白色家系図録|白色家系図録]]]** - [[[shironose-hub|白乃瀬の一族]]]。
-* **[[[/system:page-tags/tag/怪奇銘々伝|怪奇銘々伝]]]** - [[[kaiki-meimeiden-hub|怪奇銘々伝]]]。
+* **[[[/system:page-tags/tag/白色家系図録|白色家系図録]]]** - [[[shironose-hub|白色家系図録]]]。
 * **[[[/system:page-tags/tag/rror|rror]]]** - [[[rror-hub|rror]]]。
 * **[[[/system:page-tags/tag/purple|purple]]]** - [[[purple-hub|PURPLE]]]。
 * **[[[/system:page-tags/tag/グレースケール|グレースケール]]]** - [[[grayscale-hub|グレースケール]]]。。
