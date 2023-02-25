@@ -1781,7 +1781,6 @@ http://scp-slovenija.wikidot.com/is-arhiva
 @@ @@
 
 +++ 部隊-EN
-SCP-ENではキャラクターに分類されています。
 
 * **[[[/system:page-tags/tag/角度研削者|角度研削者]]]** //(angle-grinders)// - [[[mtf-theta-90-hub-page|機動部隊シータ-90 ("角度研削者")]]]。
 * **[[[/system:page-tags/tag/タウ-5-サムサラ|タウ-5-サムサラ]]]** //(tau-5-samsara)// - [[[task-forces#tau-5|機動部隊タウ-5 ("サムサラ")]]]。
@@ -2141,6 +2140,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [!--[[tab CN]]
 [[/tab]]CN--]
 [[tab FR]]
++++ キャラクター-FR
+
 * **[[[/system:page-tags/tag/フロッグ博士|フロッグ博士]]]** //(dr-frog)// - 精神科医のフロッグ博士。
 [!--★未申請。
 * **[[[/system:page-tags/tag/agent-dears|agent-dears]]]** //(agent-dears)// - Lylah Dears。
@@ -2206,6 +2207,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [!--[[tab IT]]
 [[/tab]]IT--]
 [[tab UA]]
++++ キャラクター-UA
 
 * **[[[/system:page-tags/tag/ad渉外長|ad渉外長]]]** //(а.д.)// - A.D.渉外長。
 * **[[[/system:page-tags/tag/r博士|r博士]]]** //(др_Р████)// - R████博士。
@@ -2298,6 +2300,12 @@ SCPユニバースを彩るキャラクターたちのタグです。
 以下は他支部で作成された要注意領域を、JP側で独自にタグ登録したものです。運用ルールの差異から区別して掲載しています。詳細はタグガイドの[[[tag-guide#toc16|こちらの項目]]]を参照してください。
 
 * **[[[/system:page-tags/tag/穴蔵|穴蔵]]]** - 穴蔵 / 中国地方の穴蔵(Chūgoku Cellar)。
+
+@@ @@
+
++++ セキュリティ施設-JP
+
+* **[[[/system:page-tags/tag/サイト-81ka|サイト-81ka]]]** - サイト-81KA。
 
 [[/tab]][!--JP--]
 [!--[[tab RU]]
