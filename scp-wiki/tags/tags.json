@@ -180,7 +180,7 @@
     {
         "id": 28,
         "tag": "workbench",
-        "desc": "Workbenches are pages created by mods and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're a moderator or admin**, or have received explicit permission from them to do so.",
+        "desc": "Workbenches are pages created by Team Captains and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're a Team Captain or admin**, or have received explicit permission from them to do so.",
         "type": "Other pages",
         "category": "Top Level",
         "list": ""
