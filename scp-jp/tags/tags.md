@@ -1007,7 +1007,7 @@
 * **[[[/system:page-tags/tag/メキシコ湾|メキシコ湾]]]** //(the-gulf)// - [[[the-gulf|メキシコ湾]]]。
 * **[[[/system:page-tags/tag/トラッシュファイア|トラッシュファイア]]]** //(the-trashfire)// - [[[the-trashfire|トラッシュファイア]]]。
 * **[[[/system:page-tags/tag/第三法則|第三法則]]]** //(third-law)// - [[[third-law-hub|第三法則]]]。
-* **[[[/system:page-tags/tag/ねじれた松の木|ねじれた松の木]]]** //(twisted-pines)// - [[[those-twisted-pines-hub|ねじれた松の木]]]。
+* **[[[/system:page-tags/tag/あのヨレハマツの林|あのヨレハマツの林]]]** //(twisted-pines)// - [[[those-twisted-pines-hub|あのヨレハマツの林]]]。
 * **[[[/system:page-tags/tag/財団のない世界|財団のない世界]]]** //(unfounded)// - [[[unfounded-hub|財団のない世界]]]。
 * **[[[/system:page-tags/tag/人ならぬもの|人ならぬもの]]]** //(unhuman)// - [[[unhuman-hub|人ならぬもの]]]。
 * **[[[/system:page-tags/tag/全ての戦線で戦え|全ての戦線で戦え]]]** //(war-on-all-fronts)// - [[[war-on-all-fronts-hub|全ての戦線で戦え]]]。
