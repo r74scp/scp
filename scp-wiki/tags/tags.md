@@ -533,6 +533,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 
 * **[https://scpwiki.com/system:page-tags/tag/abnormalities abnormalities]** -- Of or related to the Department of Abnormalities.
 * **[https://scpwiki.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of or related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
+* **[https://scpwiki.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
 * **[https://scpwiki.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation's Ethics Committee.
 * **[https://scpwiki.com/system:page-tags/tag/ettra ettra]** -- Of or related to the Emergent Threat Tactical Response Authority.
 * **[https://scpwiki.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Of or related to the Foundation's Fire Suppression Department.
