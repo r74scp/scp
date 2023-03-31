@@ -2408,6 +2408,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/af2022|af2022]]]** - AF-2022-JP。
 
+* **[[[/system:page-tags/tag/af2023|af2023]]]** - AF-2023-JP。
+
 [[/tab]]
 [[tab KO]]
 
