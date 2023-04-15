@@ -2683,6 +2683,8 @@ http://scpfoundation.net/contests
 
 * **[[[/system:page-tags/tag/2020-メタタイトルコンテスト|2020-メタタイトルコンテスト]]]** //(2020-별칭경연)// - [[[title-contest-hub|2020年メタタイトルコンテスト]]]。
 
+* **[[[/system:page-tags/tag/1000ko|1000ko]]]** //(1000ko)// - [[[scp1000kocontesthub|SCP-1000-KOコンテスト]]]。
+
 [!--★タグ内のハイフンを残すものと残さないものが混在しているので、いずれ修整したい。--]
 [!--
 ★未申請。
