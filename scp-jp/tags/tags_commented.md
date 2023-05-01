@@ -2410,6 +2410,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/af2023|af2023]]]** - AF-2023-JP。
 
+* **[[[/system:page-tags/tag/オーバーホールキャンペーン|オーバーホールキャンペーン]]]** - [[[overhaul-campaign|オーバーホール・キャンペーン]]]。
+
 [[/tab]]
 [[tab KO]]
 
