@@ -777,6 +777,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
 * **[https://scpwiki.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#toc111 Global Occult Coalition Casefiles] stories.
+* **[https://scpwiki.com/system:page-tags/tag/harbinger harbinger]** -- Of or related to the Of or related to the HARBINGER stories.
 * **[https://scpwiki.com/system:page-tags/tag/integration-program integration-program]** -- Of or related to the [https://scp-wiki.wikidot.com/integration-program-hub Integration Program] series.
 * **[https://scpwiki.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Of or related to the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
 * **[https://scpwiki.com/system:page-tags/tag/mister mister]** -- Of or related to the "Little Misters" series of anomalous individuals.
@@ -790,6 +791,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/team-bird team-bird]** -- Of or related to [https://scp-wiki.wikidot.com/bird Team Bird].
 * **[https://scpwiki.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Of or related to the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
 * **[https://scpwiki.com/system:page-tags/tag/we-meet-again we-meet-again]** -- Of or related to the [https://scp-wiki.wikidot.com/and-every-time-we-meet-again-hub And Every Time We Meet Again] series.
+* **[https://scpwiki.com/system:page-tags/tag/whore-of-blood whore-of-blood]** -- Of or related to the [https://scp-wiki.wikidot.com/whore-of-blood-hub Whore of Blood] series.
 
 [[/tab]]
 [[tab Characters]]
@@ -816,8 +818,9 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/agent-trauss agent-trauss]** -- Agent Trauss, aka C-51174.
 * **[https://scpwiki.com/system:page-tags/tag/agent-yoric agent-yoric]** -- Agent Yoric Elroy, aka Jack "Poor Yoric" Dawkins.
 * **[https://scpwiki.com/system:page-tags/tag/alexandra alexandra]** -- Alexandra, an artificial intelligence.
-* **[https://scpwiki.com/system:page-tags/tag/alex-thorley alex-thorley]** -- Alex Thorley of the Department of Unreality .
+* **[https://scpwiki.com/system:page-tags/tag/alex-thorley alex-thorley]** -- Alex Thorley of the Department of Unreality.
 * **[https://scpwiki.com/system:page-tags/tag/bailey-brothers bailey-brothers]** -- Tristan, Thomas and Trevor Bailey.
+* **[https://scpwiki.com/system:page-tags/tag/captain-adrian captain-adrian]** -- Adrian, AKA SCP-6159-2: Familiar, Boat Captain, Paralegal, Emotional Support Animal.
 * **[https://scpwiki.com/system:page-tags/tag/d-7294 d-7294]** -- D-7294.
 * **[https://scpwiki.com/system:page-tags/tag/d-11424 d-11424]** -- D-11424.
 * **[https://scpwiki.com/system:page-tags/tag/director-aktus director-aktus]** -- Director Aktus.
@@ -827,6 +830,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/director-mcinnis director-mcinnis]** -- Dr. Allan J. McInnis, Director of Site-43.
 * **[https://scpwiki.com/system:page-tags/tag/director-mctiriss director-mctiriss]** -- Director Kate McTiriss.
 * **[https://scpwiki.com/system:page-tags/tag/director-moose director-moose]** -- Director Moose.
+* **[https://scpwiki.com/system:page-tags/tag/director-scout director-scout]** -- Vivian L. Scout, late Site-43 co-director.
 * **[https://scpwiki.com/system:page-tags/tag/director-lague director-lague]** -- Director Paul Lague, of the Integration Program and Site-322.
 * **[https://scpwiki.com/system:page-tags/tag/django-bridge django-bridge]** -- Django Bridge.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-asheworth doctor-asheworth]** -- Dr. Daniel Asheworth.
@@ -855,6 +859,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-rights doctor-rights]** -- Dr. Rights.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-rivera doctor-rivera]** -- Dr. Jessie Rivera.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-roget doctor-roget]** -- Dr. Ralph Roget.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-shaw doctor-shaw]** -- Dr. Elias Blake Shaw AKA SCP-963.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sinclair doctor-sinclair]** -- Dr. Katherine Sinclair.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sokolsky doctor-sokolsky]** -- Dr. Daniil Sokolsky.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sorts doctor-sorts]** -- Dr. Johannes Sorts.
@@ -871,6 +876,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/marion-wheeler marion-wheeler]** -- Marion Wheeler, of the Antimemetics Division.
 * **[https://scpwiki.com/system:page-tags/tag/mark-kiryu mark-kiryu]** -- Mark Kiryu of Kiryu Labs.
 * **[https://scpwiki.com/system:page-tags/tag/philip-deering philip-deering]** -- Philip E. Deering, formerly [https://scp-wiki.wikidot.com/scp-5056 SCP-5056-B].
+* **[https://scpwiki.com/system:page-tags/tag/primrose-esquire primrose-esquire]** -- Primrose Fatish Von Trevil, AKA SCP-6159-1: Lawyer, archdemon, Whore of Blood, Matchmaker.
 * **[https://scpwiki.com/system:page-tags/tag/professor-bjornsen professor-bjornsen]** -- Professor Anders Bjornsen.
 * **[https://scpwiki.com/system:page-tags/tag/researcher-conwell researcher-conwell]** -- Researcher Jacob Conwell.
 * **[https://scpwiki.com/system:page-tags/tag/researcher-james researcher-james]** -- Junior Researcher James, best foundation researcher ever! (Age 5).
@@ -992,7 +998,7 @@ Tags indicating that a tale or SCP article takes place in a specific location th
 
 Tags for noting specific content.
 
-* **[https://scpwiki.com/system:page-tags/tag/adult adult]** -- Denotes mature content, view at your own discretion.
+* **[https://scpwiki.com/system:page-tags/tag/_adult _adult]** -- Denotes mature content, view at your own discretion.
 * **[https://scpwiki.com/system:page-tags/tag/audio audio]** -- //audio// pages are pages with one or more audio files attached.
 * **[https://scpwiki.com/system:page-tags/tag/interactive interactive]** -- The article contains elements that require user input or interaction, e.g. making a decision (making the user click a single link or open a collapsible does not count).
 * **[https://scpwiki.com/system:page-tags/tag/video video]** -- //video// pages are pages with one or more video files attached.
@@ -1068,6 +1074,17 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/five-questions five-questions]** -- An entry to the [https://scp-wiki.wikidot.com/five-questions Five Questions Contest].
 * **[https://scpwiki.com/system:page-tags/tag/gbc09 gbc09]** -- An entry to [https://scp-wiki.wikidot.com/gears-birthday-contest-2009 2009 Gears' Birthday Contest].
 * **[https://scpwiki.com/system:page-tags/tag/talecon10 talecon10]** -- An entry to [https://scp-wiki.wikidot.com/the-great-short-story-contest-archives The Great Short Story Contest].
+* **[https://scpwiki.com/system:page-tags/tag/goblincon2023 goblincon2023]** -- An entry to the [https://scp-wiki.wikidot.com/goblincon 2023 GoblinCon].
+* **[https://scpwiki.com/system:page-tags/tag/_goblin-76 _goblin-76]** -- An entry to the 'Class of '76' category of the 2023 GoblinCon.
+ * //Requires 'goblincon2023'//
+* **[https://scpwiki.com/system:page-tags/tag/_goblin-glitch _goblin-glitch]** -- An entry to the 'Glitch' category of the 2023 GoblinCon.
+ * //Requires 'goblincon2023'//
+* **[https://scpwiki.com/system:page-tags/tag/_goblin-goblin _goblin-goblin]** -- An entry to the 'Fantasy Goblin' category of the 2023 GoblinCon.
+ * //Requires 'goblincon2023'//
+* **[https://scpwiki.com/system:page-tags/tag/_goblin-royale _goblin-royale]** -- An entry to the 'Battle Royale' category of the 2023 GoblinCon.
+ * //Requires 'goblincon2023'//
+* **[https://scpwiki.com/system:page-tags/tag/_goblin-deletions _goblin-deletions]** -- An entry to the 'Deletions' category of the 2023 GoblinCon.
+ * //Requires 'goblincon2023'//
 * **[https://scpwiki.com/system:page-tags/tag/goi2014 goi2014]** -- An entry to the [https://scp-wiki.wikidot.com/goi-contest-2014 2014 Groups of Interest Contest].
 * **[https://scpwiki.com/system:page-tags/tag/goi2019 goi2019]** -- An entry to the [http://scp-int.wikidot.com/international-goi-contest-2019 International Groups of Interest Contest 2019].
 * **[https://scpwiki.com/system:page-tags/tag/halloween2018 halloween2018]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-contest-2018 2018 Halloween Contest].
@@ -1109,6 +1126,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/tc2013 tc2013]** -- An entry to the [https://scp-wiki.wikidot.com/time-contest 2013 Time Contest].
 * **[https://scpwiki.com/system:page-tags/tag/uac2014 uac2014]** -- An entry to the [https://scp-wiki.wikidot.com/under-appreciated-contest 2014 Under-Appreciated SCPs Contest].
 * **[https://scpwiki.com/system:page-tags/tag/memecon2021-unofficial memecon2021-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].
+* **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
 
 [[/tab]]
 
