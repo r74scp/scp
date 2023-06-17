@@ -1550,11 +1550,12 @@
 * **[[[/system:page-tags/tag/平異会|平異会]]]** //(平异会)// - 平異会。
 * **[[[/system:page-tags/tag/房先生|房先生]]]** //(房先生)// - 房先生。
 * **[[[/system:page-tags/tag/世界ドカーン連合|世界ドカーン連合]]]** //(全球轰炸联盟)// - [[[gec-hub-page|世界ドカーン連合]]]。
+* **[[[/system:page-tags/tag/迷宮|迷宮]]]** //(迷宫)// - 迷宮。
 
 [!--
 ★未申請。関連記事未翻訳。
 * **[[[/system:page-tags/tag/无名者剧院|无名者剧院]]]** //(无名者剧院)// - 无名者剧院。
-* **[[[/system:page-tags/tag/迷宫|迷宫]]]** //(迷宫)// - 迷宫。
+
 * **[[[/system:page-tags/tag/mr.k|mr.k]]]** //(mr.k)// - Mr.K。
 --]
 
@@ -1888,6 +1889,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/アレクサンドラ|アレクサンドラ]]]** //(alexandra)// - 人工知能のアレクサンドラ。
 * **[[[/system:page-tags/tag/アレックス・ソーリー|アレックス・ソーリー]]]** //(alex-thorley)// - 非現実部門のアレックス・ソーリー。
 * **[[[/system:page-tags/tag/ベイリー三兄弟|ベイリー三兄弟]]]** //(bailey-brothers)// - トリスタン・ベイリー、トーマス・ベイリー、およびトレバー・ベイリー。
+* **[[[/system:page-tags/tag/キャプテン・エイドリアン|キャプテン・エイドリアン]]]** //(captain-adrian)// - キャプテン・エイドリアン。
 * **[[[/system:page-tags/tag/d-7294|d-7294]]]** //(d-7294)// - D-7294。
 * **[[[/system:page-tags/tag/d-11424|d-11424]]]** //(d-11424)// - D-11424。
 * **[[[/system:page-tags/tag/アクタス管理官|アクタス管理官]]]** //(director-aktus)// - アクタス管理官。
@@ -1896,6 +1898,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ガレスピー管理官|ガレスピー管理官]]]** //(director-gillespie)// - ガレスピー管理官。
 * **[[[/system:page-tags/tag/マッキンス管理官|マッキンス管理官]]]** //(director-mcinnis)// - サイト-43管理官、アラン・J・マッキンス博士。
 * **[[[/system:page-tags/tag/マックティリス管理官|マックティリス管理官]]]** //(director-mctiriss)// - ケイト・マックティリス管理官。
+* **[[[/system:page-tags/tag/スカウト管理官|スカウト管理官]]]** //(director-scout)// - ヴィヴィアン・レスリー・スカウト。故サイト-43共同管理官。
 * **[[[/system:page-tags/tag/ムース管理官|ムース管理官]]]** //(director-moose)// - ムース管理官。
 * **[[[/system:page-tags/tag/ラグー管理官|ラグー管理官]]]** //(director-lague)// - 統合プログラムならびにサイト-322の管理官、ポール・ラグー。
 * **[[[/system:page-tags/tag/ジャンゴ・ブリッジ博士|ジャンゴ・ブリッジ博士]]]** //(django-bridge)// - ジャンゴ・ブリッジ博士。
@@ -1927,6 +1930,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ロジェ博士|ロジェ博士]]]** //(doctor-roget)// - ラルフ・ロジェ博士。
 * **[[[/system:page-tags/tag/セレヴン博士|セレヴン博士]]]** //(doctor-thereven)// - コール・セレヴン博士。
 * **[[[/system:page-tags/tag/シンクレア博士|シンクレア博士]]]** //(doctor-sinclair)// - キャサリン・シンクレア博士。
+* **[[[/system:page-tags/tag/ソコルスキー博士|ソコルスキー博士]]]** //(doctor-sokolsky)// - ダニイル・ソコルスキー博士。
 * **[[[/system:page-tags/tag/ソーツ博士|ソーツ博士]]]** //(doctor-sorts)// - ヨハネス・ソーツ博士。
 * **[[[/system:page-tags/tag/ヴァン博士|ヴァン博士]]]** //(dr-vang)// - S.ヴァン博士。
 * **[[[/system:page-tags/tag/ウェトル博士|ウェトル博士]]]** //(doctor-wettle)// - ウィリアム・ウォレス・ウェトル博士。
@@ -1941,6 +1945,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/マーク・桐生|マーク・桐生]]]** //(mark-kiryu)// - 桐生研究所のマーク・桐生。
 * **[[[/system:page-tags/tag/フィリップ・ディアリング|フィリップ・ディアリング]]]** //(philip-deering)// - フィリップ・E・ディアリング、元SCP-5056-B。
 * **[[[/system:page-tags/tag/professor-bjornsen|professor-bjornsen]]]** //(professor-bjornsen)// - アンダース・ビヨンセン/ビョルンセン教授。
+* **[[[/system:page-tags/tag/プリムローズ法務官|プリムローズ法務官]]]** //(primrose-esquire)// - プリムローズ法務官。
 * **[[[/system:page-tags/tag/コーンウェル研究員|コーンウェル研究員]]]** //(researcher-conwell)// - ジェイコブ・コーンウェル研究員。
 * **[[[/system:page-tags/tag/ジェームズ研究員|ジェームズ研究員]]]** //(researcher-james)// - ジェームズ研究助手、史上最高の財団研究員！(5才)。
 * **[[[/system:page-tags/tag/researcher-labelle|researcher-labelle]]]** //(researcher-labelle)// - ローズ・ラベル/ラブレ研究員。
@@ -2020,6 +2025,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/レガーテ・トラニオン|レガーテ・トラニオン]]]** //(legate-trunnion)// - 歯車仕掛正教の預言者、[[span class="ruby"]]審問信徒[[span class="rt"]]レガーテ[[/span]][[/span]]・トラニオン。
 * **[[[/system:page-tags/tag/ルウィット・ザイリ・ファミリー|ルウィット・ザイリ・ファミリー]]]** //(lewitt-zairi-family)// - 境界線イニシアチブのルウィット・ザイリ・ファミリー。
 * **[[[/system:page-tags/tag/マニー|マニー]]]** //(manny)// - ハーマン・フラーの不気味サーカスのマニー、またの名を"逆さまの顔を持つ男"。
+* **[[[/system:page-tags/tag/ナドックス|ナドックス]]]** //(nadox)// - サーキシズムの4人のクラヴィガルの一人、ナドックス。
 * **[[[/system:page-tags/tag/オロク|オロク]]]** //(orok)// - サーキシズムの4人のクラヴィガルの一人、オロク。
 * **[[[/system:page-tags/tag/パングロス|パングロス]]]** //(pangloss)// - 神話的存在にして残されたメモの著者、パングロス。
 * **[[[/system:page-tags/tag/polaricecraps|polaricecraps]]]** //(polaricecraps)// - ゲーマーズ・アゲインスト・ウィードのPolaricecraps。
@@ -2029,6 +2035,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ロバート・ブマロ|ロバート・ブマロ]]]** //(robert-bumaro)// - メカーネの預言者、ロバート・ブマロ。
 * **[[[/system:page-tags/tag/ロビン・ソーン|ロビン・ソーン]]]** //(robin-thorne)// - FBI異常事件課のロビン・ソーン。
 * **[[[/system:page-tags/tag/ルイス・デュシャン|ルイス・デュシャン]]]** //(ruiz-duchamp)// - アナーティストのルイス・デュシャン。
+* **[[[/system:page-tags/tag/サアルン|サアルン]]]** //(saarn)// - サーキシズムの4人のクラヴィガルの一人、サアルン。
 * **[[[/system:page-tags/tag/聖ヘドウィグ|聖ヘドウィグ]]]** //(saint-hedwig)// - マクスウェリズムの預言者、聖ヘドウィグ。
 * **[[[/system:page-tags/tag/saturn-deer|saturn-deer]]]** //(saturn-deer)// - 連続転生者にして偽預言者、Saturn Deer。
 * **[[[/system:page-tags/tag/批評家|批評家]]]** //(the-critic)// - Are We Cool Yet?の[[span class="ruby"]]"批評家"[[span class="rt"]]クリティック[[/span]][[/span]]。
@@ -2687,6 +2694,8 @@ http://scpfoundation.net/contests
 
 * **[[[/system:page-tags/tag/1000ko|1000ko]]]** //(1000ko)// - [[[scp1000kocontesthub|SCP-1000-KOコンテスト]]]。
 
+* **[[[/system:page-tags/tag/2023-絶対コンテスト|2023-絶対コンテスト]]]** //(2023-절대평가)// - [[[2023-jd-contest-hub|絶対評価コンテスト]]]。
+
 [!--★タグ内のハイフンを残すものと残さないものが混在しているので、いずれ修整したい。--]
 [!--
 ★未申請。
@@ -2753,6 +2762,8 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/2022デジタルゲームコンテスト|2022デジタルゲームコンテスト]]]** //(2022电子游戏竞赛)// - [[[2022-cn-game-crossover-contest-hub|2022デジタルゲームコンテスト]]]。
 
 * **[[[/system:page-tags/tag/2022冬季コンテスト|2022冬季コンテスト]]]** //(2022冬季征文)// - [[[winter-contest-2022|2022冬季“寻物/失物启事”コンテスト]]]。
+
+* **[[[/system:page-tags/tag/2023カノンコンテスト|2023カノンコンテスト]]]** //(2023设定竞赛)// - [[[2023-canon-contest-hub|2023"欠落"カノンコンテスト]]]。
 
 [!--
 ★未申請。
@@ -2851,6 +2862,8 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/exploracion2019|exploracion2019]]]** //(exploracion2019)// - [[[concurso-exploracion-2019|2019年探査コンテスト]]]。
 
 * **[[[/system:page-tags/tag/es200|es200]]]** //(200con)// - [[[concurso-es-200|SCP-ES-200コンテスト]]]。
+
+* **[[[/system:page-tags/tag/acuaticon-2023|acuaticon-2023]]]** //(acuaticon-2023)// - 非公式企画の[[[acuaticon-2023|2023年水棲コンテスト]]]。
 
 [!--
 ★未申請。
