@@ -2237,6 +2237,13 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/talecon10|talecon10]]]** //(talecon10)// - [[[the-great-short-story-contest-archives|グレート・ショート・ストーリー・コンテスト]]]。
 
+* **[[[/system:page-tags/tag/goblincon2023|goblincon2023]]]** //(goblincon2023)//  - [[[goblincon|ゴブリンコンテスト]]]。
+ * **[[[/system:page-tags/tag/_goblin-76年|_goblin-76年]]]** //(_goblin-76)// - "76年"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_goblin-バグ|_goblin-バグ]]]** //(_goblin-glitch)// - "バグ"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_goblin-ゴブリン|_goblin-ゴブリン]]]** //(_goblin-goblin)// - "ゴブリン"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_goblin-パトロワ|_goblin-パトロワ]]]** //(_goblin-royale)// - "パトロワ"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_goblin-削除|_goblin-削除]]]** //(_goblin-deletions)// - "削除"カテゴリへの参加作。
+
 * **[[[/system:page-tags/tag/goi2014|goi2014]]]** //(goi2014)// - [[[goi-contest-2014|2014年要注意団体コンテスト]]]。
 
 * **[[[/system:page-tags/tag/halloween2018|halloween2018]]]** //(halloween2018)// - [[[halloween-contest-2018|2018年ハロウィンコンテスト]]]。
@@ -2418,6 +2425,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/af2023|af2023]]]** - AF-2023-JP。
 
 * **[[[/system:page-tags/tag/オーバーホールキャンペーン|オーバーホールキャンペーン]]]** - [[[overhaul-campaign|オーバーホール・キャンペーン]]]。
+
+* **[[[/system:page-tags/tag/オーバーロードキャンペーン|オーバーロードキャンペーン]]]** - [[[overlord-campaign|オーバーロード・キャンペーン]]]。
 
 [[/tab]]
 [[tab KO]]
@@ -2603,6 +2612,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 +++ コンテスト-ZH
 
 * **[[[/system:page-tags/tag/2019回憶コンテスト|2019回憶コンテスト]]]** //(2019回憶競賽)// - [[[2019-memories|2019回憶コンテスト]]]。
+
+* **[[[/system:page-tags/tag/2021夏季コンテスト|2021夏季コンテスト]]]** //(2021夏季競賽)//  - [[[summer-contest-2021|2021夏季コンテスト]]]。
 
 
 @@ @@
