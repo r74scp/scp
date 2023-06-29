@@ -2488,7 +2488,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
  * **[[[/system:page-tags/tag/_goblin-76年|_goblin-76年]]]** //(_goblin-76)// - "76年"カテゴリへの参加作。
  * **[[[/system:page-tags/tag/_goblin-バグ|_goblin-バグ]]]** //(_goblin-glitch)// - "バグ"カテゴリへの参加作。
  * **[[[/system:page-tags/tag/_goblin-ゴブリン|_goblin-ゴブリン]]]** //(_goblin-goblin)// - "ゴブリン"カテゴリへの参加作。
- * **[[[/system:page-tags/tag/_goblin-パトロワ|_goblin-パトロワ]]]** //(_goblin-royale)// - "パトロワ"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_goblin-バトロワ|_goblin-バトロワ]]]** //(_goblin-royale)// - "バトロワ"カテゴリへの参加作。
  * **[[[/system:page-tags/tag/_goblin-削除|_goblin-削除]]]** //(_goblin-deletions)// - "削除"カテゴリへの参加作。
 
 * **[[[/system:page-tags/tag/goi2014|goi2014]]]** //(goi2014)// - [[[goi-contest-2014|2014年要注意団体コンテスト]]]。
