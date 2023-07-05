@@ -278,6 +278,7 @@ Tags that apply to entities, objects or phenomena with biological effects or pro
 * **[https://scpwiki.com/system:page-tags/tag/biological biological]** -- SCP consists of biological molecules, tissues or organs. Please see the [https://05command.wikidot.com/tech-hub-tag FAQ] for more details.
  * //Superseded by 'alive'//
 * **[https://scpwiki.com/system:page-tags/tag/biohazard biohazard]** -- SCP poses a hazard to humans or the environment as a result of biological function, or is a biological hazard.
+* **[https://scpwiki.com/system:page-tags/tag/blood blood]** -- SCP is related to/anomalously affects blood.
 * **[https://scpwiki.com/system:page-tags/tag/cadaver cadaver]** -- SCP is, affects, or is related to corpses, carcasses, or any dead biological matter.
  * //Often used with 'reanimation', and 'skeletal'//
 * **[https://scpwiki.com/system:page-tags/tag/contagion contagion]** -- SCP is a contagious agent or exhibits contagious spread.
@@ -527,6 +528,7 @@ The following tags are for specific Departments or Groups of Interest.
 These tags are used to designate pages that prominently feature a Foundation Department or Mobile Task Force.
 
 * **[https://scpwiki.com/system:page-tags/tag/abnormalities abnormalities]** -- Of or related to the Department of Abnormalities.
+* **[https://scpwiki.com/system:page-tags/tag/alpha-9 alpha-9]** -- Of or related to MTF Alpha-9, Last Hope.
 * **[https://scpwiki.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of or related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
 * **[https://scpwiki.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
 * **[https://scpwiki.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation's Ethics Committee.
@@ -748,6 +750,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/resurrection resurrection]** -- Of or related to the [https://scp-wiki.wikidot.com/resurrection Resurrection] project.
 * **[https://scpwiki.com/system:page-tags/tag/s&c-plastics s&c-plastics]** -- Of or related to the [https://scp-wiki.wikidot.com/the-s-c-plastics-hub S & C Plastics] canon.
 * **[https://scpwiki.com/system:page-tags/tag/ship-in-a-bottle ship-in-a-bottle]** -- Of or related to the [https://scp-wiki.wikidot.com/siabhub Ship In A Bottle] canon.
+* **[https://scpwiki.com/system:page-tags/tag/simulacrum simulacrum]** -- Of or related to the [https://scp-wiki.wikidot.com/simulacrum-project-hub simulacrum] canon.
 * **[https://scpwiki.com/system:page-tags/tag/sotm sotm]** -- Of or related to the [https://scp-wiki.wikidot.com/sotmhub Straight On Till Morning] canon.
 * **[https://scpwiki.com/system:page-tags/tag/the-coldest-war the-coldest-war]** -- Of or related to the [https://scp-wiki.wikidot.com/the-coldest-war-hub Coldest War] canon.
 * **[https://scpwiki.com/system:page-tags/tag/the-gulf the-gulf]** -- Of or related to [https://scp-wiki.wikidot.com/The-Gulf The Gulf] canon.
@@ -769,6 +772,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/anabasis anabasis]** -- Of or related to the [https://scp-wiki.wikidot.com/anabasis-hub Anabasis] stories.
 * **[https://scpwiki.com/system:page-tags/tag/ao-tale ao-tale]** -- Of or related to the [https://scp-wiki.wikidot.com/ao-hub Tales of Anomalous Items] stories.
 * **[https://scpwiki.com/system:page-tags/tag/bury-the-survivors bury-the-survivors]** -- Of or related to the [https://scp-wiki.wikidot.com/bury-the-survivors-hub Bury the Survivors] series.
+* **[https://scpwiki.com/system:page-tags/tag/cack-hard cack-hard]** -- Of or related to the [https://scp-wiki.wikidot.com/cack-hub cack-hard] stories.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
 * **[https://scpwiki.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#toc111 Global Occult Coalition Casefiles] stories.
@@ -864,12 +868,16 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/draven-kondraki draven-kondraki]** -- Dr./Director Draven Kondraki.
 * **[https://scpwiki.com/system:page-tags/tag/general-bowe general-bowe]** -- General Bowe.
 * **[https://scpwiki.com/system:page-tags/tag/glacon glacon]** -- Glacon.aic, an artificial intelligence.
+* **[https://scpwiki.com/system:page-tags/tag/greg-chudley greg-chudley]** -- Researcher Greg Chudley of Site-78.
 * **[https://scpwiki.com/system:page-tags/tag/judith-low judith-low]** -- Dr. Judith Low, Department of History.
 * **[https://scpwiki.com/system:page-tags/tag/kain-pathos-crow kain-pathos-crow]** -- Professor Kain Pathos Crow.
 * **[https://scpwiki.com/system:page-tags/tag/lombardi lombardi]** -- [https://scp-wiki.wikidot.com/the-lombardi-tales Agent Lombardi].
 * **[https://scpwiki.com/system:page-tags/tag/maria-jones maria-jones]** -- Maria Jones, of RAISA.
+* **[https://scpwiki.com/system:page-tags/tag/maria-johnston maria-johnston]** -- Researcher Maria Johnston of Site-78.
+* **[https://scpwiki.com/system:page-tags/tag/marie-surratt marie-surratt]** -- Marie Surratt, an ex-Foundation agent and a paranormal gangster.
 * **[https://scpwiki.com/system:page-tags/tag/marion-wheeler marion-wheeler]** -- Marion Wheeler, of the Antimemetics Division.
 * **[https://scpwiki.com/system:page-tags/tag/mark-kiryu mark-kiryu]** -- Mark Kiryu of Kiryu Labs.
+* **[https://scpwiki.com/system:page-tags/tag/odongo-tejani odongo-tejani]** -- Odongo Tejani, chairman of the Ethics Committee.
 * **[https://scpwiki.com/system:page-tags/tag/philip-deering philip-deering]** -- Philip E. Deering, formerly [https://scp-wiki.wikidot.com/scp-5056 SCP-5056-B].
 * **[https://scpwiki.com/system:page-tags/tag/primrose-esquire primrose-esquire]** -- Primrose Fatish Von Trevil, AKA SCP-6159-1: Lawyer, archdemon, Whore of Blood, Matchmaker.
 * **[https://scpwiki.com/system:page-tags/tag/professor-bjornsen professor-bjornsen]** -- Professor Anders Bjornsen.
@@ -910,6 +918,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/leslie leslie]** -- Leslie, instance of [https://scp-wiki.wikidot.com/scp-3774 SCP-3774].
 * **[https://scpwiki.com/system:page-tags/tag/moon-champion moon-champion]** -- Moon Champion, aka Champion of the Moon or [https://scp-wiki.wikidot.com/scp-1233 SCP-1233].
 * **[https://scpwiki.com/system:page-tags/tag/mr-fish mr-fish]** -- Mr. Fish, Little Mister from Dr. Wondertainment, aka [https://scp-wiki.wikidot.com/scp-527 SCP-527].
+* **[https://scpwiki.com/system:page-tags/tag/murphy-law murphy-law]** -- Pataphysical noir detective character Murphy Law aka, [https://scp-wiki.wikidot.com/scp-3143 SCP-3143].
 * **[https://scpwiki.com/system:page-tags/tag/old-ai old-ai]** -- "Old AI", aka [https://scp-wiki.wikidot.com/scp-079 SCP-079].
 * **[https://scpwiki.com/system:page-tags/tag/plague-doctor plague-doctor]** -- The Plague Doctor, aka [https://scp-wiki.wikidot.com/scp-049 SCP-049].
 * **[https://scpwiki.com/system:page-tags/tag/possessive-mask possessive-mask]** -- The Possessive Mask, aka [https://scp-wiki.wikidot.com/scp-035 SCP-035].
@@ -951,6 +960,7 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/kindness kindness]** -- A kind man.
 * **[https://scpwiki.com/system:page-tags/tag/legate-trunnion legate-trunnion]** -- Legate Trunnion, prophet of the Cogwork Orthodoxy.
 * **[https://scpwiki.com/system:page-tags/tag/lewitt-zairi-family lewitt-zairi-family]** -- The Lewitt Zairi Family, of the Horizon Initiative.
+* **[https://scpwiki.com/system:page-tags/tag/lovataar lovataar]** -- Lovataar, the ex-daeva princess who became one of the Klavigars.
 * **[https://scpwiki.com/system:page-tags/tag/manny manny]** -- Manny, aka The Man With the Upside Down Face of Herman Fuller's Circus of the Disquieting.
 * **[https://scpwiki.com/system:page-tags/tag/nadox nadox]** -- Nadox, one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/orok orok]** -- Orok, one of the four Klavigars of Sarkicism.
