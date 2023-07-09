@@ -1129,6 +1129,7 @@ Tags for contests and the articles submitted to them.
  * //Requires 'jam-con2021'//
 * **[https://scpwiki.com/system:page-tags/tag/_famouslastwords _famouslastwords]** -- An entry to the '"What could possibly go wrong?"' category of JamCon 2021.
  * //Requires 'jam-con2021'//
+* **[https://scpwiki.com/system:page-tags/tag/lorecon2023 lorecon2023]** -- An entry to the [http://scp-int.wikidot.com/lorecon2023 International 2023 Lore and Aesthetics Contest].
 * **[https://scpwiki.com/system:page-tags/tag/mtf2016 mtf2016]** -- An entry to the [https://scp-wiki.wikidot.com/mobile-task-force-contest 2016 Mobile Task Force Contest].
 * **[https://scpwiki.com/system:page-tags/tag/nyc2013 nyc2013]** -- An entry to the [https://scp-wiki.wikidot.com/new-years-contest 2013 New Year's Canon Contest].
 * **[https://scpwiki.com/system:page-tags/tag/rei2015 rei2015]** -- An entry to the [https://scp-wiki.wikidot.com/reimagining-contest 2015 Reimagining Contest].
