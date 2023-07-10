@@ -107,8 +107,6 @@ Miscellaneous major page tags that are not top-level tags.
 * **[https://scpwiki.com/system:page-tags/tag/archived archived]** -- Pages which have been archived due to having been superseded, obsoleted, or inactivity. These pages should also be moved to the {{archived:}} category so they retain the 'archived page' notice and are locked from edits. See [https://scp-wiki.wikidot.com/archived-scps Archived Pages] for more information on archival.
 * **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained] SCPs are a special sub-type of //scp//, and should be added to -EX articles as appropriate. Explained articles should also be tagged with their standard object class tag, or //esoteric-class// if the format does not specify a standard object class.
  * //Requires 'scp'//
-* **[https://scpwiki.com/system:page-tags/tag/decommissioned decommissioned]** -- Indicates the SCP has been destroyed in-universe upon article deletion out-of-universe. This is no longer in practice, see [https://scp-wiki.wikidot.com/archived:decommissioned-scps Decommissioned SCPs] for more details.
- * //Requires 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/001-proposal 001-proposal]** -- This is the tag for the articles proposing a possible [https://scp-wiki.wikidot.com/scp-001 SCP-001] object. SCPs tagged with this tag should also be tagged with their standard object class tag, or //esoteric-class// if applicable.
  * //Often used with 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- //creepypasta// are fiction that are unrelated to the SCP Foundation, and usually take the form of urban myths or campfire stories. Creepypasta is only appropriate for the SCP website if it's an original //creepypasta// by the posting author; we are not a repository for unattributed //creepypasta//.
@@ -154,6 +152,7 @@ The following applies to all tags in this category:
 * **[https://scpwiki.com/system:page-tags/tag/apollyon apollyon]** -- SCP is Apollyon.
 * **[https://scpwiki.com/system:page-tags/tag/archon archon]** -- SCP is Archon.
 * **[https://scpwiki.com/system:page-tags/tag/neutralized neutralized]** -- SCP is Neutralized.
+* **[https://scpwiki.com/system:page-tags/tag/decommissioned decommissioned]** -- SCP is decommissioned.
 * **[https://scpwiki.com/system:page-tags/tag/pending pending]** -- SCP is pending classification.
 * **[https://scpwiki.com/system:page-tags/tag/esoteric-class esoteric-class]** -- SCP has an object class other than one of the above.
 
@@ -744,6 +743,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/man-who-wasnt-there man-who-wasnt-there]** -- Of or relating to [https://scp-wiki.wikidot.com/the-man-who-wasnt-there-hub The Man Who Wasn't There] canon.
 * **[https://scpwiki.com/system:page-tags/tag/memoria-adytum memoria-adytum]** -- Of or related to the [https://scp-wiki.wikidot.com/memoria-adytum In Memoria, Adytum] canon.
 * **[https://scpwiki.com/system:page-tags/tag/nightfall nightfall]** -- Of or related to the [https://scp-wiki.wikidot.com/nightfall-hub Nightfall] canon.
+* **[https://scpwiki.com/system:page-tags/tag/Ninth-World Ninth-World]** -- Of or related to the [https://scp-wiki.wikidot.com/the-ninth-world-hub Ninth World] canon.
 * **[https://scpwiki.com/system:page-tags/tag/no-return no-return]** -- Of or related to the [https://scp-wiki.wikidot.com/no-return-hub No Return] canon.
 * **[https://scpwiki.com/system:page-tags/tag/old-man-in-the-sea old-man-in-the-sea]** -- Of or related to the [https://scp-wiki.wikidot.com/old-man-in-the-sea-hub Old Man in the Sea] canon.
 * **[https://scpwiki.com/system:page-tags/tag/on-guard-43 on-guard-43]** -- Of or related to the [https://scp-wiki.wikidot.com/on-guard-43-hub On Guard 43] canon.
@@ -911,6 +911,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/bobble-the-clown bobble-the-clown]** -- Bobble The Clown, aka [https://scp-wiki.wikidot.com/scp-993 SCP-993].
 * **[https://scpwiki.com/system:page-tags/tag/bones bones]** -- Bones, aka [https://scp-wiki.wikidot.com/scp-2721 SCP-2721-LORD] or Eli.
 * **[https://scpwiki.com/system:page-tags/tag/cain cain]** -- Cain, aka [https://scp-wiki.wikidot.com/scp-073 SCP-073].
+* **[https://scpwiki.com/system:page-tags/tag/Blue-blooded-alien Blue-blooded-alien]** -- Blue Blooded, aka [https://scp-wiki.wikidot.com/scp-6118 SCP-6118].
 * **[https://scpwiki.com/system:page-tags/tag/cousin-johnny cousin-johnny]** -- Cousin Johnny, aka [https://scp-wiki.wikidot.com/scp-2852 SCP-2852].
 * **[https://scpwiki.com/system:page-tags/tag/doctor-spanko doctor-spanko]** -- [https://scp-wiki.wikidot.com/doctor-spanko-hub Dr. Spanko], aka [https://scp-wiki.wikidot.com/scp-2337 SCP-2337].
 * **[https://scpwiki.com/system:page-tags/tag/donkman donkman]** -- Ulysses B. Donkman, aka [https://scp-wiki.wikidot.com/scp-4768 SCP-4768].
