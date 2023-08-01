@@ -474,8 +474,10 @@ Tags that describe where the SCP is, where it comes from, or that apply to SCPs 
 * **[https://scpwiki.com/system:page-tags/tag/extradimensional extradimensional]** -- SCP is of extradimensional origin, moves or propagates extradimensionally, and/or enables extradimensional travel.
  * //Avoid using with 'ectoentropic'//
 * **[https://scpwiki.com/system:page-tags/tag/extraterrestrial extraterrestrial]** -- SCP originates or is found in outer space and/or enables or exhibits extraterrestrial travel.
+* **[https://scpwiki.com/system:page-tags/tag/forest forest]** -- SCP is or affects forests, groves, orchards or other locations with high amounts of trees, manmade or otherwise.
 * **[https://scpwiki.com/system:page-tags/tag/geological geological]** -- SCP is or affects natural geological formations (such as caves, cliffs, mountains, valleys, or volcanoes) or significant geological events (such as earthquakes, landslides, or sinkholes).
  * //Superseded by 'planet'//
+* **[https://scpwiki.com/system:page-tags/tag/island island]** -- SCP is or affects islands, archipelagos or similar formations.
 * **[https://scpwiki.com/system:page-tags/tag/library library]** -- SCP is, or is otherwise related to or affects libraries, defined as a room or building containing books for people to read or borrow.
 * **[https://scpwiki.com/system:page-tags/tag/location location]** -- SCP is a unique geographical location.
  * //Superseded by 'city'//
@@ -780,6 +782,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/integration-program integration-program]** -- Of or related to the [https://scp-wiki.wikidot.com/integration-program-hub Integration Program] series.
 * **[https://scpwiki.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Of or related to the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
 * **[https://scpwiki.com/system:page-tags/tag/mister mister]** -- Of or related to the "Little Misters" series of anomalous individuals.
+* **[https://scpwiki.com/system:page-tags/tag/Mundus-Liberari Mundus-Liberari]** -- Of or related to the [https://scp-wiki.wikidot.com/kiryu-labs-hub Mundus, Liberari] series.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Of or related to the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Of or related to the [resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Of or related to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
@@ -791,6 +794,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Of or related to the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
 * **[https://scpwiki.com/system:page-tags/tag/we-meet-again we-meet-again]** -- Of or related to the [https://scp-wiki.wikidot.com/and-every-time-we-meet-again-hub And Every Time We Meet Again] series.
 * **[https://scpwiki.com/system:page-tags/tag/whore-of-blood whore-of-blood]** -- Of or related to the [https://scp-wiki.wikidot.com/whore-of-blood-hub Whore of Blood] series.
+* **[https://scpwiki.com/system:page-tags/tag/yggdrasil-s-surveyor yggdrasil-s-surveyor]** -- Of or related to the cross-canon series [https://scp-wiki.wikidot.com/yggdrasils-surveyor Yggdrasil's Surveyor].
 
 [[/tab]]
 [[tab Characters]]
@@ -829,6 +833,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/director-mcinnis director-mcinnis]** -- Dr. Allan J. McInnis, Director of Site-43.
 * **[https://scpwiki.com/system:page-tags/tag/director-mctiriss director-mctiriss]** -- Director Kate McTiriss.
 * **[https://scpwiki.com/system:page-tags/tag/director-moose director-moose]** -- Director Moose.
+* **[https://scpwiki.com/system:page-tags/tag/director-richter director-richter]** -- Director of Site-78 Leah Richter.
 * **[https://scpwiki.com/system:page-tags/tag/director-scout director-scout]** -- Vivian L. Scout, late Site-43 co-director.
 * **[https://scpwiki.com/system:page-tags/tag/director-lague director-lague]** -- Director Paul Lague, of the Integration Program and Site-322.
 * **[https://scpwiki.com/system:page-tags/tag/django-bridge django-bridge]** -- Django Bridge.
@@ -840,6 +845,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-dan doctor-dan]** -- Dr. Dan ███████, of SCP-096.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-edison doctor-edison]** -- Dr. Michael Edison.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-elliott doctor-elliott]** -- Dr. Chelsea Elliott.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-elstrom doctor-elstrom]** -- Site-43's chief administrative officer Doctor Elstrom.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-everwood doctor-everwood]** -- Dr. Everwood, GOI specialist.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-fynegan doctor-fynegan]** -- Dr. Fynegan.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-gears doctor-gears]** -- Dr. Gears.
@@ -913,6 +919,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/fred fred]** -- Fred, aka [https://scp-wiki.wikidot.com/scp-423 SCP-423].
 * **[https://scpwiki.com/system:page-tags/tag/grabnok grabnok]** -- Grabnok the Destroyer, the Reluctant Dimension Hopper, aka [https://scp-wiki.wikidot.com/scp-507 SCP-507].
 * **[https://scpwiki.com/system:page-tags/tag/hard-to-kill-reptile hard-to-kill-reptile]** -- The "Hard-To-Destroy Reptile", aka [https://scp-wiki.wikidot.com/scp-682 SCP-682].
+* **[https://scpwiki.com/system:page-tags/tag/half-cat-josie half-cat-josie]** -- Josie the half cat, aka [https://scp-wiki.wikidot.com/scp-529 SCP-529].
 * **[https://scpwiki.com/system:page-tags/tag/heather-mason heather-mason]** -- Heather Mason, aka "Ms. Mad About Video Games" or [https://scp-wiki.wikidot.com/scp-3090 SCP-3090].
 * **[https://scpwiki.com/system:page-tags/tag/hogslice hogslice]** -- Hogslice, aka [https://scp-wiki.wikidot.com/scp-6599 SCP-6599].
 * **[https://scpwiki.com/system:page-tags/tag/iris-thompson iris-thompson]** -- Iris Thompson, aka [https://scp-wiki.wikidot.com/scp-105 SCP-105].
@@ -986,8 +993,9 @@ Other individuals involved in the anomalous.
 [[tab Locations]]
 ++ Locations
 
-Tags indicating that a tale or SCP article takes place in a specific location that isn't a Foundation Site or installation.
+Tags indicating that a tale or SCP article takes place in a specific time/location that isn't a Foundation Site or installation.
 
+* **[https://scpwiki.com/system:page-tags/tag/7th-occult-war 7th-occult-war]** -- The Seventh Occult War between the Allied Occult Initiative and the Obskuracorps.
 * **[https://scpwiki.com/system:page-tags/tag/alagadda alagadda]** -- The kingdom of Alagadda.
 * **[https://scpwiki.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- The city of Backdoor Soho.
 * **[https://scpwiki.com/system:page-tags/tag/esterberg esterberg]** -- The Free Port known as Esterberg.
