@@ -104,6 +104,9 @@ Miscellaneous major page tags that are not top-level tags.
  * //Requires 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/001-proposal 001-proposal]** -- This is the tag for the articles proposing a possible [https://scp-wiki.wikidot.com/scp-001 SCP-001] object. SCPs tagged with this tag should also be tagged with their standard object class tag, or //esoteric-class// if applicable.
  * //Often used with 'scp'//
+* **[https://scpwiki.com/system:page-tags/tag/_canon-hub _canon-hub]** -- Used for hubs which represent a [https://scp-wiki.wikidot.com/canon-hub canon].
+ * //Requires 'hub'//
+ * //Supersedes '_tale-hub'//
 * **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- //creepypasta// are fiction that are unrelated to the SCP Foundation, and usually take the form of urban myths or campfire stories. Creepypasta is only appropriate for the SCP website if it's an original //creepypasta// by the posting author; we are not a repository for unattributed //creepypasta//.
  * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/collaboration collaboration]** -- //collaboration// pages are those pages that are or were open to additions from any member, with the caveat that staff and the original author reserve the right to modify or delete entries found to be subpar, or close entries entirely.
@@ -113,6 +116,7 @@ Miscellaneous major page tags that are not top-level tags.
 * **[https://scpwiki.com/system:page-tags/tag/required required]** -- //required// pages are guides that are part of the required reading for joining the SCP Wiki.
 * **[https://scpwiki.com/system:page-tags/tag/_tale-hub _tale-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a series that consists mostly or entirely of //tale// articles.
  * //Requires 'hub'//
+ * //Superseded by '_canon-hub'//
 
 +++ Supplement pages
 
@@ -1142,6 +1146,33 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/uac2014 uac2014]** -- An entry to the [https://scp-wiki.wikidot.com/under-appreciated-contest 2014 Under-Appreciated SCPs Contest].
 * **[https://scpwiki.com/system:page-tags/tag/memecon2021-unofficial memecon2021-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].
 * **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
+
+[[/tab]]
+[[tab Translation]]
+++ Translation
+
+These tags indicate that the article in question has been translated to SCP-EN from one of the official SCP translation sites.
+
+* **[https://scpwiki.com/system:page-tags/tag/international international]** -- Applicable if the tale or SCP article was translated from one of the recognized translation sites. Don't add this tag if the article //was// translated to another language.
+
++++ Language Codes
+
+* **[https://scpwiki.com/system:page-tags/tag/_int _int]** -- Translated from the [http://scp-int.wikidot.com/ International Site].
+* **[https://scpwiki.com/system:page-tags/tag/_ru _ru]** -- Translated from the [http://scpfoundation.net/ Russian Site].
+* **[https://scpwiki.com/system:page-tags/tag/_ko _ko]** -- Translated from the [http://scpko.wikidot.com/ Korean Site].
+* **[https://scpwiki.com/system:page-tags/tag/_cn _cn]** -- Translated from the [http://scp-wiki-cn.wikidot.com/ Chinese Site].
+* **[https://scpwiki.com/system:page-tags/tag/_fr _fr]** -- Translated from the [http://fondationscp.wikidot.com/ French Site].
+* **[https://scpwiki.com/system:page-tags/tag/_pl _pl]** -- Translated from the [http://scp-wiki.net.pl/ Polish Site].
+* **[https://scpwiki.com/system:page-tags/tag/_es _es]** -- Translated from the [http://lafundacionscp.wikidot.com/ Spanish Site].
+* **[https://scpwiki.com/system:page-tags/tag/_th _th]** -- Translated from the [http://scp-th.wikidot.com/main Thai Site].
+* **[https://scpwiki.com/system:page-tags/tag/_jp _jp]** -- Translated from the [http://scp-jp.wikidot.com/ Japanese Site].
+* **[https://scpwiki.com/system:page-tags/tag/_de _de]** -- Translated from the [http://scp-wiki-de.wikidot.com/ German Site].
+* **[https://scpwiki.com/system:page-tags/tag/_it _it]** -- Translated from the [http://fondazionescp.wikidot.com/ Italian Site].
+* **[https://scpwiki.com/system:page-tags/tag/_ua _ua]** -- Translated from the [http://scp-ukrainian.wikidot.com/ Ukrainian Site].
+* **[https://scpwiki.com/system:page-tags/tag/_pt _pt]** -- Translated from the [http://scp-pt-br.wikidot.com/ Portuguese Site].
+* **[https://scpwiki.com/system:page-tags/tag/_zh _zh]** -- Translated from the [http://scp-zh-tr.wikidot.com/ Traditional Chinese Site].
+* **[https://scpwiki.com/system:page-tags/tag/_vn _vn]** -- Translated from the [http://scp-vn.wikidot.com/ Vietnamese Site].
+* **[https://scpwiki.com/system:page-tags/tag/_el _el]** -- Translated from the [http://scp-el.wikidot.com/ Greek Site].
 
 [[/tab]]
 
