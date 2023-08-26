@@ -2523,28 +2523,34 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 +++ コンテスト-FR
 
-* **[[[/system:page-tags/tag/c2fr2014|c2fr2014]]]** //(c2fr2014)// - [[[le-concours-des-2-ans-de-la-fondation|財団フランス支部2周年のコンテスト]]]のタグです。
+* **[[[/system:page-tags/tag/c2fr2014|c2fr2014]]]** //(c2fr2014)// - [[[le-concours-des-2-ans-de-la-fondation|財団フランス支部2周年のコンテスト]]]。
 
-* **[[[/system:page-tags/tag/c3fr2015|c3fr2015]]]** //(c3fr2015)// - [[[concours-des-trois-ans-de-la-branche-francaise|フランス支部3周年のコンテスト]]]のタグです。
+* **[[[/system:page-tags/tag/c3fr2015|c3fr2015]]]** //(c3fr2015)// - [[[concours-des-trois-ans-de-la-branche-francaise|フランス支部3周年のコンテスト]]]。
 
-* **[[[/system:page-tags/tag/500語未満コンテスト|500語未満コンテスト]]]** //(-500)// - [[[concours-du-scp-de-moins-de-500-mots|500語未満コンテスト]]]のタグです。
+* **[[[/system:page-tags/tag/500語未満コンテスト|500語未満コンテスト]]]** //(-500)// - [[[concours-du-scp-de-moins-de-500-mots|500語未満コンテスト]]]。
 
-* **[[[/system:page-tags/tag/c4fr2016|c4fr2016]]]** //(c4fr2016)// - [[[le-concours-des-quatre-ans|4周年のコンテスト]]]のタグです。
+* **[[[/system:page-tags/tag/c4fr2016|c4fr2016]]]** //(c4fr2016)// - [[[le-concours-des-quatre-ans|4周年のコンテスト]]]。
 
-* **[[[/system:page-tags/tag/nme2017|nme2017]]]** //(nme2017)// - [[[concours-nos-meilleurs-ennemis|コンテスト:我々の最高の敵]]]のタグです。
+* **[[[/system:page-tags/tag/nme2017|nme2017]]]** //(nme2017)// - [[[concours-nos-meilleurs-ennemis|コンテスト:我々の最高の敵]]]。
 
-* **[[[/system:page-tags/tag/c5fr2017|c5fr2017]]]** //(c5fr2017)// - [[[le-concours-des-cinq-ans|5周年のコンテスト]]]のタグです。
+* **[[[/system:page-tags/tag/c5fr2017|c5fr2017]]]** //(c5fr2017)// - [[[le-concours-des-cinq-ans|5周年のコンテスト]]]。
 
-* **[[[/system:page-tags/tag/c6fr2018|c6fr2018]]]** //(c6fr2018)// - [[[le-concours-des-six-ans|6周年のコンテスト]]]に関係するタグです。
+* **[[[/system:page-tags/tag/c6fr2018|c6fr2018]]]** //(c6fr2018)// - [[[le-concours-des-six-ans|6周年のコンテスト]]]。
 
-* **[[[/system:page-tags/tag/xks2018|xks2018]]]** //(xks2018)// - [[[concours-xkeme-siecle]]]のタグです。
+* **[[[/system:page-tags/tag/xks2018|xks2018]]]** //(xks2018)// - [[[concours-xkeme-siecle]]]。
 
-* **[[[/system:page-tags/tag/ch2019|ch2019]]]** //(ch2019)// - [[[concours-halloween-2019]]]のタグです。
+* **[[[/system:page-tags/tag/ch2019|ch2019]]]** //(ch2019)// - [[[concours-halloween-2019]]]。
 
-* **[[[/system:page-tags/tag/c8fr2020|c8fr2020]]]** //(c8fr2020)// - [[[le-concours-des-huit-ans|8周年のコンテスト]]]のタグです。
+* **[[[/system:page-tags/tag/c8fr2020|c8fr2020]]]** //(c8fr2020)// - [[[le-concours-des-huit-ans|8周年のコンテスト]]]。
 
-* **[[[/system:page-tags/tag/c404fr|c404fr]]]** //(c404fr)// - [[[le-concours-des-404-ans|ERREUR(フランス支部404周年コンテスト)]]]のタグです。
+* **[[[/system:page-tags/tag/c404fr|c404fr]]]** //(c404fr)// - [[[le-concours-des-404-ans|ERREUR(フランス支部404周年コンテスト)]]]。
 
+
+[[/tab]]
+[[tab PL]]
+
++++ コンテスト-PL
+* **[[[/system:page-tags/tag/pl200|pl200]]]** //(pl200)// - [[[konkurs-pl-200|SCP-PL-200コンテスト「責任」]]]。
 
 [[/tab]]
 [[tab ES]]
