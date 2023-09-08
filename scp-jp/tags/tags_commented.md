@@ -2281,6 +2281,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/rei2015|rei2015]]]** //(rei2015)// - [[[reimagining-contest|2015年再解釈コンテスト]]]。
 
+* **[[[/system:page-tags/tag/remixcon2023|remixcon2023]]]** //(remixcon2023)// - [[[remixcon2023|2023年リミックスコンテスト]]]。
+
 * **[[[/system:page-tags/tag/sc2015|sc2015]]]** //(sc2015)// - [[[short-works-contest|2015年短編コンテスト]]]。
 
 * **[[[/system:page-tags/tag/tc2013|tc2013]]]** //(tc2013)// - [[[*time-contest|2013年タイムコンテスト]]]。
