@@ -1152,7 +1152,7 @@
 [[tab EN]]
 +++ Taleシリーズ-EN
 
-* **[[[/system:page-tags/tag/死のabc|死のabc]]]** //(abcs-of-death)// -- 死のABC[[[scp-anthology-hub|アンソロジー]]]。
+* **[[[/system:page-tags/tag/死のabc|死のabc]]]** //(abcs-of-death)// - 死のABC[[[scp-anthology-hub|アンソロジー]]]。
 * **[[[/system:page-tags/tag/アナバシス|アナバシス]]]** //(anabasis)// - [[[anabasis-hub|アナバシス]]]。
 * **[[[/system:page-tags/tag/ao-tale|ao-tale]]]** //(ao-tale)// - [[[ao-hub|Anomalousアイテムの物語]]]。
 * **[[[/system:page-tags/tag/classical-revival|classical-revival]]]** //(classical-revival)// - [[[classicalrevivalindex|クラシカル・リバイバル]]]。
@@ -2308,10 +2308,10 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/game-day|game-day]]]** //(game-day)// - [[[gamedayindex|Game Day]]]。
 
-* **[[[/system:page-tags/tag/nightmarefest|nightmarefest]]]** (//nightmarefest//) -- 非公式企画の[[[nightmarefest|ナイトメアフェスト]]]。
- * **[[[/system:page-tags/tag/_タウンハウス|_タウンハウス]]]** (//_townhouse//) -- "タウンハウス"カテゴリへの参加作。
- * **[[[/system:page-tags/tag/_お役人|_お役人]]]** (//_the-bureaucrat//) -- "お役人"カテゴリへの参加作。
- * **[[[/system:page-tags/tag/_夜勤|_夜勤]]]** (//_graveyard-shift//) -- "夜勤"カテゴリへの参加作。
+* **[[[/system:page-tags/tag/nightmarefest|nightmarefest]]]** (//nightmarefest//) - 非公式企画の[[[nightmarefest|ナイトメアフェスト]]]。
+ * **[[[/system:page-tags/tag/_タウンハウス|_タウンハウス]]]** (//_townhouse//) - "タウンハウス"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_お役人|_お役人]]]** (//_the-bureaucrat//) - "お役人"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_夜勤|_夜勤]]]** (//_graveyard-shift//) - "夜勤"カテゴリへの参加作。
 
 [[/tab]]
 [[tab JP]]
