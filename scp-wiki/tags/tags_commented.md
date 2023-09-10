@@ -775,8 +775,10 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 Tags for tale and SCP series, that may or may not have a Hub.
 
 * **[https://scpwiki.com/system:page-tags/tag/abcs-of-death abcs-of-death]** -- Part of the ABC's of Death [https://scp-wiki.wikidot.com/scp-anthology-hub anthology].
+* **[https://scpwiki.com/system:page-tags/tag/admonition admonition]** -- Of or related to [https://scp-wiki.wikidot.com/admonition the Admonition] series.
 * **[https://scpwiki.com/system:page-tags/tag/anabasis anabasis]** -- Of or related to the [https://scp-wiki.wikidot.com/anabasis-hub Anabasis] stories.
 * **[https://scpwiki.com/system:page-tags/tag/ao-tale ao-tale]** -- Of or related to the [https://scp-wiki.wikidot.com/ao-hub Tales of Anomalous Items] stories.
+* **[https://scpwiki.com/system:page-tags/tag/appliance-war appliance-war]** -- Of or related to [https://scp-wiki.wikidot.com/the-appliance-war-hub The Appliance War] series.
 * **[https://scpwiki.com/system:page-tags/tag/bury-the-survivors bury-the-survivors]** -- Of or related to the [https://scp-wiki.wikidot.com/bury-the-survivors-hub Bury the Survivors] series.
 * **[https://scpwiki.com/system:page-tags/tag/cack-hard cack-hard]** -- Of or related to the [https://scp-wiki.wikidot.com/cack-hub cack-hard] stories.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.
@@ -796,6 +798,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Of or related to [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
 * **[https://scpwiki.com/system:page-tags/tag/team-bird team-bird]** -- Of or related to [https://scp-wiki.wikidot.com/bird Team Bird].
 * **[https://scpwiki.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Of or related to the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
+* **[https://scpwiki.com/system:page-tags/tag/untitled-series untitled-series]** -- Error description cannot be blank [https://scp-wiki.wikidot.com/https://scp-wiki.wikidot.com/unreality-hub or linked to the click to add text] series.
 * **[https://scpwiki.com/system:page-tags/tag/we-meet-again we-meet-again]** -- Of or related to the [https://scp-wiki.wikidot.com/and-every-time-we-meet-again-hub And Every Time We Meet Again] series.
 * **[https://scpwiki.com/system:page-tags/tag/whore-of-blood whore-of-blood]** -- Of or related to the [https://scp-wiki.wikidot.com/whore-of-blood-hub Whore of Blood] series.
 * **[https://scpwiki.com/system:page-tags/tag/yggdrasil-s-surveyor yggdrasil-s-surveyor]** -- Of or related to the cross-canon series [https://scp-wiki.wikidot.com/yggdrasils-surveyor Yggdrasil's Surveyor].
@@ -940,6 +943,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/sigurros sigurros]** -- Sigurrós Stefánsdóttir, aka [https://scp-wiki.wikidot.com/scp-239 SCP-239].
 * **[https://scpwiki.com/system:page-tags/tag/ten-dots ten-dots]** -- [https://scp-wiki.wikidot.com/scp-2521 SCP-2521].
 * **[https://scpwiki.com/system:page-tags/tag/the-old-man the-old-man]** -- The Old Man, aka [https://scp-wiki.wikidot.com/scp-106 SCP-106].
+* **[https://scpwiki.com/system:page-tags/tag/tickle-monster tickle-monster]** -- The Tickle Monster, aka [https://scp-wiki.wikidot.com/scp-999 SCP-999].
 * **[https://scpwiki.com/system:page-tags/tag/the-sculpture the-sculpture]** -- The Sculpture, aka [https://scp-wiki.wikidot.com/scp-173 SCP-173].
 * **[https://scpwiki.com/system:page-tags/tag/the-specter the-specter]** -- The Specter, aka [https://scp-wiki.wikidot.com/scp-4944 SCP-4944].
 
