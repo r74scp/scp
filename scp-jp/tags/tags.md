@@ -1209,7 +1209,7 @@
 * **[[[/system:page-tags/tag/白色家系図録|白色家系図録]]]** - [[[shironose-hub|白色家系図録]]]。
 * **[[[/system:page-tags/tag/rror|rror]]]** - [[[rror-hub|rror]]]。
 * **[[[/system:page-tags/tag/purple|purple]]]** - [[[purple-hub|PURPLE]]]。
-* **[[[/system:page-tags/tag/グレースケール|グレースケール]]]** - [[[grayscale-hub|グレースケール]]]。。
+* **[[[/system:page-tags/tag/グレースケール|グレースケール]]]** - [[[grayscale-hub|グレースケール]]]。
 * **[[[/system:page-tags/tag/レ・テュウール・デリ|レ・テュウール・デリ]]]** - [[[les-tueurs-d-eris-hub|レ・テュウール・デリ]]]。
 * **[[[/system:page-tags/tag/h-e-r-operation|h-e-r-operation]]]** - [[[h-e-r-operation-hub|H.E.R.オペレーション]]]。
 * **[[[/system:page-tags/tag/蛇と焚書のカルテット|蛇と焚書のカルテット]]]** - [[[quartet-hub|蛇と焚書のカルテット]]]。
@@ -1223,6 +1223,7 @@
 * **[[[/system:page-tags/tag/doden|doden]]]** -  [[[doden|Døden]]]。
 * **[[[/system:page-tags/tag/忘却のアディウム|忘却のアディウム]]]** - [[[oblivion-adium|忘却のアディウム]]]。
 * **[[[/system:page-tags/tag/q9alt|q9alt]]]** - [[[q9alt-hub|Q9ALT]]]。
+* **[[[/system:page-tags/tag/コウプスコウパス|コウプスコウパス]]]** - [[[corpse-corpus-hub|コウプス・コウパス]]]。
 
 +++ 合作連作-JP
 
