@@ -668,6 +668,7 @@
  * 必ず//scarlet-king//タグと併用してください。
 * **[[[/system:page-tags/tag/_壊れた神の教会|_壊れた神の教会]]]** //(_broken-god)// - [[[church-of-the-broken-god-hub|壊れた神の教会 (CotBG)]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//壊れた神の教会//タグと併用してください。
+ * 準要注意団体-ENの歯車仕掛正教、マクスウェリズム教会のGoIフォーマット記事についてもこのタグを使用してください。またその場合、必ず//歯車仕掛正教//、//マクスウェリズム//タグと併用してください。
 * **[[[/system:page-tags/tag/_第二ハイトス教会|_第二ハイトス教会]]]** //(_second-hytoth)// - [[[second-hytoth-hub|第二ハイトス教会]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//第二ハイトス教会//タグと併用してください。
 * **[[[/system:page-tags/tag/_daevite|_daevite]]]** //(_daevite)// - [[[daevite-hub|ダエーバイト]]]のGoIフォーマット記事に付与されるタグです。
@@ -906,8 +907,8 @@
 * **[[[/system:page-tags/tag/el|el]]]** - SCP-EL(ギリシャ語版サイト)から翻訳されたオリジナルのページに付与されるタグです。
 * **[[[/system:page-tags/tag/id|id]]]** - SCP-ID(インドネシア語版サイト)から翻訳されたオリジナルのページに付けられるタグです。
 
-++ 翻訳プロジェクト
-* **[[[/system:page-tags/tag/int|int]]]** - SCP-INT(国際英訳アーカイブ)から翻訳されたオリジナルのページに付与されるタグです。
+++ 支部間執筆プロジェクト
+* **[[[/system:page-tags/tag/int|int]]]** - SCP-INT(各支部英訳アーカイブ)から翻訳されたオリジナルのページに付与されるタグです。
 
 ++ その他
 * ,,︁,,,,,,**[[[/system:page-tags/tag/未認可支部|未認可支部]]]** - 上のいずれでもない言語版のサイトから翻訳されたオリジナルのページに付与されるタグです。[[[http://scp-int.wikidot.com/unofficial:language-incubator-hub|SCP-UN]]](少数言語インキュベータ)[[footnote]] SCP-INT(国際翻訳アーカイブ)内のサブプロジェクト。活動的な支部が現存しない言語での翻訳・創作を投稿するプラットフォームを提供し、新たな支部作成に向けて援助することを目的としています。 [[/footnote]]に投稿された作品も含まれます。新規作成は翻訳を含めて基本的に認められていません。
@@ -1153,14 +1154,18 @@
 +++ Taleシリーズ-EN
 
 * **[[[/system:page-tags/tag/死のabc|死のabc]]]** //(abcs-of-death)// - 死のABC[[[scp-anthology-hub|アンソロジー]]]。
+* **[[[/system:page-tags/tag/訓戒|訓戒]]]** //(admonition)// - [[[admonition|訓戒]]]。
 * **[[[/system:page-tags/tag/アナバシス|アナバシス]]]** //(anabasis)// - [[[anabasis-hub|アナバシス]]]。
 * **[[[/system:page-tags/tag/ao-tale|ao-tale]]]** //(ao-tale)// - [[[ao-hub|Anomalousアイテムの物語]]]。
+* **[[[/system:page-tags/tag/カック・ハード|カック・ハード]]]** //(cack-hard)// - [[[cack-hub|カック・ハード]]]。
 * **[[[/system:page-tags/tag/classical-revival|classical-revival]]]** //(classical-revival)// - [[[classicalrevivalindex|クラシカル・リバイバル]]]。
 * **[[[/system:page-tags/tag/コレクターtale|コレクターtale]]]** //(collector-tale)// - ミスター・コレクター(参照: //mister//タグ)。
 * **[[[/system:page-tags/tag/goc事件簿|goc事件簿]]]** //(goc-casefiles)// - [[[goc-hub-page#toc11|世界オカルト連合事件簿]]]。
+* **[[[/system:page-tags/tag/ハービンジャー|ハービンジャー]]]** //(harbinger)// - アンソロジーシリーズ『ハービンジャー』。
 * **[[[/system:page-tags/tag/統合プログラム|統合プログラム]]]** //(integration-program)// - [[[integration-program-hub|統合プログラム]]]。
 * **[[[/system:page-tags/tag/kiryu-labs|kiryu-labs]]]** //(kiryu-labs)// - [[[kiryu-labs-hub|桐生研究所]]]。
 * **[[[/system:page-tags/tag/mister|mister]]]** //(mister)// - リトル・ミスターズ。
+* **[[[/system:page-tags/tag/世界に自由を|世界に自由を]]]** //(mundus-liberari)// - [[[mundus-liberari|世界に自由を]]]。
 * **[[[/system:page-tags/tag/旧敵たち|旧敵たち]]]** //(old-foes)// - [[[resurrection-old-foes-hub|リザレクション: 旧敵たち]]]。
 * **[[[/system:page-tags/tag/olympia|olympia]]]** //(olympia)// - [[[olympia-project|オリンピア・プロジェクト]]]。
 * **[[[/system:page-tags/tag/orientation|orientation]]]** //(orientation)// - オリエンテーション。
@@ -1169,6 +1174,7 @@
 * **[[[/system:page-tags/tag/project-thaumiel|project-thaumiel]]]** //(project-thaumiel)// - [[[thaumiel|プロジェクトThaumiel]]]。
 * **[[[/system:page-tags/tag/team-bird|team-bird]]]** //(team-bird)// - [[[bird|チームバード]]]。
 * **[[[/system:page-tags/tag/タイム・アフター・タイム・パスワード|タイム・アフター・タイム・パスワード]]]** //(time-after-time-password)// - [[[the-time-after-time-password-hub|タイム・アフター・タイム・パスワード]]]。
+* **[[[/system:page-tags/tag/ユグドラシルの測量技師|ユグドラシルの測量技師]]]** //(yggdrasil-s-surveyor)// - [[[yggdrasils-surveyor|ユグドラシルの測量技師]]]。
 
 [[/tab]]
 [[tab JP]]
@@ -1278,6 +1284,7 @@
 * **[[[/system:page-tags/tag/シカゴ・スピリット|シカゴ・スピリット]]]** //(chicago-spirit)// - [[[chicago-spirit|シカゴ・スピリット]]]。
 * **[[[/system:page-tags/tag/scarlet-king|scarlet-king]]]** //(scarlet-king)// - 緋色の王、ないしは[[[cotsk-hub|緋色の王の子ら]]]。
 * **[[[/system:page-tags/tag/壊れた神の教会|壊れた神の教会]]]** //(broken-god)// - [[[church-of-the-broken-god-hub|壊れた神の教会 (CotBG)]]]。
+ * 準要注意団体-ENの//歯車仕掛正教//、//マクスウェリズム//も参照してください。
 * **[[[/system:page-tags/tag/第二ハイトス教会|第二ハイトス教会]]]** //(second-hytoth)// - [[[second-hytoth-hub|第二ハイトス教会]]]。
 * **[[[/system:page-tags/tag/daevite|daevite]]]** //(daevite)// - [[[daevite-hub|ダエーバイト]]]。
 * **[[[/system:page-tags/tag/ディア大学|ディア大学]]]** //(deer-college)// - [[[deer-college-hub|ディア大学]]]。
@@ -1318,11 +1325,14 @@
 * **[[[/system:page-tags/tag/夜闇の子ら|夜闇の子ら]]]** //(children-of-the-night)// - 夜闇の子ら(参照: [[[scp-1000|]]])。
 * **[[[/system:page-tags/tag/松明の子供達|松明の子供達]]]** //(children-of-the-torch)// - 松明の子供達。
 * **[[[/system:page-tags/tag/class-of-76|class-of-76]]]** //(class-of-76)// - [[[remembrance|Class of '76]]]。
+* **[[[/system:page-tags/tag/歯車仕掛正教|歯車仕掛正教]]]** //(cogwork-orthodoxy)// - 壊れた神の教会の一派閥、歯車仕掛正教。
+* **[[[/system:page-tags/tag/ギフトシュライバー|ギフトシュライバー]]]** //(giftschreiber)// - [[span class="ruby"]]毒筆家[[span class="rt"]]ギフトシュライバー[[/span]][[/span]]。
 * **[[[/system:page-tags/tag/金帳汗国|金帳汗国]]]** //(golden-horde)// - 金帳汗国。
 * **[[[/system:page-tags/tag/hmfscp|hmfscp]]]** //(hmfscp)// - 超常現象の確保収容に関する王立財団 / 珍品と過ぎ往く幻想の研究の為の王立財団 (HMFSCP)。
 * **[[[/system:page-tags/tag/homo-sapiens-sidhe|homo-sapiens-sidhe]]]** //(homo-sapiens-sidhe)// - [[[from-120-s-archives-hub|120の記録書庫より]]]準拠の妖精/Homo sapiens sidhe。
 * **[[[/system:page-tags/tag/icsut|icsut]]]** (//icsut//) - 国際統一奇跡論研究センター (ICSUT)。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。要注意領域-ENの項目も参照してください。
+* **[[[/system:page-tags/tag/マクスウェリズム|マクスウェリズム]]]** //(maxwellism)// - 壊れた神の教会の一派閥、マクスウェリズム教会。
 * **[[[/system:page-tags/tag/名もなきもの|名もなきもの]]]** //(nameless)// - [[[SCP-4000]]]に登場する”名もなきもの”あるいは”妖精”。
 * **[[[/system:page-tags/tag/監督真司令部|監督真司令部]]]** //(obearwatch)// - [[span class="ruby"]]監督真司令部[[span class="rt"]]かんと**くま**しれいぶ[[/span]][[/span]]
 * **[[[/system:page-tags/tag/オブスクラ|オブスクラ]]]** //(obskura)// - アーネンエルベ・オブスクラ軍団、またはその後継組織であるオブスクラ。
@@ -1670,6 +1680,8 @@
 * **[[[/system:page-tags/tag/怪奇部門|怪奇部門]]]** //(abnormalities)// - 怪奇部門。
 * **[[[/system:page-tags/tag/解体部門|解体部門]]]** //(decommissioning-dept)// - [[[decom-dept-hub|解体部門]]]。
 * **[[[/system:page-tags/tag/倫理委員会|倫理委員会]]]** //(ethics-committee)// - 倫理委員会。
+* **[[[/system:page-tags/tag/ettra|ettra]]]** //(ettra)// - 緊急時脅威戦術対応機構 (ETTRA)。
+* **[[[/system:page-tags/tag/火急鎮静部門|火急鎮静部門]]]** //(fire-suppression-dept)// - [[[fire-suppression-department-hub|火急鎮静部門]]]。
 * **[[[/system:page-tags/tag/神話・民俗学部門|神話・民俗学部門]]]** //(folklore-dept)// - [[[department-of-mythology-and-folkloristics-hub|神話・民俗学部門]]]。
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - [[[domc-hub|誤伝達部門]]]。
 * **[[[/system:page-tags/tag/空想科学部門|空想科学部門]]]** //(pataphysics-dept)// - 空想科学部門。
@@ -1684,6 +1696,7 @@
 
 +++ 部隊-EN
 
+* **[[[/system:page-tags/tag/アルファ-9|アルファ-9]]]** //(alpha-9)// - 機動部隊アルファ-9 ("最後の希望")。
 * **[[[/system:page-tags/tag/角度研削者|角度研削者]]]** //(angle-grinders)// - [[[mtf-theta-90-hub-page|機動部隊シータ-90 ("角度研削者")]]]。
 * **[[[/system:page-tags/tag/タウ-5-サムサラ|タウ-5-サムサラ]]]** //(tau-5-samsara)// - [[[task-forces#tau-5|機動部隊タウ-5 ("サムサラ")]]]。
 
@@ -1754,7 +1767,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/アレクサンドラ|アレクサンドラ]]]** //(alexandra)// - 人工知能のアレクサンドラ。
 * **[[[/system:page-tags/tag/アレックス・ソーリー|アレックス・ソーリー]]]** //(alex-thorley)// - 非現実部門のアレックス・ソーリー。
 * **[[[/system:page-tags/tag/ベイリー三兄弟|ベイリー三兄弟]]]** //(bailey-brothers)// - トリスタン・ベイリー、トーマス・ベイリー、およびトレバー・ベイリー。
-* **[[[/system:page-tags/tag/キャプテン・エイドリアン|キャプテン・エイドリアン]]]** //(captain-adrian)// - キャプテン・エイドリアン。
+* **[[[/system:page-tags/tag/キャプテン・エイドリアン|キャプテン・エイドリアン]]]** //(captain-adrian)// - エイドリアン、通称SCP-6159-2。使い魔、船長、超常法務官、精神的補助動物。
 * **[[[/system:page-tags/tag/d-7294|d-7294]]]** //(d-7294)// - D-7294。
 * **[[[/system:page-tags/tag/d-11424|d-11424]]]** //(d-11424)// - D-11424。
 * **[[[/system:page-tags/tag/アクタス管理官|アクタス管理官]]]** //(director-aktus)// - アクタス管理官。
@@ -1775,6 +1788,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ダン博士|ダン博士]]]** //(doctor-dan)// - SCP-096担当のダン・███████博士。
 * **[[[/system:page-tags/tag/エジソン博士|エジソン博士]]]** //(doctor-edison)// - マイケル・エジソン博士。
 * **[[[/system:page-tags/tag/エリオット博士|エリオット博士]]]** //(doctor-elliott)// - チェルシー・エリオット博士。
+* **[[[/system:page-tags/tag/エルストロム博士|エルストロム博士]]]** //(doctor-elstrom)// - サイト-43の主任管理局員 エルストロム博士。
 * **[[[/system:page-tags/tag/エバーウッド博士|エバーウッド博士]]]** //(doctor-everwood)// - GoIスペシャリストのエバーウッド博士。
 * **[[[/system:page-tags/tag/フィネガン博士|フィネガン博士]]]** (//doctor-fynegan//) - フィネガン博士。
 * **[[[/system:page-tags/tag/ギアーズ博士|ギアーズ博士]]]** //(doctor-gears)// - ギアーズ博士。
@@ -1806,11 +1820,13 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ケイン・パトス・クロウ|ケイン・パトス・クロウ]]]** //(kain-pathos-crow)// - ケイン・パトス・クロウ教授。
 * **[[[/system:page-tags/tag/ロンバルディ|ロンバルディ]]]** //(lombardi)// - [[[the-lombardi-tales|エージェント・ロンバルディ]]]。
 * **[[[/system:page-tags/tag/マリア・ジョーンズ|マリア・ジョーンズ]]]** //(maria-jones)// - RAISAのマリア・ジョーンズ。
+* **[[[/system:page-tags/tag/マリー・サラット|マリー・サラット]]]** //(doctor-elstrom)// - マリー・サラット、元財団エージェント・現超常ギャングスタ。
 * **[[[/system:page-tags/tag/マリオン・ホイーラー|マリオン・ホイーラー]]]** //(marion-wheeler)// - 反ミーム部門のマリオン・ホイーラー。
 * **[[[/system:page-tags/tag/マーク・桐生|マーク・桐生]]]** //(mark-kiryu)// - 桐生研究所のマーク・桐生。
+* **[[[/system:page-tags/tag/オドンゴ・テジャニ|オドンゴ・テジャニ]]]** //(odongo-tejani)// - 倫理委員会 委員長、オドンゴ・テジャニ。
 * **[[[/system:page-tags/tag/フィリップ・ディアリング|フィリップ・ディアリング]]]** //(philip-deering)// - フィリップ・E・ディアリング、元SCP-5056-B。
 * **[[[/system:page-tags/tag/professor-bjornsen|professor-bjornsen]]]** //(professor-bjornsen)// - アンダース・ビヨンセン/ビョルンセン教授。
-* **[[[/system:page-tags/tag/プリムローズ法務官|プリムローズ法務官]]]** //(primrose-esquire)// - プリムローズ法務官。
+* **[[[/system:page-tags/tag/プリムローズ法務官|プリムローズ法務官]]]** //(primrose-esquire)// - プリムローズ・ファティッシュ・フォン・トレヴィル、通称SCP-6159-1。弁護士、[[span class="ruby"]]大悪魔[[span class="rt"]]アークデーモン[[/span]][[/span]]、「血の娼婦」、仲介者。
 * **[[[/system:page-tags/tag/コーンウェル研究員|コーンウェル研究員]]]** //(researcher-conwell)// - ジェイコブ・コーンウェル研究員。
 * **[[[/system:page-tags/tag/ジェームズ研究員|ジェームズ研究員]]]** //(researcher-james)// - ジェームズ研究助手、史上最高の財団研究員！(5才)。
 * **[[[/system:page-tags/tag/researcher-labelle|researcher-labelle]]]** //(researcher-labelle)// - ローズ・ラベル/ラブレ研究員。
@@ -1842,12 +1858,14 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/フレッド|フレッド]]]** //(fred)// - フレッド、通称[[[SCP-423]]]。
 * **[[[/system:page-tags/tag/グラブノック|グラブノック]]]** //(grabnok)// - グラブノック・ザ・デストロイヤー、嫌々ながらの次元旅行者、通称[[[SCP-507]]]。
 * **[[[/system:page-tags/tag/不死身の爬虫類|不死身の爬虫類]]]** //(hard-to-kill-reptile)// - "不死身の爬虫類"、通称[[[SCP-682]]]。
+* **[[[/system:page-tags/tag/半身猫のジョーシー|半身猫のジョーシー]]]** //(half-cat-josie)// - 半身猫のジョーシー、通称[[[SCP-529]]]。
 * **[[[/system:page-tags/tag/ヘザー・メイソン|ヘザー・メイソン]]]** //(heather-mason)// - ヘザー・メイソン、またの名を"ミズ・ビデオゲーム狂"あるいは[[[SCP-3090]]]。
 * **[[[/system:page-tags/tag/hogslice|hogslice]]]** //(hogslice)// - Hogslice、通称[[[SCP-6599]]]。
 * **[[[/system:page-tags/tag/アイリス・トンプソン|アイリス・トンプソン]]]** //(iris-thompson)// - アイリス・トンプソン、通称[[[SCP-105]]]。
 * **[[[/system:page-tags/tag/レスリー|レスリー]]]** //(leslie)// - [[[SCP-3774]]]個体のレスリー。
 * **[[[/system:page-tags/tag/ムーン・チャンピオン|ムーン・チャンピオン]]]** //(moon-champion)// - ムーン・チャンピオン、またの名を月のチャンピオンあるいは[[[SCP-1233]]]。
 * **[[[/system:page-tags/tag/ミスター・おさかな|ミスター・おさかな]]]** //(mr-fish)// - ワンダーテインメント博士のリトル・ミスターの一員であるミスター・おさかな、通称[[[SCP-527]]]。
+* **[[[/system:page-tags/tag/マーフィー・ロゥ|マーフィー・ロゥ]]]** //(murphy-law)// - [[span class="ruby"]]空想科学的[[span class="rt"]]パタフィジカル[[/span]][[/span]]なノワール風の探偵キャラクター「マーフィー・ロゥ」、通称[[[SCP-3143]]]。
 * **[[[/system:page-tags/tag/オールドai|オールドai]]]** //(old-ai)// - "オールドAI"、通称[[[SCP-079]]]。
 * **[[[/system:page-tags/tag/ペスト医師|ペスト医師]]]** //(plague-doctor)// - ペスト医師、通称[[[SCP-049]]]。
 * **[[[/system:page-tags/tag/取り憑くマスク|取り憑くマスク]]]** //(possessive-mask)// - 取り憑くマスク、通称[[[SCP-035]]]。
@@ -1889,6 +1907,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/kindness|kindness]]]** //(kindness)// - A kind man。
 * **[[[/system:page-tags/tag/レガーテ・トラニオン|レガーテ・トラニオン]]]** //(legate-trunnion)// - 歯車仕掛正教の預言者、[[span class="ruby"]]審問信徒[[span class="rt"]]レガーテ[[/span]][[/span]]・トラニオン。
 * **[[[/system:page-tags/tag/ルウィット・ザイリ・ファミリー|ルウィット・ザイリ・ファミリー]]]** //(lewitt-zairi-family)// - 境界線イニシアチブのルウィット・ザイリ・ファミリー。
+* **[[[/system:page-tags/tag/ロヴァタール|ロヴァタール]]]** //(lovataar)// - ダエーワの姫君からクラヴィガルの一人へと転向した人物、ロヴァタール。
 * **[[[/system:page-tags/tag/マニー|マニー]]]** //(manny)// - ハーマン・フラーの不気味サーカスのマニー、またの名を"逆さまの顔を持つ男"。
 * **[[[/system:page-tags/tag/ナドックス|ナドックス]]]** //(nadox)// - サーキシズムの4人のクラヴィガルの一人、ナドックス。
 * **[[[/system:page-tags/tag/オロク|オロク]]]** //(orok)// - サーキシズムの4人のクラヴィガルの一人、オロク。
@@ -2058,7 +2077,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [[/>]]
 
 ++ ロケーション[[# location]]
-物語の舞台となる地名のタグです。何らかの異常性を帯びていたり外界と隔絶されていたりなどの理由で財団から注視されているものは要注意領域(LoI)と呼称されることもあります。
+物語の舞台となる地名のタグです。何らかの異常性を帯びていたり外界と隔絶されていたりなどの理由で財団から注視されているものは要注意領域(LoI)と呼称されることもあります。支部によっては、物語の舞台となる時間的区分をこの分類に含む場合もあります。
 
 [[div class="tab-basic"]]
 [[tabview]]
@@ -2068,6 +2087,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 +++ 要注意領域-EN
 
+* **[[[/system:page-tags/tag/7th-occult-war|7th-occult-war]]]** //(7th-occult-war)// - 連合国オカルトイニシアチブとオブスクラ軍団の間で起きた戦争、第七次オカルト戦争/大戦。
 * **[[[/system:page-tags/tag/アラガッダ|アラガッダ]]]** //(alagadda)// - アラガッダ。
 * **[[[/system:page-tags/tag/バックドア・ソーホー|バックドア・ソーホー]]]** //(backdoor-soho)// - バックドア・ソーホー。
 * **[[[/system:page-tags/tag/エスターバーグ|エスターバーグ]]]** //(esterberg)// - フリーポートの一つ、エスターバーグ。
@@ -2292,9 +2312,12 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/memecon2021-unofficial|memecon2021-unofficial]]]** //(memecon2021-unofficial)// - 非公式企画の[[[memecon-unofficial|2021年ミームコンテスト]]]。
 
+* **[[[/system:page-tags/tag/romcon2023-unofficial|romcon2023-unofficial]]]** //(romcon2023-unofficial)// - 非公式企画の[[[romcon|2023年ロマンスコンテスト]]]: SCPオリキャラトーナメント。
 以下のタグについては、特定の他支部の項を参照してください。
 
 * **[[[/system:page-tags/tag/goi2019|goi2019]]]** //(goi2019)// - コンテスト-INT (Otherタグ内) の項を参照してください。
+
+* **[[[/system:page-tags/tag/lorecon2023|lorecon2023]]]** //(lorecon2023)// - コンテスト-INT (Otherタグ内) の項を参照してください。
 
 
 @@ @@
@@ -2645,7 +2668,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/intcon2023|intcon2023]]]** //(intcon2023)// - [[[international-collaboration-contest-2023|国際共著コンテスト2023]]]。
 
-* **[[[/system:page-tags/tag/lorecon2023|lorecon2023]]]** //(lorecon2023)// - [[[lorecon2023|強大なる伝承・美学コンテスト]]]。
+* **[[[/system:page-tags/tag/lorecon2023|lorecon2023]]]** //(lorecon2023)// - [[[lorecon2023|The Mighty Lore and Aesthetics Contest]]]。
 
 @@ @@
 
