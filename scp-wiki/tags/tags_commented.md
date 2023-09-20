@@ -726,7 +726,6 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/antarctic-exchange antarctic-exchange]** -- Of or related to the [https://scp-wiki.wikidot.com/antarctic-exchange-hub Antarctic Exchange] canon.
 * **[https://scpwiki.com/system:page-tags/tag/apotheosis apotheosis]** -- Of or related to the [https://scp-wiki.wikidot.com/antarctic-exchange-hub Apotheosis] canon.
 * **[https://scpwiki.com/system:page-tags/tag/bellerverse bellerverse]** -- Of or related to the [https://scp-wiki.wikidot.com/bellerverse Bellerverse] canon.
-* **[https://scpwiki.com/system:page-tags/tag/black-rabbit-company black-rabbit-company]** -- Of or related to the [https://scp-wiki.wikidot.com/stealingsolidarityhub Stealing Solidarity] canon.
 * **[https://scpwiki.com/system:page-tags/tag/broken-masquerade broken-masquerade]** -- Of or related to the [https://scp-wiki.wikidot.com/broken-masquerade-hub Broken Masquerade] canon.
 * **[https://scpwiki.com/system:page-tags/tag/competitive-eschatology competitive-eschatology]** -- Of or related to the [https://scp-wiki.wikidot.com/Competitive-Eschatology-Hub Competitive Eschatology] canon.
 * **[https://scpwiki.com/system:page-tags/tag/cool-war-2 cool-war-2]** -- Of or related to the [https://scp-wiki.wikidot.com/cool-war-2-hub Cool War 2: Ruiz From Your Grave] canon.
@@ -735,7 +734,6 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/doctors-of-the-church doctors-of-the-church]** -- Of or related to the [https://scp-wiki.wikidot.com/doctors-of-the-church-hub Doctors of the Church] canon.
 * **[https://scpwiki.com/system:page-tags/tag/dread&circuses dread&circuses]** -- Of or related to the [https://scp-wiki.wikidot.com/dread-circuses-hub Dread and Circuses] canon.
 * **[https://scpwiki.com/system:page-tags/tag/end-of-death end-of-death]** -- Of or related to the [https://scp-wiki.wikidot.com/end-of-death-hub End of Death] canon.
-* **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Of or related to the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] canon.
 * **[https://scpwiki.com/system:page-tags/tag/from-120s-archives from-120s-archives]** -- Of or related to the [https://scp-wiki.wikidot.com/from-120-s-archives-hub From 120's Archives] canon.
 * **[https://scpwiki.com/system:page-tags/tag/green-king green-king]** -- Of or related to the [https://scp-wiki.wikidot.com/codename-green-king-hub Codename: Green King hub].
 * **[https://scpwiki.com/system:page-tags/tag/heimdall heimdall]** -- Of or related to [https://scp-wiki.wikidot.com/Project-Heimdall Project Heimdall].
@@ -779,16 +777,18 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/anabasis anabasis]** -- Of or related to the [https://scp-wiki.wikidot.com/anabasis-hub Anabasis] stories.
 * **[https://scpwiki.com/system:page-tags/tag/ao-tale ao-tale]** -- Of or related to the [https://scp-wiki.wikidot.com/ao-hub Tales of Anomalous Items] stories.
 * **[https://scpwiki.com/system:page-tags/tag/appliance-war appliance-war]** -- Of or related to [https://scp-wiki.wikidot.com/the-appliance-war-hub The Appliance War] series.
+* **[https://scpwiki.com/system:page-tags/tag/black-rabbit-company black-rabbit-company]** -- Of or related to the [https://scp-wiki.wikidot.com/stealingsolidarityhub Stealing Solidarity] series.
 * **[https://scpwiki.com/system:page-tags/tag/bury-the-survivors bury-the-survivors]** -- Of or related to the [https://scp-wiki.wikidot.com/bury-the-survivors-hub Bury the Survivors] series.
 * **[https://scpwiki.com/system:page-tags/tag/cack-hard cack-hard]** -- Of or related to the [https://scp-wiki.wikidot.com/cack-hub cack-hard] stories.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
+* **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Of or related to the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] series.
 * **[https://scpwiki.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#toc111 Global Occult Coalition Casefiles] stories.
 * **[https://scpwiki.com/system:page-tags/tag/harbinger harbinger]** -- Of or related to the Of or related to the HARBINGER stories.
 * **[https://scpwiki.com/system:page-tags/tag/integration-program integration-program]** -- Of or related to the [https://scp-wiki.wikidot.com/integration-program-hub Integration Program] series.
 * **[https://scpwiki.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Of or related to the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
 * **[https://scpwiki.com/system:page-tags/tag/mister mister]** -- Of or related to the "Little Misters" series of anomalous individuals.
-* **[https://scpwiki.com/system:page-tags/tag/Mundus-Liberari Mundus-Liberari]** -- Of or related to the [https://scp-wiki.wikidot.com/kiryu-labs-hub Mundus, Liberari] series.
+* **[https://scpwiki.com/system:page-tags/tag/mundus-Liberari mundus-Liberari]** -- Of or related to the [https://scp-wiki.wikidot.com/mundus-liberari Mundus, Liberari] series.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Of or related to the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Of or related to the [resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Of or related to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
