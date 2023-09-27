@@ -1079,7 +1079,10 @@
 * **[[[/system:page-tags/tag/港城江|港城江]]]** //(港城江)// - [[[k-s-g-hub|港．城．江]]]。
 * **[[[/system:page-tags/tag/荏苒荒涼|荏苒荒涼]]]** //(荏苒荒凉)// - [[[slipping-desolation|荏苒荒涼]]]。
 * **[[[/system:page-tags/tlorecon2023、転写不全ag/アルツハイマー・シンドローム|アルツハイマー・シンドローム]]]** //(阿尔兹海默症)// - [[[alzheimer-central|アルツハイマー・シンドローム]]]。
+* **[[[/system:page-tags/tag/捜査部|捜査部]]]** //(刑侦处)// - [[[criminal-investigation-department-hub|捜査部]]]。
 * **[[[/system:page-tags/tag/転写不全|転写不全]]]** //(转录故障)// - [[[transcription-malfunctioned-hub|転写不全]]]。
+* **[[[/system:page-tags/tag/境界の画定者|境界の画定者]]]** //(边界勘定人)// - [[[demarcaters-of-the-edge-center|境界の画定者]]]。
+* **[[[/system:page-tags/tag/コールド・スタート|コールド・スタート]]]** //(冷启动)// - [[[cold-start-hub|コールド・スタート]]]。
 
 [[/tab]][!--CN--]
 [[tab FR]]
@@ -1554,6 +1557,7 @@
 * **[[[/system:page-tags/tag/魔法楽団|魔法楽団]]]** //(魔法乐团)// - 魔法楽団。
 * **[[[/system:page-tags/tag/劇組|劇組]]]** //(剧组)// - [[[revue|劇組]]]。
 * **[[[/system:page-tags/tag/風露旅社|風露旅社]]]** //(风露旅社)// - [[[wind-dew-travel-agency|風露旅社]]]。
+* **[[[/system:page-tags/tag/迷宮|迷宮]]]** //(迷宫)// - [[[maze-hub|迷宮]]]。
 
 @@ @@
 
@@ -1562,7 +1566,6 @@
 * **[[[/system:page-tags/tag/平異会|平異会]]]** //(平异会)// - 平異会。
 * **[[[/system:page-tags/tag/房先生|房先生]]]** //(房先生)// - 房先生。
 * **[[[/system:page-tags/tag/世界ドカーン連合|世界ドカーン連合]]]** //(全球轰炸联盟)// - [[[gec-hub-page|世界ドカーン連合]]]。
-* **[[[/system:page-tags/tag/迷宮|迷宮]]]** //(迷宫)// - 迷宮。
 
 [!--
 ★未申請。関連記事未翻訳。
