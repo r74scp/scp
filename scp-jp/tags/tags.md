@@ -2403,14 +2403,27 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [[/tab]][!--FR--]
 [!--[[tab PL]]
 [[/tab]]PL--]
-[!--[[tab ES]]
-[[/tab]]ES--]
+[[tab ES]]
+
++++ 要注意領域-ES
+
+* **[[[/system:page-tags/tag/ブタイ|ブタイ]]]** //(butai)// - ブタイ市。
+* **[[[/system:page-tags/tag/ホイオヒニャ|ホイオヒニャ]]]** //(hoiohiña)// - ホイオヒニャ。
+* **[[[/system:page-tags/tag/トラネジャンコ|トラネジャンコ]]]** //(tlaneyanco)// - トラネジャンコ王国。
+
+[[/tab]][!--ES--]
 [!--[[tab TH]]
 [[/tab]]TH--]
 [!--[[tab DE]]
 [[/tab]]DE--]
-[!--[[tab IT]]
-[[/tab]]IT--]
+[[tab IT]]
+
++++ 要注意領域-IT
+
+* **[[[/system:page-tags/tag/ゴリチュニャ|ゴリチュニャ]]]** //(gorična)// - FP-108 "ゴリチュニャ"。
+* **[[[/system:page-tags/tag/ノヴァ・カンネ|ノヴァ・カンネ]]]** //(nova-cannae)// - FP-206 "ノヴァ・カンネ"。
+
+[[/tab]][!--IT--]
 [!--[[tab UA]]
 [[/tab]]UA--]
 [!--[[tab PT]]
