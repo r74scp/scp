@@ -2892,7 +2892,7 @@ http://scpfoundation.net/contests
 
 +++ コンテスト-PL
 * **[[[/system:page-tags/tag/pl200|pl200]]]** //(pl200)// - [[[konkurs-pl-200|SCP-PL-200コンテスト「責任」]]]。
-
+* **[[[/system:page-tags/tag/crackfic2022|crackfic2022]]]** //(crackfic2022)// - [[[haszyszofikcyjnokonkurs|クラックフィクションコンテスト]]]。
 [!--
 ★未申請。
 +++ コンテスト-PL
@@ -2903,7 +2903,6 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/kw2018|kw2018]]]** //(kw2018)// - [[[konkurs-wakacyjny-2018|夏季コンテスト2018]]]。
 * **[[[/system:page-tags/tag/iwiel2020|iwiel2020]]]** //(iwiel2020)// - [[[inicjatywa-wielkanocna-2020|イースターイベント2020]]]。
 * **[[[/system:page-tags/tag/rs2020|rs2020]]]** //(rs2020)// - [[[rezurekcja-usunietych|リサイクルコンテスト (ハロウィン2020)]]]。
-* **[[[/system:page-tags/tag/crackfic2022|crackfic2022]]]** //(crackfic2022)// - [[[haszyszofikcyjnokonkurs|クラックフィクションコンテスト]]]。
 
 +++ プロジェクト-PL
 * **[[[/system:page-tags/tag/syl2020|syl2020]]]** //(syl2020)// - [[[http://scp-wiki.net.pl/forum/t-13966182/wyzwanie-pisarskie-sylwester-2020|2020年大晦日執筆チャレンジ]]]。

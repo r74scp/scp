@@ -2599,7 +2599,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 +++ コンテスト-PL
 * **[[[/system:page-tags/tag/pl200|pl200]]]** //(pl200)// - [[[konkurs-pl-200|SCP-PL-200コンテスト「責任」]]]。
-
+* **[[[/system:page-tags/tag/crackfic2022|crackfic2022]]]** //(crackfic2022)// - [[[haszyszofikcyjnokonkurs|クラックフィクションコンテスト]]]。
 [[/tab]]
 [[tab ES]]
 
