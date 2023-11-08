@@ -529,6 +529,79 @@ Any tags that do not fit into the other sections.
 * **[https://scpwiki.com/system:page-tags/tag/uncontained uncontained]** -- SCP is neither fully nor partially contained. This should only be applied to SCPs where no instances are contained at all and does not apply if the Foundation successfully contains one or more instances.
 
 [[/tab]]
+[[tab Genre and Themes]]
+++ Genre and Themes
+
+.
+
+[[div class="blockquote"]]
+The following applies to all tags in this category:
+
+* Requires 'tale'
+
+[[/div]]
+
++++ Genre
+
+Describes the genre of a tale.
+
+* **[https://scpwiki.com/system:page-tags/tag/absurdist-fiction absurdist-fiction]** -- Depicts events lacking any rational explanation or meaning, for the purpose of shock or comedy.
+* **[https://scpwiki.com/system:page-tags/tag/action action]** -- Focuses on exciting events and spectacular violence.
+* **[https://scpwiki.com/system:page-tags/tag/adventure adventure]** -- Focuses on the exploration of unfamiliar environments.
+* **[https://scpwiki.com/system:page-tags/tag/bittersweet bittersweet]** -- Intended to evoke both positive and negative emotions. For tales that mix elements of both the bleak and heartwarming tags.
+* **[https://scpwiki.com/system:page-tags/tag/bleak bleak]** -- Intended to evoke negative emotions, focusing on anguish, distress and suffering.
+* **[https://scpwiki.com/system:page-tags/tag/comedy comedy]** -- Intended to be funny.
+* **[https://scpwiki.com/system:page-tags/tag/black-comedy black-comedy]** -- Depicts shocking or unpleasant situations for the purpose of humour.
+ * //Requires 'comedy'//
+* **[https://scpwiki.com/system:page-tags/tag/chase chase]** -- Focuses on pursuit or escape.
+* **[https://scpwiki.com/system:page-tags/tag/crime-fiction crime-fiction]** -- Focuses on criminals and law enforcement.
+* **[https://scpwiki.com/system:page-tags/tag/fantasy fantasy]** -- Depicts magic and the supernatural, inspired by mythology and folklore.
+* **[https://scpwiki.com/system:page-tags/tag/heartwarming heartwarming]** -- Intended to evoke positive emotions, focusing on pleasant experiences and supportive relationships.
+* **[https://scpwiki.com/system:page-tags/tag/horror horror]** -- Intended to evoke fear, shock or disgust in the reader.
+* **[https://scpwiki.com/system:page-tags/tag/body-horror body-horror]** -- Focuses on physical mutilation or transformation.
+ * //Requires 'horror'//
+* **[https://scpwiki.com/system:page-tags/tag/cosmic-horror cosmic-horror]** -- focuses on human insignificance and irrelevance, with emphasis on the unknowable and incomprehensible.
+ * //Requires 'horror'//
+* **[https://scpwiki.com/system:page-tags/tag/psychological-horror psychological-horror]** -- focuses on psychological distress and emotional vulnerability.
+ * //Requires 'horror'//
+* **[https://scpwiki.com/system:page-tags/tag/lgbtq lgbtq]** -- Article features LGBTQ+ themes, culture or history as a major focus of the work. Possible examples include portrayal of gay and lesbian relationships, depiction of asexuality and bisexuality, and exploration of trans, queer and agender identities.
+* **[https://scpwiki.com/system:page-tags/tag/military-fiction military-fiction]** -- Focuses on soldiers, field agents or mercenaries.
+* **[https://scpwiki.com/system:page-tags/tag/mystery mystery]** -- Focuses on investigation of unanswered questions.
+* **[https://scpwiki.com/system:page-tags/tag/mythological-fiction mythological-fiction]** -- Depicts creatures, events and practices drawn from mythology and folklore of a specific culture, outside of structured religious practice.
+* **[https://scpwiki.com/system:page-tags/tag/religious-fiction religious-fiction]** -- Focuses on religion, faith and belief. Includes depictions of real-world religions, as well as worship of anomalous entities.
+* **[https://scpwiki.com/system:page-tags/tag/romance romance]** -- Focuses on romantic relationships between characters.
+* **[https://scpwiki.com/system:page-tags/tag/science-fiction science-fiction]** -- Depicts advanced science and technology. May feature scientific analysis of phenomena currently thought to be impossible.
+* **[https://scpwiki.com/system:page-tags/tag/slice-of-life slice-of-life]** -- Offers a look into the everyday lives of characters, with a focus on the mundane.
+* **[https://scpwiki.com/system:page-tags/tag/spy-fiction spy-fiction]** -- Focuses on espionage and counter-intelligence.
+* **[https://scpwiki.com/system:page-tags/tag/surrealist-fiction surrealist-fiction]** -- Creates a dream-like story by juxtoposing the mundane with the impossible and irrational, with emphasis on subconscious associations between them.
+
++++ Setting
+
+Describes the setting of a tale.
+
+* **[https://scpwiki.com/system:page-tags/tag/alternate-history alternate-history]** -- Depicts historical events that diverge from how they happened in real life. Does not apply to future events, or to anomalous reinterpretations of events that did happen (e.g. the 7th Occult War).
+* **[https://scpwiki.com/system:page-tags/tag/dystopian dystopian]** -- Imagines a non-existent society or culture, portrayed as being much worse than our current one.
+* **[https://scpwiki.com/system:page-tags/tag/otherworldly otherworldly]** -- Set in another world, reality or universe. Includes works that are specifically set somewhere other than Earth, as well as portal fantasy fiction featuring travel to another world..
+* **[https://scpwiki.com/system:page-tags/tag/period-piece period-piece]** -- Set during a specific period in the past.
+* **[https://scpwiki.com/system:page-tags/tag/post-apocalyptic post-apocalyptic]** -- Takes place after a catastrophic event.
+* **[https://scpwiki.com/system:page-tags/tag/space-opera space-opera]** -- Depicts a futuristic society in outer space or on other planets, focusing on dramatic events and adventures.
+* **[https://scpwiki.com/system:page-tags/tag/western western]** -- Set in the American Frontier, during the time period known as the Wild West.
+* **[https://scpwiki.com/system:page-tags/tag/utopian utopian]** -- Imagines a non-existent society or culture, portrayed as being much better than our current one.
+
++++ Style
+
+Describes the style of a tale.
+
+* **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- told from a first-person perspective ("I did").
+* **[https://scpwiki.com/system:page-tags/tag/second-person second-person]** -- told from a second-person perspective ("you did").
+* **[https://scpwiki.com/system:page-tags/tag/no-dialogue no-dialogue]** -- Contains no spoken dialogue.
+* **[https://scpwiki.com/system:page-tags/tag/worldbuilding worldbuilding]** -- Focuses on conveying information about the setting, often taking the form of an in-universe document.
+
++++ Other
+
+* **[https://scpwiki.com/system:page-tags/tag/_genreless _genreless]** -- No Genre, Setting or style tags apply to this tale.
+
+[[/tab]]
 [[tab Groups]]
 ++ Groups
 
@@ -1055,6 +1128,7 @@ These tags are added only used by SCP Wiki staff, and are intended to designate 
 * **[https://scpwiki.com/system:page-tags/tag/_cc _cc]** -- This tag indicates that all images on the page in question have been demonstrated to be fully compliant with current licensing policy. __This tag should **only** be added by a member of the Licensing team__. This tag conflicts with _image.
  * //Conflicts with '_image'//
  * //Supersedes '_image'//
+* **[https://scpwiki.com/system:page-tags/tag/_cc4 _cc4]** -- This tag indicates that the page includes an image licensed under CC4. __This tag should **only** be added by a member of the Licensing team__. This tag conflicts with _image.
 * **[https://scpwiki.com/system:page-tags/tag/_image _image]** -- This is a temporary tag that the tagging team applies to new articles that include one or more images, irrespective of whatever licensing information is provided by the author. This tag acts as an indicator to the Licensing team that there are images whose license status need to be confirmed and/or verified. Licensing will remove the _image tag and replace it with the _cc tag (or, if images are removed, no tag at all) when appropriate.
  * //Conflicts with '_cc'//
  * //Superseded by '_cc'//
