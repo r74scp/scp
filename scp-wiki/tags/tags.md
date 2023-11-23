@@ -541,6 +541,8 @@ The following applies to all tags in this category:
 
 [[/div]]
 
+* **[https://scpwiki.com/system:page-tags/tag/orientation orientation]** -- Styled as an orientation lecture.
+
 +++ Genre
 
 Describes the genre of a tale.
@@ -595,6 +597,7 @@ Describes the style of a tale.
 * **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- told from a first-person perspective ("I did").
 * **[https://scpwiki.com/system:page-tags/tag/second-person second-person]** -- told from a second-person perspective ("you did").
 * **[https://scpwiki.com/system:page-tags/tag/no-dialogue no-dialogue]** -- Contains no spoken dialogue.
+* **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- story in the style of short, old-school Internet horror.
 * **[https://scpwiki.com/system:page-tags/tag/worldbuilding worldbuilding]** -- Focuses on conveying information about the setting, often taking the form of an in-universe document.
 
 +++ Other
@@ -620,6 +623,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Of or related to the Foundation's Fire Suppression Department.
 * **[https://scpwiki.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
 * **[https://scpwiki.com/system:page-tags/tag/miscommunications miscommunications]** -- Of or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
+* **[https://scpwiki.com/system:page-tags/tag/department-of-other department-of-other]** -- Of or related to the Foundation's Department of Other, responsible for -J SCPs.
 * **[https://scpwiki.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Of or related to the Foundation's Pataphysics Department.
 * **[https://scpwiki.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Of or related to the Foundation's Department of Procurement and Liquidation.
 * **[https://scpwiki.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Of or related to the Foundation's Department of Surrealistics.
@@ -876,7 +880,6 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Of or related to the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Of or related to the [resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Of or related to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
-* **[https://scpwiki.com/system:page-tags/tag/orientation orientation]** -- Of or related to the Orientation series.
 * **[https://scpwiki.com/system:page-tags/tag/palisade palisade]** -- Of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
 * **[https://scpwiki.com/system:page-tags/tag/project-crossover project-crossover]** -- Of or related to [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Of or related to [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
@@ -885,6 +888,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/untitled-series untitled-series]** -- Error description cannot be blank [https://scp-wiki.wikidot.com/https://scp-wiki.wikidot.com/unreality-hub or linked to the click to add text] series.
 * **[https://scpwiki.com/system:page-tags/tag/we-meet-again we-meet-again]** -- Of or related to the [https://scp-wiki.wikidot.com/and-every-time-we-meet-again-hub And Every Time We Meet Again] series.
 * **[https://scpwiki.com/system:page-tags/tag/whore-of-blood whore-of-blood]** -- Of or related to the [https://scp-wiki.wikidot.com/whore-of-blood-hub Whore of Blood] series.
+* **[https://scpwiki.com/system:page-tags/tag/wrong-tomorrow wrong-tomorrow]** -- Of or related to the [https://scp-wiki.wikidot.com/wrong-tomorrow-hub Wrong Tomorrow] series.
 * **[https://scpwiki.com/system:page-tags/tag/yggdrasil-s-surveyor yggdrasil-s-surveyor]** -- Of or related to the cross-canon series [https://scp-wiki.wikidot.com/yggdrasils-surveyor Yggdrasil's Surveyor].
 
 [[/tab]]
@@ -987,6 +991,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/researcher-talloran researcher-talloran]** -- Researcher Talloran.
 * **[https://scpwiki.com/system:page-tags/tag/riven-mercer riven-mercer]** -- Riven Mercer of Kiryu Labs.
 * **[https://scpwiki.com/system:page-tags/tag/sheldon-katz sheldon-katz]** -- Sheldon Katz, of the Legal Department.
+* **[https://scpwiki.com/system:page-tags/tag/samara-maclear samara-maclear]** -- Samara Maclear, Foundation Psionics Specialist.
 * **[https://scpwiki.com/system:page-tags/tag/simon-pietrykau simon-pietrykau]** -- Simon Pietrykau, of the Department of Analytics.
 * **[https://scpwiki.com/system:page-tags/tag/thad-xyank thad-xyank]** -- Dr. Thaddeus "Thad" Xyank, of the Department of Temporal Anomalies.
 * **[https://scpwiki.com/system:page-tags/tag/the-administrator the-administrator]** -- The Administrator (as a separate entity from the O5 Council).
