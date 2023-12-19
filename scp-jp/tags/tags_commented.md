@@ -1995,6 +1995,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/くだん・バンシー|くだん・バンシー]]]** - [[[SCP-1146-JP]]]で登場する存在、通称「くだん・バンシー」。
 * **[[[/system:page-tags/tag/久能尚史|久能尚史]]]** - 久能 尚史。
 * **[[[/system:page-tags/tag/桑名博士|桑名博士]]]** - 桑名博士。
+* **[[[/system:page-tags/tag/消照闇子|消照闇子]]]** - 消照闇子、または[[[SCP-835-JP]]]。
 * **[[[/system:page-tags/tag/咬冴隊員|咬冴隊員]]]** - 咬冴隊員。
 * **[[[/system:page-tags/tag/犀賀六巳|犀賀六巳]]]** - 犀賀六巳。
 * **[[[/system:page-tags/tag/西行|西行]]]** - [[[SCP-571-JP]]]。
@@ -2136,6 +2137,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 +++ セキュリティ施設-JP
 
 * **[[[/system:page-tags/tag/サイト-81ka|サイト-81ka]]]** - サイト-81KA。
+* **[[[/system:page-tags/tag/サイト-81uo|サイト-81uo]]]** - サイト-81UO。
 
 [[/tab]]
 [[tab KO]]
@@ -2159,14 +2161,18 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/サイト-cn-02|サイト-cn-02]]]** //(site-cn-02)// - [[[site-cn-02|サイト-CN-02]]]。
 * **[[[/system:page-tags/tag/サイト-cn-03|サイト-cn-03]]]** //(site-cn-03)// - [[[site-cn-03|サイト-CN-03]]]。
 * **[[[/system:page-tags/tag/サイト-cn-06|サイト-cn-06]]]** //(site-cn-06)// - [[[site-cn-06|サイト-CN-06]]]。
+* **[[[/system:page-tags/tag/サイト-cn-09|サイト-cn-09]]]** //(site-cn-09)// - サイト-CN-09。
+* **[[[/system:page-tags/tag/サイト-cn-10|サイト-cn-10]]]** //(site-cn-10)// - サイト-CN-10。
 * **[[[/system:page-tags/tag/サイト-cn-19|サイト-cn-19]]]** //(site-cn-19)// - [[[site-cn-19|サイト-CN-19]]]。
 * **[[[/system:page-tags/tag/サイト-cn-21|サイト-cn-21]]]** //(site-cn-21)// - [[[site-cn-21|サイト-CN-21]]]。
 * **[[[/system:page-tags/tag/サイト-cn-34|サイト-cn-34]]]** //(site-cn-34)// - [[[site-cn-34|サイト-CN-34]]]。
-* **[[[/system:page-tags/tag/サイト-cn-71|サイト-cn-71]]]** //(site-cn-71)// - [[[secure-facility-dossier-site-cn-71|サイト-CN-71]]]。
+* **[[[/system:page-tags/tag/サイト-cn-71|サイト-cn-71]]]** //(site-cn-71)// - [[[secure-facility-
+* dossier-site-cn-71|サイト-CN-71]]]。
 * **[[[/system:page-tags/tag/サイト-cn-75|サイト-cn-75]]]** //(site-cn-75)// - [[[site-cn-75|サイト-CN-75]]]。
 * **[[[/system:page-tags/tag/サイト-cn-82|サイト-cn-82]]]** //(site-cn-82)// - [[[site-cn-82|サイト-CN-82]]]。
 * **[[[/system:page-tags/tag/サイト-cn-91|サイト-cn-91]]]** //(site-cn-91)// - [[[site-cn-91|サイト-CN-91]]]。
 * **[[[/system:page-tags/tag/エリア-cn-07|エリア-cn-07]]]** //(area-cn-07)// - [[[area-cn-07|エリア-CN-07]]]。
+* **[[[/system:page-tags/tag/エリア-cn-15|エリア-cn-15]]]** //(area-cn-15)// - [[[area-cn-15|エリア-CN-15]]]。
 
 
 [[/tab]]
@@ -2560,6 +2566,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/2022冬季コンテスト|2022冬季コンテスト]]]** //(2022冬季征文)// - [[[winter-contest-2022|2022冬季“寻物/失物启事”コンテスト]]]。
 
 * **[[[/system:page-tags/tag/2023カノンコンテスト|2023カノンコンテスト]]]** //(2023设定竞赛)// - [[[2023-canon-contest-hub|2023"欠落"カノンコンテスト]]]。
+
+* **[[[/system:page-tags/tag/2023撕咬コンテスト|2023撕咬コンテスト]]]** //(2023撕咬竞赛)// - [[[teeth-claws-combat-hub|狠撕猛咬コンテスト]]]。
 
 
 @@ @@
