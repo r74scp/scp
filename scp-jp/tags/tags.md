@@ -1,14 +1,33 @@
 [[module css]]
-@import url('http://rtas.wdfiles.com/local--code_/credit%3Astyle/1');
+@import url('https://scp-jp.github.io/files/util/common/credit/style/style.css');
+
+.creditRate.no-rate .page-rate-widget-box {
+    visibility:hidden;
+}
+
+.creditRate.creditModule.no-rate ~ #u-credit-view .creditBottomRate > div:nth-of-type(2) {
+    display: none;
+}
 [[/module]]
 
-[[div_ class="creditRate"]]
-[[div_ class="rateBox"]]
+[[div_ class="creditRate creditModule no-rate"]]
+[[div_ class="rateBox" [[iftags 殿堂入り]]style="display:none;"[[/iftags]]]]
 [[div_ class="rate-box-with-credit-button"]]
 [[module Rate]]
 [[div_ class="creditButton"]]
 [[a href="#u-credit-view" class="fa fa-info" style="position:relative;"]][[image http://scp-jp.wikidot.com/local--files/nav:side/blank.png title="クレジットを表示する" style="position:absolute;height:100%;width:100%;top:0;left:0;"]][[/a]]
 [[/div]]
+[[/div]]
+[[/div]]
+[[div_ class="rateBox heritage-wrap" [[iftags -殿堂入り]]style="display:none;"[[/iftags]]]]
+[[div_ class="heritage-rating-module"]]
+[[div_ class="heritage-emblem"]]
+[[image http://scp-jp.wdfiles.com/local--files/component:heritage-rating/scp-heritage-v3.png link="[[iftags +殿堂入り +en]]archived:heritage-collection[[/iftags]][[iftags +殿堂入り +jp]]heritage-collection-jp[[/iftags]][[iftags +殿堂入り +fr]]patrimoine-francais-de-la-fondation-scp[[/iftags]]" style="max-width: none;"]]
+[[/div]]
+[[module Rate]]
+[[/div]]
+[[div_ class="creditButton"]]
+[[a href="#u-credit-view" class="fa fa-info" style="position:relative;"]][[image http://scp-jp-sandbox2.wikidot.com/local--files/nav:side/blank.png title="クレジットを表示する" style="position:absolute;height:100%;width:100%;top:0;left:0;"]][[/a]]
 [[/div]]
 [[/div]]
 [[/div]]
@@ -18,12 +37,12 @@
 
 [[div_ id="credit-view"]]
 [[div_ class="fader"]]
-[[iframe http://rtas.wdfiles.com/local--code/credit%3Abackmodule/1 ]]
+[[iframe https://scp-jp.github.io/files/util/common/credit/backmodule/start.html ]]
 [[/div]]
 
 [[div_ class="modalcontainer"]]
-[[div_ class="modalbox"]]
-[[div_ class="modalbox-title"]]
+[[div_ class="modalbox [[iftags 殿堂入り]]heritage[[/iftags]]"]]
+[[div_ class="modalbox-title [[iftags 殿堂入り]]heritage[[/iftags]]"]]
 ++* クレジット
 [[/div]]
 [[div class="credit"]]
@@ -35,7 +54,7 @@
 本ページはSCPコミュニティのために作成され、SCP財団に帰属します。本ページの管理は[[[meet-the-staff-jp|サイトスタッフ]]]に委任されています。
 
 [[div_ class="credit-back" style="text-align: center;"]]
-[[iframe http://rtas.wdfiles.com/local--code/credit%3Abackmodule/2 style="height:2em;width: 100%;margin: 0;padding: 0;border: 0;background: transparent;" scrolling="no"]]
+[[iframe https://scp-jp.github.io/files/util/common/credit/backmodule/end.html style="height:2em;width: 100%;margin: 0;padding: 0;border: 0;background: transparent;" scrolling="no"]]
 [[/div]]
 [[/div]]
 
@@ -44,7 +63,15 @@
 [[a href="*https://creativecommons.org/licenses/by-sa/3.0/deed.ja" class="cc cc-by-sa"]]@@@@[[/a]]
 [[/div]]
 [[div_ style="text-align: center; top: 0px;"]]
-[[div_ ]]
+[[div_ [[iftags +殿堂入り]]style="display: flex;"[[/iftags]] class="Dendo"]]
+[[div_ class="heritage-rating-module"]]
+[[div_ class="heritage-emblem"]]
+[[image http://scp-jp.wdfiles.com/local--files/component:heritage-rating/scp-heritage-v3.png link="[[iftags +殿堂入り +en]]heritage-collection-arc[[/iftags]][[iftags +殿堂入り +fr]]patrimoine-francais-de-la-fondation-scp[[/iftags]][[iftags +殿堂入り +jp]]heritage-collection-jp[[/iftags]]" style=" max-width: none;"]]
+[[/div]]
+[[module Rate]]
+[[/div]]
+[[/div]]
+[[div_ [[iftags +殿堂入り]]style="display:none;"[[/iftags]]]]
 [[module Rate]]
 [[/div]]
 [[/div]]
@@ -77,6 +104,7 @@
 [[module CSS]]
 .toc-box {position: fixed;right: 5px;bottom: 3.2em;padding-left: 0;padding-right: 0; z-index: 10;}.toc-box .pseudo-title {margin: 0.2em 0;padding: 0 2em;text-align: center;}.toc-box hr {margin: 0;padding: 0;background-color: transparent;border: none;border-bottom: 1px dashed gray;}.toc-box #toc {font-size: 95%;min-width: 80px;max-width: 200px;word-break: break-all;border: none!important;}.toc-box #toc .title,.toc-box #toc #toc-action-bar,.toc-box #toc #toc-action-bar a {display: none!important;}.toc-box {margin: 1em auto 1em 0;padding: 0em 1em;border: 1px dashed gray;background-color: #F7F7F7;display: table;}.toc-box #toc-list div {margin-left: 0!important;}.toc-box .collapsible-block-unfolded-link,.toc-box .collapsible-block-folded {text-align: center;}@media (max-width: 767px) {.toc-box {animation-name: clear; animation-duration: 1s; animation-delay: 1s; animation-fill-mode: forwards;}.toc-box:hover {animation: none;}}@keyframes clear {to {opacity: 0.45;}}
 [[/module]]
+[!-- 基本的なタグ --]
 
 + 基本的なタグ[[# basic]]
 [[div class="ban-tags"]]
@@ -953,6 +981,8 @@
 
 ----
 
+[!-- シリーズタグ --]
+
 + シリーズタグ[[# series]]
 特定のシリーズに属するページに付与されるタグです。
 
@@ -1317,6 +1347,8 @@
 [[/>]]
 
 ----
+
+[!-- 世界観タグ --]
 
 + 世界観用語タグ[[# universe]]
 特定の世界観用語が関係するページに付与されるタグです。
@@ -2477,6 +2509,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 ----
 
+[!-- イベントタグ --]
+
 + イベントタグ[[# event]]
 特定のイベントに参加しているページに付与されるタグです。ここでのイベントは、コンテストに限らず広範に企画全般を指します。
 
@@ -3099,14 +3133,7 @@ http://scpfoundation.net/contests
 
 ----
 
-[[module CSS]]
-
-.untouchable a {
-color: #990011;
-pointer-events: none;
-}
-
-[[/module]]
+[!-- 非使用タグ --]
 
 + 非使用タグ[[# unused]]
 以下のタグの付与は現在SCP-JPにおいて許可されていません。
@@ -3318,42 +3345,7 @@ SCP-ENだけではなく、他支部でも使用されている場合があり�
 * **[[[/system/page-tags/tag/o|o]]]** //(o)// / **[[[/system:page-tags/tag/oo|oo]]]** //(oo)// / **[[[/system/page-tags/tag/ooo|ooo]]]** //(ooo)// / **[[[/system:page-tags/tag/oooo|oooo]]]** //(oooo)// / **[[[/system/page-tags/tag/_o|_o]]]** //(_o)// - 記事の英文の精度に対するフィードバックの必要度合いを表すタグです。
 [[/div]]
 [[/tab]]
-[[tab 廃止されたタグ]]
-重要なタグのみをピックアップして掲載しています。
 
-+++ アトリビュート
-
-* **[[[/system:page-tags/tag/アリ|アリ]]]** //(formic)// - 蟻のような動物であるか、その特徴を示すSCPの記事に付与されるタグです。このタグはENで廃止されたため、JPにおいても翻訳記事・オリジナル記事を問わず使用することはできなくなりました。
-
-* **[[[/system:page-tags/tag/異節目|異節目]]]** //(xenarthran)// - アリクイ、アルマジロ、ナマケモノのような異節目の動物であるか、その特徴を示すSCPの記事に付与されるタグです。このタグはENで廃止されたため、JPにおいても翻訳記事・オリジナル記事を問わず使用することはできなくなりました。
-
-* **[[[/system:page-tags/tag/カメ|カメ]]]** //(chelonian)// - 亀のような動物であるか、その特徴を示すSCPの記事に付与されるタグです。このタグはENで廃止されたため、JPにおいても翻訳記事・オリジナル記事を問わず使用することはできなくなりました。
-
-* **[[[/system:page-tags/tag/キツネ|キツネ]]]** //(vulpine)// - 狐のような動物であるか、その特徴を示すSCPの記事に付与されるタグです。このタグはENで廃止されたため、JPにおいても翻訳記事・オリジナル記事を問わず使用することはできなくなりました。
-
-* **[[[/system:page-tags/tag/国内収容|国内収容]]]** - 以前は日本の財団施設で収容されているSCPオブジェクトに関する報告書に付与されるアトリビュートタグとして使用されていましたが、scp-jpの記事の大部分が該当するため検索用途に適さない等複数の理由により廃止されました。
-
-* **[[[/system:page-tags/tag/サボテン|サボテン]]]** //(cactaceous)// - サボテン科の植物であるか、その特徴を示すSCPの記事に付与されるタグです。このタグはENで廃止されたため、JPにおいても翻訳記事・オリジナル記事を問わず使用することはできなくなりました。
-
-* **[[[/system:page-tags/tag/対話型|対話型]]]** //(interactive)// - 以前まで//インタラクティブ//タグの代わりに使われていたアトリビュートタグですが、訳語の変更により廃止されました。//インタラクティブ//タグに置換してください。
-
-* **[[[/system:page-tags/tag/ヒツジ|ヒツジ]]]** //(ovine)// - 羊のような動物であるか、その特徴を示すSCPの記事に付与されるタグです。このタグはENで廃止されたため、JPにおいても翻訳記事・オリジナル記事を問わず使用することはできなくなりました。
-
-* **[[[/system:page-tags/tag/ラクダ|ラクダ]]]** //(camelid)// - ラクダ科の動物のような特徴を持つSCPオブジェクトに関する報告書に付与されるアトリビュートタグです。アルパカとラマを含みます。このタグはENで廃止されたため、JPにおいても翻訳記事・オリジナル記事を問わず使用することはできなくなりました。
-
-+++ その他
-
-* **<ここにメジャータグを代入>-<ここに支部タグを代入>** - 支部タグが導入される以前に存在したメジャータグ群です。
-
-* **[[[/system:page-tags/tag/テンプレート|テンプレート]]]** //(template)// - 現在の//コンポーネント//タグ及び//テーマ//タグの機能を果たしていたタグです。//テンプレート//タグの廃止に伴い、//テンプレート//の機能は//コンポーネント//と//テーマ//に分割され、//コンポーネント//タグの従来の役割は//コンポーネント・バックエンド//タグに引き継がれました。
-
-* **[[[/system:page-tags/tag/scp燃料|scp燃料]]]** //(scp-fuel)// - "SCP燃料"、即ち記事内に画像を掲載したい人のための画像を含むページに付与されるタグです。JPでは用いられていませんでしたが、ENでも廃止されました。
-
-* **[[[/system:page-tags/tag/unclassed|unclassed]]]** //(unclassed)// - オブジェクトクラスを示すタグの一つでした。現在は//esoteric-class//で代用されます。
-
-* **[[[/system:page-tags/tag/元記事差し替え|元記事差し替え]]]** - 現在はタグ名が変更され//元記事削除//が代わりに使用されています。
-
-[[/tab]]
 [[/tabview]]
 [[/div]]
 [[>]]
@@ -3361,6 +3353,8 @@ SCP-ENだけではなく、他支部でも使用されている場合があり�
 [[/>]]
 
 ----
+
+[!-- FAQ --]
 
 + FAQ[[# faq]]
 
@@ -3513,6 +3507,26 @@ SCP-DEの一部のカノンに属する記事には、メジャータグが付�
 [[>]]
 [#faq 項目上部へ戻る]
 [[/>]]
+
+[!-- 
+当ページはフラグメントページを使用しています。
+以下はその一覧です。
+http://scp-jp.wikidot.com/fragment:tag-list-basic
+http://scp-jp.wikidot.com/fragment:tag-list-series
+http://scp-jp.wikidot.com/fragment:tag-list-universe
+http://scp-jp.wikidot.com/fragment:tag-list-event
+http://scp-jp.wikidot.com/fragment:tag-list-unused
+http://scp-jp.wikidot.com/fragment:tag-list-faq
+--]
+
+[[module CSS]]
+
+.untouchable a {
+color: #990011;
+pointer-events: none;
+}
+
+[[/module]]
 
 [[module CSS]]
 .tab-basic .yui-nav>li:nth-child(1).selected {
