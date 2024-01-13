@@ -1841,6 +1841,7 @@ http://scp-slovenija.wikidot.com/is-arhiva
 
 +++ 部門-JP
 
+* **[[[/system:page-tags/tag/異常発見部門|異常発見部門]]]** - 異常発見部門。
 * **[[[/system:page-tags/tag/形式部門|形式部門]]]** - [[[formality-department-hub|形式部門]]]。
 * **[[[/system:page-tags/tag/対話部門|対話部門]]]** - 対話部門。[!-- ハブはあるが設定集ではない --]
 
