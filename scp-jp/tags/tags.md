@@ -1844,6 +1844,7 @@ http://scp-slovenija.wikidot.com/is-arhiva
 * **[[[/system:page-tags/tag/異常発見部門|異常発見部門]]]** - 異常発見部門。
 * **[[[/system:page-tags/tag/形式部門|形式部門]]]** - [[[formality-department-hub|形式部門]]]。
 * **[[[/system:page-tags/tag/対話部門|対話部門]]]** - 対話部門。[!-- ハブはあるが設定集ではない --]
+* **[[[/system:page-tags/tag/墓碑部門|墓碑部門]]]** - 墓碑部門。
 
 +++ フロント-JP
 
@@ -3476,6 +3477,7 @@ SCP-DEの一部のカノンに属する記事には、メジャータグが付�
 
 * [[[tag-guide|]]]
 * [[[tag-search|]]]
+* [*http://05command-ja.wikidot.com/old-tag-list 廃止タグ一覧]
 * [[[tag-translator|]]]
  * [*http://scp-jp-sandbox2.wikidot.com/guideline:tag-honyaku タグ国際版][運用停止]
 * [[[workbench:illegal-tag-monitoring|]]]
