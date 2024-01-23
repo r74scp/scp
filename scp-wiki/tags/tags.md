@@ -204,6 +204,7 @@ Tags that apply to creatures that are **alive**, or to **autonomous** or non-liv
 * **[https://scpwiki.com/system:page-tags/tag/predatory predatory]** -- SCP exhibits predatory behavior, obtaining food or sustenance by hunting for prey.
  * //Conflicts with 'hostile'//
 * **[https://scpwiki.com/system:page-tags/tag/plant plant]** -- SCP is a plant or exhibits plant-like traits.
+* **[https://scpwiki.com/system:page-tags/tag/politician politician]** -- SCP is a politician or is related to a political office.
 * **[https://scpwiki.com/system:page-tags/tag/sapient sapient]** -- SCP demonstrates sapience, the capacity for reason, abstract thought and complex emotional responses. Used to indicate intelligence equal to or exceeding human intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/species species]** -- SCP describes an entire species, rather than one or more individuals.
 * **[https://scpwiki.com/system:page-tags/tag/swarm swarm]** -- SCP exhibits swarm behavior.
@@ -425,11 +426,13 @@ Tags that typically apply to objects created by humans, including **artifacts** 
  * //Supersedes 'artifact'//
  * //Superseded by 'musical', 'performance', and 'sculpture'//
 * **[https://scpwiki.com/system:page-tags/tag/artifact artifact]** -- SCP is or was originally created by humans.
- * //Superseded by 'appliance', 'artistic', 'clothing', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
+ * //Superseded by 'appliance', 'artistic', 'clothing', 'Cinema', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
 * **[https://scpwiki.com/system:page-tags/tag/clockwork clockwork]** -- SCP operates primarily via clockworks, defined as mechanical devices constructed primarily using toothed wheels and/or powered by a mainspring.
  * //Supersedes 'mechanical'//
 * **[https://scpwiki.com/system:page-tags/tag/clothing clothing]** -- SCP is an artifact primarily intended to be worn for protection or comfort, including armor and protective helmets.
  * //Conflicts with 'jewelry'//
+ * //Supersedes 'artifact'//
+* **[https://scpwiki.com/system:page-tags/tag/Cinema Cinema]** -- SCPs that are, relate to or concern the medium of cinema, film and/or movies.
  * //Supersedes 'artifact'//
 * **[https://scpwiki.com/system:page-tags/tag/computer computer]** -- SCP is a computational device or affects computational devices.
  * //Often used with 'electronic', and 'mechanical'//
@@ -595,6 +598,7 @@ Describes the setting of a tale.
 Describes the style of a tale.
 
 * **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- told from a first-person perspective ("I did").
+* **[https://scpwiki.com/system:page-tags/tag/journal journal]** -- told in the form of an in universe journal written while events happen.
 * **[https://scpwiki.com/system:page-tags/tag/second-person second-person]** -- told from a second-person perspective ("you did").
 * **[https://scpwiki.com/system:page-tags/tag/no-dialogue no-dialogue]** -- Contains no spoken dialogue.
 * **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- story in the style of short, old-school Internet horror.
@@ -825,6 +829,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/green-king green-king]** -- Of or related to the [https://scp-wiki.wikidot.com/codename-green-king-hub Codename: Green King hub].
 * **[https://scpwiki.com/system:page-tags/tag/heimdall heimdall]** -- Of or related to [https://scp-wiki.wikidot.com/Project-Heimdall Project Heimdall].
 * **[https://scpwiki.com/system:page-tags/tag/insect-hell insect-hell]** -- Of or related to the [https://scp-wiki.wikidot.com/arbh-class-hub Insect Hell] canon.
+* **[https://scpwiki.com/system:page-tags/tag/Lampeter Lampeter]** -- Of or related to the [https://scp-wiki.wikidot.com/lampeter-hub Lampeter] canon.
 * **[https://scpwiki.com/system:page-tags/tag/lolfoundation lolfoundation]** -- Of or related to the [https://scp-wiki.wikidot.com/lolfoundation-hub-page lolFoundation] canon.
 * **[https://scpwiki.com/system:page-tags/tag/man-who-wasnt-there man-who-wasnt-there]** -- Of or relating to [https://scp-wiki.wikidot.com/the-man-who-wasnt-there-hub The Man Who Wasn't There] canon.
 * **[https://scpwiki.com/system:page-tags/tag/memoria-adytum memoria-adytum]** -- Of or related to the [https://scp-wiki.wikidot.com/memoria-adytum In Memoria, Adytum] canon.
@@ -987,6 +992,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/researcher-labelle researcher-labelle]** -- Researcher Rose Labelle.
 * **[https://scpwiki.com/system:page-tags/tag/researcher-lloyd researcher-lloyd]** -- Researcher Lloyd, Destroyer of Worlds.
 * **[https://scpwiki.com/system:page-tags/tag/researcher-rosen researcher-rosen]** -- Researcher David Rosen.
+* **[https://scpwiki.com/system:page-tags/tag/researcher-rex researcher-rex]** -- Doctor Everwood's assistant and Junior Researcher, Rex Alces.
 * **[https://scpwiki.com/system:page-tags/tag/researcher-smalls researcher-smalls]** -- Researcher Adamo Smalls.
 * **[https://scpwiki.com/system:page-tags/tag/researcher-talloran researcher-talloran]** -- Researcher Talloran.
 * **[https://scpwiki.com/system:page-tags/tag/riven-mercer riven-mercer]** -- Riven Mercer of Kiryu Labs.
@@ -1014,7 +1020,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/donkman donkman]** -- Ulysses B. Donkman, aka [https://scp-wiki.wikidot.com/scp-4768 SCP-4768].
 * **[https://scpwiki.com/system:page-tags/tag/fred fred]** -- Fred, aka [https://scp-wiki.wikidot.com/scp-423 SCP-423].
 * **[https://scpwiki.com/system:page-tags/tag/grabnok grabnok]** -- Grabnok the Destroyer, the Reluctant Dimension Hopper, aka [https://scp-wiki.wikidot.com/scp-507 SCP-507].
-* **[https://scpwiki.com/system:page-tags/tag/hard-to-kill-reptile hard-to-kill-reptile]** -- The "Hard-To-Destroy Reptile", aka [https://scp-wiki.wikidot.com/scp-682 SCP-682].
+* **[https://scpwiki.com/system:page-tags/tag/hard-to-destroy-reptile hard-to-destroy-reptile]** -- The "Hard-To-Destroy Reptile", aka [https://scp-wiki.wikidot.com/scp-682 SCP-682].
 * **[https://scpwiki.com/system:page-tags/tag/half-cat-josie half-cat-josie]** -- Josie the half cat, aka [https://scp-wiki.wikidot.com/scp-529 SCP-529].
 * **[https://scpwiki.com/system:page-tags/tag/heather-mason heather-mason]** -- Heather Mason, aka "Ms. Mad About Video Games" or [https://scp-wiki.wikidot.com/scp-3090 SCP-3090].
 * **[https://scpwiki.com/system:page-tags/tag/hogslice hogslice]** -- Hogslice, aka [https://scp-wiki.wikidot.com/scp-6599 SCP-6599].
@@ -1095,6 +1101,7 @@ Tags indicating that a tale or SCP article takes place in a specific time/locati
 * **[https://scpwiki.com/system:page-tags/tag/7th-occult-war 7th-occult-war]** -- The Seventh Occult War between the Allied Occult Initiative and the Obskuracorps.
 * **[https://scpwiki.com/system:page-tags/tag/alagadda alagadda]** -- The kingdom of Alagadda.
 * **[https://scpwiki.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- The city of Backdoor Soho.
+* **[https://scpwiki.com/system:page-tags/tag/deus-ex-machina deus-ex-machina]** -- Related to the Foundation's world rebooting machine SCP-2000.
 * **[https://scpwiki.com/system:page-tags/tag/esterberg esterberg]** -- The Free Port known as Esterberg.
 * **[https://scpwiki.com/system:page-tags/tag/eurtec eurtec]** -- The metropolis of Eurtec.
 * **[https://scpwiki.com/system:page-tags/tag/hy-brasil hy-brasil]** -- The island of Hy-Brasil.
@@ -1130,6 +1137,7 @@ These tags are added only used by SCP Wiki staff, and are intended to designate 
 * **[https://scpwiki.com/system:page-tags/tag/reviewers-spotlight reviewers-spotlight]** -- Designates articles featured by a [https://scp-wiki.wikidot.com/reviewers-spotlight-archive forum reviewer].
 * **[https://scpwiki.com/system:page-tags/tag/event-featured event-featured]** -- Designates articles featured on special event days such as International Talk Like a Pirate Day.
 * **[https://scpwiki.com/system:page-tags/tag/metadata metadata]** -- Designates pages with meta information about articles.
+* **[https://scpwiki.com/system:page-tags/tag/unlisted unlisted]** -- Article has been unlisted from the SCP wiki.
 * **[https://scpwiki.com/system:page-tags/tag/_cc _cc]** -- This tag indicates that all images on the page in question have been demonstrated to be fully compliant with current licensing policy. __This tag should **only** be added by a member of the Licensing team__. This tag conflicts with _image.
  * //Conflicts with '_image'//
  * //Supersedes '_image'//
@@ -1171,6 +1179,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/5000 5000]** -- An entry to the [https://scp-wiki.wikidot.com/scp5000contesthub SCP-5000 Contest].
 * **[https://scpwiki.com/system:page-tags/tag/6000 6000]** -- An entry to the [https://scp-wiki.wikidot.com/scp6000contesthub SCP-6000 Contest].
 * **[https://scpwiki.com/system:page-tags/tag/7000 7000]** -- An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-7000 Contest].
+* **[https://scpwiki.com/system:page-tags/tag/8000 8000]** -- An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-8000 Contest].
 * **[https://scpwiki.com/system:page-tags/tag/af2016 af2016]** -- An entry to the [https://scp-wiki.wikidot.com/an-incredibly-important-announcement Crack Fiction Contest] 2016 April Fool's prank.
 * **[https://scpwiki.com/system:page-tags/tag/art2017 art2017]** -- An entry to the [https://scp-wiki.wikidot.com/social-media-art-contest 2017 Art Contest].
 * **[https://scpwiki.com/system:page-tags/tag/canon2020 canon2020]** -- An entry to the [https://scp-wiki.wikidot.com/canon-renaissance-contest 2020 Canon Renaissance Contest].
