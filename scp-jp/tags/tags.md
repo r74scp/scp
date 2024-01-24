@@ -96,6 +96,7 @@
 　[#character キャラクター]
 　[#location ロケーション]
 [#event イベントタグ]
+[#uncategorized 未分類タグ]
 [#unused 非使用タグ]
 [#faq FAQ]
 [[/collapsible]]
@@ -3133,6 +3134,23 @@ http://scpfoundation.net/contests
 [#event 項目上部へ戻る]
 [[/>]]
 
+----
+
++ 未分類タグ[[# uncategorized]]
+いずれの分類にも属さないか、あるいは属す分類が検討中であるものの、タグ登録の価値が認められ、暫定で登録されているタグです。
+これらのタグは、早急に適切な分類をされる必要があります。
+[[div class="tab-basic"]]
+[[tabview]]
+[[tab 最小化]]
+[[/tab]]
+[[tab 分類されていないタグ]]
+* **[[[/system:page-tags/tag/始のいろは|始のいろは]]]** //(1000)// - アンソロジー企画「[/iroha-the-begining-hub 始のいろは]」に属する記事群です。
+[[/tab]]
+[[/tabview]]
+[[/div]]
+[[>]]
+[#event 項目上部へ戻る]
+[[/>]]
 ----
 
 [!-- 非使用タグ --]
