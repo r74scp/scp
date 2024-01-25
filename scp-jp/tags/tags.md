@@ -3144,7 +3144,7 @@ http://scpfoundation.net/contests
 [[tab 最小化]]
 [[/tab]]
 [[tab 分類されていないタグ]]
-* **[[[/system:page-tags/tag/始のいろは|始のいろは]]]** //(1000)// - アンソロジー企画「[/iroha-the-begining-hub 始のいろは]」に属する記事群です。
+* **[[[/system:page-tags/tag/始のいろは|始のいろは]]]** - アンソロジー企画「[/iroha-the-begining-hub 始のいろは]」に属する記事群です。
 [[/tab]]
 [[/tabview]]
 [[/div]]
