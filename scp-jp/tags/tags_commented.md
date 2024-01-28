@@ -2169,7 +2169,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 +++ セキュリティ施設-JP
 
 * **[[[/system:page-tags/tag/サイト-81ka|サイト-81ka]]]** - サイト-81KA。
-* **[[[/system:page-tags/tag/サイト-81uo|サイト-81uo]]]** - サイト-81UO。
+* **[[[/system:page-tags/tag/サイト-81uo|サイト-81uo]]]** - [[[secure-facility-dossier-site-81uo|サイト-81UO]]]。
 
 [[/tab]]
 [[tab KO]]
