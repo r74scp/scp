@@ -1740,6 +1740,7 @@
 
 * **[[[/system:page-tags/tag/異常発見部門|異常発見部門]]]** - 異常発見部門。
 * **[[[/system:page-tags/tag/形式部門|形式部門]]]** - [[[formality-department-hub|形式部門]]]。
+* **[[[/system:page-tags/tag/巷説部門|巷説部門]]]** - 巷説部門。
 * **[[[/system:page-tags/tag/対話部門|対話部門]]]** - 対話部門。
 * **[[[/system:page-tags/tag/墓碑部門|墓碑部門]]]** - 墓碑部門。
 
