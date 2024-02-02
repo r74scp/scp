@@ -1526,7 +1526,7 @@
 [[tab RU]]
 
 +++ 正要注意団体-RU
-それぞれの詳細は[[[groups-of-interest-ru|]]]を参照してください。
+それぞれの詳細は[[[groups-of-interest-of-the-russian-branch|]]]を参照してください。
 
 * **[[[/system:page-tags/tag/腐ち乱れる神の霊峰|腐ち乱れる神の霊峰]]]** //(ГГГ)// - [[[ggg-hub|腐ち乱れる神の霊峰]]]。
 * **[[[/system:page-tags/tag/ロゴス|ロゴス]]]** //(Логос)// - [[[fsa-data|株式会社"ロゴス"]]]。
