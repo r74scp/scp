@@ -1842,11 +1842,11 @@ http://scp-slovenija.wikidot.com/is-arhiva
 
 +++ 部門-JP
 
-* **[[[/system:page-tags/tag/異常発見部門|異常発見部門]]]** - 異常発見部門。
-* **[[[/system:page-tags/tag/形式部門|形式部門]]]** - [[[formality-department-hub|形式部門]]]。
-* **[[[/system:page-tags/tag/巷説部門|巷説部門]]]** - 巷説部門。
 * **[[[/system:page-tags/tag/対話部門|対話部門]]]** - 対話部門。[!-- ハブはあるが設定集ではない --]
-* **[[[/system:page-tags/tag/墓碑部門|墓碑部門]]]** - 墓碑部門。
+* **[[[/system:page-tags/tag/形式部門|形式部門]]]** - [[[formality-department-hub|形式部門]]]。
+* **[[[/system:page-tags/tag/異常発見部門|異常発見部門]]]** - [[[anomaly-discovering-department-hub|異常発見部門]]]。
+* **[[[/system:page-tags/tag/墓碑部門|墓碑部門]]]** - [[[department-of-tombstone-hub|墓碑部門]]]。
+* **[[[/system:page-tags/tag/巷説部門|巷説部門]]]** - 巷説部門。
 
 +++ フロント-JP
 
@@ -2540,6 +2540,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/7000|7000]]]** //(7000)// - [[[scp7000contesthub|SCP-7000コンテスト]]]。
 
+* **[[[/system:page-tags/tag/8000|8000]]]** //(8000)// - [[[scp8000contesthub|SCP-8000コンテスト]]]。
+
 * **[[[/system:page-tags/tag/cliche2019|cliche2019]]]** //(cliche2019)// - [[[cliche-con-2019|クリシェコンテスト2019]]]。
 
 * **[[[/system:page-tags/tag/coldpostcon|coldpostcon]]]** //(coldpostcon)// - [[[coldpostcon|コールドポストコンテスト]]]。
@@ -2877,6 +2879,8 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/2023カノンコンテスト|2023カノンコンテスト]]]** //(2023设定竞赛)// - [[[2023-canon-contest-hub|2023"欠落"カノンコンテスト]]]。
 
 * **[[[/system:page-tags/tag/2023撕咬コンテスト|2023撕咬コンテスト]]]** //(2023撕咬竞赛)// - [[[teeth-claws-combat-hub|狠撕猛咬コンテスト]]]。
+
+* **[[[/system:page-tags/tag/cn3000|cn3000]]]** //(cn3000)// - [[[scpcn3000contesthub|SCP-CN-3000コンテスト]]]。
 
 [!--
 ★未申請。
