@@ -43,6 +43,7 @@ The following tags are for pages that contain fiction.
 
 * **[https://scpwiki.com/system:page-tags/tag/scp scp]** -- All SCP articles from the main blocks, [https://scp-wiki.wikidot.com/scp-001 001 proposals], [https://scp-wiki.wikidot.com/joke-scps jokes] (-J), [https://scp-wiki.wikidot.com/archived-scps archives] (-ARC), and [https://scp-wiki.wikidot.com/scp-ex explained] (-EX) articles should be tagged with //scp//.
  * //Requires any of category 'object-class'//
+ * //Conflicts with 'foundation-format'//
 * **[https://scpwiki.com/system:page-tags/tag/goi-format goi-format]** -- The page has been written up from the perspective of a specific Group of Interest, and conforms to the format(s) laid out in that GoI's hub page. GoI Formats should also be tagged with the tag of their GoI, as well as the underscore tag for the GoI format.
  * //Requires any of category 'goi-format'//
 * **[https://scpwiki.com/system:page-tags/tag/tale tale]** -- Any fiction that is set in the SCP universe but is not an SCP, GoI Format, site page or supplement.
@@ -507,6 +508,8 @@ Tags that describe where the SCP is, where it comes from, or that apply to SCPs 
 
 Any tags that do not fit into the other sections.
 
+* **[https://scpwiki.com/system:page-tags/tag/anomalous-event anomalous-event]** -- The SCP is a singular anomalous event that significantly changed reality in some way.
+ * //Avoid using with 'phenomenon'//
 * **[https://scpwiki.com/system:page-tags/tag/corporate corporate]** -- SCP affects the operations of a business or corporation.
 * **[https://scpwiki.com/system:page-tags/tag/concept concept]** -- SCP is or affects a purely non-physical concept. Should not be used in conjunction with tags describing physical qualities.
 * **[https://scpwiki.com/system:page-tags/tag/exchange exchange]** -- SCP involves or is triggered by some form of exchange of physical or intangible goods, including but not limited to bartering and monetary trade.
@@ -525,6 +528,8 @@ Any tags that do not fit into the other sections.
 * **[https://scpwiki.com/system:page-tags/tag/meta meta]** -- SCP affects or is affected by its documentation or requires containment procedures regarding the way it is documented. See Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for extended clarifications.
 * **[https://scpwiki.com/system:page-tags/tag/narrative narrative]** -- SCP is, is related to, or propagates via narrative information or documents.
 * **[https://scpwiki.com/system:page-tags/tag/probability probability]** -- SCP alters or manipulates the probability of certain events or outcomes.
+* **[https://scpwiki.com/system:page-tags/tag/phenomenon phenomenon]** -- The SCP is an ongoing widespread phenomenon not directly linked to a physical source.
+ * //Avoid using with 'anomalous-event'//
 * **[https://scpwiki.com/system:page-tags/tag/religious religious]** -- SCP is associated with or otherwise has significance to one or more organized religions.
 * **[https://scpwiki.com/system:page-tags/tag/ritual ritual]** -- SCP is or is triggered or activated through ritualistic behavior.
 * **[https://scpwiki.com/system:page-tags/tag/sport sport]** -- SCP is, is used in, is activated by, or is otherwise related to one or more sports, defined as an activity involving physical exertion and skill in which one or more individuals compete against other individuals or teams. Sports should also be tagged with //game//. Equipment or gear specifically or exclusively used in sporting events should also be tagged with //clothing// or //tool//, as appropriate.
@@ -583,6 +588,7 @@ Describes the genre of a tale.
 Describes the setting of a tale.
 
 * **[https://scpwiki.com/system:page-tags/tag/alternate-history alternate-history]** -- Depicts historical events that diverge from how they happened in real life. Does not apply to future events, or to anomalous reinterpretations of events that did happen (e.g. the 7th Occult War).
+* **[https://scpwiki.com/system:page-tags/tag/christmas christmas]** -- Article is set during of influenced by the holiday of christmas.
 * **[https://scpwiki.com/system:page-tags/tag/dystopian dystopian]** -- Imagines a non-existent society or culture, portrayed as being much worse than our current one.
 * **[https://scpwiki.com/system:page-tags/tag/otherworldly otherworldly]** -- Set in another world, reality or universe. Includes works that are specifically set somewhere other than Earth, as well as portal fantasy fiction featuring travel to another world..
 * **[https://scpwiki.com/system:page-tags/tag/period-piece period-piece]** -- Set during a specific period in the past.
@@ -596,6 +602,8 @@ Describes the setting of a tale.
 Describes the style of a tale.
 
 * **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- told from a first-person perspective ("I did").
+* **[https://scpwiki.com/system:page-tags/tag/foundation-format foundation-format]** -- told in the form of an SCP document.
+ * //Conflicts with 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/journal journal]** -- told in the form of an in universe journal written while events happen.
 * **[https://scpwiki.com/system:page-tags/tag/second-person second-person]** -- told from a second-person perspective ("you did").
 * **[https://scpwiki.com/system:page-tags/tag/no-dialogue no-dialogue]** -- Contains no spoken dialogue.
@@ -681,6 +689,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/manna-charitable-foundation manna-charitable-foundation]** -- Of or related to the [https://scp-wiki.wikidot.com/manna-charitable-foundation-hub Manna Charitable Foundation] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/marshall-carter-and-dark marshall-carter-and-dark]** -- Of or related to the [https://scp-wiki.wikidot.com/marshall-carter-and-dark-hub Marshall, Carter, and Dark Ltd.] (MC&D) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/maxwellism maxwellism]** -- Of or related to the Church of Maxwellism faction of the Church of the Broken God group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/mlf mlf]** -- Of or related to the Miracle Liberation Front. A para-terrorist organization staffed by sapient anomalous entities dedicated to overthrowing the Veil.
 * **[https://scpwiki.com/system:page-tags/tag/nameless nameless]** -- Of or related to the Nameless, or the Fae, outlined in [https://scp-wiki.wikidot.com/scp-4000 SCP-4000].
 * **[https://scpwiki.com/system:page-tags/tag/nobody nobody]** -- Of or related to the "[https://scp-wiki.wikidot.com/nobody-hub Nobody]" person or group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/obearwatch obearwatch]** -- Of or related to the Obearwatch group of interest.
@@ -889,6 +898,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Of or related to [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
 * **[https://scpwiki.com/system:page-tags/tag/team-bird team-bird]** -- Of or related to [https://scp-wiki.wikidot.com/bird Team Bird].
 * **[https://scpwiki.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Of or related to the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
+* **[https://scpwiki.com/system:page-tags/tag/the-twin-sites the-twin-sites]** -- Of or related to the Twin Sites series.
 * **[https://scpwiki.com/system:page-tags/tag/untitled-series untitled-series]** -- Error description cannot be blank [https://scp-wiki.wikidot.com/https://scp-wiki.wikidot.com/unreality-hub or linked to the click to add text] series.
 * **[https://scpwiki.com/system:page-tags/tag/we-meet-again we-meet-again]** -- Of or related to the [https://scp-wiki.wikidot.com/and-every-time-we-meet-again-hub And Every Time We Meet Again] series.
 * **[https://scpwiki.com/system:page-tags/tag/whore-of-blood whore-of-blood]** -- Of or related to the [https://scp-wiki.wikidot.com/whore-of-blood-hub Whore of Blood] series.
@@ -916,6 +926,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/agent-merlo agent-merlo]** -- Agent Sasha Merlo.
 * **[https://scpwiki.com/system:page-tags/tag/agent-navarro agent-navarro]** -- Agent Daniel Navarro.
 * **[https://scpwiki.com/system:page-tags/tag/agent-popescu agent-popescu]** -- Agent Lucretia Popescu.
+* **[https://scpwiki.com/system:page-tags/tag/agent-rodney agent-rodney]** -- Agent Rodney, a seasoned agent who is primarily concerned with cases related to the Miracle Liberation Front..
 * **[https://scpwiki.com/system:page-tags/tag/agent-strelnikov agent-strelnikov]** -- Agent Dmitri Strelnikov.
 * **[https://scpwiki.com/system:page-tags/tag/agent-trauss agent-trauss]** -- Agent Trauss, aka C-51174.
 * **[https://scpwiki.com/system:page-tags/tag/agent-yoric agent-yoric]** -- Agent Yoric Elroy, aka Jack "Poor Yoric" Dawkins.
@@ -927,6 +938,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/d-11424 d-11424]** -- D-11424.
 * **[https://scpwiki.com/system:page-tags/tag/director-aktus director-aktus]** -- Director Aktus.
 * **[https://scpwiki.com/system:page-tags/tag/director-bold director-bold]** -- Director Cal Bold of the Decommissioning Department.
+* **[https://scpwiki.com/system:page-tags/tag/director-bohart director-bohart]** -- Vincent Bohart, the Director of Site-333, who does not have a PhD.
 * **[https://scpwiki.com/system:page-tags/tag/director-diaghilev director-diaghilev]** -- Director Ruslav Diaghilev of the Alchemy Department.
 * **[https://scpwiki.com/system:page-tags/tag/director-gillespie director-gillespie]** -- Director Gillespie.
 * **[https://scpwiki.com/system:page-tags/tag/director-mcinnis director-mcinnis]** -- Dr. Allan J. McInnis, Director of Site-43.
