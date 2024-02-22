@@ -787,6 +787,8 @@ The following applies to all tags in this category:
 * **[https://scpwiki.com/system:page-tags/tag/_oria _oria]** -- An article following the ORIA format.
  * //Requires 'oria'//
 * **[https://scpwiki.com/system:page-tags/tag/_other _other]** -- A GoI Format following a format not associated with a tagged Group of Interest.
+* **[https://scpwiki.com/system:page-tags/tag/_parawatch _parawatch]** -- An article following the Parawatch format.
+ * //Requires 'parawatch'//
 * **[https://scpwiki.com/system:page-tags/tag/_prometheus _prometheus]** -- An article following the Prometheus format.
  * //Requires 'prometheus'//
 * **[https://scpwiki.com/system:page-tags/tag/_sapphire _sapphire]** -- An article following the SAPPHIRE format.
