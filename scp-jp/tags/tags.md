@@ -1848,7 +1848,7 @@ http://scp-slovenija.wikidot.com/is-arhiva
 +++ 部門-JP
 それぞれの詳細は[[[departments-jp|]]]を参照してください。
 
-* **[[[/system:page-tags/tag/対話部門|対話部門]]]** - 対話部門。[!-- ハブはあるが設定集ではない --]
+* **[[[/system:page-tags/tag/対話部門|対話部門]]]** - [[[dialogue-department-hub|対話部門]]]。
 * **[[[/system:page-tags/tag/形式部門|形式部門]]]** - [[[formality-department-hub|形式部門]]]。
 * **[[[/system:page-tags/tag/異常発見部門|異常発見部門]]]** - [[[anomaly-discovering-department-hub|異常発見部門]]]。
 * **[[[/system:page-tags/tag/墓碑部門|墓碑部門]]]** - [[[department-of-tombstone-hub|墓碑部門]]]。
