@@ -1853,6 +1853,9 @@ http://scp-slovenija.wikidot.com/is-arhiva
 * **[[[/system:page-tags/tag/異常発見部門|異常発見部門]]]** - [[[anomaly-discovering-department-hub|異常発見部門]]]。
 * **[[[/system:page-tags/tag/墓碑部門|墓碑部門]]]** - [[[department-of-tombstone-hub|墓碑部門]]]。
 * **[[[/system:page-tags/tag/巷説部門|巷説部門]]]** - 巷説部門。
+* **[[[/system:page-tags/tag/一般部門|一般部門]]]** - 一般部門。
+* **[[[/system:page-tags/tag/廃棄部門|廃棄部門]]]** - 廃棄部門。
+* **[[[/system:page-tags/tag/匡済部門|匡済部門]]]** - 匡済部門。
 
 +++ フロント-JP
 
@@ -2219,8 +2222,13 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/闇親方|闇親方]]]** - 闇、あるいは栄。
 
 [[/tab]][!--JP--]
-[!--[[tab RU]]
-[[/tab]]RU--]
+[[tab RU]]
+
++++ キャラクター-RU
+
+* **[[[/system:page-tags/tag/コモフ博士|コモフ博士]]]** //(Комов)// - コモフ博士、あるいはコモフ研究員。
+
+[[/tab]][!--RU--]
 [!--[[tab KO]]
 [[/tab]]KO--]
 [!--[[tab CN]]
@@ -2626,9 +2634,13 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/nyc2013|nyc2013]]]** //(nyc2013)// - [[[new-years-contest|2013年ニューイヤー・カノンコンテスト]]]。
 
+* **[[[/system:page-tags/tag/paracon2023-unofficial|paracon2023-unofficial]]]** //(paracon2023-unofficial)// - 非公式企画の[[[https://scp-wiki.wikidot.com/forum/t-16423302/unofficial-paracon-2023| 2023年パラウォッチコンテスト]]]。
+
 * **[[[/system:page-tags/tag/rei2015|rei2015]]]** //(rei2015)// - [[[reimagining-contest|2015年再解釈コンテスト]]]。
 
 * **[[[/system:page-tags/tag/remixcon2023|remixcon2023]]]** //(remixcon2023)// - [[[remixcon2023|2023年リミックスコンテスト]]]。
+
+* **[[[/system:page-tags/tag/romcon2023-unofficial|romcon2023-unofficial]]]** //(romcon2023-unofficial)// - 非公式企画の[[[romcon|2023年ロマンスコンテスト]]]: SCPオリキャラトーナメント。
 
 * **[[[/system:page-tags/tag/sc2015|sc2015]]]** //(sc2015)// - [[[short-works-contest|2015年短編コンテスト]]]。
 
@@ -2638,7 +2650,6 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/memecon2021-unofficial|memecon2021-unofficial]]]** //(memecon2021-unofficial)// - 非公式企画の[[[memecon-unofficial|2021年ミームコンテスト]]]。
 
-* **[[[/system:page-tags/tag/romcon2023-unofficial|romcon2023-unofficial]]]** //(romcon2023-unofficial)// - 非公式企画の[[[romcon|2023年ロマンスコンテスト]]]: SCPオリキャラトーナメント。
 以下のタグについては、特定の他支部の項を参照してください。
 
 * **[[[/system:page-tags/tag/goi2019|goi2019]]]** //(goi2019)// - コンテスト-INT (Otherタグ内) の項を参照してください。
@@ -2861,6 +2872,10 @@ http://scpfoundation.net/contests
 
 * **[[[/system:page-tags/tag/cn1000|cn1000]]]** //(cn1000)// - [[[scpcn1000contesthub|SCP-CN-1000コンテスト]]]。
 
+* **[[[/system:page-tags/tag/cn2000|cn2000]]]** //(cn2000)// - [[[scpcn2000contesthub|SCP-CN-2000コンテスト]]]。
+
+* **[[[/system:page-tags/tag/cn3000|cn3000]]]** //(cn3000)// - [[[scpcn3000contesthub|SCP-CN-3000コンテスト]]]。
+
 * **[[[/system:page-tags/tag/春節コンテスト|春節コンテスト]]]** //(春节竞赛)// - [[[chinese-new-year-contest|2014年春節Taleコンテスト]]]。
 
 * **[[[/system:page-tags/tag/2014夏休みコンテスト|2014夏休みコンテスト]]]** //(2014暑期竞赛)// - [[[summer-contest-2014|2014夏休み“马上回来”コンテスト]]]。
@@ -2883,8 +2898,6 @@ http://scpfoundation.net/contests
 
 * **[[[/system:page-tags/tag/2021反復コンテスト|2021反復コンテスト]]]** //(2021迭代竞赛)// - [[[iteration-contest-2021|2021反復原稿募集コンテスト]]]。
 
-* **[[[/system:page-tags/tag/cn2000|cn2000]]]** //(cn2000)// - [[[scpcn2000contesthub|SCP-CN-2000コンテスト]]]。
-
 * **[[[/system:page-tags/tag/2022デジタルゲームコンテスト|2022デジタルゲームコンテスト]]]** //(2022电子游戏竞赛)// - [[[2022-cn-game-crossover-contest-hub|2022デジタルゲームコンテスト]]]。
 
 * **[[[/system:page-tags/tag/2022冬季コンテスト|2022冬季コンテスト]]]** //(2022冬季征文)// - [[[winter-contest-2022|2022冬季“寻物/失物启事”コンテスト]]]。
@@ -2893,7 +2906,7 @@ http://scpfoundation.net/contests
 
 * **[[[/system:page-tags/tag/2023撕咬コンテスト|2023撕咬コンテスト]]]** //(2023撕咬竞赛)// - [[[teeth-claws-combat-hub|狠撕猛咬コンテスト]]]。
 
-* **[[[/system:page-tags/tag/cn3000|cn3000]]]** //(cn3000)// - [[[scpcn3000contesthub|SCP-CN-3000コンテスト]]]。
+* **[[[/system:page-tags/tag/2023夏季コンテスト|2023夏季コンテスト]]]** //(2023夏季征文)// - [[[summer-contest-2023|2023夏季"黒箱"コンテスト]]]。
 
 [!--
 ★未申請。
