@@ -157,6 +157,7 @@ The following applies to all tags in this category:
 * **[https://scpwiki.com/system:page-tags/tag/thaumiel thaumiel]** -- SCP is Thaumiel.
 * **[https://scpwiki.com/system:page-tags/tag/apollyon apollyon]** -- SCP is Apollyon.
 * **[https://scpwiki.com/system:page-tags/tag/archon archon]** -- SCP is Archon.
+* **[https://scpwiki.com/system:page-tags/tag/ticonderoga ticonderoga]** -- SCP is Ticonderoga.
 * **[https://scpwiki.com/system:page-tags/tag/neutralized neutralized]** -- SCP is Neutralized.
 * **[https://scpwiki.com/system:page-tags/tag/decommissioned decommissioned]** -- SCP is decommissioned.
 * **[https://scpwiki.com/system:page-tags/tag/pending pending]** -- SCP is pending classification.
@@ -395,6 +396,7 @@ Tags that apply to the physical properties or effects of entities, objects or ph
 * **[https://scpwiki.com/system:page-tags/tag/polyhedral polyhedral]** -- SCP is a polyhedron: a three-dimensional shape with flat faces and straight edges.
 * **[https://scpwiki.com/system:page-tags/tag/radioactive radioactive]** -- SCP emits radiation or affects radioactivity.
 * **[https://scpwiki.com/system:page-tags/tag/reality-bending reality-bending]** -- SCP is capable of manipulating reality through anomalous means (aka 'ontokinetic', 'reality-bending' or 'reality warping') .
+ * //Avoid using with 'thaumaturgy'//
  * //Supersedes 'ectoentropic'//
 * **[https://scpwiki.com/system:page-tags/tag/self-repairing self-repairing]** -- SCP exhibits an anomalous ability restore or repair itself to functional condition.
 * **[https://scpwiki.com/system:page-tags/tag/self-replicating self-replicating]** -- SCP exhibits an anomalous ability to replicate other than via biological reproduction.
@@ -408,6 +410,8 @@ Tags that apply to the physical properties or effects of entities, objects or ph
  * //Avoid using with 'mobile'//
 * **[https://scpwiki.com/system:page-tags/tag/temporal temporal]** -- SCP affects or is otherwise related to the passage of time.
  * //Often used with 'spatial'//
+* **[https://scpwiki.com/system:page-tags/tag/thaumaturgy thaumaturgy]** -- SCP is, performs, or is otherwise related to thaumaturgy.
+ * //Avoid using with 'reality-bending'//
 * **[https://scpwiki.com/system:page-tags/tag/thermal thermal]** -- SCP is activated by, triggered by, or propagates via changes in temperature. This includes both increases and decreases in temperature.
 * **[https://scpwiki.com/system:page-tags/tag/thermodynamic thermodynamic]** -- SCP affects, or is otherwise significantly related to the laws of thermodynamics.
 * **[https://scpwiki.com/system:page-tags/tag/transfiguration transfiguration]** -- SCP alters the shape or substance of subjects in an anomalous manner.
@@ -629,6 +633,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/alpha-9 alpha-9]** -- Of or related to MTF Alpha-9, Last Hope.
 * **[https://scpwiki.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of or related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
 * **[https://scpwiki.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
+* **[https://scpwiki.com/system:page-tags/tag/delta-t delta-t]** -- Of or related to the Delta T, the transtemporal Foundation agency.
 * **[https://scpwiki.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation's Ethics Committee.
 * **[https://scpwiki.com/system:page-tags/tag/ettra ettra]** -- Of or related to the Emergent Threat Tactical Response Authority.
 * **[https://scpwiki.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Of or related to the Foundation's Fire Suppression Department.
@@ -881,6 +886,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/appliance-war appliance-war]** -- Of or related to [https://scp-wiki.wikidot.com/the-appliance-war-hub The Appliance War] series.
 * **[https://scpwiki.com/system:page-tags/tag/black-rabbit-company black-rabbit-company]** -- Of or related to the [https://scp-wiki.wikidot.com/stealingsolidarityhub Stealing Solidarity] series.
 * **[https://scpwiki.com/system:page-tags/tag/bury-the-survivors bury-the-survivors]** -- Of or related to the [https://scp-wiki.wikidot.com/bury-the-survivors-hub Bury the Survivors] series.
+* **[https://scpwiki.com/system:page-tags/tag/but-a-dream but-a-dream]** -- Of or related to the but a dream series.
 * **[https://scpwiki.com/system:page-tags/tag/cack-hard cack-hard]** -- Of or related to the [https://scp-wiki.wikidot.com/cack-hub cack-hard] stories.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
@@ -1014,6 +1020,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/simon-pietrykau simon-pietrykau]** -- Simon Pietrykau, of the Department of Analytics.
 * **[https://scpwiki.com/system:page-tags/tag/thad-xyank thad-xyank]** -- Dr. Thaddeus "Thad" Xyank, of the Department of Temporal Anomalies.
 * **[https://scpwiki.com/system:page-tags/tag/the-administrator the-administrator]** -- The Administrator (as a separate entity from the O5 Council).
+* **[https://scpwiki.com/system:page-tags/tag/yossarian-leiner yossarian-leiner]** -- Yossarian Leiner, Director of the Department of Tactical Theology..
 * **[https://scpwiki.com/system:page-tags/tag/zyn-kiryu zyn-kiryu]** -- Researcher Zyn Kiryu.
 
 +++ SCP Objects
@@ -1049,6 +1056,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/sauelsuesor sauelsuesor]** -- Sauelsuesor, aka [https://scp-wiki.wikidot.com/scp-179 SCP-179].
 * **[https://scpwiki.com/system:page-tags/tag/shy-guy shy-guy]** -- The Shy Guy, aka [https://scp-wiki.wikidot.com/scp-096 SCP-096].
 * **[https://scpwiki.com/system:page-tags/tag/sigurros sigurros]** -- Sigurrós Stefánsdóttir, aka [https://scp-wiki.wikidot.com/scp-239 SCP-239].
+* **[https://scpwiki.com/system:page-tags/tag/teenage-gaea teenage-gaea]** -- Meri, aka [https://scp-wiki.wikidot.com/scp-166 SCP-166] (post rewrite).
 * **[https://scpwiki.com/system:page-tags/tag/ten-dots ten-dots]** -- [https://scp-wiki.wikidot.com/scp-2521 SCP-2521].
 * **[https://scpwiki.com/system:page-tags/tag/the-old-man the-old-man]** -- The Old Man, aka [https://scp-wiki.wikidot.com/scp-106 SCP-106].
 * **[https://scpwiki.com/system:page-tags/tag/tickle-monster tickle-monster]** -- The Tickle Monster, aka [https://scp-wiki.wikidot.com/scp-999 SCP-999].
@@ -1086,6 +1094,7 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/lewitt-zairi-family lewitt-zairi-family]** -- The Lewitt Zairi Family, of the Horizon Initiative.
 * **[https://scpwiki.com/system:page-tags/tag/lovataar lovataar]** -- Lovataar, the ex-daeva princess who became one of the Klavigars.
 * **[https://scpwiki.com/system:page-tags/tag/manny manny]** -- Manny, aka The Man With the Upside Down Face of Herman Fuller's Circus of the Disquieting.
+* **[https://scpwiki.com/system:page-tags/tag/mari-macphaerson mari-macphaerson]** -- Mari MacPhaerson, the VP of Public Relations from Vikander-Kneed Technical Studies.
 * **[https://scpwiki.com/system:page-tags/tag/nadox nadox]** -- Nadox, one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/orok orok]** -- Orok, one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
