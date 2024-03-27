@@ -600,19 +600,54 @@ Describes the setting of a tale.
 
 Describes the style of a tale.
 
+* **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- story in the style of short, old-school Internet horror.
 * **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- told from a first-person perspective ("I did").
 * **[https://scpwiki.com/system:page-tags/tag/foundation-format foundation-format]** -- told in the form of an SCP document.
  * //Conflicts with 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/journal journal]** -- told in the form of an in universe journal written while events happen.
-* **[https://scpwiki.com/system:page-tags/tag/second-person second-person]** -- told from a second-person perspective ("you did").
 * **[https://scpwiki.com/system:page-tags/tag/no-dialogue no-dialogue]** -- Contains no spoken dialogue.
 * **[https://scpwiki.com/system:page-tags/tag/orientation orientation]** -- Styled as an orientation lecture.
-* **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- story in the style of short, old-school Internet horror.
+* **[https://scpwiki.com/system:page-tags/tag/second-person second-person]** -- told from a second-person perspective ("you did").
 * **[https://scpwiki.com/system:page-tags/tag/worldbuilding worldbuilding]** -- Focuses on conveying information about the setting, often taking the form of an in-universe document.
 
 +++ Other
 
 * **[https://scpwiki.com/system:page-tags/tag/_genreless _genreless]** -- No Genre, Setting or style tags apply to this tale.
+
+[[/tab]]
+[[tab Art]]
+++ Art
+
+.
+
+[[div class="blockquote"]]
+The following applies to all tags in this category:
+
+* Requires either 'artwork', or 'artist'
+
+[[/div]]
+
++++ Style
+
+These tags describe the art style used in the piece.
+
+* **[https://scpwiki.com/system:page-tags/tag/animated animated]** -- Artwork is animated. Generally applies to .gif files.
+ * //Superseded by 'interactive', and 'video'//
+* **[https://scpwiki.com/system:page-tags/tag/cel-shaded cel-shaded]** -- Artwork with outlines drawn, then shaded using solid blocks of color or gradients. The characteristic style of animation, comic books and manga.
+* **[https://scpwiki.com/system:page-tags/tag/image-editing image-editing]** -- Artwork created by altering or combining existing images.
+* **[https://scpwiki.com/system:page-tags/tag/painted painted]** -- Artwork created using paint or pastel, or using digital brush strokes to blend colors and mimic the appearance of paint.
+* **[https://scpwiki.com/system:page-tags/tag/pixel-art pixel-art]** -- Artwork created by drawing individual pixels, or by deliberately pixelating an existing image.
+* **[https://scpwiki.com/system:page-tags/tag/sketched sketched]** -- Artwork drawn with pencil, pen or crayon, or created digitally in a similar style. May be shaded, or left as a line drawing.
+
++++ Style
+
+These tags refer to the content that the artwork is depicting.
+
+* **[https://scpwiki.com/system:page-tags/tag/goi-art goi-art]** -- Artwork depicting characters, objects, or themes from a specific Group of Interest. Also applies to GoI logos.
+* **[https://scpwiki.com/system:page-tags/tag/logo logo]** -- Artwork depicts one or more logos or other symbolic graphics, such as insignia, flags and coats of arms.
+* **[https://scpwiki.com/system:page-tags/tag/personnel-art personnel-art]** -- Artwork depicting specific SCP Foundation employees.
+* **[https://scpwiki.com/system:page-tags/tag/poster poster]** -- Artwork depicts a poster, infographic or advertisment, using a combination of images and words to convey information.
+* **[https://scpwiki.com/system:page-tags/tag/scp-art scp-art]** -- Artwork depicting one or more SCP objects or entities.
 
 [[/tab]]
 [[tab Groups]]
@@ -1136,7 +1171,9 @@ Tags for noting specific content.
 * **[https://scpwiki.com/system:page-tags/tag/_adult _adult]** -- Denotes mature content, view at your own discretion.
 * **[https://scpwiki.com/system:page-tags/tag/audio audio]** -- //audio// pages are pages with one or more audio files attached.
 * **[https://scpwiki.com/system:page-tags/tag/interactive interactive]** -- The article contains elements that require user input or interaction, e.g. making a decision (making the user click a single link or open a collapsible does not count).
+ * //Supersedes 'animated'//
 * **[https://scpwiki.com/system:page-tags/tag/video video]** -- //video// pages are pages with one or more video files attached.
+ * //Supersedes 'animated'//
 * **[https://scpwiki.com/system:page-tags/tag/_listpages _listpages]** -- A tag to denote that this page is an LPT article. LPT (ListPages Presented Text) means that the article presents its content through offsets served via ListPages.
 
 [[/tab]]
