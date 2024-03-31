@@ -2561,7 +2561,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/オーバーフローキャンペーン|オーバーフローキャンペーン]]]** - [[[overflow-campaign|オーバーフロー・キャンペーン]]]。
 
-* **[[[/system:page-tags/tag/リュウ|リュウ]]]** - [http://scp-jp.wikidot.com/forum/t-16592281/2024 謹賀新年2024]。龍、竜、辰、ドラゴンに関連する記事に付与されるタグです。
+* **[[[/system:page-tags/tag/af2024|af2024]]]** - AF-2024-JP。
 
 [[/tab]]
 [[tab KO]]
