@@ -1963,6 +1963,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/d-11424|d-11424]]]** //(d-11424)// - D-11424。
 * **[[[/system:page-tags/tag/アクタス管理官|アクタス管理官]]]** //(director-aktus)// - アクタス管理官。
 * **[[[/system:page-tags/tag/ボールド管理官|ボールド管理官]]]** //(director-bold)// - 解体部門のカル・ボールド管理官。
+* **[[[/system:page-tags/tag/ボハート管理官|ボハート管理官]]]** //(director-bohart)// - サイト-333の管理官、ヴィンセント・ボハート。博士号は持たない。
 * **[[[/system:page-tags/tag/ディアギレフ管理官|ディアギレフ管理官]]]** //(director-diaghilev)// - 錬金術部門のルスラフ・ディアギレフ管理官。
 * **[[[/system:page-tags/tag/ガレスピー管理官|ガレスピー管理官]]]** //(director-gillespie)// - ガレスピー管理官。
 * **[[[/system:page-tags/tag/マッキンス管理官|マッキンス管理官]]]** //(director-mcinnis)// - サイト-43管理官、アラン・J・マッキンス博士。
@@ -2030,6 +2031,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/サイモン・ピエトリカウ|サイモン・ピエトリカウ]]]** //(simon-pietrykau)// - 解析部門のサイモン・ピエトリカウ。
 * **[[[/system:page-tags/tag/シャンク博士|シャンク博士]]]** //(thad-xyank)// - 時間異常部門のタデウス・“サド”・シャンク博士。
 * **[[[/system:page-tags/tag/管理者|管理者]]]** //(the-administrator)// - 管理者(O5評議会とは別の存在です)。
+* **[[[/system:page-tags/tag/yossarian-leiner|yossarian-leiner]]]** //(yossarian-leiner)// - 戦術神学部門の管理官、ヨッサリアン・レイナー/レナー。
 * **[[[/system:page-tags/tag/ジン・桐生|ジン・桐生]]]** //(zyn-kiryu)// - ジン・桐生研究員。
 
 @@ @@
@@ -2064,8 +2066,10 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/サウエルスエソル|サウエルスエソル]]]** //(sauelsuesor)// - サウエルスエソル、通称[[[SCP-179]]](SCP-ES-026)。
 * **[[[/system:page-tags/tag/シャイガイ|シャイガイ]]]** //(shy-guy)// - シャイガイ、通称[[[SCP-096]]]。
 * **[[[/system:page-tags/tag/シガーロス|シガーロス]]]** //(sigurross)// - シガーロス・ステファンズドッティル、通称[[[SCP-239]]]。
+* **[[[/system:page-tags/tag/年頃のガイア |年頃のガイア ]]]** //(teenage-gaea)// - メリ、通称[[[SCP-166]]] (改稿後のもののみを指す)。
 * **[[[/system:page-tags/tag/scp-2521|scp-2521]]]** //(ten-dots)// - [[[SCP-2521]]]。
 * **[[[/system:page-tags/tag/オールドマン|オールドマン]]]** //(the-old-man)// - オールドマン、通称[[[SCP-106]]]。
+* **[[[/system:page-tags/tag/くすぐりオバケ|くすぐりオバケ]]]** //(tickle-monster)// - くすぐりオバケ、通称[[[SCP-999]]]。
 * **[[[/system:page-tags/tag/scp-173|scp-173]]]** //(the-sculpture)// - 彫刻、通称[[[SCP-173]]]。
 * **[[[/system:page-tags/tag/the-specter|the-specter]]]** //(the-specter)// - The Specter、通称[[[SCP-4944]]]。
 
@@ -2100,6 +2104,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ルウィット・ザイリ・ファミリー|ルウィット・ザイリ・ファミリー]]]** //(lewitt-zairi-family)// - 境界線イニシアチブのルウィット・ザイリ・ファミリー。
 * **[[[/system:page-tags/tag/ロヴァタール|ロヴァタール]]]** //(lovataar)// - ダエーワの姫君からクラヴィガルの一人へと転向した人物、ロヴァタール。
 * **[[[/system:page-tags/tag/マニー|マニー]]]** //(manny)// - ハーマン・フラーの不気味サーカスのマニー、またの名を"逆さまの顔を持つ男"。
+* **[[[/system:page-tags/tag/マリ・マクファーソン|マリ・マクファーソン]]]** //(mari-macphaerson)// - ヴィキャンデル=ニード・テクニカル・メディアの渉外部長、マリ・マクファーソン。
 * **[[[/system:page-tags/tag/ナドックス|ナドックス]]]** //(nadox)// - サーキシズムの4人のクラヴィガルの一人、ナドックス。
 * **[[[/system:page-tags/tag/オロク|オロク]]]** //(orok)// - サーキシズムの4人のクラヴィガルの一人、オロク。
 * **[[[/system:page-tags/tag/パングロス|パングロス]]]** //(pangloss)// - 神話的存在にして残されたメモの著者、パングロス。
@@ -2804,6 +2809,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/オーバーフローキャンペーン|オーバーフローキャンペーン]]]** - [[[overflow-campaign|オーバーフロー・キャンペーン]]]。
 
 * **[[[/system:page-tags/tag/af2024|af2024]]]** - AF-2024-JP。
+
+* **[[[/system:page-tags/tag/エッセイキャンペーン|エッセイキャンペーン]]]** - [[[essay-campaign-2024|新星応援！キラキラエッセイキャンペーン]]]。
 
 [[/tab]][!--JP--]
 [!--[[tab RU]]
