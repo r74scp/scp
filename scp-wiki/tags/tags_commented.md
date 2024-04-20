@@ -190,6 +190,7 @@ Tags that apply to creatures that are **alive**, or to **autonomous** or non-liv
  * //Conflicts with 'alive'//
 * **[https://scpwiki.com/system:page-tags/tag/bacteria bacteria]** -- SCP is, resembles, or exhibits traits of a bacterial life-form.
  * //Often used with 'contagion'//
+* **[https://scpwiki.com/system:page-tags/tag/clown clown]** -- SCP is, resembles, affects, or involves one or more clowns.
 * **[https://scpwiki.com/system:page-tags/tag/fungus fungus]** -- SCP is or exhibits traits of fungal life-forms.
 * **[https://scpwiki.com/system:page-tags/tag/ghost ghost]** -- SCP is or affects ghosts (spectral entities).
 * **[https://scpwiki.com/system:page-tags/tag/hive-mind hive-mind]** -- SCP exhibits traits of an external hive-mind.
@@ -367,7 +368,7 @@ Tags that apply to the physical properties or effects of entities, objects or ph
  * //Superseded by 'reality-bending'//
 * **[https://scpwiki.com/system:page-tags/tag/electrical electrical]** -- SCP generates, stores, or uses electric energy.
 * **[https://scpwiki.com/system:page-tags/tag/electromagnetic electromagnetic]** -- SCP generates, stores, or uses electromagnetic energy or fields.
-* **[https://scpwiki.com/system:page-tags/tag/entropic entropic]** -- SCP has anomalous properties that affect or are affected by entropy, or thdresemble entropic decay.
+* **[https://scpwiki.com/system:page-tags/tag/entropic entropic]** -- SCP has anomalous properties that affect or are affected by entropy, or that resemble entropic decay.
 * **[https://scpwiki.com/system:page-tags/tag/fire fire]** -- SCP is composed of fire, is related to fire, or enables the process of combustion.
 * **[https://scpwiki.com/system:page-tags/tag/gaseous gaseous]** -- SCP is or generates a gas.
 * **[https://scpwiki.com/system:page-tags/tag/gravity gravity]** -- SCP has anomalous properties that affect or are significantly affected by gravitational force.
@@ -498,6 +499,7 @@ Tags that describe where the SCP is, where it comes from, or that apply to SCPs 
 * **[https://scpwiki.com/system:page-tags/tag/planet planet]** -- SCP is, resembles, or affects a planet, which may or may not be our planet.
  * //Supersedes 'geological'//
 * **[https://scpwiki.com/system:page-tags/tag/satellite satellite]** -- SCP is a natural or artificial satellite orbiting a celestial body.
+* **[https://scpwiki.com/system:page-tags/tag/school school]** -- SCP is related to or affects schools, universities, or the education system.
 * **[https://scpwiki.com/system:page-tags/tag/structure structure]** -- SCP is an artificial or natural structure; if it is intended for human occupation, it should be tagged //building// instead.
  * //Superseded by 'building'//
 * **[https://scpwiki.com/system:page-tags/tag/subterranean subterranean]** -- SCP is located or operates wholly or significantly underground, defined as below the surface of the Earth. Does not apply objects that are simply contained underground for safety or convenience.
@@ -639,7 +641,7 @@ These tags describe the art style used in the piece.
 * **[https://scpwiki.com/system:page-tags/tag/pixel-art pixel-art]** -- Artwork created by drawing individual pixels, or by deliberately pixelating an existing image.
 * **[https://scpwiki.com/system:page-tags/tag/sketched sketched]** -- Artwork drawn with pencil, pen or crayon, or created digitally in a similar style. May be shaded, or left as a line drawing.
 
-+++ Style
++++ Content
 
 These tags refer to the content that the artwork is depicting.
 
@@ -724,7 +726,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/manna-charitable-foundation manna-charitable-foundation]** -- Of or related to the [https://scp-wiki.wikidot.com/manna-charitable-foundation-hub Manna Charitable Foundation] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/marshall-carter-and-dark marshall-carter-and-dark]** -- Of or related to the [https://scp-wiki.wikidot.com/marshall-carter-and-dark-hub Marshall, Carter, and Dark Ltd.] (MC&D) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/maxwellism maxwellism]** -- Of or related to the Church of Maxwellism faction of the Church of the Broken God group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/mlf mlf]** -- Of or related to the Miracle Liberation Front. A para-terrorist organization staffed by sapient anomalous entities dedicated to overthrowing the Veil.
+* **[https://scpwiki.com/system:page-tags/tag/miracle-liberation-front miracle-liberation-front]** -- Of or related to the Miracle Liberation Front. A para-terrorist organization staffed by sapient anomalous entities dedicated to overthrowing the Veil.
 * **[https://scpwiki.com/system:page-tags/tag/nameless nameless]** -- Of or related to the Nameless, or the Fae, outlined in [https://scp-wiki.wikidot.com/scp-4000 SCP-4000].
 * **[https://scpwiki.com/system:page-tags/tag/nobody nobody]** -- Of or related to the "[https://scp-wiki.wikidot.com/nobody-hub Nobody]" person or group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/obearwatch obearwatch]** -- Of or related to the Obearwatch group of interest.
@@ -956,6 +958,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/8-ball 8-ball]** -- 8-ball, aka 8B-A1, an artificial intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/aaron-siegel aaron-siegel]** -- Aaron Siegel, O5-1.
 * **[https://scpwiki.com/system:page-tags/tag/agent-adams agent-adams]** -- Agent Andrea Adams.
+* **[https://scpwiki.com/system:page-tags/tag/agent-calendar agent-calendar]** -- Site-666 Director's Adjutant, Wrath demoness, and all-around badass.
 * **[https://scpwiki.com/system:page-tags/tag/agent-green agent-green]** -- Agent Green.
 * **[https://scpwiki.com/system:page-tags/tag/agent-kazmarek agent-kazmarek]** -- Agent Travis Kazmarek.
 * **[https://scpwiki.com/system:page-tags/tag/agent-laferrier agent-laferrier]** -- Agent V.A. LaFerrier.
@@ -970,6 +973,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/agent-yoric agent-yoric]** -- Agent Yoric Elroy, aka Jack "Poor Yoric" Dawkins.
 * **[https://scpwiki.com/system:page-tags/tag/alexandra alexandra]** -- Alexandra, an artificial intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/alex-thorley alex-thorley]** -- Alex Thorley of the Department of Unreality.
+* **[https://scpwiki.com/system:page-tags/tag/chief-ibanez chief-ibanez]** -- Diminutive leader of Site-43's Mobile Task Forces. Tough as nails, takes zero shit, leads by example and does not delegate.
 * **[https://scpwiki.com/system:page-tags/tag/bailey-brothers bailey-brothers]** -- Tristan, Thomas and Trevor Bailey.
 * **[https://scpwiki.com/system:page-tags/tag/captain-adrian captain-adrian]** -- Adrian, AKA SCP-6159-2: Familiar, Boat Captain, Paralegal, Emotional Support Animal.
 * **[https://scpwiki.com/system:page-tags/tag/d-7294 d-7294]** -- D-7294.
@@ -1024,6 +1028,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/general-bowe general-bowe]** -- General Bowe.
 * **[https://scpwiki.com/system:page-tags/tag/glacon glacon]** -- Glacon.aic, an artificial intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/greg-chudley greg-chudley]** -- Researcher Greg Chudley of Site-78.
+* **[https://scpwiki.com/system:page-tags/tag/james-harkness james-harkness]** -- James Harkness, a disgruntled network admin with an abnormally high Cognitive Resistance Value.
 * **[https://scpwiki.com/system:page-tags/tag/judith-low judith-low]** -- Dr. Judith Low, Department of History.
 * **[https://scpwiki.com/system:page-tags/tag/kain-pathos-crow kain-pathos-crow]** -- Professor Kain Pathos Crow.
 * **[https://scpwiki.com/system:page-tags/tag/lombardi lombardi]** -- [https://scp-wiki.wikidot.com/the-lombardi-tales Agent Lombardi].
@@ -1070,6 +1075,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/donkman donkman]** -- Ulysses B. Donkman, aka [https://scp-wiki.wikidot.com/scp-4768 SCP-4768].
 * **[https://scpwiki.com/system:page-tags/tag/fred fred]** -- Fred, aka [https://scp-wiki.wikidot.com/scp-423 SCP-423].
 * **[https://scpwiki.com/system:page-tags/tag/grabnok grabnok]** -- Grabnok the Destroyer, the Reluctant Dimension Hopper, aka [https://scp-wiki.wikidot.com/scp-507 SCP-507].
+* **[https://scpwiki.com/system:page-tags/tag/geoffrey-quincy-harrison geoffrey-quincy-harrison]** -- Geoffrey Quincy Harrison III, a sassy gumball machine stationed in Site-322’s accounting department, aka [https://scp-wiki.wikidot.com/scp-5595 SCP-5595].
 * **[https://scpwiki.com/system:page-tags/tag/hard-to-destroy-reptile hard-to-destroy-reptile]** -- The "Hard-To-Destroy Reptile", aka [https://scp-wiki.wikidot.com/scp-682 SCP-682].
 * **[https://scpwiki.com/system:page-tags/tag/half-cat-josie half-cat-josie]** -- Josie the half cat, aka [https://scp-wiki.wikidot.com/scp-529 SCP-529].
 * **[https://scpwiki.com/system:page-tags/tag/heather-mason heather-mason]** -- Heather Mason, aka "Ms. Mad About Video Games" or [https://scp-wiki.wikidot.com/scp-3090 SCP-3090].
@@ -1126,8 +1132,10 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/manny manny]** -- Manny, aka The Man With the Upside Down Face of Herman Fuller's Circus of the Disquieting.
 * **[https://scpwiki.com/system:page-tags/tag/mari-macphaerson mari-macphaerson]** -- Mari MacPhaerson, the VP of Public Relations from Vikander-Kneed Technical Studies.
 * **[https://scpwiki.com/system:page-tags/tag/nadox nadox]** -- Nadox, one of the four Klavigars of Sarkicism.
+* **[https://scpwiki.com/system:page-tags/tag/olivie-gwyneth olivie-gwyneth]** -- olivie-gwyneth, Head archivist of the Sidhe Lounge.
 * **[https://scpwiki.com/system:page-tags/tag/orok orok]** -- Orok, one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
+* **[https://scpwiki.com/system:page-tags/tag/percival-darke percival-darke]** -- Percival Darke, founder of Marshall, Carter and Dark AKA the Deathless Merchant of London.
 * **[https://scpwiki.com/system:page-tags/tag/polaricecraps polaricecraps]** -- Polaricecraps, of Gamers Against Weed.
 * **[https://scpwiki.com/system:page-tags/tag/queen-mab queen-mab]** -- Queen Mab, a Fae tyrant and goddess.
 * **[https://scpwiki.com/system:page-tags/tag/professor-aw professor-aw]** -- Professor A.W., inventor and creator of curiosities.
@@ -1302,6 +1310,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/sc2015 sc2015]** -- An entry to the [https://scp-wiki.wikidot.com/short-works-contest 2015 Short Works Contest].
 * **[https://scpwiki.com/system:page-tags/tag/tc2013 tc2013]** -- An entry to the [https://scp-wiki.wikidot.com/time-contest 2013 Time Contest].
 * **[https://scpwiki.com/system:page-tags/tag/uac2014 uac2014]** -- An entry to the [https://scp-wiki.wikidot.com/under-appreciated-contest 2014 Under-Appreciated SCPs Contest].
+* **[https://scpwiki.com/system:page-tags/tag/visual-archives2024 visual-archives2024]** -- An entry to the [https://scp-wiki.wikidot.com/visual-archives-art-contest 2024 Visual Archives Art Contest].
 * **[https://scpwiki.com/system:page-tags/tag/memecon2021-unofficial memecon2021-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].
 * **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
 
