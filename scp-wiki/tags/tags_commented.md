@@ -662,7 +662,7 @@ The following tags are for specific Departments or Groups of Interest.
 These tags are used to designate pages that prominently feature a Foundation Department or Mobile Task Force.
 
 * **[https://scpwiki.com/system:page-tags/tag/abnormalities abnormalities]** -- Of or related to the Department of Abnormalities.
-* **[https://scpwiki.com/system:page-tags/tag/alpha-9 alpha-9]** -- Of or related to MTF Alpha-9, Last Hope.
+* **[https://scpwiki.com/system:page-tags/tag/last-hope last-hope]** -- Of or related to MTF Alpha-9, Last Hope.
 * **[https://scpwiki.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of or related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
 * **[https://scpwiki.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
 * **[https://scpwiki.com/system:page-tags/tag/delta-t delta-t]** -- Of or related to the Delta T, the transtemporal Foundation agency.
@@ -676,7 +676,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Of or related to the Foundation's Department of Procurement and Liquidation.
 * **[https://scpwiki.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Of or related to the Foundation's Department of Surrealistics.
 * **[https://scpwiki.com/system:page-tags/tag/tactical-theology tactical-theology]** -- Of or related to the Foundation's Department of Tactical Theology.
-* **[https://scpwiki.com/system:page-tags/tag/tau-5-samsara tau-5-samsara]** -- Of or related to Mobile Task Force Tau-5 "Samsara".
+* **[https://scpwiki.com/system:page-tags/tag/samsara samsara]** -- Of or related to Mobile Task Force Tau-5 "Samsara".
 * **[https://scpwiki.com/system:page-tags/tag/telecom-office telecom-office]** -- Of or related to the Foundation's [https://scp-wiki.wikidot.com/telecommunications-monitoring-office-hub Telecommunications Monitoring Office].
 * **[https://scpwiki.com/system:page-tags/tag/unreality-dept unreality-dept]** -- Of or related to the Foundation's [https://scp-wiki.wikidot.com/unreality-hub Unreality Department].
 
@@ -923,6 +923,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
 * **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Of or related to the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] series.
+* **[https://scpwiki.com/system:page-tags/tag/eternal-mxtape eternal-mxtape]** -- Of or related to the [https://scp-wiki.wikidot.com/the-eternal-mxtape Eternal MxTape] series.
 * **[https://scpwiki.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#toc111 Global Occult Coalition Casefiles] stories.
 * **[https://scpwiki.com/system:page-tags/tag/harbinger harbinger]** -- Of or related to the Of or related to the HARBINGER stories.
 * **[https://scpwiki.com/system:page-tags/tag/hecatoncheires-cycle hecatoncheires-cycle]** -- Of or related to the [https://scp-wiki.wikidot.com/hecatoncheires-cycle-hub Hecatoncheires Cycle] series.
@@ -1017,6 +1018,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-rights doctor-rights]** -- Dr. Rights.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-rivera doctor-rivera]** -- Dr. Jessie Rivera.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-roget doctor-roget]** -- Dr. Ralph Roget.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-scranton doctor-scranton]** -- Dr. Robert Scranon, inventor of the scranton reality anchor, see SCP-3001.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-shaw doctor-shaw]** -- Dr. Elias Blake Shaw AKA SCP-963.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sinclair doctor-sinclair]** -- Dr. Katherine Sinclair.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sokolsky doctor-sokolsky]** -- Dr. Daniil Sokolsky.
