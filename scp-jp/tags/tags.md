@@ -250,6 +250,7 @@
 * **[[[/system:page-tags/tag/neutralized|neutralized]]]** //(neutralized)// - オブジェクトクラス: Neutralized。[#faq 翻訳に関するFAQ]も参照してください。
 * **[[[/system:page-tags/tag/apollyon|apollyon]]]** //(apollyon)// - オブジェクトクラス: Apollyon
 * **[[[/system:page-tags/tag/archon|archon]]]** //(archon)// - オブジェクトクラス: Archon
+* **[[[/system:page-tags/tag/ticonderoga|ticonderoga]]]** //(ticonderoga)// - オブジェクトクラス: Ticonderoga
 * **[[[/system:page-tags/tag/decommissioned|decommissioned]]]** //(decommissioned)// - オブジェクトクラス: Decommissioned
 * **[[[/system:page-tags/tag/pending|pending]]]** //(pending)// - 分類保留中。
 * **[[[/system:page-tags/tag/esoteric-class|esoteric-class]]]** //(esoteric-class)// - 上記のいずれでもないオブジェクトクラスの場合に付与されるタグです。
