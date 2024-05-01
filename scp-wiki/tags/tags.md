@@ -1314,6 +1314,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/nyc2013 nyc2013]** -- An entry to the [https://scp-wiki.wikidot.com/new-years-contest 2013 New Year's Canon Contest].
 * **[https://scpwiki.com/system:page-tags/tag/rei2015 rei2015]** -- An entry to the [https://scp-wiki.wikidot.com/reimagining-contest 2015 Reimagining Contest].
 * **[https://scpwiki.com/system:page-tags/tag/remixcon2023 remixcon2023]** -- An entry to the [https://scp-wiki.wikidot.com/remixcon2023 2023 Remix Contest].
+* **[https://scpwiki.com/system:page-tags/tag/spring-cleaning24 spring-cleaning24]** -- An entry to the [https://scp-wiki.wikidot.com/deer-college-spring-cleaning-event 2024 Spring Cleaning Event].
 * **[https://scpwiki.com/system:page-tags/tag/sc2015 sc2015]** -- An entry to the [https://scp-wiki.wikidot.com/short-works-contest 2015 Short Works Contest].
 * **[https://scpwiki.com/system:page-tags/tag/tc2013 tc2013]** -- An entry to the [https://scp-wiki.wikidot.com/time-contest 2013 Time Contest].
 * **[https://scpwiki.com/system:page-tags/tag/uac2014 uac2014]** -- An entry to the [https://scp-wiki.wikidot.com/under-appreciated-contest 2014 Under-Appreciated SCPs Contest].
