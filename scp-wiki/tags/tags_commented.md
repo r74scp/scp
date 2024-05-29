@@ -206,6 +206,7 @@ Tags that apply to creatures that are **alive**, or to **autonomous** or non-liv
 * **[https://scpwiki.com/system:page-tags/tag/sapient sapient]** -- SCP demonstrates sapience, the capacity for reason, abstract thought and complex emotional responses. Used to indicate intelligence equal to or exceeding human intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/species species]** -- SCP describes an entire species, rather than one or more individuals.
 * **[https://scpwiki.com/system:page-tags/tag/swarm swarm]** -- SCP exhibits swarm behavior.
+* **[https://scpwiki.com/system:page-tags/tag/superhero superhero]** -- SCP is related to superhero fiction or intrinsically embodies the idea of a superhero or supervillain.
 * **[https://scpwiki.com/system:page-tags/tag/tree tree]** -- SCP is or exhibits traits of tree-like (arboreal) plants.
  * //Often used with 'plant'//
 * **[https://scpwiki.com/system:page-tags/tag/virus virus]** -- SCP exhibits traits of viral agents.
@@ -426,6 +427,7 @@ Tags that typically apply to objects created by humans, including **artifacts** 
 * **[https://scpwiki.com/system:page-tags/tag/artistic artistic]** -- SCP is a work of art, exhibits artistic properties, or has artistic significance.
  * //Supersedes 'artifact'//
  * //Superseded by 'musical', 'performance', and 'sculpture'//
+* **[https://scpwiki.com/system:page-tags/tag/artificial-intelligence artificial-intelligence]** -- SCP is an artificial intelligence, possesses an AI or affects other AIs.
 * **[https://scpwiki.com/system:page-tags/tag/artifact artifact]** -- SCP is or was originally created by humans.
  * //Superseded by 'appliance', 'artistic', 'clothing', 'Cinema', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
 * **[https://scpwiki.com/system:page-tags/tag/clockwork clockwork]** -- SCP operates primarily via clockworks, defined as mechanical devices constructed primarily using toothed wheels and/or powered by a mainspring.
@@ -911,6 +913,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 
 Tags for tale and SCP series, that may or may not have a Hub.
 
+* **[https://scpwiki.com/system:page-tags/tag/8000-dead-rats 8000-dead-rats]** -- Part of the  [https://scp-wiki.wikidot.com/8000-dead-rats-hub 8000 dead rats series].
 * **[https://scpwiki.com/system:page-tags/tag/abcs-of-death abcs-of-death]** -- Part of the ABC's of Death [https://scp-wiki.wikidot.com/scp-anthology-hub anthology].
 * **[https://scpwiki.com/system:page-tags/tag/admonition admonition]** -- Of or related to [https://scp-wiki.wikidot.com/admonition the Admonition] series.
 * **[https://scpwiki.com/system:page-tags/tag/anabasis anabasis]** -- Of or related to the [https://scp-wiki.wikidot.com/anabasis-hub Anabasis] stories.
@@ -943,6 +946,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/untitled-series untitled-series]** -- Error description cannot be blank [https://scp-wiki.wikidot.com/https://scp-wiki.wikidot.com/unreality-hub or linked to the click to add text] series.
 * **[https://scpwiki.com/system:page-tags/tag/we-meet-again we-meet-again]** -- Of or related to the [https://scp-wiki.wikidot.com/and-every-time-we-meet-again-hub And Every Time We Meet Again] series.
 * **[https://scpwiki.com/system:page-tags/tag/whore-of-blood whore-of-blood]** -- Of or related to the [https://scp-wiki.wikidot.com/whore-of-blood-hub Whore of Blood] series.
+* **[https://scpwiki.com/system:page-tags/tag/w-i-t-c-h w-i-t-c-h]** -- Of or relating to the Weaving Imperceptible Threads Continuity.
 * **[https://scpwiki.com/system:page-tags/tag/wrong-tomorrow wrong-tomorrow]** -- Of or related to the [https://scp-wiki.wikidot.com/wrong-tomorrow-hub Wrong Tomorrow] series.
 * **[https://scpwiki.com/system:page-tags/tag/yggdrasil-s-surveyor yggdrasil-s-surveyor]** -- Of or related to the cross-canon series [https://scp-wiki.wikidot.com/yggdrasils-surveyor Yggdrasil's Surveyor].
 
@@ -1146,6 +1150,7 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/robin-thorne robin-thorne]** -- Robin Thorne, of the FBI Unusual Investigations Unit.
 * **[https://scpwiki.com/system:page-tags/tag/ruiz-duchamp ruiz-duchamp]** -- Ruiz Duchamp, an anartist.
 * **[https://scpwiki.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hedwig, a prophet of Maxwellism.
+* **[https://scpwiki.com/system:page-tags/tag/saarn saarn]** -- Saarn, one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer, serial reincarnator and false prophet.
 * **[https://scpwiki.com/system:page-tags/tag/the-engineer the-engineer]** -- The Engineer, of the Chaos Insurgency.
 * **[https://scpwiki.com/system:page-tags/tag/the-critic the-critic]** -- The Critic, of Are We Cool Yet.
