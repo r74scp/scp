@@ -808,6 +808,8 @@ The following applies to all tags in this category:
  * //Requires 'gru-division-p'//
 * **[https://scpwiki.com/system:page-tags/tag/_herman-fuller _herman-fuller]** -- An article following the Herman Fuller format.
  * //Requires 'herman-fuller'//
+* **[https://scpwiki.com/system:page-tags/tag/_homo-sapiens-sidhe _homo-sapiens-sidhe]** -- An article following the Fae/Homo sapiens sidhe format.
+ * //Requires 'homo-sapiens-sidhe'//
 * **[https://scpwiki.com/system:page-tags/tag/_horizon-initiative _horizon-initiative]** -- An article following the Horizon Initiative format.
  * //Requires 'horizon-initiative'//
 * **[https://scpwiki.com/system:page-tags/tag/_icsut _icsut]** -- An article following the International Center for the Study of Unified Thaumatology.
@@ -1317,6 +1319,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/lorecon2023 lorecon2023]** -- An entry to the [http://scp-int.wikidot.com/lorecon2023 International 2023 Lore and Aesthetics Contest].
 * **[https://scpwiki.com/system:page-tags/tag/mtf2016 mtf2016]** -- An entry to the [https://scp-wiki.wikidot.com/mobile-task-force-contest 2016 Mobile Task Force Contest].
 * **[https://scpwiki.com/system:page-tags/tag/nyc2013 nyc2013]** -- An entry to the [https://scp-wiki.wikidot.com/new-years-contest 2013 New Year's Canon Contest].
+* **[https://scpwiki.com/system:page-tags/tag/pridefest2024 pridefest2024]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2024 Pride festival].
 * **[https://scpwiki.com/system:page-tags/tag/rei2015 rei2015]** -- An entry to the [https://scp-wiki.wikidot.com/reimagining-contest 2015 Reimagining Contest].
 * **[https://scpwiki.com/system:page-tags/tag/remixcon2023 remixcon2023]** -- An entry to the [https://scp-wiki.wikidot.com/remixcon2023 2023 Remix Contest].
 * **[https://scpwiki.com/system:page-tags/tag/spring-cleaning24 spring-cleaning24]** -- An entry to the [https://scp-wiki.wikidot.com/deer-college-spring-cleaning-event 2024 Spring Cleaning Event].
