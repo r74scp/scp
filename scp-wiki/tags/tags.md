@@ -1236,6 +1236,7 @@ Tags for all events on the wiki, including contests.
 * **[https://scpwiki.com/system:page-tags/tag/art-exchange art-exchange]** -- Of or related to the [https://scp-wiki.wikidot.com/art-exchange-hub Annual Holiday Art Exchange].
 * **[https://scpwiki.com/system:page-tags/tag/af2014 af2014]** -- Of or related to the [https://scp-wiki.wikidot.com/april-fools-2014 Super Cute Pets!] 2014 April Fool's prank.
 * **[https://scpwiki.com/system:page-tags/tag/game-day game-day]** -- Of or related to the [https://scp-wiki.wikidot.com/gamedayindex Game Day] project.
+* **[https://scpwiki.com/system:page-tags/tag/news-prompt news-prompt]** -- An entry which follows a writing prompt from site news.
 * **[https://scpwiki.com/system:page-tags/tag/nightmarefest nightmarefest]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/nightmarefest NIGHTMAREFEST].
 * **[https://scpwiki.com/system:page-tags/tag/_townhouse _townhouse]** -- An entry to the 'Townhouse' category of the unofficial NIGHTMAREFEST.
  * //Requires 'nightmarefest'//
