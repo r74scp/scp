@@ -1723,6 +1723,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 
 * **[[[/system:page-tags/tag/怪奇部門|怪奇部門]]]** //(abnormalities)// - 怪奇部門。
 * **[[[/system:page-tags/tag/解体部門|解体部門]]]** //(decommissioning-dept)// - [[[decom-dept-hub|解体部門]]]。
+* **[[[/system:page-tags/tag/デルタ-t|デルタ-t]]]** //(delta-t)// - 財団の超時間機構、[[[welcome-to-delta-t|デルタ-T (Δt)]]]。
 * **[[[/system:page-tags/tag/倫理委員会|倫理委員会]]]** //(ethics-committee)// - 倫理委員会。
 * **[[[/system:page-tags/tag/ettra|ettra]]]** //(ettra)// - 緊急時脅威戦術対応機構 (ETTRA)。
 * **[[[/system:page-tags/tag/火急鎮静部門|火急鎮静部門]]]** //(fire-suppression-dept)// - [[[fire-suppression-department-hub|火急鎮静部門]]]。
