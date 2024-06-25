@@ -727,6 +727,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/horizon-initiative horizon-initiative]** -- Of or related to [https://scp-wiki.wikidot.com/horizon-initiative-hub The Horizon Initiative] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/icsut icsut]** -- Of or related to the International Center for the Study of Unified Thaumatology, member of the GOC's Council of 108.
 * **[https://scpwiki.com/system:page-tags/tag/ijamea ijamea]** -- Of or related to the [https://scp-wiki.wikidot.com/ijamea-hub Imperial Japanese Anomalous Matters Examination Agency] group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/joicl joicl]** -- Of or related to the Japanese Organism Improvement and Creation Laboratory group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/just-girly-things just-girly-things]** -- Of or related to the Just Girly Things group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/madao madao]** -- Of or related to the Italian [https://scp-wiki.wikidot.com/hub-madao Medicean Academy of Occult Art] (Medicea Accademia Dell'Arte Occulta) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/mages-academy mages-academy]** -- Of or related to the German [https://scp-wiki.wikidot.com/magierakademie-hub Mages Academy] group of interest.
@@ -816,6 +817,8 @@ The following applies to all tags in this category:
  * //Requires 'icsut'//
 * **[https://scpwiki.com/system:page-tags/tag/_ijamea _ijamea]** -- An article following the IJAMEA format.
  * //Requires 'ijamea'//
+* **[https://scpwiki.com/system:page-tags/tag/_joicl _joicl]** -- An article following the Japanese Organism Improvement and Creation Laboratory format.
+ * //Requires 'joicl'//
 * **[https://scpwiki.com/system:page-tags/tag/_just-girly-things _just-girly-things]** -- An article following the Just Girly Things format.
  * //Requires 'just-girly-things'//
 * **[https://scpwiki.com/system:page-tags/tag/_la-rue-macabre _la-rue-macabre]** -- An article following the La Rue Macabre format.
@@ -934,6 +937,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
 * **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Of or related to the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] series.
 * **[https://scpwiki.com/system:page-tags/tag/eternal-mxtape eternal-mxtape]** -- Of or related to the [https://scp-wiki.wikidot.com/the-eternal-mxtape Eternal MxTape] series.
+* **[https://scpwiki.com/system:page-tags/tag/Eventyr Eventyr]** -- Of or related to the Eventyr series.
 * **[https://scpwiki.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#toc111 Global Occult Coalition Casefiles] stories.
 * **[https://scpwiki.com/system:page-tags/tag/harbinger harbinger]** -- Of or related to the Of or related to the HARBINGER stories.
 * **[https://scpwiki.com/system:page-tags/tag/hecatoncheires-cycle hecatoncheires-cycle]** -- Of or related to the [https://scp-wiki.wikidot.com/hecatoncheires-cycle-hub Hecatoncheires Cycle] series.
@@ -1041,6 +1045,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/general-bowe general-bowe]** -- General Bowe.
 * **[https://scpwiki.com/system:page-tags/tag/glacon glacon]** -- Glacon.aic, an artificial intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/greg-chudley greg-chudley]** -- Researcher Greg Chudley of Site-78.
+* **[https://scpwiki.com/system:page-tags/tag/hadfield-twins hadfield-twins]** -- John and Abigail Hadfield AKA O5-4 and O5-8.
 * **[https://scpwiki.com/system:page-tags/tag/james-harkness james-harkness]** -- James Harkness, a disgruntled network admin with an abnormally high Cognitive Resistance Value.
 * **[https://scpwiki.com/system:page-tags/tag/judith-low judith-low]** -- Dr. Judith Low, Department of History.
 * **[https://scpwiki.com/system:page-tags/tag/kain-pathos-crow kain-pathos-crow]** -- Professor Kain Pathos Crow.
