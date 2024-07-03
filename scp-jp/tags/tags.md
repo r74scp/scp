@@ -2641,7 +2641,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/nyc2013|nyc2013]]]** //(nyc2013)// - [[[new-years-contest|2013年ニューイヤー・カノンコンテスト]]]。
 
-* **[[[/system:page-tags/tag/pridefest24|pridefest24]]]** //(pridefest24)// - [[[pridefest|2024年プライドフェスティバル]]]。
+* **[[[/system:page-tags/tag/pridefest24|pridefest24]]]** //(pridefest2024)// - [[[pridefest|2024年プライドフェスティバル]]]。
 
 * **[[[/system:page-tags/tag/paracon2023-unofficial|paracon2023-unofficial]]]** //(paracon2023-unofficial)// - 非公式企画の[[[https://scp-wiki.wikidot.com/forum/t-16423302/unofficial-paracon-2023| 2023年パラウォッチコンテスト]]]。
 
