@@ -20,11 +20,11 @@
 }
 [[/module]]
 
-> This page has a comprehensive list of tags available on the wiki.  For help with actually deciding which tags to use, please refer to the [[[tech-hub-tag | tag guide]]].
+> This page has a comprehensive list of tags available on the wiki.  For help with actually deciding which tags to use, please refer to the [[[a-laymen-s-guide-to-tagging | tag guide]]].
 
 When choosing tags for an article, keep in mind that you want to keep the list as short as possible; the goal should be to choose tags that are already being used, rather than create a new one. If staff should determine that a new tag is necessary, they can always retroactively tag articles as necessary. If you would like to suggest a new tag, please do so in the [https://scp-wiki.wikidot.com/forum/c-51015/proposals-and-policy stickied tag suggestion thread].
 
-//For Wiki staff: to update this page, see [[[tag list manifest|]]]//
+//For Wiki staff: to update this page, see [https://05command.wikidot.com/tag-list-manifest tag list manifest]//
 
 [[tabview]]
 [[tab Top Level]]
