@@ -872,6 +872,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/apotheosis apotheosis]** -- Of or related to the [https://scp-wiki.wikidot.com/antarctic-exchange-hub Apotheosis] canon.
 * **[https://scpwiki.com/system:page-tags/tag/bellerverse bellerverse]** -- Of or related to the [https://scp-wiki.wikidot.com/bellerverse Bellerverse] canon.
 * **[https://scpwiki.com/system:page-tags/tag/broken-masquerade broken-masquerade]** -- Of or related to the [https://scp-wiki.wikidot.com/broken-masquerade-hub Broken Masquerade] canon.
+* **[https://scpwiki.com/system:page-tags/tag/but-a-dream but-a-dream]** -- Of or related to the [https://scp-wiki.wikidot.com/but-a-dream but a dream] canon.
 * **[https://scpwiki.com/system:page-tags/tag/competitive-eschatology competitive-eschatology]** -- Of or related to the [https://scp-wiki.wikidot.com/Competitive-Eschatology-Hub Competitive Eschatology] canon.
 * **[https://scpwiki.com/system:page-tags/tag/cool-war-2 cool-war-2]** -- Of or related to the [https://scp-wiki.wikidot.com/cool-war-2-hub Cool War 2: Ruiz From Your Grave] canon.
 * **[https://scpwiki.com/system:page-tags/tag/daybreak daybreak]** -- Of or related to the [https://scp-wiki.wikidot.com/daybreak Daybreak] canon.
@@ -899,6 +900,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/rats-nest rats-nest]** -- Of or related to the [https://scp-wiki.wikidot.com/rat-s-nest-hub Rat's Nest] canon.
 * **[https://scpwiki.com/system:page-tags/tag/resurrection resurrection]** -- Of or related to the [https://scp-wiki.wikidot.com/resurrection Resurrection] project.
 * **[https://scpwiki.com/system:page-tags/tag/s&c-plastics s&c-plastics]** -- Of or related to the [https://scp-wiki.wikidot.com/the-s-c-plastics-hub S & C Plastics] canon.
+* **[https://scpwiki.com/system:page-tags/tag/the-sharkest-timeline the-sharkest-timeline]** -- Of or related to the [https://scp-wiki.wikidot.com/the-sharkest-timeline Sharkest Timeline] canon.
 * **[https://scpwiki.com/system:page-tags/tag/ship-in-a-bottle ship-in-a-bottle]** -- Of or related to the [https://scp-wiki.wikidot.com/siabhub Ship In A Bottle] canon.
 * **[https://scpwiki.com/system:page-tags/tag/simulacrum simulacrum]** -- Of or related to the [https://scp-wiki.wikidot.com/simulacrum-project-hub simulacrum] canon.
 * **[https://scpwiki.com/system:page-tags/tag/sotm sotm]** -- Of or related to the [https://scp-wiki.wikidot.com/sotmhub Straight On Till Morning] canon.
@@ -926,13 +928,13 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/appliance-war appliance-war]** -- Of or related to [https://scp-wiki.wikidot.com/the-appliance-war-hub The Appliance War] series.
 * **[https://scpwiki.com/system:page-tags/tag/black-rabbit-company black-rabbit-company]** -- Of or related to the [https://scp-wiki.wikidot.com/stealingsolidarityhub Stealing Solidarity] series.
 * **[https://scpwiki.com/system:page-tags/tag/bury-the-survivors bury-the-survivors]** -- Of or related to the [https://scp-wiki.wikidot.com/bury-the-survivors-hub Bury the Survivors] series.
-* **[https://scpwiki.com/system:page-tags/tag/but-a-dream but-a-dream]** -- Of or related to the but a dream series.
 * **[https://scpwiki.com/system:page-tags/tag/cack-hard cack-hard]** -- Of or related to the [https://scp-wiki.wikidot.com/cack-hub cack-hard] stories.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
 * **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Of or related to the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] series.
 * **[https://scpwiki.com/system:page-tags/tag/eternal-mxtape eternal-mxtape]** -- Of or related to the [https://scp-wiki.wikidot.com/the-eternal-mxtape Eternal MxTape] series.
-* **[https://scpwiki.com/system:page-tags/tag/Eventyr Eventyr]** -- Of or related to the Eventyr series.
+* **[https://scpwiki.com/system:page-tags/tag/Eventyr Eventyr]** -- Of or related to the [https://scp-wiki.wikidot.com/eventyr-hub Eventyr] series.
+* **[https://scpwiki.com/system:page-tags/tag/forgotten-memories forgotten-memories]** -- Of or related to the [https://scp-wiki.wikidot.com/forgotten-memories-hub Forgotten Memories] series.
 * **[https://scpwiki.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#toc111 Global Occult Coalition Casefiles] stories.
 * **[https://scpwiki.com/system:page-tags/tag/harbinger harbinger]** -- Of or related to the Of or related to the HARBINGER stories.
 * **[https://scpwiki.com/system:page-tags/tag/hecatoncheires-cycle hecatoncheires-cycle]** -- Of or related to the [https://scp-wiki.wikidot.com/hecatoncheires-cycle-hub Hecatoncheires Cycle] series.
