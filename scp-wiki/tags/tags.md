@@ -1229,7 +1229,7 @@ These tags are added only used by SCP Wiki staff, and are intended to designate 
 * **[https://scpwiki.com/system:page-tags/tag/_image _image]** -- This is a temporary tag that the tagging team applies to new articles that include one or more images, irrespective of whatever licensing information is provided by the author. This tag acts as an indicator to the Licensing team that there are images whose license status need to be confirmed and/or verified. Licensing will remove the _image tag and replace it with the _cc tag (or, if images are removed, no tag at all) when appropriate.
  * //Conflicts with '_cc'//
  * //Superseded by '_cc'//
-* **[https://scpwiki.com/system:page-tags/tag/_licensebox _licensebox]** -- A tag for designating that an article has a standard license info block that is tracked on the [https://scp-wiki.wikidot.com/licensing-master-list Licensing Master List].
+* **[https://scpwiki.com/system:page-tags/tag/_licensebox _licensebox]** -- Used for pages which have a standard license info block.
 * **[https://scpwiki.com/system:page-tags/tag/_theme-temp _theme-temp]** -- Temporary tag used for marking old theme locations while they were moved from the {{component:}} category to the {{theme:}} category.
 * **[https://scpwiki.com/system:page-tags/tag/crosslink crosslink]** -- This is a temporary tag that indicates the Wikiwalk Subteam of MAST is currently proposing revisions on the page, which should be seen in the comments.
 
@@ -1364,6 +1364,9 @@ These tags indicate that the article in question has been translated to SCP-EN f
 * **[https://scpwiki.com/system:page-tags/tag/_zh _zh]** -- Translated from the [http://scp-zh-tr.wikidot.com/ Traditional Chinese Site].
 * **[https://scpwiki.com/system:page-tags/tag/_vn _vn]** -- Translated from the [http://scp-vn.wikidot.com/ Vietnamese Site].
 * **[https://scpwiki.com/system:page-tags/tag/_el _el]** -- Translated from the [http://scp-el.wikidot.com/ Greek Site].
+* **[https://scpwiki.com/system:page-tags/tag/_id _id]** -- Translated from the [http://scp-id.wikidot.com/ Indonesian  Site].
+* **[https://scpwiki.com/system:page-tags/tag/_hu _hu]** -- Translated from the [http://scp-hu.wikidot.com/ Hungarian  Site].
+* **[https://scpwiki.com/system:page-tags/tag/_nd _nd]** -- Translated from the [http://scp-nd.wikidot.com/ Nordic  Site].
 
 [[/tab]]
 
