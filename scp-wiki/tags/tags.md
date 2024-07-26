@@ -65,7 +65,9 @@ Pages for site members to showcase their body of work.
 
 * **[https://scpwiki.com/system:page-tags/tag/author author]** -- This tag should be used for author profile pages. There should only be a single author profile page for each qualifying site member.
 * **[https://scpwiki.com/system:page-tags/tag/artist artist]** -- This tag should, similarly, be used for artist profile pages. If a site member wants more than one artist profile page, they must get staff permission first.
+ * //Conflicts with 'illustrated'//
 * **[https://scpwiki.com/system:page-tags/tag/artwork artwork]** -- //artwork// pages host Foundation-related artwork created by community members, whether as individual pieces or collections.
+ * //Conflicts with 'illustrated'//
 
 +++ Import pages
 
@@ -105,6 +107,8 @@ Miscellaneous major page tags that are not top-level tags.
 
 * **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should also be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
 * **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
+* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- Article has an illustration specifically made for the article, this includes photobashes and other forms of photo manipulation.
+ * //Conflicts with 'artwork', and 'artist'//
 * **[https://scpwiki.com/system:page-tags/tag/archived archived]** -- Pages which have been archived due to having been superseded, obsoleted, or inactivity. These pages should also be moved to the {{archived:}} category so they retain the 'archived page' notice and are locked from edits. See [https://scp-wiki.wikidot.com/archived-scps Archived Pages] for more information on archival.
 * **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained] SCPs are a special sub-type of //scp//, and should be added to -EX articles as appropriate. Explained articles should also be tagged with their standard object class tag, or //esoteric-class// if the format does not specify a standard object class.
  * //Requires 'scp'//
