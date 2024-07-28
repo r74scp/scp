@@ -39,8 +39,10 @@ The following tags are for pages that contain fiction.
 * **[https://scpwiki.com/system:page-tags/tag/scp scp]** -- All SCP articles from the main blocks, [https://scp-wiki.wikidot.com/scp-001 001 proposals], [https://scp-wiki.wikidot.com/joke-scps jokes] (-J), [https://scp-wiki.wikidot.com/archived-scps archives] (-ARC), and [https://scp-wiki.wikidot.com/scp-ex explained] (-EX) articles should be tagged with //scp//.
  * //Requires any of category 'object-class'//
  * //Conflicts with 'foundation-format'//
+ * //Supersedes 'scp-art'//
 * **[https://scpwiki.com/system:page-tags/tag/goi-format goi-format]** -- The page has been written up from the perspective of a specific Group of Interest, and conforms to the format(s) laid out in that GoI's hub page. GoI Formats should also be tagged with the tag of their GoI, as well as the underscore tag for the GoI format.
  * //Requires any of category 'goi-format'//
+ * //Supersedes 'goi-art'//
 * **[https://scpwiki.com/system:page-tags/tag/tale tale]** -- Any fiction that is set in the SCP universe but is not an SCP, GoI Format, site page or supplement.
 * **[https://scpwiki.com/system:page-tags/tag/supplement supplement]** -- //supplement// pages are defined as pages which require context from their parent page to understand. These pages should also have their parent page set to their originating article in order to maintain relevance and automatically create breadcrumb navigation. A page should only be tagged as //supplement// if they were created by the original author of the page, or with the original author's permission. Documents that are tributes or parodies should be tagged as //tale// instead, even if they are in the format of a log or transcript.
 * **[https://scpwiki.com/system:page-tags/tag/site site]** -- //site// pages are hub pages that document specific Foundation facilities, and provide information such as the objects stored at the site, site history, assigned personnel, etc. A page tagged //site// that is also a hub page e.g. for SCPs contained within that site should also be tagged //hub//.
@@ -102,8 +104,8 @@ Miscellaneous major page tags that are not top-level tags.
 
 * **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should also be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
 * **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
-* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- Article has an illustration specifically made for the article, this includes photobashes and other forms of photo manipulation.
- * //Conflicts with 'artwork', and 'artist'//
+* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- Article has an illustration specifically created for the article, including photobashes and other forms of photo manipulation.
+ * //Conflicts with 'artwork', 'artist', and 'comic'//
 * **[https://scpwiki.com/system:page-tags/tag/archived archived]** -- Pages which have been archived due to having been superseded, obsoleted, or inactivity. These pages should also be moved to the {{archived:}} category so they retain the 'archived page' notice and are locked from edits. See [https://scp-wiki.wikidot.com/archived-scps Archived Pages] for more information on archival.
 * **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained] SCPs are a special sub-type of //scp//, and should be added to -EX articles as appropriate. Explained articles should also be tagged with their standard object class tag, or //esoteric-class// if the format does not specify a standard object class.
  * //Requires 'scp'//
@@ -119,6 +121,7 @@ Miscellaneous major page tags that are not top-level tags.
 * **[https://scpwiki.com/system:page-tags/tag/contest contest]** -- //contest// pages are pages created for the purpose of community contests. This should be used in conjunction with //hub// in the case of entry listings, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
  * //Requires 'hub'//
 * **[https://scpwiki.com/system:page-tags/tag/comic comic]** -- For stories that are primarily told via sequential art.
+ * //Conflicts with 'illustrated'//
 * **[https://scpwiki.com/system:page-tags/tag/required required]** -- //required// pages are guides that are part of the required reading for joining the SCP Wiki.
 * **[https://scpwiki.com/system:page-tags/tag/_tale-hub _tale-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a series that consists mostly or entirely of //tale// articles.
  * //Requires 'hub'//
@@ -626,12 +629,12 @@ Describes the style of a tale.
 [[tab Art]]
 ++ Art
 
-.
+For articles featuring original artwork.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
 
-* Requires either 'artwork', or 'artist'
+* Requires any of 'artwork', 'artist', 'comic', or 'illustrated'
 
 [[/div]]
 
@@ -652,10 +655,12 @@ These tags describe the art style used in the piece.
 These tags refer to the content that the artwork is depicting.
 
 * **[https://scpwiki.com/system:page-tags/tag/goi-art goi-art]** -- Artwork depicting characters, objects, or themes from a specific Group of Interest. Also applies to GoI logos.
+ * //Superseded by 'goi-format'//
 * **[https://scpwiki.com/system:page-tags/tag/logo logo]** -- Artwork depicts one or more logos or other symbolic graphics, such as insignia, flags and coats of arms.
 * **[https://scpwiki.com/system:page-tags/tag/personnel-art personnel-art]** -- Artwork depicting specific SCP Foundation employees.
 * **[https://scpwiki.com/system:page-tags/tag/poster poster]** -- Artwork depicts a poster, infographic or advertisment, using a combination of images and words to convey information.
 * **[https://scpwiki.com/system:page-tags/tag/scp-art scp-art]** -- Artwork depicting one or more SCP objects or entities.
+ * //Superseded by 'scp'//
 
 [[/tab]]
 [[tab Groups]]
