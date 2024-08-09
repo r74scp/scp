@@ -1009,6 +1009,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/鐘を鳴らす者の詩|鐘を鳴らす者の詩]]]** //(bellerverse)// - [[[bellerverse|鐘を鳴らす者の詩]]]。
 * **[[[/system:page-tags/tag/ブラックラビット社|ブラックラビット社]]]** //(black-rabbit-company)// - [[[stealingsolidarityhub|団結号を奪え]]]。
 * **[[[/system:page-tags/tag/壊された虚構|壊された虚構]]]** //(broken-masquerade)// - [[[broken-masquerade-hub|壊された虚構]]]。
+* **[[[/system:page-tags/tag/ただの夢|ただの夢]]]** //(but-a-dream)// - [[[but-a-dream|ただの夢]]]。
 * **[[[/system:page-tags/tag/競り合う終末論|競り合う終末論]]]** //(competitive-eschatology)// - [[[competitive-eschatology-hub|競り合う終末論 ]]]。
 * **[[[/system:page-tags/tag/クールな戦争2|クールな戦争2]]]** //(cool-war-2)// - [[[cool-war-2-hub|クールな戦争2: お前の墓から来たるルイス]]]。
 * **[[[/system:page-tags/tag/破暁|破暁]]]** //(daybreak)// - [[[daybreak|破暁]]]。
@@ -1216,6 +1217,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/project-thaumiel|project-thaumiel]]]** //(project-thaumiel)// - [[[thaumiel|プロジェクトThaumiel]]]。
 * **[[[/system:page-tags/tag/team-bird|team-bird]]]** //(team-bird)// - [[[bird|チームバード]]]。
 * **[[[/system:page-tags/tag/タイム・アフター・タイム・パスワード|タイム・アフター・タイム・パスワード]]]** //(time-after-time-password)// - [[[the-time-after-time-password-hub|タイム・アフター・タイム・パスワード]]]。
+* **[[[/system:page-tags/tag/血の娼婦|血の娼婦]]]** //(whore-of-blood)// - [[[whore-of-blood-hub|血の娼婦]]]。
 * **[[[/system:page-tags/tag/ユグドラシルの測量技師|ユグドラシルの測量技師]]]** //(yggdrasil-s-surveyor)// - [[[yggdrasils-surveyor|ユグドラシルの測量技師]]]。
 
 [[/tab]]
