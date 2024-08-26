@@ -557,13 +557,13 @@ Any tags that do not fit into the other sections.
 [[div class="blockquote"]]
 The following applies to all tags in this category:
 
-* Requires 'tale'
+* Requires 'tale,', 'SCP', and 'goi-format'
 
 [[/div]]
 
 +++ Genre
 
-Describes the genre of a tale.
+Describes the genre of an article.
 
 * **[https://scpwiki.com/system:page-tags/tag/absurdist-fiction absurdist-fiction]** -- Depicts events lacking any rational explanation or meaning, for the purpose of shock or comedy.
 * **[https://scpwiki.com/system:page-tags/tag/action action]** -- Focuses on exciting events and spectacular violence.
@@ -597,7 +597,7 @@ Describes the genre of a tale.
 
 +++ Setting
 
-Describes the setting of a tale.
+Describes the setting of an article.
 
 * **[https://scpwiki.com/system:page-tags/tag/alternate-history alternate-history]** -- Depicts historical events that diverge from how they happened in real life. Does not apply to future events, or to anomalous reinterpretations of events that did happen (e.g. the 7th Occult War).
 * **[https://scpwiki.com/system:page-tags/tag/christmas christmas]** -- Article is set during of influenced by the holiday of christmas.
@@ -611,7 +611,7 @@ Describes the setting of a tale.
 
 +++ Style
 
-Describes the style of a tale.
+Describes the style of an article, do note that these do not apply to SCPs or GoI formats.
 
 * **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- story in the style of short, old-school Internet horror.
 * **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- told from a first-person perspective ("I did").
