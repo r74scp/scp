@@ -1257,7 +1257,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/q9alt|q9alt]]]** - [[[q9alt-hub|Q9ALT]]]。
 * **[[[/system:page-tags/tag/コウプスコウパス|コウプスコウパス]]]** - [[[corpse-corpus-hub|コウプス・コウパス]]]。
 * **[[[/system:page-tags/tag/人妖大戦|人妖大戦]]]** - [[[jin-you-hub|人妖大戦]]]。
-* **[[[/system:page-tags/tag/グレートブッシュドッグ王国|グレートブッシュドッグ王国]]]** - グレートブッシュドッグ王国。
+* **[[[/system:page-tags/tag/グレートブッシュドッグ王国|グレートブッシュドッグ王国]]]** - [[[bushdog-hub|グレートブッシュドッグ王国]]]。
 
 +++ 合作連作-JP
 
