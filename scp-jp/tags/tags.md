@@ -2864,6 +2864,9 @@ http://scpfoundation.net/contests
 
 * **[[[/system:page-tags/tag/2023-絶対コンテスト|2023-絶対コンテスト]]]** //(2023-절대평가)// - [[[2023-jd-contest-hub|絶対評価コンテスト]]]。
 
+* [[[samcheonri-contest|三千里コンテスト]]]
+ * **[[[/system:page-tags/tag/三千里-江原コンテスト|三千里-江原コンテスト]]]** //(삼천리-강원)// - [[[samcheonri-contest-gangwon|三千里江原コンテスト]]]。
+
 [!--★タグ内のハイフンを残すものと残さないものが混在しているので、いずれ修整したい。--]
 [!--
 ★未申請。
