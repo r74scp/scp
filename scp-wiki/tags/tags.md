@@ -105,26 +105,25 @@ Pages created for internal use.
 
 Miscellaneous major page tags that are not top-level tags.
 
-* **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should also be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
-* **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
-* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- Article has an illustration specifically made for the article, this includes photobashes and other forms of photo manipulation.
- * //Conflicts with 'artwork', and 'artist'//
-* **[https://scpwiki.com/system:page-tags/tag/archived archived]** -- Pages which have been archived due to having been superseded, obsoleted, or inactivity. These pages should also be moved to the {{archived:}} category so they retain the 'archived page' notice and are locked from edits. See [https://scp-wiki.wikidot.com/archived-scps Archived Pages] for more information on archival.
-* **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained] SCPs are a special sub-type of //scp//, and should be added to -EX articles as appropriate. Explained articles should also be tagged with their standard object class tag, or //esoteric-class// if the format does not specify a standard object class.
- * //Requires 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/001-proposal 001-proposal]** -- This is the tag for the articles proposing a possible [https://scp-wiki.wikidot.com/scp-001 SCP-001] object. SCPs tagged with this tag should also be tagged with their standard object class tag, or //esoteric-class// if applicable.
  * //Often used with 'scp'//
+* **[https://scpwiki.com/system:page-tags/tag/archived archived]** -- Pages which have been archived due to having been superseded, obsoleted, or inactivity. These pages should also be moved to the {{archived:}} category so they retain the 'archived page' notice and are locked from edits. See [https://scp-wiki.wikidot.com/archived-scps Archived Pages] for more information on archival.
+* **[https://scpwiki.com/system:page-tags/tag/co-authored co-authored]** -- //co-authored// pages are the result of two or more authors working together, but are not open to additions from other members (unless otherwise specified).
+* **[https://scpwiki.com/system:page-tags/tag/collaboration collaboration]** -- //collaboration// pages are those pages that are or were open to additions from any member, with the caveat that staff and the original author reserve the right to modify or delete entries found to be subpar, or close entries entirely.
+* **[https://scpwiki.com/system:page-tags/tag/comic comic]** -- For stories that are primarily told via sequential art.
+ * //Conflicts with 'illustrated'//
+* **[https://scpwiki.com/system:page-tags/tag/contest contest]** -- //contest// pages are pages created for the purpose of community contests. This should be used in conjunction with //hub// in the case of entry listings, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
+ * //Requires 'hub'//
+* **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained] SCPs are a special sub-type of //scp//, and should be added to -EX articles as appropriate. Explained articles should also be tagged with their standard object class tag, or //esoteric-class// if the format does not specify a standard object class.
+ * //Requires 'scp'//
+* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- Article has an illustration specifically made for the article, this includes photobashes and other forms of photo manipulation.
+ * //Conflicts with 'artwork', 'artist', and 'comic'//
+* **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should also be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
+* **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
+* **[https://scpwiki.com/system:page-tags/tag/required required]** -- //required// pages are guides that are part of the required reading for joining the SCP Wiki.
 * **[https://scpwiki.com/system:page-tags/tag/_canon-hub _canon-hub]** -- Used for hubs which represent a [https://scp-wiki.wikidot.com/canon-hub canon].
  * //Requires 'hub'//
  * //Supersedes '_tale-hub'//
-* **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- //creepypasta// are fiction that are unrelated to the SCP Foundation, and usually take the form of urban myths or campfire stories. Creepypasta is only appropriate for the SCP website if it's an original //creepypasta// by the posting author; we are not a repository for unattributed //creepypasta//.
- * //Requires 'tale'//
-* **[https://scpwiki.com/system:page-tags/tag/collaboration collaboration]** -- //collaboration// pages are those pages that are or were open to additions from any member, with the caveat that staff and the original author reserve the right to modify or delete entries found to be subpar, or close entries entirely.
-* **[https://scpwiki.com/system:page-tags/tag/co-authored co-authored]** -- //co-authored// pages are the result of two or more authors working together, but are not open to additions from other members (unless otherwise specified).
-* **[https://scpwiki.com/system:page-tags/tag/contest contest]** -- //contest// pages are pages created for the purpose of community contests. This should be used in conjunction with //hub// in the case of entry listings, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
- * //Requires 'hub'//
-* **[https://scpwiki.com/system:page-tags/tag/comic comic]** -- For stories that are primarily told via sequential art.
-* **[https://scpwiki.com/system:page-tags/tag/required required]** -- //required// pages are guides that are part of the required reading for joining the SCP Wiki.
 * **[https://scpwiki.com/system:page-tags/tag/_tale-hub _tale-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a series that consists mostly or entirely of //tale// articles.
  * //Requires 'hub'//
  * //Superseded by '_canon-hub'//
@@ -438,13 +437,13 @@ Tags that typically apply to objects created by humans, including **artifacts** 
  * //Superseded by 'musical', 'performance', and 'sculpture'//
 * **[https://scpwiki.com/system:page-tags/tag/artificial-intelligence artificial-intelligence]** -- SCP is an artificial intelligence, possesses an AI or affects other AIs.
 * **[https://scpwiki.com/system:page-tags/tag/artifact artifact]** -- SCP is or was originally created by humans.
- * //Superseded by 'appliance', 'artistic', 'clothing', 'Cinema', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
+ * //Superseded by 'appliance', 'artistic', 'clothing', 'cinema', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
 * **[https://scpwiki.com/system:page-tags/tag/clockwork clockwork]** -- SCP operates primarily via clockworks, defined as mechanical devices constructed primarily using toothed wheels and/or powered by a mainspring.
  * //Supersedes 'mechanical'//
 * **[https://scpwiki.com/system:page-tags/tag/clothing clothing]** -- SCP is an artifact primarily intended to be worn for protection or comfort, including armor and protective helmets.
  * //Conflicts with 'jewelry'//
  * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/Cinema Cinema]** -- SCPs that are, relate to or concern the medium of cinema, film and/or movies.
+* **[https://scpwiki.com/system:page-tags/tag/cinema cinema]** -- SCPs that are, relate to or concern the medium of cinema, film and/or movies.
  * //Supersedes 'artifact'//
 * **[https://scpwiki.com/system:page-tags/tag/computer computer]** -- SCP is a computational device or affects computational devices.
  * //Often used with 'electronic', and 'mechanical'//
@@ -636,7 +635,7 @@ Describes the style of an article, do note that these do not apply to SCPs or Go
 [[div class="blockquote"]]
 The following applies to all tags in this category:
 
-* Requires either 'artwork', or 'artist'
+* Requires any of 'artwork', 'artist', or 'comic'
 
 [[/div]]
 
@@ -676,17 +675,17 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/last-hope last-hope]** -- Of or related to MTF Alpha-9, Last Hope.
 * **[https://scpwiki.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of or related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
 * **[https://scpwiki.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
-* **[https://scpwiki.com/system:page-tags/tag/delta-t delta-t]** -- Of or related to the Delta T, the transtemporal Foundation agency.
+* **[https://scpwiki.com/system:page-tags/tag/delta-t delta-t]** -- Of or related to [https://scp-wiki.wikidot.com/welcome-to-delta-t Delta T], the transtemporal Foundation agency.
 * **[https://scpwiki.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation's Ethics Committee.
 * **[https://scpwiki.com/system:page-tags/tag/ettra ettra]** -- Of or related to the Emergent Threat Tactical Response Authority.
-* **[https://scpwiki.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Of or related to the Foundation's Fire Suppression Department.
+* **[https://scpwiki.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Of or related to the Foundation's [https://scp-wiki.wikidot.com/fire-suppression-department-hub Fire Suppression Department].
 * **[https://scpwiki.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
 * **[https://scpwiki.com/system:page-tags/tag/miscommunications miscommunications]** -- Of or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
 * **[https://scpwiki.com/system:page-tags/tag/department-of-other department-of-other]** -- Of or related to the Foundation's Department of Other, responsible for -J SCPs.
 * **[https://scpwiki.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Of or related to the Foundation's Pataphysics Department.
 * **[https://scpwiki.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Of or related to the Foundation's Department of Procurement and Liquidation.
 * **[https://scpwiki.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Of or related to the Foundation's Department of Surrealistics.
-* **[https://scpwiki.com/system:page-tags/tag/tactical-theology tactical-theology]** -- Of or related to the Foundation's Department of Tactical Theology.
+* **[https://scpwiki.com/system:page-tags/tag/tactical-theology tactical-theology]** -- Of or related to the Foundation's [https://scp-wiki.wikidot.com/tactical-theology-hub Department of Tactical Theology].
 * **[https://scpwiki.com/system:page-tags/tag/samsara samsara]** -- Of or related to Mobile Task Force Tau-5 "Samsara".
 * **[https://scpwiki.com/system:page-tags/tag/telecom-office telecom-office]** -- Of or related to the Foundation's [https://scp-wiki.wikidot.com/telecommunications-monitoring-office-hub Telecommunications Monitoring Office].
 * **[https://scpwiki.com/system:page-tags/tag/unreality-dept unreality-dept]** -- Of or related to the Foundation's [https://scp-wiki.wikidot.com/unreality-hub Unreality Department].
@@ -732,7 +731,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/icsut icsut]** -- Of or related to the International Center for the Study of Unified Thaumatology, member of the GOC's Council of 108.
 * **[https://scpwiki.com/system:page-tags/tag/ijamea ijamea]** -- Of or related to the [https://scp-wiki.wikidot.com/ijamea-hub Imperial Japanese Anomalous Matters Examination Agency] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/joicl joicl]** -- Of or related to the Japanese Organism Improvement and Creation Laboratory group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/just-girly-things just-girly-things]** -- Of or related to the Just Girly Things group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/just-girly-things just-girly-things]** -- Of or related to the [https://scp-wiki.wikidot.com/just-girly-things-hub Just Girly Things] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/madao madao]** -- Of or related to the Italian [https://scp-wiki.wikidot.com/hub-madao Medicean Academy of Occult Art] (Medicea Accademia Dell'Arte Occulta) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/mages-academy mages-academy]** -- Of or related to the German [https://scp-wiki.wikidot.com/magierakademie-hub Mages Academy] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/manna-charitable-foundation manna-charitable-foundation]** -- Of or related to the [https://scp-wiki.wikidot.com/manna-charitable-foundation-hub Manna Charitable Foundation] group of interest.
@@ -893,12 +892,12 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/green-king green-king]** -- Of or related to the [https://scp-wiki.wikidot.com/codename-green-king-hub Codename: Green King hub].
 * **[https://scpwiki.com/system:page-tags/tag/heimdall heimdall]** -- Of or related to [https://scp-wiki.wikidot.com/Project-Heimdall Project Heimdall].
 * **[https://scpwiki.com/system:page-tags/tag/insect-hell insect-hell]** -- Of or related to the [https://scp-wiki.wikidot.com/arbh-class-hub Insect Hell] canon.
-* **[https://scpwiki.com/system:page-tags/tag/Lampeter Lampeter]** -- Of or related to the [https://scp-wiki.wikidot.com/lampeter-hub Lampeter] canon.
+* **[https://scpwiki.com/system:page-tags/tag/lampeter lampeter]** -- Of or related to the [https://scp-wiki.wikidot.com/lampeter-hub Lampeter] canon.
 * **[https://scpwiki.com/system:page-tags/tag/lolfoundation lolfoundation]** -- Of or related to the [https://scp-wiki.wikidot.com/lolfoundation-hub-page lolFoundation] canon.
 * **[https://scpwiki.com/system:page-tags/tag/man-who-wasnt-there man-who-wasnt-there]** -- Of or relating to [https://scp-wiki.wikidot.com/the-man-who-wasnt-there-hub The Man Who Wasn't There] canon.
 * **[https://scpwiki.com/system:page-tags/tag/memoria-adytum memoria-adytum]** -- Of or related to the [https://scp-wiki.wikidot.com/memoria-adytum In Memoria, Adytum] canon.
 * **[https://scpwiki.com/system:page-tags/tag/nightfall nightfall]** -- Of or related to the [https://scp-wiki.wikidot.com/nightfall-hub Nightfall] canon.
-* **[https://scpwiki.com/system:page-tags/tag/Ninth-World Ninth-World]** -- Of or related to the [https://scp-wiki.wikidot.com/the-ninth-world-hub Ninth World] canon.
+* **[https://scpwiki.com/system:page-tags/tag/ninth-world ninth-world]** -- Of or related to the [https://scp-wiki.wikidot.com/the-ninth-world-hub Ninth World] canon.
 * **[https://scpwiki.com/system:page-tags/tag/no-return no-return]** -- Of or related to the [https://scp-wiki.wikidot.com/no-return-hub No Return] canon.
 * **[https://scpwiki.com/system:page-tags/tag/old-man-in-the-sea old-man-in-the-sea]** -- Of or related to the [https://scp-wiki.wikidot.com/old-man-in-the-sea-hub Old Man in the Sea] canon.
 * **[https://scpwiki.com/system:page-tags/tag/on-guard-43 on-guard-43]** -- Of or related to the [https://scp-wiki.wikidot.com/on-guard-43-hub On Guard 43] canon.
@@ -950,7 +949,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/integration-program integration-program]** -- Of or related to the [https://scp-wiki.wikidot.com/integration-program-hub Integration Program] series.
 * **[https://scpwiki.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Of or related to the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
 * **[https://scpwiki.com/system:page-tags/tag/mister mister]** -- Of or related to the "Little Misters" series of anomalous individuals.
-* **[https://scpwiki.com/system:page-tags/tag/mundus-Liberari mundus-Liberari]** -- Of or related to the [https://scp-wiki.wikidot.com/mundus-liberari Mundus, Liberari] series.
+* **[https://scpwiki.com/system:page-tags/tag/mundus-liberari mundus-liberari]** -- Of or related to the [https://scp-wiki.wikidot.com/mundus-liberari Mundus, Liberari] series.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Of or related to the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Of or related to the [resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Of or related to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
@@ -995,7 +994,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/agent-yoric agent-yoric]** -- Agent Yoric Elroy, aka Jack "Poor Yoric" Dawkins.
 * **[https://scpwiki.com/system:page-tags/tag/alexandra alexandra]** -- Alexandra, an artificial intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/alex-thorley alex-thorley]** -- Alex Thorley of the Department of Unreality.
-* **[https://scpwiki.com/system:page-tags/tag/chief-ibanez chief-ibanez]** -- Diminutive leader of Site-43's Mobile Task Forces. Tough as nails, takes zero shit, leads by example and does not delegate.
+* **[https://scpwiki.com/system:page-tags/tag/chief-ibanez chief-ibanez]** -- Diminutive leader of Site-43's Mobile Task Forces.
 * **[https://scpwiki.com/system:page-tags/tag/bailey-brothers bailey-brothers]** -- Tristan, Thomas and Trevor Bailey.
 * **[https://scpwiki.com/system:page-tags/tag/captain-adrian captain-adrian]** -- Adrian, AKA SCP-6159-2: Familiar, Boat Captain, Paralegal, Emotional Support Animal.
 * **[https://scpwiki.com/system:page-tags/tag/d-7294 d-7294]** -- D-7294.
@@ -1040,7 +1039,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-rivera doctor-rivera]** -- Dr. Jessie Rivera.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-roget doctor-roget]** -- Dr. Ralph Roget.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-scranton doctor-scranton]** -- Dr. Robert Scranon, inventor of the scranton reality anchor, see SCP-3001.
-* **[https://scpwiki.com/system:page-tags/tag/doctor-shaw doctor-shaw]** -- Dr. Elias Blake Shaw AKA SCP-963.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-shaw doctor-shaw]** -- Dr. Elias Blake Shaw, AKA SCP-963.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sinclair doctor-sinclair]** -- Dr. Katherine Sinclair.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sokolsky doctor-sokolsky]** -- Dr. Daniil Sokolsky.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sorts doctor-sorts]** -- Dr. Johannes Sorts.
@@ -1051,7 +1050,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/general-bowe general-bowe]** -- General Bowe.
 * **[https://scpwiki.com/system:page-tags/tag/glacon glacon]** -- Glacon.aic, an artificial intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/greg-chudley greg-chudley]** -- Researcher Greg Chudley of Site-78.
-* **[https://scpwiki.com/system:page-tags/tag/hadfield-twins hadfield-twins]** -- John and Abigail Hadfield AKA O5-4 and O5-8.
+* **[https://scpwiki.com/system:page-tags/tag/hadfield-twins hadfield-twins]** -- John and Abigail Hadfield, AKA O5-4 and O5-8.
 * **[https://scpwiki.com/system:page-tags/tag/james-harkness james-harkness]** -- James Harkness, a disgruntled network admin with an abnormally high Cognitive Resistance Value.
 * **[https://scpwiki.com/system:page-tags/tag/judith-low judith-low]** -- Dr. Judith Low, Department of History.
 * **[https://scpwiki.com/system:page-tags/tag/kain-pathos-crow kain-pathos-crow]** -- Professor Kain Pathos Crow.
@@ -1074,8 +1073,8 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/researcher-smalls researcher-smalls]** -- Researcher Adamo Smalls.
 * **[https://scpwiki.com/system:page-tags/tag/researcher-talloran researcher-talloran]** -- Researcher Talloran.
 * **[https://scpwiki.com/system:page-tags/tag/riven-mercer riven-mercer]** -- Riven Mercer of Kiryu Labs.
-* **[https://scpwiki.com/system:page-tags/tag/sheldon-katz sheldon-katz]** -- Sheldon Katz, of the Legal Department.
 * **[https://scpwiki.com/system:page-tags/tag/samara-maclear samara-maclear]** -- Samara Maclear, Foundation Psionics Specialist.
+* **[https://scpwiki.com/system:page-tags/tag/sheldon-katz sheldon-katz]** -- Sheldon Katz, of the Legal Department.
 * **[https://scpwiki.com/system:page-tags/tag/simon-pietrykau simon-pietrykau]** -- Simon Pietrykau, of the Department of Analytics.
 * **[https://scpwiki.com/system:page-tags/tag/thad-xyank thad-xyank]** -- Dr. Thaddeus "Thad" Xyank, of the Department of Temporal Anomalies.
 * **[https://scpwiki.com/system:page-tags/tag/the-administrator the-administrator]** -- The Administrator (as a separate entity from the O5 Council).
@@ -1093,13 +1092,13 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/bobble-the-clown bobble-the-clown]** -- Bobble The Clown, aka [https://scp-wiki.wikidot.com/scp-993 SCP-993].
 * **[https://scpwiki.com/system:page-tags/tag/bones bones]** -- Bones, aka [https://scp-wiki.wikidot.com/scp-2721 SCP-2721-LORD] or Eli.
 * **[https://scpwiki.com/system:page-tags/tag/cain cain]** -- Cain, aka [https://scp-wiki.wikidot.com/scp-073 SCP-073].
-* **[https://scpwiki.com/system:page-tags/tag/Blue-blooded-alien Blue-blooded-alien]** -- Blue Blooded, aka [https://scp-wiki.wikidot.com/scp-6118 SCP-6118].
+* **[https://scpwiki.com/system:page-tags/tag/blue-blooded-alien blue-blooded-alien]** -- Blue Blooded, aka [https://scp-wiki.wikidot.com/scp-6118 SCP-6118].
 * **[https://scpwiki.com/system:page-tags/tag/cousin-johnny cousin-johnny]** -- Cousin Johnny, aka [https://scp-wiki.wikidot.com/scp-2852 SCP-2852].
 * **[https://scpwiki.com/system:page-tags/tag/doctor-spanko doctor-spanko]** -- [https://scp-wiki.wikidot.com/doctor-spanko-hub Dr. Spanko], aka [https://scp-wiki.wikidot.com/scp-2337 SCP-2337].
 * **[https://scpwiki.com/system:page-tags/tag/donkman donkman]** -- Ulysses B. Donkman, aka [https://scp-wiki.wikidot.com/scp-4768 SCP-4768].
 * **[https://scpwiki.com/system:page-tags/tag/fred fred]** -- Fred, aka [https://scp-wiki.wikidot.com/scp-423 SCP-423].
-* **[https://scpwiki.com/system:page-tags/tag/grabnok grabnok]** -- Grabnok the Destroyer, the Reluctant Dimension Hopper, aka [https://scp-wiki.wikidot.com/scp-507 SCP-507].
 * **[https://scpwiki.com/system:page-tags/tag/geoffrey-quincy-harrison geoffrey-quincy-harrison]** -- Geoffrey Quincy Harrison III, a sassy gumball machine stationed in Site-322’s accounting department, aka [https://scp-wiki.wikidot.com/scp-5595 SCP-5595].
+* **[https://scpwiki.com/system:page-tags/tag/grabnok grabnok]** -- Grabnok the Destroyer, the Reluctant Dimension Hopper, aka [https://scp-wiki.wikidot.com/scp-507 SCP-507].
 * **[https://scpwiki.com/system:page-tags/tag/hard-to-destroy-reptile hard-to-destroy-reptile]** -- The "Hard-To-Destroy Reptile", aka [https://scp-wiki.wikidot.com/scp-682 SCP-682].
 * **[https://scpwiki.com/system:page-tags/tag/half-cat-josie half-cat-josie]** -- Josie the half cat, aka [https://scp-wiki.wikidot.com/scp-529 SCP-529].
 * **[https://scpwiki.com/system:page-tags/tag/heather-mason heather-mason]** -- Heather Mason, aka "Ms. Mad About Video Games" or [https://scp-wiki.wikidot.com/scp-3090 SCP-3090].
@@ -1161,17 +1160,17 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
 * **[https://scpwiki.com/system:page-tags/tag/percival-darke percival-darke]** -- Percival Darke, founder of Marshall, Carter and Dark AKA the Deathless Merchant of London.
 * **[https://scpwiki.com/system:page-tags/tag/polaricecraps polaricecraps]** -- Polaricecraps, of Gamers Against Weed.
-* **[https://scpwiki.com/system:page-tags/tag/queen-mab queen-mab]** -- Queen Mab, a Fae tyrant and goddess.
 * **[https://scpwiki.com/system:page-tags/tag/professor-aw professor-aw]** -- Professor A.W., inventor and creator of curiosities.
+* **[https://scpwiki.com/system:page-tags/tag/queen-mab queen-mab]** -- Queen Mab, a Fae tyrant and goddess.
 * **[https://scpwiki.com/system:page-tags/tag/richard-chappell richard-chappell]** -- Richard Davis Chappell, founder of the Chicago Spirit.
 * **[https://scpwiki.com/system:page-tags/tag/robert-bumaro robert-bumaro]** -- Robert Bumaro, prophet of Mekhane.
 * **[https://scpwiki.com/system:page-tags/tag/robin-thorne robin-thorne]** -- Robin Thorne, of the FBI Unusual Investigations Unit.
 * **[https://scpwiki.com/system:page-tags/tag/ruiz-duchamp ruiz-duchamp]** -- Ruiz Duchamp, an anartist.
-* **[https://scpwiki.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hedwig, a prophet of Maxwellism.
 * **[https://scpwiki.com/system:page-tags/tag/saarn saarn]** -- Saarn, one of the four Klavigars of Sarkicism.
+* **[https://scpwiki.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hedwig, a prophet of Maxwellism.
 * **[https://scpwiki.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer, serial reincarnator and false prophet.
-* **[https://scpwiki.com/system:page-tags/tag/the-engineer the-engineer]** -- The Engineer, of the Chaos Insurgency.
 * **[https://scpwiki.com/system:page-tags/tag/the-critic the-critic]** -- The Critic, of Are We Cool Yet.
+* **[https://scpwiki.com/system:page-tags/tag/the-engineer the-engineer]** -- The Engineer, of the Chaos Insurgency.
 * **[https://scpwiki.com/system:page-tags/tag/thilo-zwist thilo-zwist]** -- Thilo Zwist, memeticist.
 * **[https://scpwiki.com/system:page-tags/tag/tim-wilson tim-wilson]** -- Tim Wilson, of Wilson's Wildlife Solutions.
 * **[https://scpwiki.com/system:page-tags/tag/veronica-fitzroy veronica-fitzroy]** -- Veronica Katherine Fitzroy, anartist/D-class.
@@ -1181,7 +1180,7 @@ Other individuals involved in the anomalous.
 [[tab Locations]]
 ++ Locations
 
-Tags indicating that a tale or SCP article takes place in a specific time/location that isn't a Foundation Site or installation.
+Tags indicating that a tale or SCP article takes place in a specific time or location that isn't a Foundation Site or installation.
 
 * **[https://scpwiki.com/system:page-tags/tag/7th-occult-war 7th-occult-war]** -- The Seventh Occult War between the Allied Occult Initiative and the Obskuracorps.
 * **[https://scpwiki.com/system:page-tags/tag/alagadda alagadda]** -- The kingdom of Alagadda.
@@ -1235,7 +1234,6 @@ These tags are added only used by SCP Wiki staff, and are intended to designate 
  * //Superseded by '_cc'//
 * **[https://scpwiki.com/system:page-tags/tag/_licensebox _licensebox]** -- Used for pages which have a standard license info block.
 * **[https://scpwiki.com/system:page-tags/tag/_theme-temp _theme-temp]** -- Temporary tag used for marking old theme locations while they were moved from the {{component:}} category to the {{theme:}} category.
-* **[https://scpwiki.com/system:page-tags/tag/crosslink crosslink]** -- This is a temporary tag that indicates the Wikiwalk Subteam of MAST is currently proposing revisions on the page, which should be seen in the comments.
 
 [[/tab]]
 [[tab Events]]
