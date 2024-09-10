@@ -587,15 +587,16 @@ Describes the genre of an article.
 * **[https://scpwiki.com/system:page-tags/tag/science-fiction science-fiction]** -- Depicts advanced science and technology. May feature scientific analysis of phenomena currently thought to be impossible.
 * **[https://scpwiki.com/system:page-tags/tag/slice-of-life slice-of-life]** -- Offers a look into the everyday lives of characters, with a focus on the mundane.
 * **[https://scpwiki.com/system:page-tags/tag/spy-fiction spy-fiction]** -- Focuses on espionage and counter-intelligence.
-* **[https://scpwiki.com/system:page-tags/tag/surrealist-fiction surrealist-fiction]** -- Creates a dream-like story by juxtoposing the mundane with the impossible and irrational, with emphasis on subconscious associations between them.
+* **[https://scpwiki.com/system:page-tags/tag/surrealist-fiction surrealist-fiction]** -- Creates a dream-like story by juxtaposing the mundane with the impossible and irrational, with emphasis on subconscious associations between them.
 
 +++ Setting
 
 Describes the setting of an article.
 
 * **[https://scpwiki.com/system:page-tags/tag/alternate-history alternate-history]** -- Depicts historical events that diverge from how they happened in real life. Does not apply to future events, or to anomalous reinterpretations of events that did happen (e.g. the 7th Occult War).
-* **[https://scpwiki.com/system:page-tags/tag/christmas christmas]** -- Article is set during of influenced by the holiday of christmas.
+* **[https://scpwiki.com/system:page-tags/tag/christmas christmas]** -- Article is set during of influenced by the holiday of Christmas.
 * **[https://scpwiki.com/system:page-tags/tag/dystopian dystopian]** -- Imagines a non-existent society or culture, portrayed as being much worse than our current one.
+* **[https://scpwiki.com/system:page-tags/tag/halloween halloween]** -- Article is set during of influenced by the holiday of Halloween.
 * **[https://scpwiki.com/system:page-tags/tag/otherworldly otherworldly]** -- Set in another world, reality or universe. Includes works that are specifically set somewhere other than Earth, as well as portal fantasy fiction featuring travel to another world..
 * **[https://scpwiki.com/system:page-tags/tag/period-piece period-piece]** -- Set during a specific period in the past.
 * **[https://scpwiki.com/system:page-tags/tag/post-apocalyptic post-apocalyptic]** -- Takes place after a catastrophic event.
@@ -669,9 +670,11 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/abnormalities abnormalities]** -- Of or related to the Department of Abnormalities.
 * **[https://scpwiki.com/system:page-tags/tag/last-hope last-hope]** -- Of or related to MTF Alpha-9, Last Hope.
 * **[https://scpwiki.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of or related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
+* **[https://scpwiki.com/system:page-tags/tag/antimemetics-division antimemetics-division]** -- Of or related to the Foundation's [https://scp-wiki.wikidot.com/antimemetics-division-hub Antimemetics Division].
 * **[https://scpwiki.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
 * **[https://scpwiki.com/system:page-tags/tag/delta-t delta-t]** -- Of or related to [https://scp-wiki.wikidot.com/welcome-to-delta-t Delta T], the transtemporal Foundation agency.
 * **[https://scpwiki.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation's Ethics Committee.
+* **[https://scpwiki.com/system:page-tags/tag/engagement-division engagement-division]** -- Of or related to the Foundation's [https://scp-wiki.wikidot.com/anomalous-entity-engagement-division-hub Anomalous Entity Engagement Division] (AEED).
 * **[https://scpwiki.com/system:page-tags/tag/ettra ettra]** -- Of or related to the Emergent Threat Tactical Response Authority.
 * **[https://scpwiki.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Of or related to the Foundation's [https://scp-wiki.wikidot.com/fire-suppression-department-hub Fire Suppression Department].
 * **[https://scpwiki.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
@@ -723,6 +726,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/hmfscp hmfscp]** -- Of or related to His/Her Majesty's Foundation For The Study of Curiosities and Phantasmagoria.
 * **[https://scpwiki.com/system:page-tags/tag/homo-sapiens-sidhe homo-sapiens-sidhe]** -- Of or related to the Fae/Homo sapiens sidhe, as outlined in [https://scp-wiki.wikidot.com/from-120-s-archives-hub From 120's Archives].
 * **[https://scpwiki.com/system:page-tags/tag/horizon-initiative horizon-initiative]** -- Of or related to [https://scp-wiki.wikidot.com/horizon-initiative-hub The Horizon Initiative] group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/hunters-black-lodge hunters-black-lodge]** -- Of or related to the Hunter's Black Lodge, a neo-sarkic crime syndicate first described in SCP-2408.
 * **[https://scpwiki.com/system:page-tags/tag/icsut icsut]** -- Of or related to the International Center for the Study of Unified Thaumatology, member of the GOC's Council of 108.
 * **[https://scpwiki.com/system:page-tags/tag/ijamea ijamea]** -- Of or related to the [https://scp-wiki.wikidot.com/ijamea-hub Imperial Japanese Anomalous Matters Examination Agency] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/joicl joicl]** -- Of or related to the Japanese Organism Improvement and Creation Laboratory group of interest.
@@ -934,11 +938,12 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/cack-hard cack-hard]** -- Of or related to the [https://scp-wiki.wikidot.com/cack-hub cack-hard] stories.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Of or related to the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] stories.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Of or related to the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
+* **[https://scpwiki.com/system:page-tags/tag/cycle-of-seasons cycle-of-seasons]** -- Of or related to the [https://scp-wiki.wikidot.com/cycle-of-seasons-hub Cycle of Seasons] series.
 * **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Of or related to the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] series.
 * **[https://scpwiki.com/system:page-tags/tag/eternal-mxtape eternal-mxtape]** -- Of or related to the [https://scp-wiki.wikidot.com/the-eternal-mxtape Eternal MxTape] series.
-* **[https://scpwiki.com/system:page-tags/tag/Eventyr Eventyr]** -- Of or related to the [https://scp-wiki.wikidot.com/eventyr-hub Eventyr] series.
+* **[https://scpwiki.com/system:page-tags/tag/eventyr eventyr]** -- Of or related to the [https://scp-wiki.wikidot.com/eventyr-hub Eventyr] series.
 * **[https://scpwiki.com/system:page-tags/tag/forgotten-memories forgotten-memories]** -- Of or related to the [https://scp-wiki.wikidot.com/forgotten-memories-hub Forgotten Memories] series.
-* **[https://scpwiki.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#toc111 Global Occult Coalition Casefiles] stories.
+* **[https://scpwiki.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Of or related to the [https://scp-wiki.wikidot.com/goc-hub-page#casefiles Global Occult Coalition Casefiles] stories.
 * **[https://scpwiki.com/system:page-tags/tag/harbinger harbinger]** -- Of or related to the Of or related to the HARBINGER stories.
 * **[https://scpwiki.com/system:page-tags/tag/hecatoncheires-cycle hecatoncheires-cycle]** -- Of or related to the [https://scp-wiki.wikidot.com/hecatoncheires-cycle-hub Hecatoncheires Cycle] series.
 * **[https://scpwiki.com/system:page-tags/tag/integration-program integration-program]** -- Of or related to the [https://scp-wiki.wikidot.com/integration-program-hub Integration Program] series.
@@ -999,6 +1004,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/director-bohart director-bohart]** -- Vincent Bohart, the Director of Site-333, who does not have a PhD.
 * **[https://scpwiki.com/system:page-tags/tag/director-diaghilev director-diaghilev]** -- Director Ruslav Diaghilev of the Alchemy Department.
 * **[https://scpwiki.com/system:page-tags/tag/director-gillespie director-gillespie]** -- Director Gillespie.
+* **[https://scpwiki.com/system:page-tags/tag/director-graham director-graham]** -- Director Thomas Graham, Director of Site 17.
 * **[https://scpwiki.com/system:page-tags/tag/director-mcinnis director-mcinnis]** -- Dr. Allan J. McInnis, Director of Site-43.
 * **[https://scpwiki.com/system:page-tags/tag/director-mctiriss director-mctiriss]** -- Director Kate McTiriss.
 * **[https://scpwiki.com/system:page-tags/tag/director-moose director-moose]** -- Director Moose.
@@ -1180,14 +1186,14 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/7th-occult-war 7th-occult-war]** -- The Seventh Occult War between the Allied Occult Initiative and the Obskuracorps.
 * **[https://scpwiki.com/system:page-tags/tag/alagadda alagadda]** -- The kingdom of Alagadda.
 * **[https://scpwiki.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- The city of Backdoor Soho.
-* **[https://scpwiki.com/system:page-tags/tag/deus-ex-machina deus-ex-machina]** -- Related to the Foundation's world rebooting machine SCP-2000.
-* **[https://scpwiki.com/system:page-tags/tag/esterberg esterberg]** -- The Free Port known as Esterberg.
+* **[https://scpwiki.com/system:page-tags/tag/deus-ex-machina deus-ex-machina]** -- Related to the Foundation's world-rebooting machine, [https://scp-wiki.wikidot.com/scp-2000 SCP-2000].
+* **[https://scpwiki.com/system:page-tags/tag/esterberg esterberg]** -- The Free Port known as [https://scp-wiki.wikidot.com/esterberg-city-wikipedia Esterberg]
 * **[https://scpwiki.com/system:page-tags/tag/eurtec eurtec]** -- The metropolis of Eurtec.
-* **[https://scpwiki.com/system:page-tags/tag/hy-brasil hy-brasil]** -- The island of Hy-Brasil.
-* **[https://scpwiki.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- The free port of La Rue Macabre.
-* **[https://scpwiki.com/system:page-tags/tag/three-portlands three-portlands]** -- The city of Three Portlands.
-* **[https://scpwiki.com/system:page-tags/tag/undervegas undervegas]** -- The demonic city of Undervegas.
-* **[https://scpwiki.com/system:page-tags/tag/wanderers-library wanderers-library]** -- The Wanderer's Library.
+* **[https://scpwiki.com/system:page-tags/tag/hy-brasil hy-brasil]** -- The island of [https://scp-wiki.wikidot.com/nx-03 Hy-Brasil].
+* **[https://scpwiki.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- The Free Port of [https://scp-wiki.wikidot.com/larue-hub La Rue Macabre].
+* **[https://scpwiki.com/system:page-tags/tag/three-portlands three-portlands]** -- The Free Port of [https://scp-wiki.wikidot.com/three-portlands-hub Three Portlands].
+* **[https://scpwiki.com/system:page-tags/tag/undervegas undervegas]** -- The demonic city of [https://scp-wiki.wikidot.com/undervegas-hub Undervegas].
+* **[https://scpwiki.com/system:page-tags/tag/wanderers-library wanderers-library]** -- The universe-connecting [https://scp-wiki.wikidot.com/wanderers-library-hub Wanderer's Library].
 
 [[/tab]]
 [[tab Content Markers]]
