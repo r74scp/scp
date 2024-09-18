@@ -1278,6 +1278,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/コウプスコウパス|コウプスコウパス]]]** - [[[corpse-corpus-hub|コウプス・コウパス]]]。
 * **[[[/system:page-tags/tag/人妖大戦|人妖大戦]]]** - [[[jin-you-hub|人妖大戦]]]。
 * **[[[/system:page-tags/tag/グレートブッシュドッグ王国|グレートブッシュドッグ王国]]]** - [[[bushdog-hub|グレートブッシュドッグ王国]]]。
+* **[[[/system:page-tags/tag/外側の賑わい|外側の賑わい]]]** - [[[out-of-scp-universe-hub|外側の賑わい]]]。
 
 +++ 合作連作-JP
 
@@ -1600,7 +1601,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/gpエクスプレス|gpエクスプレス]]]** //(gp快递)// - [[[gpexpress|Gpエクスプレス]]]。
 * **[[[/system:page-tags/tag/グリーン・スパロウ財団|グリーン・スパロウ財団]]]** //(绿麻雀基金会)// - [[[gsf|グリーン・スパロウ財団]]]。
 * **[[[/system:page-tags/tag/ting|ting]]]** //(ting)// - [[[tingforum-com|TINGフォーラム]]]。
-* **[[[/system:page-tags/tag/PCS異元署|PCS異元署]]]** //(PCS异度署)// - [[[pcs-administration|PCS異元署]]]。
+* **[[[/system:page-tags/tag/pcs異元署|pcs異元署]]]** //(pcs异度署)// - [[[pcs-administration|PCS異元署]]]。
 * **[[[/system:page-tags/tag/魔法楽団|魔法楽団]]]** //(魔法乐团)// - 魔法楽団。
 * **[[[/system:page-tags/tag/劇組|劇組]]]** //(剧组)// - [[[revue|劇組]]]。
 * **[[[/system:page-tags/tag/風露旅社|風露旅社]]]** //(风露旅社)// - [[[wind-dew-travel-agency|風露旅社]]]。
@@ -2010,10 +2011,11 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ライツ博士|ライツ博士]]]** //(doctor-rights)// - ライツ博士。
 * **[[[/system:page-tags/tag/リベラ博士|リベラ博士]]]** //(doctor-rivera)// - ジェシー・リベラ博士。
 * **[[[/system:page-tags/tag/ロジェ博士|ロジェ博士]]]** //(doctor-roget)// - ラルフ・ロジェ博士。
-* **[[[/system:page-tags/tag/セレヴン博士|セレヴン博士]]]** //(doctor-thereven)// - コール・セレヴン博士。
+* **[[[/system:page-tags/tag/スクラントン博士|スクラントン博士]]]** //(doctor-scranton)// - ロバート・スクラントン博士、スクラントン現実錨の発明者、[[[SCP-3001]]]を参照。
 * **[[[/system:page-tags/tag/シンクレア博士|シンクレア博士]]]** //(doctor-sinclair)// - キャサリン・シンクレア博士。
 * **[[[/system:page-tags/tag/ソコルスキー博士|ソコルスキー博士]]]** //(doctor-sokolsky)// - ダニイル・ソコルスキー博士。
 * **[[[/system:page-tags/tag/ソーツ博士|ソーツ博士]]]** //(doctor-sorts)// - ヨハネス・ソーツ博士。
+* **[[[/system:page-tags/tag/セレヴン博士|セレヴン博士]]]** //(doctor-thereven)// - コール・セレヴン博士。
 * **[[[/system:page-tags/tag/ヴァン博士|ヴァン博士]]]** //(dr-vang)// - S.ヴァン博士。
 * **[[[/system:page-tags/tag/ウェトル博士|ウェトル博士]]]** //(doctor-wettle)// - ウィリアム・ウォレス・ウェトル博士。
 * **[[[/system:page-tags/tag/ドレイヴン・コンドラキ|ドレイヴン・コンドラキ]]]** //(draven-kondraki)// - ドレイヴン・コンドラキ博士/管理官。
@@ -2035,10 +2037,12 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ジェームズ研究員|ジェームズ研究員]]]** //(researcher-james)// - ジェームズ研究助手、史上最高の財団研究員！(5才)。
 * **[[[/system:page-tags/tag/researcher-labelle|researcher-labelle]]]** //(researcher-labelle)// - ローズ・ラベル/ラブレ研究員。
 * **[[[/system:page-tags/tag/ロイド研究員|ロイド研究員]]]** //(researcher-lloyd)// - 諸世界の破壊者、ロイド研究員。
+* **[[[/system:page-tags/tag/レックス研究員|レックス研究員]]]** //(researcher-rex)// - エバーウッド博士の助手にして次席研究員、レックス・アルシス/アルケス。
 * **[[[/system:page-tags/tag/ローゼン研究員|ローゼン研究員]]]** //(researcher-rosen)// - [[[david-rosen-file|デイヴィッド・ローゼン研究員]]]。
 * **[[[/system:page-tags/tag/スモールズ研究員|スモールズ研究員]]]** //(researcher-smalls)// - アダモ・スモールズ研究員。
 * **[[[/system:page-tags/tag/タローラン研究員|タローラン研究員]]]** //(researcher-talloran)// - タローラン研究員。
 * **[[[/system:page-tags/tag/リーヴィン・マーサー|リーヴィン・マーサー]]]** //(riven-mercer)// - 桐生研究所のリーヴィン・マーサー。
+* **[[[/system:page-tags/tag/サマラ・マクレア|サマラ・マクレア]]]** //(samara-maclear)// - サマラ・マクレア、財団のサイオニック・スペシャリスト。
 * **[[[/system:page-tags/tag/シェルドン・カッツ|シェルドン・カッツ]]]** //(sheldon-katz)// - 法務部門のシェルドン・カッツ。
 * **[[[/system:page-tags/tag/サイモン・ピエトリカウ|サイモン・ピエトリカウ]]]** //(simon-pietrykau)// - 解析部門のサイモン・ピエトリカウ。
 * **[[[/system:page-tags/tag/シャンク博士|シャンク博士]]]** //(thad-xyank)// - 時間異常部門のタデウス・“サド”・シャンク博士。
@@ -2860,12 +2864,12 @@ http://scpfoundation.net/contests
 
 * **[[[/system:page-tags/tag/2020-メタタイトルコンテスト|2020-メタタイトルコンテスト]]]** //(2020-별칭경연)// - [[[title-contest-hub|2020年メタタイトルコンテスト]]]。
 
+* [[[samcheonri-contest|三千里コンテスト]]]
+ * **[[[/system:page-tags/tag/三千里-江原コンテスト|三千里-江原コンテスト]]]** //(삼천리-강원)// - [[[samcheonri-contest-gangwon|三千里江原コンテスト]]]。
+
 * **[[[/system:page-tags/tag/1000ko|1000ko]]]** //(1000ko)// - [[[scp1000kocontesthub|SCP-1000-KOコンテスト]]]。
 
 * **[[[/system:page-tags/tag/2023-絶対コンテスト|2023-絶対コンテスト]]]** //(2023-절대평가)// - [[[2023-jd-contest-hub|絶対評価コンテスト]]]。
-
-* [[[samcheonri-contest|三千里コンテスト]]]
- * **[[[/system:page-tags/tag/三千里-江原コンテスト|三千里-江原コンテスト]]]** //(삼천리-강원)// - [[[samcheonri-contest-gangwon|三千里江原コンテスト]]]。
 
 [!--★タグ内のハイフンを残すものと残さないものが混在しているので、いずれ修整したい。--]
 [!--
@@ -2879,7 +2883,7 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/2013ノレマイン誕生日祝典|2013ノレマイン誕生日祝典]]]** //(2013-노래마인-생일축전)// - [[[birthday-shfoakdls|2013ノレマイン誕生日祝典]]]。
 * **[[[/system:page-tags/tag/2020外部文書コンテスト|2020外部文書コンテスト]]]** //(2020-외부문서경연)// - [[[external-documents-contest-2020|2020外部文書コンテスト]]]。
 * **[[[/system:page-tags/tag/2020-06コンテスト|2020-06コンテスト]]]** //(2020-06경연)// - [[[bimonthly-contests-2020|2020年度隔月コンテスト]]]の6月度部門のタグです。
-* **[[[/system:page-tags/tag/2020題名コンテスト|2020題名コンテスト]]]** //(2020-별칭경연)// - [[[title-contest-hub|2020題名コンテスト]]]。
+
 * [[[samcheonri-contest|三千里コンテスト]]]用のタグ
  * **[[[/system:page-tags/tag/三千里-済州|三千里-済州]]]** //(삼천리-제주)// - 第一回「済州道」。
  * **[[[/system:page-tags/tag/三千里-釜山|三千里-釜山]]]** //(三千里-釜山)// - 第二回「釜山広域市」。
