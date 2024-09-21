@@ -546,12 +546,12 @@ Any tags that do not fit into the other sections.
 [[tab Genre and Themes]]
 ++ Genre and Themes
 
-.
+Describes the content, setting and style of a fictional work.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
 
-* Requires 'tale,', 'SCP', and 'goi-format'
+* Requires 'tale,', 'SCP', 'goi-format', and '_tale-hub'
 
 [[/div]]
 
@@ -594,9 +594,9 @@ Describes the genre of an article.
 Describes the setting of an article.
 
 * **[https://scpwiki.com/system:page-tags/tag/alternate-history alternate-history]** -- Depicts historical events that diverge from how they happened in real life. Does not apply to future events, or to anomalous reinterpretations of events that did happen (e.g. the 7th Occult War).
-* **[https://scpwiki.com/system:page-tags/tag/christmas christmas]** -- Article is set during of influenced by the holiday of Christmas.
+* **[https://scpwiki.com/system:page-tags/tag/christmas christmas]** -- Set during or influenced by the holiday of Christmas.
 * **[https://scpwiki.com/system:page-tags/tag/dystopian dystopian]** -- Imagines a non-existent society or culture, portrayed as being much worse than our current one.
-* **[https://scpwiki.com/system:page-tags/tag/halloween halloween]** -- Article is set during of influenced by the holiday of Halloween.
+* **[https://scpwiki.com/system:page-tags/tag/halloween halloween]** -- Set during or influenced by the holiday of Halloween.
 * **[https://scpwiki.com/system:page-tags/tag/otherworldly otherworldly]** -- Set in another world, reality or universe. Includes works that are specifically set somewhere other than Earth, as well as portal fantasy fiction featuring travel to another world..
 * **[https://scpwiki.com/system:page-tags/tag/period-piece period-piece]** -- Set during a specific period in the past.
 * **[https://scpwiki.com/system:page-tags/tag/post-apocalyptic post-apocalyptic]** -- Takes place after a catastrophic event.
@@ -606,16 +606,16 @@ Describes the setting of an article.
 
 +++ Style
 
-Describes the style of an article, do note that these do not apply to SCPs or GoI formats.
+Describes the style of an article. These tags may only be applied to tales, and not to SCPs, GoI Formats or Tale Hubs.
 
-* **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- story in the style of short, old-school Internet horror.
-* **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- told from a first-person perspective ("I did").
-* **[https://scpwiki.com/system:page-tags/tag/foundation-format foundation-format]** -- told in the form of an SCP document.
+* **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- In the style of short, old-school Internet horror.
+* **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- Told from a first-person perspective ("I did").
+* **[https://scpwiki.com/system:page-tags/tag/foundation-format foundation-format]** -- Told in the form of an SCP document.
  * //Conflicts with 'scp'//
-* **[https://scpwiki.com/system:page-tags/tag/journal journal]** -- told in the form of an in universe journal written while events happen.
+* **[https://scpwiki.com/system:page-tags/tag/journal journal]** -- Told in the form of an in-universe journal, written while events happen.
 * **[https://scpwiki.com/system:page-tags/tag/no-dialogue no-dialogue]** -- Contains no spoken dialogue.
 * **[https://scpwiki.com/system:page-tags/tag/orientation orientation]** -- Styled as an orientation lecture.
-* **[https://scpwiki.com/system:page-tags/tag/second-person second-person]** -- told from a second-person perspective ("you did").
+* **[https://scpwiki.com/system:page-tags/tag/second-person second-person]** -- Told from a second-person perspective ("you did").
 * **[https://scpwiki.com/system:page-tags/tag/worldbuilding worldbuilding]** -- Focuses on conveying information about the setting, often taking the form of an in-universe document.
 
 +++ Other
@@ -672,6 +672,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Of or related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
 * **[https://scpwiki.com/system:page-tags/tag/antimemetics-division antimemetics-division]** -- Of or related to the Foundation's [https://scp-wiki.wikidot.com/antimemetics-division-hub Antimemetics Division].
 * **[https://scpwiki.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
+* **[https://scpwiki.com/system:page-tags/tag/deletions-dept deletions-dept]** -- Of or related to the [https://scp-wiki.wikidot.com/deleted Department of Deletions].
 * **[https://scpwiki.com/system:page-tags/tag/delta-t delta-t]** -- Of or related to [https://scp-wiki.wikidot.com/welcome-to-delta-t Delta T], the transtemporal Foundation agency.
 * **[https://scpwiki.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Of or related to the Foundation's Ethics Committee.
 * **[https://scpwiki.com/system:page-tags/tag/engagement-division engagement-division]** -- Of or related to the Foundation's [https://scp-wiki.wikidot.com/anomalous-entity-engagement-division-hub Anomalous Entity Engagement Division] (AEED).
@@ -887,6 +888,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/doctors-of-the-church doctors-of-the-church]** -- Of or related to the [https://scp-wiki.wikidot.com/doctors-of-the-church-hub Doctors of the Church] canon.
 * **[https://scpwiki.com/system:page-tags/tag/dread&circuses dread&circuses]** -- Of or related to the [https://scp-wiki.wikidot.com/dread-circuses-hub Dread and Circuses] canon.
 * **[https://scpwiki.com/system:page-tags/tag/end-of-death end-of-death]** -- Of or related to the [https://scp-wiki.wikidot.com/end-of-death-hub End of Death] canon.
+* **[https://scpwiki.com/system:page-tags/tag/fading-stars fading-stars]** -- Of or related to the [https://scp-wiki.wikidot.com/fading-stars-hub Fading Stars] canon.
 * **[https://scpwiki.com/system:page-tags/tag/from-120s-archives from-120s-archives]** -- Of or related to the [https://scp-wiki.wikidot.com/from-120-s-archives-hub From 120's Archives] canon.
 * **[https://scpwiki.com/system:page-tags/tag/green-king green-king]** -- Of or related to the [https://scp-wiki.wikidot.com/codename-green-king-hub Codename: Green King hub].
 * **[https://scpwiki.com/system:page-tags/tag/heimdall heimdall]** -- Of or related to [https://scp-wiki.wikidot.com/Project-Heimdall Project Heimdall].
@@ -1106,6 +1108,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/hogslice hogslice]** -- Hogslice, aka [https://scp-wiki.wikidot.com/scp-6599 SCP-6599].
 * **[https://scpwiki.com/system:page-tags/tag/iris-thompson iris-thompson]** -- Iris Thompson, aka [https://scp-wiki.wikidot.com/scp-105 SCP-105].
 * **[https://scpwiki.com/system:page-tags/tag/leslie leslie]** -- Leslie, instance of [https://scp-wiki.wikidot.com/scp-3774 SCP-3774].
+* **[https://scpwiki.com/system:page-tags/tag/marw marw]** -- Marw, aka The Library Cat or [https://scp-wiki.wikidot.com/SCP-ES-234 SCP-ES-234].
 * **[https://scpwiki.com/system:page-tags/tag/moon-champion moon-champion]** -- Moon Champion, aka Champion of the Moon or [https://scp-wiki.wikidot.com/scp-1233 SCP-1233].
 * **[https://scpwiki.com/system:page-tags/tag/mr-fish mr-fish]** -- Mr. Fish, Little Mister from Dr. Wondertainment, aka [https://scp-wiki.wikidot.com/scp-527 SCP-527].
 * **[https://scpwiki.com/system:page-tags/tag/murphy-law murphy-law]** -- Pataphysical noir detective character Murphy Law aka, [https://scp-wiki.wikidot.com/scp-3143 SCP-3143].
@@ -1189,6 +1192,7 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/deus-ex-machina deus-ex-machina]** -- Related to the Foundation's world-rebooting machine, [https://scp-wiki.wikidot.com/scp-2000 SCP-2000].
 * **[https://scpwiki.com/system:page-tags/tag/esterberg esterberg]** -- The Free Port known as [https://scp-wiki.wikidot.com/esterberg-city-wikipedia Esterberg]
 * **[https://scpwiki.com/system:page-tags/tag/eurtec eurtec]** -- The metropolis of Eurtec.
+* **[https://scpwiki.com/system:page-tags/tag/hong-shing hong-shing]** -- The extradimensional city of Hong Shing that connects the Left Phase, or baseline reality, and the Right Phase, a universe filled with ionizing radiation.
 * **[https://scpwiki.com/system:page-tags/tag/hy-brasil hy-brasil]** -- The island of [https://scp-wiki.wikidot.com/nx-03 Hy-Brasil].
 * **[https://scpwiki.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- The Free Port of [https://scp-wiki.wikidot.com/larue-hub La Rue Macabre].
 * **[https://scpwiki.com/system:page-tags/tag/three-portlands three-portlands]** -- The Free Port of [https://scp-wiki.wikidot.com/three-portlands-hub Three Portlands].
