@@ -956,7 +956,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/mister mister]** -- Featuring or relating to the anomalous individuals known as "Little Misters".
 * **[https://scpwiki.com/system:page-tags/tag/mundus-liberari mundus-liberari]** -- Part of the [https://scp-wiki.wikidot.com/mundus-liberari Mundus, Liberari] series.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
-* **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Part of the [resurrection-old-foes-hub Resurrection: Old Foes] series.
+* **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Part of the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
 * **[https://scpwiki.com/system:page-tags/tag/palisade palisade]** -- Part of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
 * **[https://scpwiki.com/system:page-tags/tag/project-crossover project-crossover]** -- Part of [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
