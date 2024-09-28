@@ -773,7 +773,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/_ウィルソンズ・ワイルドライフ|_ウィルソンズ・ワイルドライフ]]]** //(_wilsons-wildlife)// - [[[wilson-s-wildlife-solutions-hub|ウィルソンズ・ワイルドライフ・ソリューションズ (WWS)]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//ウィルソンズ・ワイルドライフ//タグと併用してください。
 
-* **[[[/system:page-tags/tag/_その他団体-en|_その他団体-en]]]** //(_other)// - 専用のGoIタグあるいはGoIフォーマットタグが用意されていない団体のGoIフォーマット記事に付与されるタグです。このタグはENで作成された団体の場合に適用されます。
+* **[[[/system:page-tags/tag/_その他団体-en|_その他団体-en]]]** //(_other)// - 専用のGoIタグあるいはGoIフォーマットタグが用意されていない団体/内部部門のGoIフォーマット記事に付与されるタグです。このタグはENで作成された団体/内部部門の場合に適用されます。
 
 ++ 要注意団体-JP
 
@@ -807,6 +807,8 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
  * 必ず//犀賀派//タグと併用してください。
 * **[[[/system:page-tags/tag/_蒐集院|_蒐集院]]]** - 蒐集院のGoIフォーマット記事に付与されるタグです。
  * 必ず//蒐集院//タグと併用してください。
+* **[[[/system:page-tags/tag/_シュトルヒ運輸|_シュトルヒ運輸]]]** - シュトルヒ運輸のGoIフォーマット記事に付与されるタグです。
+ * 必ず//シュトルヒ運輸//タグと併用してください。
 * **[[[/system:page-tags/tag/_石榴倶楽部|_石榴倶楽部]]]** - 石榴倶楽部のGoIフォーマット記事に付与されるタグです。
  * 必ず//石榴倶楽部//タグと併用してください。
 * **[[[/system:page-tags/tag/_負号部隊|_負号部隊]]]** - 大日本帝国陸軍特別医療部隊 (通称"負号部隊")のGoIフォーマット記事に付与されるタグです。
@@ -838,7 +840,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/_夢見テクノロジー|_夢見テクノロジー]]]** - 夢見テクノロジーのGoIフォーマット記事に付与されるタグです。
  * 必ず//夢見テクノロジー//タグと併用してください。
 
-* **[[[/system:page-tags/tag/_その他団体-jp|_その他団体-jp]]]** - 専用のGoIタグあるいはGoIフォーマットタグが用意されていない団体のGoIフォーマット記事に付与されるタグです。このタグはJPで作成された団体の場合に適用されます。
+* **[[[/system:page-tags/tag/_その他団体-jp|_その他団体-jp]]]** - 専用のGoIタグあるいはGoIフォーマットタグが用意されていない団体/内部部門のGoIフォーマット記事に付与されるタグです。このタグはJPで作成された団体/内部部門の場合に適用されます。
 
 ++ 要注意団体-CN
 * **[[[/system:page-tags/tag/_異学会|_異学会]]]** //(_异学会)// - [[[yixuehuihub|中華異学会]]]のGoIフォーマット記事に付与されるタグです。
@@ -857,7 +859,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
  * 必ず//madao//タグと併用してください。
 
 ++ その他
-* **[[[/system:page-tags/tag/_その他団体-他支部|_その他団体-他支部]]]** - 専用のGoIタグあるいはGoIフォーマットタグが用意されていない団体のGoIフォーマット記事に付与されるタグです。このタグはENおよびJP以外の支部サイトで作成された団体の場合に適用されます。
+* **[[[/system:page-tags/tag/_その他団体-他支部|_その他団体-他支部]]]** - 専用のGoIタグあるいはGoIフォーマットタグが用意されていない団体/内部部門のGoIフォーマット記事に付与されるタグです。このタグはENおよびJP以外の支部サイトで作成された団体/内部部門の場合に適用されます。
 
 [[/div]]
 [[/tab]]
@@ -1229,6 +1231,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/コレクターtale|コレクターtale]]]** //(collector-tale)// - ミスター・コレクター(参照: //mister//タグ)。
 * **[[[/system:page-tags/tag/goc事件簿|goc事件簿]]]** //(goc-casefiles)// - [[[goc-hub-page#toc11|世界オカルト連合事件簿]]]。
 * **[[[/system:page-tags/tag/ハービンジャー|ハービンジャー]]]** //(harbinger)// - アンソロジーシリーズ『ハービンジャー』。
+* **[[[/system:page-tags/tag/ヘカトンケイレス・サイクル|ヘカトンケイレス・サイクル]]]** //(hecatoncheires-cycle)// - [[[hecatoncheires-cycle-hub|ヘカトンケイレス・サイクル]]]。
 * **[[[/system:page-tags/tag/統合プログラム|統合プログラム]]]** //(integration-program)// - [[[integration-program-hub|統合プログラム]]]。
 * **[[[/system:page-tags/tag/kiryu-labs|kiryu-labs]]]** //(kiryu-labs)// - [[[kiryu-labs-hub|桐生研究所]]]。
 * **[[[/system:page-tags/tag/mister|mister]]]** //(mister)// - リトル・ミスターズ。
@@ -1495,6 +1498,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/五行結社|五行結社]]]** - 五行結社。
 * **[[[/system:page-tags/tag/超電救助隊hero|超電救助隊hero]]]** - [[[hyper-electric-rescue-organization-hub|超電救助隊HERO]]]。
 * **[[[/system:page-tags/tag/pamwac|pamwac]]]** - [[[pamwac-hub|アニメキャラクターと結婚するための研究計画局(PAMWAC)]]]。
+* **[[[/system:page-tags/tag/シュトルヒ運輸|シュトルヒ運輸]]]** - シュトルヒ運輸。
 
 @@ @@
 
@@ -1705,7 +1709,8 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/魔術師学会|魔術師学会]]]** //(magierakademie)// - [[[magierakademie-hub|魔術師学会]]]。
 * **[[[/system:page-tags/tag/ラプターテック|ラプターテック]]]** //(raptor-tec)// - [[[raptor-tec-industries|ラプターテック・インダストリーズ]]]。
 * **[[[/system:page-tags/tag/skp|skp]]]** //(skp)// - [[[skp-portal|異常利用特殊部隊 (SKP)]]]。
-* **[[[/system:page-tags/tag/4-r|4-r]]]** //(4-r)// - [[[4r-hub|第四帝国]]]。
+* **[[[/system:page-tags/tag/テイア|テイア]]]** //(theia)// - [[[theia-hub|テイア人]]]。
+* **[[[/system:page-tags/tag/4-r|4-r]]]** //(4-r)// - [[[4r-hub|第四帝国]]]]。
 * **[[[/system:page-tags/tag/mm-wk|mm-wk]]]** //(mm-wk)// - [[[goi-1995-de-das-wunderkabinett|驚異の小部屋]]]。
 
 @@ @@
@@ -1868,7 +1873,7 @@ http://scp-slovenija.wikidot.com/is-arhiva
 * **[[[/system:page-tags/tag/巷説部門|巷説部門]]]** - 巷説部門。
 * **[[[/system:page-tags/tag/一般部門|一般部門]]]** - 一般部門。
 * **[[[/system:page-tags/tag/廃棄部門|廃棄部門]]]** - 廃棄部門。
-* **[[[/system:page-tags/tag/匡済部門|匡済部門]]]** - 匡済部門。
+* **[[[/system:page-tags/tag/匡済部門|匡済部門]]]** - [[[rehabilitation-department-hub|匡済部門]]]。
 
 +++ フロント-JP
 
@@ -2065,6 +2070,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ドクター・スパンコ|ドクター・スパンコ]]]** //(doctor-spanko)// - [[[doctor-spanko-hub|ドクター・スパンコ]]]、通称[[[SCP-2337]]]。
 * **[[[/system:page-tags/tag/ドンクマン|ドンクマン]]]** //(donkman)// - ユリシーズ・B・ドンクマン、通称[[[SCP-4768]]]。
 * **[[[/system:page-tags/tag/フレッド|フレッド]]]** //(fred)// - フレッド、通称[[[SCP-423]]]。
+* **[[[/system:page-tags/tag/ジェフリー・クインシー・ハリソン|ジェフリー・クインシー・ハリソン]]]** //(geoffrey-quincy-harrison)// - ジェフリー・クインシー・ハリソン3世、サイト-322の経理部門に配属されている生意気なガムボール自動販売機、通称[[[SCP-5595]]]。
 * **[[[/system:page-tags/tag/グラブノック|グラブノック]]]** //(grabnok)// - グラブノック・ザ・デストロイヤー、嫌々ながらの次元旅行者、通称[[[SCP-507]]]。
 * **[[[/system:page-tags/tag/不死身の爬虫類|不死身の爬虫類]]]** //(hard-to-kill-reptile)// - "不死身の爬虫類"、通称[[[SCP-682]]]。
 * **[[[/system:page-tags/tag/半身猫のジョーシー|半身猫のジョーシー]]]** //(half-cat-josie)// - 半身猫のジョーシー、通称[[[SCP-529]]]。
@@ -2294,13 +2300,14 @@ SCPユニバースを彩るキャラクターたちのタグです。
 +++ キャラクター-ES
 
 * **[[[/system:page-tags/tag/アンドレス・モンドラゴン|アンドレス・モンドラゴン]]]** //(andrés-mondragón)// - アンドレス・モンドラゴン研究員。
+* **[[[/system:page-tags/tag/ボルハ・ドゥウェル|ボルハ・ドゥウェル]]]** //(borja-dowell)// - ボルハ・ドゥウェル。
 * **[[[/system:page-tags/tag/ダンテ|ダンテ]]]** //(dante)// - ダンテ。
 * **[[[/system:page-tags/tag/ルイサ・ヴァンデル|ルイサ・ヴァンデル]]]** //(luisa-vander)// - ルイサ・ヴァンデル。
+* **[[[/system:page-tags/tag/マーウ|マーウ]]]** //(marw)// - マーウ探偵。
 * **[[[/system:page-tags/tag/マクシムス|マクシムス]]]** //(maximus)// - マクシムス。
 
 [!--
 ★未申請
-* **[[[/system:page-tags/tag/borja-dowell|borja-dowell]]]** //(borja-dowell)// - Borja Dowell。
 * **[[[/system:page-tags/tag/dr-von-braun|dr-von-braun]]]** //(dr-von-braun)// - Dr. Von Braun。
 * **[[[/system:page-tags/tag/richard-barnard|richard-barnard]]]** //(richard-barnard)// - Dr. Richard Barnard, alias "Reach"。
 * **[[[/system:page-tags/tag/richard-dunwich|richard-dunwich]]]** //(richard-dunwich)// - Investigador Asistente Prelator Richard Dunwich。
@@ -2864,8 +2871,8 @@ http://scpfoundation.net/contests
 
 * **[[[/system:page-tags/tag/2020-メタタイトルコンテスト|2020-メタタイトルコンテスト]]]** //(2020-별칭경연)// - [[[title-contest-hub|2020年メタタイトルコンテスト]]]。
 
-* [[[samcheonri-contest|三千里コンテスト]]]
- * **[[[/system:page-tags/tag/三千里-江原コンテスト|三千里-江原コンテスト]]]** //(삼천리-강원)// - [[[samcheonri-contest-gangwon|三千里江原コンテスト]]]。
+* **[[[samcheonri-contest|三千里コンテスト]]]**
+ * **[[[/system:page-tags/tag/三千里-江原コンテスト|三千里-江原コンテスト]]]** //(삼천리-강원)// - [[[samcheonri-contest-gangwon|第十一回「江原特別自治道・未収復江原道」]]]。
 
 * **[[[/system:page-tags/tag/1000ko|1000ko]]]** //(1000ko)// - [[[scp1000kocontesthub|SCP-1000-KOコンテスト]]]。
 
@@ -2885,9 +2892,21 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/2020-06コンテスト|2020-06コンテスト]]]** //(2020-06경연)// - [[[bimonthly-contests-2020|2020年度隔月コンテスト]]]の6月度部門のタグです。
 
 * [[[samcheonri-contest|三千里コンテスト]]]用のタグ
- * **[[[/system:page-tags/tag/三千里-済州|三千里-済州]]]** //(삼천리-제주)// - 第一回「済州道」。
- * **[[[/system:page-tags/tag/三千里-釜山|三千里-釜山]]]** //(三千里-釜山)// - 第二回「釜山広域市」。
- * 以後は未開催。
+ * **[[[/system:page-tags/tag/三千里-済州コンテスト|三千里-済州コンテスト]]]** //(삼천리-제주)// - [[[samcheonri-contest-jeju|第一回「済州道」]]]。
+ * **[[[/system:page-tags/tag/三千里-釜山コンテスト|三千里-釜山コンテスト]]]** //(삼천리-부산)// - [[[samcheonri-contest-busan|第二回「釜山広域市」]]]。
+ * **[[[/system:page-tags/tag/三千里-蔚山コンテスト|三千里-蔚山コンテスト]]]** //(삼천리-울산)// - [[[samcheonri-contest-ulsan|第三回「蔚山広域市」]]]。
+ * **[[[/system:page-tags/tag/三千里-慶南コンテスト|三千里-慶南コンテスト]]]** //(삼천리-경남)// - [[[samcheonri-contest-gyeongnam|第四回「慶尚南道」]]]。
+ * **[[[/system:page-tags/tag/三千里-全南コンテスト|三千里-全南コンテスト]]]** //(삼천리-전남)// - [[[samcheonri-contest-jeonnam|第五回「全羅南道」]]]。
+ * **[[[/system:page-tags/tag/三千里-光州コンテスト|三千里-光州コンテスト]]]** //(삼천리-광주)// - [[[samcheonri-contest-gwangju|第六回「光州広域市」]]]。
+ * **[[[/system:page-tags/tag/三千里-全北コンテスト|三千里-全北コンテスト]]]** //(삼천리-전북)// - [[[samcheonri-contest-jeonbuk|第七回「全羅北道」]]]。
+ * **[[[/system:page-tags/tag/三千里-海西コンテスト|三千里-海西コンテスト]]]** //(삼천리-해서)// - [[[samcheonri-contest-haeseo|第八回「黄海道・未収復京畿道」]]]。
+ * **[[[/system:page-tags/tag/三千里-慶北コンテスト|三千里-慶北コンテスト]]]** //(삼천리-경북)// - [[[samcheonri-contest-gyeongbuk|第九回「慶尚北道 」]]]。
+ * **[[[/system:page-tags/tag/三千里-大邱コンテスト|三千里-大邱コンテスト]]]** //(삼천리-대구)// - [[[samcheonri-contest-daegu|第十回「大邱広域市 」]]]。
+ * **[[[/system:page-tags/tag/三千里-咸北コンテスト|三千里-咸北コンテスト]]]** //(삼천리-관북)// - [[[samcheonri-contest-gwanbuk|第十二回「咸鏡南道・咸鏡北道」]]]。
+ * **[[[/system:page-tags/tag/三千里-忠北コンテスト|三千里-忠北コンテスト]]]** //(삼천리-충북)// - [[[samcheonri-contest-chungbuk|第十三回「忠清北道 」]]]。
+ * 以降未開催(2024/09/29時点)。
+ * **[[[/system:page-tags/tag/三千里-京畿コンテスト|三千里-京畿コンテスト]]]** //(삼천리-경기)// - [[[samcheonri-contest-gyeonggi|第十四回「京畿道 」]]]。
+ * **[[[/system:page-tags/tag/三千里-忠南コンテスト|三千里-忠南コンテスト]]]** //(삼천리-충남)// - [[[samcheonri-contest-chungnam|第十五回「忠清南道 」]]]。
 
 * **[[[/system:page-tags/tag/888ko|888ko]]]** //(888ko)// - [[[scp888kocontesthub|8周年記念SCP-888-KOコンテスト]]]。
 * **[[[/system:page-tags/tag/2021二人三脚|2021二人三脚]]]** //(2021-2인3각)// - [[[2g3a-contest-hub|2021年二人三脚コンテスト]]]。
@@ -2897,7 +2916,9 @@ http://scpfoundation.net/contests
 
 +++ その他イベント-KO
 
-* **[[[/system:page-tags/tag/2012-devan-誕生日祝典|2012-devan-誕生日祝典]]]** //(2012-데반-생일축전)// - [[[deleted:birthday-devan|誕生日祝典 - Devan]]]。
+* **[[[/system:page-tags/tag/2012-devan-誕生日祝典|2012-devan-誕生日祝典]]]** //(2012-데반-생일축전)// - [[[old:birthday-devan|誕生日祝典 - Devan]]]。
+
+* **[[[/system:page-tags/tag/2023-ハンガウィ祝典|2023-ハンガウィ祝典]]]** //(2023-한가위축연)// - [[[midautumn-festival-2023|2023-ハンガウィ祝典]]]。
 
 [[/tab]][!--KO--]
 [[tab CN]]
@@ -3018,6 +3039,7 @@ http://scpfoundation.net/contests
 
 +++ コンテスト-PL
 * **[[[/system:page-tags/tag/pl200|pl200]]]** //(pl200)// - [[[konkurs-pl-200|SCP-PL-200コンテスト「責任」]]]。
+
 * **[[[/system:page-tags/tag/crackfic2022|crackfic2022]]]** //(crackfic2022)// - [[[haszyszofikcyjnokonkurs|クラックフィクションコンテスト]]]。
 [!--
 ★未申請。
