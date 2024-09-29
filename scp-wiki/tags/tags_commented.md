@@ -560,7 +560,7 @@ Describes the genre of an article.
 * **[https://scpwiki.com/system:page-tags/tag/absurdist-fiction absurdist-fiction]** -- Depicts events lacking any rational explanation or meaning, for the purpose of shock or comedy.
 * **[https://scpwiki.com/system:page-tags/tag/action action]** -- Focuses on exciting events and spectacular violence.
 * **[https://scpwiki.com/system:page-tags/tag/adventure adventure]** -- Focuses on the exploration of unfamiliar environments.
-* **[https://scpwiki.com/system:page-tags/tag/bittersweet bittersweet]** -- Intended to evoke both positive and negative emotions. For tales that mix elements of both the bleak and heartwarming tags.
+* **[https://scpwiki.com/system:page-tags/tag/bittersweet bittersweet]** -- Intended to evoke both positive and negative emotions. For articles that mix elements of both the bleak and heartwarming tags.
 * **[https://scpwiki.com/system:page-tags/tag/bleak bleak]** -- Intended to evoke negative emotions, focusing on anguish, distress and suffering.
 * **[https://scpwiki.com/system:page-tags/tag/comedy comedy]** -- Intended to be funny.
 * **[https://scpwiki.com/system:page-tags/tag/black-comedy black-comedy]** -- Depicts shocking or unpleasant situations for the purpose of humour.
@@ -607,18 +607,26 @@ Describes the setting of an article.
 Describes the style of an article. These tags may only be applied to tales, and not to SCPs, GoI Formats or Tale Hubs.
 
 * **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- In the style of short, old-school Internet horror.
+ * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- Told from a first-person perspective ("I did").
+ * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/foundation-format foundation-format]** -- Told in the form of an SCP document.
+ * //Requires 'tale'//
  * //Conflicts with 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/journal journal]** -- Told in the form of an in-universe journal, written while events happen.
+ * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/no-dialogue no-dialogue]** -- Contains no spoken dialogue.
+ * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/orientation orientation]** -- Styled as an orientation lecture.
+ * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/second-person second-person]** -- Told from a second-person perspective ("you did").
+ * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/worldbuilding worldbuilding]** -- Focuses on conveying information about the setting, often taking the form of an in-universe document.
+ * //Requires 'tale'//
 
 +++ Other
 
-* **[https://scpwiki.com/system:page-tags/tag/_genreless _genreless]** -- No Genre, Setting or style tags apply to this tale.
+* **[https://scpwiki.com/system:page-tags/tag/_genreless _genreless]** -- No Genre, Setting or style tags apply to this article.
 
 [[/tab]]
 [[tab Art]]
