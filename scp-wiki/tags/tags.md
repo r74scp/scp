@@ -567,6 +567,7 @@ Describes the genre of an article.
 * **[https://scpwiki.com/system:page-tags/tag/adventure adventure]** -- Focuses on the exploration of unfamiliar environments.
 * **[https://scpwiki.com/system:page-tags/tag/bittersweet bittersweet]** -- Intended to evoke both positive and negative emotions. For articles that mix elements of both the bleak and heartwarming tags.
 * **[https://scpwiki.com/system:page-tags/tag/bleak bleak]** -- Intended to evoke negative emotions, focusing on anguish, distress and suffering.
+* **[https://scpwiki.com/system:page-tags/tag/bureaucracy bureaucracy]** -- focuses on the administration, management and official procedures of an organisation.
 * **[https://scpwiki.com/system:page-tags/tag/comedy comedy]** -- Intended to be funny.
 * **[https://scpwiki.com/system:page-tags/tag/black-comedy black-comedy]** -- Depicts shocking or unpleasant situations for the purpose of humour.
  * //Requires 'comedy'//
@@ -582,7 +583,9 @@ Describes the genre of an article.
 * **[https://scpwiki.com/system:page-tags/tag/psychological-horror psychological-horror]** -- focuses on psychological distress and emotional vulnerability.
  * //Requires 'horror'//
 * **[https://scpwiki.com/system:page-tags/tag/lgbtq lgbtq]** -- Article features LGBTQ+ themes, culture or history as a major focus of the work. Possible examples include portrayal of gay and lesbian relationships, depiction of asexuality and bisexuality, and exploration of trans, queer and agender identities.
+* **[https://scpwiki.com/system:page-tags/tag/metafiction metafiction]** -- Fiction about fiction, referencing the work's fictional nature. May feature fiction affecting reality, characters entering or leaving works of fiction, and characters being aware that they are fictional or are influenced by narrative tropes.
 * **[https://scpwiki.com/system:page-tags/tag/military-fiction military-fiction]** -- Focuses on soldiers, field agents or mercenaries.
+* **[https://scpwiki.com/system:page-tags/tag/murder-monster murder-monster]** -- Focuses on an inhuman anomaly that is hostile to human life.
 * **[https://scpwiki.com/system:page-tags/tag/mystery mystery]** -- Focuses on investigation of unanswered questions.
 * **[https://scpwiki.com/system:page-tags/tag/mythological-fiction mythological-fiction]** -- Depicts creatures, events and practices drawn from mythology and folklore of a specific culture, outside of structured religious practice.
 * **[https://scpwiki.com/system:page-tags/tag/religious-fiction religious-fiction]** -- Focuses on religion, faith and belief. Includes depictions of real-world religions, as well as worship of anomalous entities.
@@ -604,13 +607,15 @@ Describes the setting of an article.
 * **[https://scpwiki.com/system:page-tags/tag/period-piece period-piece]** -- Set during a specific period in the past.
 * **[https://scpwiki.com/system:page-tags/tag/post-apocalyptic post-apocalyptic]** -- Takes place after a catastrophic event.
 * **[https://scpwiki.com/system:page-tags/tag/space-opera space-opera]** -- Depicts a futuristic society in outer space or on other planets, focusing on dramatic events and adventures.
-* **[https://scpwiki.com/system:page-tags/tag/western western]** -- Set in the American Frontier, during the time period known as the Wild West.
 * **[https://scpwiki.com/system:page-tags/tag/utopian utopian]** -- Imagines a non-existent society or culture, portrayed as being much better than our current one.
+* **[https://scpwiki.com/system:page-tags/tag/western western]** -- Set in the American Frontier, during the time period known as the Wild West.
 
 +++ Style
 
 Describes the style of an article. These tags may only be applied to tales, and not to SCPs, GoI Formats or Tale Hubs.
 
+* **[https://scpwiki.com/system:page-tags/tag/correspondence correspondence]** -- Told in large part though written communications between characters, including letters, emails, text messages or social media posts. AKA epistolary
+ * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- In the style of short, old-school Internet horror.
  * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- Told from a first-person perspective ("I did").
@@ -631,7 +636,7 @@ Describes the style of an article. These tags may only be applied to tales, and 
 
 +++ Other
 
-* **[https://scpwiki.com/system:page-tags/tag/_genreless _genreless]** -- No Genre, Setting or style tags apply to this article.
+* **[https://scpwiki.com/system:page-tags/tag/_genreless _genreless]** -- No Genre, Setting or Style tags apply to this article.
 
 [[/tab]]
 [[tab Art]]
@@ -900,8 +905,9 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/dread&circuses dread&circuses]** -- Part of the [https://scp-wiki.wikidot.com/dread-circuses-hub Dread and Circuses] canon.
 * **[https://scpwiki.com/system:page-tags/tag/end-of-death end-of-death]** -- Part of the [https://scp-wiki.wikidot.com/end-of-death-hub End of Death] canon.
 * **[https://scpwiki.com/system:page-tags/tag/fading-stars fading-stars]** -- Part of the [https://scp-wiki.wikidot.com/fading-stars-hub Fading Stars] canon.
+* **[https://scpwiki.com/system:page-tags/tag/forgotten-memories forgotten-memories]** -- Part of the [https://scp-wiki.wikidot.com/forgotten-memories-hub Forgotten Memories] canon.
 * **[https://scpwiki.com/system:page-tags/tag/from-120s-archives from-120s-archives]** -- Part of the [https://scp-wiki.wikidot.com/from-120-s-archives-hub From 120's Archives] canon.
-* **[https://scpwiki.com/system:page-tags/tag/green-king green-king]** -- Part of the [https://scp-wiki.wikidot.com/codename-green-king-hub Codename: Green King hub].
+* **[https://scpwiki.com/system:page-tags/tag/green-king green-king]** -- Part of the [https://scp-wiki.wikidot.com/codename-green-king-hub Codename: Green King] canon.
 * **[https://scpwiki.com/system:page-tags/tag/heimdall heimdall]** -- Part of [https://scp-wiki.wikidot.com/Project-Heimdall Project Heimdall].
 * **[https://scpwiki.com/system:page-tags/tag/insect-hell insect-hell]** -- Part of the [https://scp-wiki.wikidot.com/arbh-class-hub Insect Hell] canon.
 * **[https://scpwiki.com/system:page-tags/tag/lampeter lampeter]** -- Part of the [https://scp-wiki.wikidot.com/lampeter-hub Lampeter] canon.
@@ -955,7 +961,6 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Part of the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] series.
 * **[https://scpwiki.com/system:page-tags/tag/eternal-mxtape eternal-mxtape]** -- Part of the [https://scp-wiki.wikidot.com/the-eternal-mxtape Eternal MxTape] series.
 * **[https://scpwiki.com/system:page-tags/tag/eventyr eventyr]** -- Part of the [https://scp-wiki.wikidot.com/eventyr-hub Eventyr] series.
-* **[https://scpwiki.com/system:page-tags/tag/forgotten-memories forgotten-memories]** -- Part of the [https://scp-wiki.wikidot.com/forgotten-memories-hub Forgotten Memories] series.
 * **[https://scpwiki.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Part of the [https://scp-wiki.wikidot.com/goc-hub-page#casefiles Global Occult Coalition Casefiles].
 * **[https://scpwiki.com/system:page-tags/tag/harbinger harbinger]** -- Part of the HARBINGER series.
 * **[https://scpwiki.com/system:page-tags/tag/hecatoncheires-cycle hecatoncheires-cycle]** -- Part of the [https://scp-wiki.wikidot.com/hecatoncheires-cycle-hub Hecatoncheires Cycle].
@@ -1282,21 +1287,61 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/6000 6000]** -- An entry to the [https://scp-wiki.wikidot.com/scp6000contesthub SCP-6000 Contest].
 * **[https://scpwiki.com/system:page-tags/tag/7000 7000]** -- An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-7000 Contest].
 * **[https://scpwiki.com/system:page-tags/tag/8000 8000]** -- An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-8000 Contest].
-* **[https://scpwiki.com/system:page-tags/tag/af2016 af2016]** -- An entry to the [https://scp-wiki.wikidot.com/an-incredibly-important-announcement Crack Fiction Contest] 2016 April Fool's prank.
-* **[https://scpwiki.com/system:page-tags/tag/art2017 art2017]** -- An entry to the [https://scp-wiki.wikidot.com/social-media-art-contest 2017 Art Contest].
-* **[https://scpwiki.com/system:page-tags/tag/canon2020 canon2020]** -- An entry to the [https://scp-wiki.wikidot.com/canon-renaissance-contest 2020 Canon Renaissance Contest].
-* **[https://scpwiki.com/system:page-tags/tag/cliche2019 cliche2019]** -- An entry to [https://scp-wiki.wikidot.com/cliche-con-2019 Cliche-Con 2019].
-* **[https://scpwiki.com/system:page-tags/tag/coldpostcon coldpostcon]** -- An entry to [https://scp-wiki.wikidot.com/coldpostcon ColdpostCon].
-* **[https://scpwiki.com/system:page-tags/tag/collab-con2019 collab-con2019]** -- An entry to [https://scp-wiki.wikidot.com/collaboration-contest Collab-Con 2019].
-* **[https://scpwiki.com/system:page-tags/tag/cupid2021 cupid2021]** -- An entry to [https://scp-wiki.wikidot.com/cupid-contest-2021 Cupid Contest 2021].
-* **[https://scpwiki.com/system:page-tags/tag/d-con2016 d-con2016]** -- An entry to the [https://scp-wiki.wikidot.com/d-class-contest 2016 D-Class Contest].
-* **[https://scpwiki.com/system:page-tags/tag/dc2014 dc2014]** -- An entry to the [https://scp-wiki.wikidot.com/Dystopia-Contest 2014 Dystopia Contest].
-* **[https://scpwiki.com/system:page-tags/tag/departmentcon2022 departmentcon2022]** -- An entry to the [https://scp-wiki.wikidot.com/department-contest 2022 Department Contest].
-* **[https://scpwiki.com/system:page-tags/tag/doomsday2018 doomsday2018]** -- An entry to the [https://scp-wiki.wikidot.com/doomsday-contest 2018 Doomsday Contest].
-* **[https://scpwiki.com/system:page-tags/tag/exquisite-corpse2020 exquisite-corpse2020]** -- An entry to the [https://scp-wiki.wikidot.com/exquisite-corpse-contest 2020 Exquisite Corpse Contest].
-* **[https://scpwiki.com/system:page-tags/tag/five-questions five-questions]** -- An entry to the [https://scp-wiki.wikidot.com/five-questions Five Questions Contest].
 * **[https://scpwiki.com/system:page-tags/tag/gbc09 gbc09]** -- An entry to [https://scp-wiki.wikidot.com/gears-birthday-contest-2009 2009 Gears' Birthday Contest].
 * **[https://scpwiki.com/system:page-tags/tag/talecon10 talecon10]** -- An entry to [https://scp-wiki.wikidot.com/the-great-short-story-contest-archives The Great Short Story Contest].
+* **[https://scpwiki.com/system:page-tags/tag/hc2012 hc2012]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-contest 2012 Halloween Contest].
+* **[https://scpwiki.com/system:page-tags/tag/nyc2013 nyc2013]** -- An entry to the [https://scp-wiki.wikidot.com/new-years-contest 2013 New Year's Canon Contest].
+* **[https://scpwiki.com/system:page-tags/tag/five-questions five-questions]** -- An entry to the [https://scp-wiki.wikidot.com/five-questions Five Questions Contest].
+* **[https://scpwiki.com/system:page-tags/tag/tc2013 tc2013]** -- An entry to the [https://scp-wiki.wikidot.com/time-contest 2013 Time Contest].
+* **[https://scpwiki.com/system:page-tags/tag/uac2014 uac2014]** -- An entry to the [https://scp-wiki.wikidot.com/under-appreciated-contest 2014 Under-Appreciated SCPs Contest].
+* **[https://scpwiki.com/system:page-tags/tag/dc2014 dc2014]** -- An entry to the [https://scp-wiki.wikidot.com/Dystopia-Contest 2014 Dystopia Contest].
+* **[https://scpwiki.com/system:page-tags/tag/goi2014 goi2014]** -- An entry to the [https://scp-wiki.wikidot.com/goi-contest-2014 2014 Groups of Interest Contest].
+* **[https://scpwiki.com/system:page-tags/tag/sc2015 sc2015]** -- An entry to the [https://scp-wiki.wikidot.com/short-works-contest 2015 Short Works Contest].
+* **[https://scpwiki.com/system:page-tags/tag/rei2015 rei2015]** -- An entry to the [https://scp-wiki.wikidot.com/reimagining-contest 2015 Reimagining Contest].
+* **[https://scpwiki.com/system:page-tags/tag/af2016 af2016]** -- An entry to the [https://scp-wiki.wikidot.com/an-incredibly-important-announcement Crack Fiction Contest] 2016 April Fool's prank.
+* **[https://scpwiki.com/system:page-tags/tag/mtf2016 mtf2016]** -- An entry to the [https://scp-wiki.wikidot.com/mobile-task-force-contest 2016 Mobile Task Force Contest].
+* **[https://scpwiki.com/system:page-tags/tag/d-con2016 d-con2016]** -- An entry to the [https://scp-wiki.wikidot.com/d-class-contest 2016 D-Class Contest].
+* **[https://scpwiki.com/system:page-tags/tag/hiscon2017 hiscon2017]** -- An entry to the [https://scp-wiki.wikidot.com/history-contest 2017 History Contest].
+* **[https://scpwiki.com/system:page-tags/tag/art2017 art2017]** -- An entry to the [https://scp-wiki.wikidot.com/social-media-art-contest 2017 Art Contest].
+* **[https://scpwiki.com/system:page-tags/tag/jam-con2018 jam-con2018]** -- An entry to the [https://scp-wiki.wikidot.com/72-hour-jam-contest 2018 72 Hour Jam Contest].
+* **[https://scpwiki.com/system:page-tags/tag/_dark-and-stormy _dark-and-stormy]** -- An entry to the 'Dark and Stormy' category of the 2018 72 Hour Jam Contest.
+ * //Requires 'jam-con2018'//
+* **[https://scpwiki.com/system:page-tags/tag/_murder-mystery _murder-mystery]** -- An entry to the 'Murder Mystery' category of the 2018 72 Hour Jam Contest.
+ * //Requires 'jam-con2018'//
+* **[https://scpwiki.com/system:page-tags/tag/_tropical _tropical]** -- An entry to the 'Tropical' category of the 2018 72 Hour Jam Contest.
+ * //Requires 'jam-con2018'//
+* **[https://scpwiki.com/system:page-tags/tag/halloween2018 halloween2018]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-contest-2018 2018 Halloween Contest].
+* **[https://scpwiki.com/system:page-tags/tag/doomsday2018 doomsday2018]** -- An entry to the [https://scp-wiki.wikidot.com/doomsday-contest 2018 Doomsday Contest].
+* **[https://scpwiki.com/system:page-tags/tag/jam-con2019 jam-con2019]** -- An entry to the [https://scp-wiki.wikidot.com/144-hour-jam-contest 2019 144-Hour Jam Contest].
+* **[https://scpwiki.com/system:page-tags/tag/_shaggy-dog _shaggy-dog]** -- An entry to the 'Shaggy Dog' category of the 2019 144 Hour Jam Contest.
+ * //Requires 'jam-con2019'//
+* **[https://scpwiki.com/system:page-tags/tag/_pulp-fiction _pulp-fiction]** -- An entry to the 'Pulp Fiction' category of the 2019 144 Hour Jam Contest.
+ * //Requires 'jam-con2019'//
+* **[https://scpwiki.com/system:page-tags/tag/_all-a-dream _all-a-dream]** -- An entry to the 'All a Dream' category of the 2019 144 Hour Jam Contest.
+ * //Requires 'jam-con2019'//
+* **[https://scpwiki.com/system:page-tags/tag/cliche2019 cliche2019]** -- An entry to [https://scp-wiki.wikidot.com/cliche-con-2019 Cliche-Con 2019].
+* **[https://scpwiki.com/system:page-tags/tag/collab-con2019 collab-con2019]** -- An entry to [https://scp-wiki.wikidot.com/collaboration-contest Collab-Con 2019].
+* **[https://scpwiki.com/system:page-tags/tag/goi2019 goi2019]** -- An entry to the [http://scp-int.wikidot.com/international-goi-contest-2019 International Groups of Interest Contest 2019].
+* **[https://scpwiki.com/system:page-tags/tag/jam-con2020 jam-con2020]** -- An entry to the [https://scp-wiki.wikidot.com/144-hour-jam-contest-two 2020 144-Hour Jam Contest].
+* **[https://scpwiki.com/system:page-tags/tag/_explosions _explosions]** -- An entry to the 'Explosions' category of the 2020 144 Hour Jam Contest.
+ * //Requires 'jam-con2020'//
+* **[https://scpwiki.com/system:page-tags/tag/_delicious _delicious]** -- An entry to the 'Delicious' category of the 2020 144 Hour Jam Contest.
+ * //Requires 'jam-con2020'//
+* **[https://scpwiki.com/system:page-tags/tag/_meets-the-eye _meets-the-eye]** -- An entry to the 'Meets the Eye' category of the 2020 144 Hour Jam Contest.
+ * //Requires 'jam-con2020'//
+* **[https://scpwiki.com/system:page-tags/tag/exquisite-corpse2020 exquisite-corpse2020]** -- An entry to the [https://scp-wiki.wikidot.com/exquisite-corpse-contest 2020 Exquisite Corpse Contest].
+* **[https://scpwiki.com/system:page-tags/tag/canon2020 canon2020]** -- An entry to the [https://scp-wiki.wikidot.com/canon-renaissance-contest 2020 Canon Renaissance Contest].
+* **[https://scpwiki.com/system:page-tags/tag/cupid2021 cupid2021]** -- An entry to [https://scp-wiki.wikidot.com/cupid-contest-2021 Cupid Contest 2021].
+* **[https://scpwiki.com/system:page-tags/tag/jam-con2021 jam-con2021]** -- An entry to [http://scp-wiki.wikidot.com/jam-con-2021 JamCon 2021].
+* **[https://scpwiki.com/system:page-tags/tag/_marine _marine]** -- An entry to the 'Marine' category of JamCon 2021.
+ * //Requires 'jam-con2021'//
+* **[https://scpwiki.com/system:page-tags/tag/_corruption _corruption]** -- An entry to the 'Corruption' category of JamCon 2021.
+ * //Requires 'jam-con2021'//
+* **[https://scpwiki.com/system:page-tags/tag/_famouslastwords _famouslastwords]** -- An entry to the '"What could possibly go wrong?"' category of JamCon 2021.
+ * //Requires 'jam-con2021'//
+* **[https://scpwiki.com/system:page-tags/tag/halloweencon2022 halloweencon2022]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-con-2022 2022 Halloweencon].
+* **[https://scpwiki.com/system:page-tags/tag/departmentcon2022 departmentcon2022]** -- An entry to the [https://scp-wiki.wikidot.com/department-contest 2022 Department Contest].
+* **[https://scpwiki.com/system:page-tags/tag/coldpostcon coldpostcon]** -- An entry to the [https://scp-wiki.wikidot.com/coldpostcon 2023 ColdpostCon].
 * **[https://scpwiki.com/system:page-tags/tag/goblincon2023 goblincon2023]** -- An entry to the [https://scp-wiki.wikidot.com/goblincon 2023 GoblinCon].
 * **[https://scpwiki.com/system:page-tags/tag/_goblin-76 _goblin-76]** -- An entry to the 'Class of '76' category of the 2023 GoblinCon.
  * //Requires 'goblincon2023'//
@@ -1308,53 +1353,14 @@ Tags for contests and the articles submitted to them.
  * //Requires 'goblincon2023'//
 * **[https://scpwiki.com/system:page-tags/tag/_goblin-deletions _goblin-deletions]** -- An entry to the 'Deletions' category of the 2023 GoblinCon.
  * //Requires 'goblincon2023'//
-* **[https://scpwiki.com/system:page-tags/tag/goi2014 goi2014]** -- An entry to the [https://scp-wiki.wikidot.com/goi-contest-2014 2014 Groups of Interest Contest].
-* **[https://scpwiki.com/system:page-tags/tag/goi2019 goi2019]** -- An entry to the [http://scp-int.wikidot.com/international-goi-contest-2019 International Groups of Interest Contest 2019].
-* **[https://scpwiki.com/system:page-tags/tag/halloween2018 halloween2018]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-contest-2018 2018 Halloween Contest].
-* **[https://scpwiki.com/system:page-tags/tag/halloweencon2022 halloweencon2022]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-con-2022 2022 Halloweencon].
-* **[https://scpwiki.com/system:page-tags/tag/hc2012 hc2012]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-contest 2012 Halloween Contest].
-* **[https://scpwiki.com/system:page-tags/tag/hiscon2017 hiscon2017]** -- An entry to the [https://scp-wiki.wikidot.com/history-contest 2017 History Contest].
-* **[https://scpwiki.com/system:page-tags/tag/jam-con2018 jam-con2018]** -- An entry to the [https://scp-wiki.wikidot.com/72-hour-jam-contest 2018 72 Hour Jam Contest].
-* **[https://scpwiki.com/system:page-tags/tag/_dark-and-stormy _dark-and-stormy]** -- An entry to the 'Dark and Stormy' category of the 2018 72 Hour Jam Contest.
- * //Requires 'jam-con2018'//
-* **[https://scpwiki.com/system:page-tags/tag/_murder-mystery _murder-mystery]** -- An entry to the 'Murder Mystery' category of the 2018 72 Hour Jam Contest.
- * //Requires 'jam-con2018'//
-* **[https://scpwiki.com/system:page-tags/tag/_tropical _tropical]** -- An entry to the 'Tropical' category of the 2018 72 Hour Jam Contest.
- * //Requires 'jam-con2018'//
-* **[https://scpwiki.com/system:page-tags/tag/jam-con2019 jam-con2019]** -- An entry to the [https://scp-wiki.wikidot.com/144-hour-jam-contest 2019 144-Hour Jam Contest].
-* **[https://scpwiki.com/system:page-tags/tag/_shaggy-dog _shaggy-dog]** -- An entry to the 'Shaggy Dog' category of the 2019 144 Hour Jam Contest.
- * //Requires 'jam-con2019'//
-* **[https://scpwiki.com/system:page-tags/tag/_pulp-fiction _pulp-fiction]** -- An entry to the 'Pulp Fiction' category of the 2019 144 Hour Jam Contest.
- * //Requires 'jam-con2019'//
-* **[https://scpwiki.com/system:page-tags/tag/_all-a-dream _all-a-dream]** -- An entry to the 'All a Dream' category of the 2019 144 Hour Jam Contest.
- * //Requires 'jam-con2019'//
-* **[https://scpwiki.com/system:page-tags/tag/jam-con2020 jam-con2020]** -- An entry to the [https://scp-wiki.wikidot.com/144-hour-jam-contest-two 2020 144-Hour Jam Contest].
-* **[https://scpwiki.com/system:page-tags/tag/_explosions _explosions]** -- An entry to the 'Explosions' category of the 2020 144 Hour Jam Contest.
- * //Requires 'jam-con2020'//
-* **[https://scpwiki.com/system:page-tags/tag/_delicious _delicious]** -- An entry to the 'Delicious' category of the 2020 144 Hour Jam Contest.
- * //Requires 'jam-con2020'//
-* **[https://scpwiki.com/system:page-tags/tag/_meets-the-eye _meets-the-eye]** -- An entry to the 'Meets the Eye' category of the 2020 144 Hour Jam Contest.
- * //Requires 'jam-con2020'//
-* **[https://scpwiki.com/system:page-tags/tag/jam-con2021 jam-con2021]** -- An entry to [http://scp-wiki.wikidot.com/jam-con-2021 JamCon 2021].
-* **[https://scpwiki.com/system:page-tags/tag/_marine _marine]** -- An entry to the 'Marine' category of JamCon 2021.
- * //Requires 'jam-con2021'//
-* **[https://scpwiki.com/system:page-tags/tag/_corruption _corruption]** -- An entry to the 'Corruption' category of JamCon 2021.
- * //Requires 'jam-con2021'//
-* **[https://scpwiki.com/system:page-tags/tag/_famouslastwords _famouslastwords]** -- An entry to the '"What could possibly go wrong?"' category of JamCon 2021.
- * //Requires 'jam-con2021'//
-* **[https://scpwiki.com/system:page-tags/tag/lorecon2023 lorecon2023]** -- An entry to the [http://scp-int.wikidot.com/lorecon2023 International 2023 Lore and Aesthetics Contest].
-* **[https://scpwiki.com/system:page-tags/tag/mtf2016 mtf2016]** -- An entry to the [https://scp-wiki.wikidot.com/mobile-task-force-contest 2016 Mobile Task Force Contest].
-* **[https://scpwiki.com/system:page-tags/tag/nyc2013 nyc2013]** -- An entry to the [https://scp-wiki.wikidot.com/new-years-contest 2013 New Year's Canon Contest].
-* **[https://scpwiki.com/system:page-tags/tag/pridefest2024 pridefest2024]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2024 Pride festival].
-* **[https://scpwiki.com/system:page-tags/tag/rei2015 rei2015]** -- An entry to the [https://scp-wiki.wikidot.com/reimagining-contest 2015 Reimagining Contest].
 * **[https://scpwiki.com/system:page-tags/tag/remixcon2023 remixcon2023]** -- An entry to the [https://scp-wiki.wikidot.com/remixcon2023 2023 Remix Contest].
-* **[https://scpwiki.com/system:page-tags/tag/spring-cleaning24 spring-cleaning24]** -- An entry to the [https://scp-wiki.wikidot.com/deer-college-spring-cleaning-event 2024 Spring Cleaning Event].
-* **[https://scpwiki.com/system:page-tags/tag/sc2015 sc2015]** -- An entry to the [https://scp-wiki.wikidot.com/short-works-contest 2015 Short Works Contest].
-* **[https://scpwiki.com/system:page-tags/tag/tc2013 tc2013]** -- An entry to the [https://scp-wiki.wikidot.com/time-contest 2013 Time Contest].
-* **[https://scpwiki.com/system:page-tags/tag/uac2014 uac2014]** -- An entry to the [https://scp-wiki.wikidot.com/under-appreciated-contest 2014 Under-Appreciated SCPs Contest].
+* **[https://scpwiki.com/system:page-tags/tag/lorecon2023 lorecon2023]** -- An entry to the [http://scp-int.wikidot.com/lorecon2023 International 2023 Lore and Aesthetics Contest].
 * **[https://scpwiki.com/system:page-tags/tag/visual-archives2024 visual-archives2024]** -- An entry to the [https://scp-wiki.wikidot.com/visual-archives-art-contest 2024 Visual Archives Art Contest].
+* **[https://scpwiki.com/system:page-tags/tag/spring-cleaning24 spring-cleaning24]** -- An entry to the [https://scp-wiki.wikidot.com/deer-college-spring-cleaning-event 2024 Spring Cleaning Event].
+* **[https://scpwiki.com/system:page-tags/tag/pridefest2024 pridefest2024]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2024 Pride festival].
 * **[https://scpwiki.com/system:page-tags/tag/memecon2021-unofficial memecon2021-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].
 * **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
+* **[https://scpwiki.com/system:page-tags/tag/spook-nico-2024-unofficial spook-nico-2024-unofficial]** -- An entry to the unofficial [spook-nico-unnoficial-2024 2024 Spook Nico contest]
 
 [[/tab]]
 [[tab Translation]]
