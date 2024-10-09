@@ -198,7 +198,6 @@ Tags that apply to creatures that are **alive**, or to **autonomous** or non-liv
  * //Often used with 'contagion'//
 * **[https://scpwiki.com/system:page-tags/tag/clown clown]** -- SCP is, resembles, affects, or involves one or more clowns.
 * **[https://scpwiki.com/system:page-tags/tag/fungus fungus]** -- SCP is or exhibits traits of fungal life-forms.
-* **[https://scpwiki.com/system:page-tags/tag/ghost ghost]** -- SCP is or affects ghosts (spectral entities).
 * **[https://scpwiki.com/system:page-tags/tag/hive-mind hive-mind]** -- SCP exhibits traits of an external hive-mind.
 * **[https://scpwiki.com/system:page-tags/tag/hostile hostile]** -- SCP exhibits hostility towards humans or the Foundation that is not motivated by self-defence or the need for food.
  * //Conflicts with 'predatory'//
@@ -208,11 +207,9 @@ Tags that apply to creatures that are **alive**, or to **autonomous** or non-liv
 * **[https://scpwiki.com/system:page-tags/tag/predatory predatory]** -- SCP exhibits predatory behavior, obtaining food or sustenance by hunting for prey.
  * //Conflicts with 'hostile'//
 * **[https://scpwiki.com/system:page-tags/tag/plant plant]** -- SCP is a plant or exhibits plant-like traits.
-* **[https://scpwiki.com/system:page-tags/tag/politician politician]** -- SCP is a politician or is related to a political office.
 * **[https://scpwiki.com/system:page-tags/tag/sapient sapient]** -- SCP demonstrates sapience, the capacity for reason, abstract thought and complex emotional responses. Used to indicate intelligence equal to or exceeding human intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/species species]** -- SCP describes an entire species, rather than one or more individuals.
 * **[https://scpwiki.com/system:page-tags/tag/swarm swarm]** -- SCP exhibits swarm behavior.
-* **[https://scpwiki.com/system:page-tags/tag/superhero superhero]** -- SCP is related to superhero fiction or intrinsically embodies the idea of a superhero or supervillain.
 * **[https://scpwiki.com/system:page-tags/tag/tree tree]** -- SCP is or exhibits traits of tree-like (arboreal) plants.
  * //Often used with 'plant'//
 * **[https://scpwiki.com/system:page-tags/tag/virus virus]** -- SCP exhibits traits of viral agents.
@@ -433,7 +430,6 @@ Tags that typically apply to objects created by humans, including **artifacts** 
 * **[https://scpwiki.com/system:page-tags/tag/artistic artistic]** -- SCP is a work of art, exhibits artistic properties, or has artistic significance.
  * //Supersedes 'artifact'//
  * //Superseded by 'musical', 'performance', and 'sculpture'//
-* **[https://scpwiki.com/system:page-tags/tag/artificial-intelligence artificial-intelligence]** -- SCP is an artificial intelligence, possesses an AI or affects other AIs.
 * **[https://scpwiki.com/system:page-tags/tag/artifact artifact]** -- SCP is or was originally created by humans.
  * //Superseded by 'appliance', 'artistic', 'clothing', 'cinema', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
 * **[https://scpwiki.com/system:page-tags/tag/clockwork clockwork]** -- SCP operates primarily via clockworks, defined as mechanical devices constructed primarily using toothed wheels and/or powered by a mainspring.
@@ -486,7 +482,6 @@ Tags that typically apply to objects created by humans, including **artifacts** 
 
 Tags that describe where the SCP is, where it comes from, or that apply to SCPs that describe or affect specific locations.
 
-* **[https://scpwiki.com/system:page-tags/tag/afterlife afterlife]** -- SCP describes or is otherwise related to what happens to consciousness after death.
 * **[https://scpwiki.com/system:page-tags/tag/airborne airborne]** -- SCP lives in, moves through, or spreads through the air.
 * **[https://scpwiki.com/system:page-tags/tag/aquatic aquatic]** -- SCP lives in, moves through or spreads through water.
 * **[https://scpwiki.com/system:page-tags/tag/building building]** -- SCP is, is a part of, or otherwise is related to or affects a building, defined as a structure intended for human occupation.
@@ -507,7 +502,6 @@ Tags that describe where the SCP is, where it comes from, or that apply to SCPs 
 * **[https://scpwiki.com/system:page-tags/tag/planet planet]** -- SCP is, resembles, or affects a planet, which may or may not be our planet.
  * //Supersedes 'geological'//
 * **[https://scpwiki.com/system:page-tags/tag/satellite satellite]** -- SCP is a natural or artificial satellite orbiting a celestial body.
-* **[https://scpwiki.com/system:page-tags/tag/school school]** -- SCP is related to or affects schools, universities, or the education system.
 * **[https://scpwiki.com/system:page-tags/tag/structure structure]** -- SCP is an artificial or natural structure; if it is intended for human occupation, it should be tagged //building// instead.
  * //Superseded by 'building'//
 * **[https://scpwiki.com/system:page-tags/tag/subterranean subterranean]** -- SCP is located or operates wholly or significantly underground, defined as below the surface of the Earth. Does not apply objects that are simply contained underground for safety or convenience.
@@ -519,7 +513,6 @@ Any tags that do not fit into the other sections.
 
 * **[https://scpwiki.com/system:page-tags/tag/anomalous-event anomalous-event]** -- The SCP is a singular anomalous event that significantly changed reality in some way.
  * //Avoid using with 'phenomenon'//
-* **[https://scpwiki.com/system:page-tags/tag/corporate corporate]** -- SCP affects the operations of a business or corporation.
 * **[https://scpwiki.com/system:page-tags/tag/concept concept]** -- SCP is or affects a purely non-physical concept. Should not be used in conjunction with tags describing physical qualities.
 * **[https://scpwiki.com/system:page-tags/tag/exchange exchange]** -- SCP involves or is triggered by some form of exchange of physical or intangible goods, including but not limited to bartering and monetary trade.
 * **[https://scpwiki.com/system:page-tags/tag/foundation-made foundation-made]** -- SCP was created, intentionally or otherwise, by the SCP Foundation itself. Note that only the objects whose creation resulted directly from specific actions of the Foundation are applicable. This excludes phenomena which formed spontaneously at a Foundation site due to the area's routine exposure to a large number of contained anomalies.
@@ -527,9 +520,7 @@ Any tags that do not fit into the other sections.
  * //Often used with 'temporal'//
 * **[https://scpwiki.com/system:page-tags/tag/game game]** -- SCP is, is used in, is activated by, or is otherwise related to one or more games, defined as a method of play or a sport -- especially a competitive one -- that can be won or lost by skill, strength, or luck.
  * //Often used with 'sport'//
-* **[https://scpwiki.com/system:page-tags/tag/historical historical]** -- SCP affects or is prominent in historical events or has historical significance.
 * **[https://scpwiki.com/system:page-tags/tag/k-class-scenario k-class-scenario]** -- SCP is involved in or capable of instigating one or more K-Class End of the World scenarios. Should only be used in articles that specifically name a type of K-Class scenario.
-* **[https://scpwiki.com/system:page-tags/tag/legality legality]** -- SCP is, effects, or relates to law, legal proceedings, or legal scripture.
 * **[https://scpwiki.com/system:page-tags/tag/loop loop]** -- SCP exhibits or is engaged in a repeating loop of activity.
 * **[https://scpwiki.com/system:page-tags/tag/mathematical mathematical]** -- SCP is or affects a number, number system, mathematical equation, or otherwise has mathematical significance.
 * **[https://scpwiki.com/system:page-tags/tag/military military]** -- SCP is military equipment, part or member of a military unit, or otherwise has military significance.
@@ -567,12 +558,10 @@ Describes the genre of an article.
 * **[https://scpwiki.com/system:page-tags/tag/adventure adventure]** -- Focuses on the exploration of unfamiliar environments.
 * **[https://scpwiki.com/system:page-tags/tag/bittersweet bittersweet]** -- Intended to evoke both positive and negative emotions. For articles that mix elements of both the bleak and heartwarming tags.
 * **[https://scpwiki.com/system:page-tags/tag/bleak bleak]** -- Intended to evoke negative emotions, focusing on anguish, distress and suffering.
-* **[https://scpwiki.com/system:page-tags/tag/bureaucracy bureaucracy]** -- focuses on the administration, management and official procedures of an organisation.
 * **[https://scpwiki.com/system:page-tags/tag/comedy comedy]** -- Intended to be funny.
 * **[https://scpwiki.com/system:page-tags/tag/black-comedy black-comedy]** -- Depicts shocking or unpleasant situations for the purpose of humour.
  * //Requires 'comedy'//
 * **[https://scpwiki.com/system:page-tags/tag/chase chase]** -- Focuses on pursuit or escape.
-* **[https://scpwiki.com/system:page-tags/tag/crime-fiction crime-fiction]** -- Focuses on criminals and law enforcement.
 * **[https://scpwiki.com/system:page-tags/tag/fantasy fantasy]** -- Depicts magic and the supernatural, inspired by mythology and folklore.
 * **[https://scpwiki.com/system:page-tags/tag/heartwarming heartwarming]** -- Intended to evoke positive emotions, focusing on pleasant experiences and supportive relationships.
 * **[https://scpwiki.com/system:page-tags/tag/horror horror]** -- Intended to evoke fear, shock or disgust in the reader.
@@ -582,30 +571,46 @@ Describes the genre of an article.
  * //Requires 'horror'//
 * **[https://scpwiki.com/system:page-tags/tag/psychological-horror psychological-horror]** -- focuses on psychological distress and emotional vulnerability.
  * //Requires 'horror'//
-* **[https://scpwiki.com/system:page-tags/tag/lgbtq lgbtq]** -- Article features LGBTQ+ themes, culture or history as a major focus of the work. Possible examples include portrayal of gay and lesbian relationships, depiction of asexuality and bisexuality, and exploration of trans, queer and agender identities.
 * **[https://scpwiki.com/system:page-tags/tag/metafiction metafiction]** -- Fiction about fiction, referencing the work's fictional nature. May feature fiction affecting reality, characters entering or leaving works of fiction, and characters being aware that they are fictional or are influenced by narrative tropes.
-* **[https://scpwiki.com/system:page-tags/tag/military-fiction military-fiction]** -- Focuses on soldiers, field agents or mercenaries.
-* **[https://scpwiki.com/system:page-tags/tag/murder-monster murder-monster]** -- Focuses on an inhuman anomaly that is hostile to human life.
 * **[https://scpwiki.com/system:page-tags/tag/mystery mystery]** -- Focuses on investigation of unanswered questions.
-* **[https://scpwiki.com/system:page-tags/tag/mythological-fiction mythological-fiction]** -- Depicts creatures, events and practices drawn from mythology and folklore of a specific culture, outside of structured religious practice.
-* **[https://scpwiki.com/system:page-tags/tag/religious-fiction religious-fiction]** -- Focuses on religion, faith and belief. Includes depictions of real-world religions, as well as worship of anomalous entities.
 * **[https://scpwiki.com/system:page-tags/tag/romance romance]** -- Focuses on romantic relationships between characters.
 * **[https://scpwiki.com/system:page-tags/tag/science-fiction science-fiction]** -- Depicts advanced science and technology. May feature scientific analysis of phenomena currently thought to be impossible.
 * **[https://scpwiki.com/system:page-tags/tag/slice-of-life slice-of-life]** -- Offers a look into the everyday lives of characters, with a focus on the mundane.
-* **[https://scpwiki.com/system:page-tags/tag/spy-fiction spy-fiction]** -- Focuses on espionage and counter-intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/surrealist-fiction surrealist-fiction]** -- Creates a dream-like story by juxtaposing the mundane with the impossible and irrational, with emphasis on subconscious associations between them.
+
++++ Themes
+
+Describes the major themes of an article.
+
+* **[https://scpwiki.com/system:page-tags/tag/artificial-intelligence artificial-intelligence]** -- Focuses on artificial intelligence, and on anomalies that have AI or affect AIs.
+* **[https://scpwiki.com/system:page-tags/tag/bureaucracy bureaucracy]** -- Focuses on the administration, management and official procedures of an organisation.
+* **[https://scpwiki.com/system:page-tags/tag/crime-fiction crime-fiction]** -- Focuses on criminals and law enforcement.
+* **[https://scpwiki.com/system:page-tags/tag/ghost ghost]** -- Focuses on ghosts, also known as spectral entities.
+* **[https://scpwiki.com/system:page-tags/tag/historical historical]** -- Focuses on historical events, or on anomalies with historical significance.
+* **[https://scpwiki.com/system:page-tags/tag/legal legal]** -- Focuses on law, legal proceedings, and legal documents.
+* **[https://scpwiki.com/system:page-tags/tag/lgbtq lgbtq]** -- Focuses on LGBTQ+ themes, culture or history. Possible examples include portrayal of gay and lesbian relationships, depiction of asexuality and bisexuality, and exploration of trans, queer and agender identities.
+* **[https://scpwiki.com/system:page-tags/tag/military-fiction military-fiction]** -- Focuses on soldiers, field agents or mercenaries.
+* **[https://scpwiki.com/system:page-tags/tag/murder-monster murder-monster]** -- Focuses on an inhuman anomaly that is hostile to human life.
+* **[https://scpwiki.com/system:page-tags/tag/mythological-fiction mythological-fiction]** -- Focuses on creatures, events and practices drawn from mythology and folklore, outside of structured religious practice.
+* **[https://scpwiki.com/system:page-tags/tag/political political]** -- Focuses on politicians, diplomats or the political process.
+* **[https://scpwiki.com/system:page-tags/tag/religious-fiction religious-fiction]** -- Focuses on religion, faith and belief. Includes depictions of real-world religions, as well as worship of anomalous entities.
+* **[https://scpwiki.com/system:page-tags/tag/spy-fiction spy-fiction]** -- Focuses on espionage, counter-intelligence, double agents or assassination.
+* **[https://scpwiki.com/system:page-tags/tag/superhero superhero]** -- Focuses on superheroes or supervillains. These characters typically have secret identities, costumes and supernatural powers.
 
 +++ Setting
 
 Describes the setting of an article.
 
+* **[https://scpwiki.com/system:page-tags/tag/afterlife afterlife]** -- Describes or is otherwise related to what happens to consciousness after death.
 * **[https://scpwiki.com/system:page-tags/tag/alternate-history alternate-history]** -- Depicts historical events that diverge from how they happened in real life. Does not apply to future events, or to anomalous reinterpretations of events that did happen (e.g. the 7th Occult War).
 * **[https://scpwiki.com/system:page-tags/tag/christmas christmas]** -- Set during or influenced by the holiday of Christmas.
+* **[https://scpwiki.com/system:page-tags/tag/corporate corporate]** -- Focuses on the operations of a business or corporation.
 * **[https://scpwiki.com/system:page-tags/tag/dystopian dystopian]** -- Imagines a non-existent society or culture, portrayed as being much worse than our current one.
 * **[https://scpwiki.com/system:page-tags/tag/halloween halloween]** -- Set during or influenced by the holiday of Halloween.
 * **[https://scpwiki.com/system:page-tags/tag/otherworldly otherworldly]** -- Set in another world, reality or universe. Includes works that are entirely set somewhere other than Earth, as well as portal fantasy fiction featuring travel to another world.
 * **[https://scpwiki.com/system:page-tags/tag/period-piece period-piece]** -- Set during a specific period in the past.
 * **[https://scpwiki.com/system:page-tags/tag/post-apocalyptic post-apocalyptic]** -- Takes place after a catastrophic event.
+* **[https://scpwiki.com/system:page-tags/tag/school school]** -- Focuses on a school, college or university, or on the education system more broadly.
 * **[https://scpwiki.com/system:page-tags/tag/space-opera space-opera]** -- Depicts a futuristic society in outer space or on other planets, focusing on dramatic events and adventures.
 * **[https://scpwiki.com/system:page-tags/tag/utopian utopian]** -- Imagines a non-existent society or culture, portrayed as being much better than our current one.
 * **[https://scpwiki.com/system:page-tags/tag/western western]** -- Set in the American Frontier, during the time period known as the Wild West.
