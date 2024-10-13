@@ -548,24 +548,32 @@ The following applies to all tags in this category:
 
 Describes the genre of an article.
 
-* **[https://scpwiki.com/system:page-tags/tag/absurdism absurdism]** -- Depicts events lacking any rational explanation or meaning, for the purpose of shock or comedy.
+* **[https://scpwiki.com/system:page-tags/tag/absurdism absurdism]** -- Absurdist fiction depicts events lacking any rational explanation or meaning, for the purpose of shock or comedy.
+ * //Compare with 'surrealism'//
 * **[https://scpwiki.com/system:page-tags/tag/action action]** -- Focuses on exciting events and spectacular violence.
 * **[https://scpwiki.com/system:page-tags/tag/adventure adventure]** -- Focuses on the exploration of unfamiliar environments.
-* **[https://scpwiki.com/system:page-tags/tag/bittersweet bittersweet]** -- Intended to evoke both positive and negative emotions. For articles that mix elements of both the bleak and heartwarming tags.
+* **[https://scpwiki.com/system:page-tags/tag/bittersweet bittersweet]** -- Intended to evoke both positive and negative emotions.
+ * //Avoid using with 'bleak', and 'heartwarming'//
 * **[https://scpwiki.com/system:page-tags/tag/bleak bleak]** -- Intended to evoke negative emotions, focusing on anguish, distress and suffering.
+ * //Avoid using with 'bittersweet'//
 * **[https://scpwiki.com/system:page-tags/tag/breakout breakout]** -- Focuses on containment breaches and escaping from imprisonment, both attempted and successful.
+ * //Compare with 'chase'//
 * **[https://scpwiki.com/system:page-tags/tag/comedy comedy]** -- Intended to be funny.
 * **[https://scpwiki.com/system:page-tags/tag/black-comedy black-comedy]** -- Depicts shocking or unpleasant situations for the purpose of humour.
+ * //Requires 'comedy'//
 * **[https://scpwiki.com/system:page-tags/tag/chase chase]** -- Focuses on pursuit or evasion.
+ * //Compare with 'breakout'//
 * **[https://scpwiki.com/system:page-tags/tag/crime-fiction crime-fiction]** -- Focuses on criminals and law enforcement.
 * **[https://scpwiki.com/system:page-tags/tag/fantasy fantasy]** -- Depicts magic and the supernatural, inspired by myths, legends and folklore.
+ * //Compare with 'mythological'//
 * **[https://scpwiki.com/system:page-tags/tag/heartwarming heartwarming]** -- Intended to evoke positive emotions, focusing on pleasant experiences and supportive relationships.
+ * //Avoid using with 'bittersweet'//
 * **[https://scpwiki.com/system:page-tags/tag/horror horror]** -- Intended to evoke fear, shock or disgust in the reader.
 * **[https://scpwiki.com/system:page-tags/tag/body-horror body-horror]** -- Focuses on physical mutilation or transformation.
  * //Requires 'horror'//
-* **[https://scpwiki.com/system:page-tags/tag/cosmic-horror cosmic-horror]** -- focuses on human insignificance and irrelevance, with emphasis on the unknowable and incomprehensible.
+* **[https://scpwiki.com/system:page-tags/tag/cosmic-horror cosmic-horror]** -- Focuses on human insignificance and irrelevance, with emphasis on the unknowable and incomprehensible.
  * //Requires 'horror'//
-* **[https://scpwiki.com/system:page-tags/tag/psychological-horror psychological-horror]** -- focuses on psychological distress and emotional vulnerability.
+* **[https://scpwiki.com/system:page-tags/tag/psychological-horror psychological-horror]** -- Focuses on psychological distress and emotional vulnerability.
  * //Requires 'horror'//
 * **[https://scpwiki.com/system:page-tags/tag/metafiction metafiction]** -- Fiction about fiction, referencing the work's fictional nature. May feature fiction affecting reality, characters entering or leaving works of fiction, and characters being aware that they are fictional or are influenced by narrative tropes.
 * **[https://scpwiki.com/system:page-tags/tag/military-fiction military-fiction]** -- Focuses on soldiers, field agents or mercenaries.
@@ -574,7 +582,8 @@ Describes the genre of an article.
 * **[https://scpwiki.com/system:page-tags/tag/science-fiction science-fiction]** -- Depicts advanced science and technology. May feature scientific analysis of phenomena currently thought to be impossible.
 * **[https://scpwiki.com/system:page-tags/tag/slice-of-life slice-of-life]** -- Offers a look into the everyday lives of characters, with a focus on the mundane.
 * **[https://scpwiki.com/system:page-tags/tag/spy-fiction spy-fiction]** -- Focuses on espionage, counter-intelligence, double agents or assassination.
-* **[https://scpwiki.com/system:page-tags/tag/surrealism surrealism]** -- Creates a dream-like story by juxtaposing the mundane with the impossible and irrational, with emphasis on subconscious associations between them.
+* **[https://scpwiki.com/system:page-tags/tag/surrealism surrealism]** -- Surrealist fiction creates a dream-like story by juxtaposing the mundane with the impossible and irrational, with emphasis on subconscious associations between them.
+ * //Compare with 'absurdism'//
 * **[https://scpwiki.com/system:page-tags/tag/xenofiction xenofiction]** -- Told from a non-human perspective, such as an alien, an animal, a monster or a machine.
 
 +++ Themes
@@ -585,31 +594,35 @@ Describes the major themes of an article.
 * **[https://scpwiki.com/system:page-tags/tag/bureaucracy bureaucracy]** -- Focuses on the administration, management and official procedures of an organisation.
 * **[https://scpwiki.com/system:page-tags/tag/ghost ghost]** -- Focuses on ghosts, also known as spectral entities.
 * **[https://scpwiki.com/system:page-tags/tag/historical historical]** -- Focuses on historical events, or on anomalies with historical significance.
- * //Often used with 'period-piece'//
+ * //Compare with 'period-piece'//
 * **[https://scpwiki.com/system:page-tags/tag/legal legal]** -- Focuses on law, legal proceedings, and legal documents.
 * **[https://scpwiki.com/system:page-tags/tag/lgbtq lgbtq]** -- Focuses on LGBTQ+ themes, culture or history. Possible examples include portrayal of gay and lesbian relationships, depiction of asexuality and bisexuality, and exploration of trans, queer and agender identities.
 * **[https://scpwiki.com/system:page-tags/tag/murder-monster murder-monster]** -- Focuses on an inhuman anomaly that is hostile to human life.
  * //Often used with 'horror'//
 * **[https://scpwiki.com/system:page-tags/tag/mythological mythological]** -- Focuses on creatures, events and practices drawn from mythology and folklore, outside of structured religious practice.
+ * //Compare with 'fantasy', and 'religious-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/political political]** -- Focuses on politicians, diplomats or the political process.
 * **[https://scpwiki.com/system:page-tags/tag/religious-fiction religious-fiction]** -- Focuses on religion, faith and belief. Includes depictions of real-world religions, as well as worship of anomalous entities.
+ * //Compare with 'mythological'//
 * **[https://scpwiki.com/system:page-tags/tag/superhero superhero]** -- Focuses on superheroes or supervillains. These characters typically have secret identities, costumes and supernatural powers.
 
 +++ Setting
 
-Describes the setting of an article.
+Describes when or where an article takes place.
 
 * **[https://scpwiki.com/system:page-tags/tag/afterlife afterlife]** -- Describes or is otherwise related to what happens to consciousness after death.
 * **[https://scpwiki.com/system:page-tags/tag/alternate-history alternate-history]** -- Depicts historical events that diverge from how they happened in real life. Does not apply to future events, or to anomalous reinterpretations of events that did happen (e.g. the 7th Occult War).
 * **[https://scpwiki.com/system:page-tags/tag/apocalyptic apocalyptic]** -- Takes place during or shortly before a catastrophic event.
+ * //Compare with 'post-apocalyptic'//
 * **[https://scpwiki.com/system:page-tags/tag/post-apocalyptic post-apocalyptic]** -- Takes place after a catastrophic event.
+ * //Compare with 'apocalyptic'//
 * **[https://scpwiki.com/system:page-tags/tag/christmas christmas]** -- Set during or influenced by the holiday of Christmas.
 * **[https://scpwiki.com/system:page-tags/tag/corporate corporate]** -- Focuses on the operations of a business or corporation.
 * **[https://scpwiki.com/system:page-tags/tag/dystopian dystopian]** -- Imagines a non-existent society or culture, portrayed as being much worse than our current one.
 * **[https://scpwiki.com/system:page-tags/tag/halloween halloween]** -- Set during or influenced by the holiday of Halloween.
 * **[https://scpwiki.com/system:page-tags/tag/otherworldly otherworldly]** -- Set in another world, reality or universe. Includes works that are entirely set somewhere other than Earth, as well as portal fantasy fiction featuring travel to another world.
 * **[https://scpwiki.com/system:page-tags/tag/period-piece period-piece]** -- Set during a specific period in the past.
- * //Often used with 'historical'//
+ * //Compare with 'historical'//
 * **[https://scpwiki.com/system:page-tags/tag/school school]** -- Focuses on a school, college or university, or on the education system more broadly.
 * **[https://scpwiki.com/system:page-tags/tag/space-opera space-opera]** -- Depicts a futuristic society in outer space or on other planets, focusing on dramatic events and adventures.
 * **[https://scpwiki.com/system:page-tags/tag/utopian utopian]** -- Imagines a non-existent society or culture, portrayed as being much better than our current one.
@@ -619,9 +632,9 @@ Describes the setting of an article.
 
 Describes the style of an article. These tags may only be applied to tales, and not to SCPs, GoI Formats or Tale Hubs.
 
-* **[https://scpwiki.com/system:page-tags/tag/correspondence correspondence]** -- Told in large part though written communications between characters, including letters, emails, text messages or social media posts. AKA epistolary
+* **[https://scpwiki.com/system:page-tags/tag/correspondence correspondence]** -- Also known as epistolary, these stories are told in large part though written communications between characters, including letters, emails, text messages or social media posts.
  * //Requires 'tale'//
-* **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- In the style of short, old-school Internet horror.
+* **[https://scpwiki.com/system:page-tags/tag/creepypasta creepypasta]** -- In the style of short, old-school Internet horror. Typically lacks any reference to the Foundation.
  * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- Told from a first-person perspective ("I did").
  * //Requires 'tale'//
@@ -641,7 +654,7 @@ Describes the style of an article. These tags may only be applied to tales, and 
 
 +++ Other
 
-* **[https://scpwiki.com/system:page-tags/tag/_genreless _genreless]** -- No Genre, Setting or Style tags apply to this article.
+* **[https://scpwiki.com/system:page-tags/tag/_genreless _genreless]** -- No Genre, Theme, Setting or Style tags apply to this article.
 
 [[/tab]]
 [[tab Art]]
