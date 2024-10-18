@@ -1055,7 +1055,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/django-bridge django-bridge]** -- Django Bridge.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-asheworth doctor-asheworth]** -- Dr. Daniel Asheworth, Site-120's resident thaumaturge.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-blank doctor-blank]** -- Dr. Harold R. Blank, historian at Site-43.
-* **[https://scpwiki.com/system:page-tags/tag/doctor-bright doctor-bright]** -- Dr. Jack Bright, aka [https://scp-wiki.wikidot.com/scp-963 SCP-953].
+* **[https://scpwiki.com/system:page-tags/tag/doctor-bright doctor-bright]** -- Dr. Jack Bright, aka [https://scp-wiki.wikidot.com/scp-963 SCP-963].
 * **[https://scpwiki.com/system:page-tags/tag/doctor-cimmerian doctor-cimmerian]** -- Dr. Jeremiah Cimmerian, ethics committee liaison.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-clef doctor-clef]** -- Dr. Alto Clef, formerly Agent Ukelele of the Global Occult Coalition. Expert in terminating reality benders.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-dan doctor-dan]** -- Dr. Dan ███████, of [https://scp-wiki.wikidot.com/scp-096 SCP-096].
