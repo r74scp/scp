@@ -782,6 +782,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/pattern-screamer pattern-screamer]** -- Featuring or related to pattern screamers, entities that do not exist.
 * **[https://scpwiki.com/system:page-tags/tag/pentagram pentagram]** -- Featuring or related to PENTAGRAM group of interest, the occult branch of the USA's Department of Defense.
 * **[https://scpwiki.com/system:page-tags/tag/prometheus prometheus]** -- Featuring or related to the [https://scp-wiki.wikidot.com/prometheus-labs-hub Prometheus Labs] group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/pseudogenesis pseudogenesis]** -- Featuring or related to the [https://scp-wiki.wikidot.com/prometheus-labs-hub Pseudogenesis Productions ] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/sapphire sapphire]** -- Featuring or related to the French [https://scp-wiki.wikidot.com/saphir-centre SAPPHIRE] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/sarkic sarkic]** -- Featuring or related to [https://scp-wiki.wikidot.com/sarkicism-hub Sarkicism] and the Sarkic Cult groups of interest.
 * **[https://scpwiki.com/system:page-tags/tag/scarlet-king scarlet-king]** -- Featuring or related to The Scarlet King, or the [https://scp-wiki.wikidot.com/cotsk-hub Children of the Scarlet King] group of interest.
@@ -939,7 +940,8 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/on-guard-43 on-guard-43]** -- Part of the [https://scp-wiki.wikidot.com/on-guard-43-hub On Guard 43] canon.
 * **[https://scpwiki.com/system:page-tags/tag/on-mount-golgotha on-mount-golgotha]** -- Part of the [https://scp-wiki.wikidot.com/on-mount-golgotha-hub On Mount Golgotha] canon.
 * **[https://scpwiki.com/system:page-tags/tag/only-game-in-town only-game-in-town]** -- Part of the [https://scp-wiki.wikidot.com/only-game-in-town-hub Only Game in Town] canon.
-* **[https://scpwiki.com/system:page-tags/tag/orcadia orcadia]** -- Part of the Seas of Orcadia canon.
+* **[https://scpwiki.com/system:page-tags/tag/orcadia orcadia]** -- Part of the [https://scp-wiki.wikidot.com/seas-of-orcadia-hub Seas of Orcadia] canon.
+* **[https://scpwiki.com/system:page-tags/tag/our-open-veins our-open-veins]** -- Part of the [https://scp-wiki.wikidot.com/our-open-veins Our Open Veins] canon.
 * **[https://scpwiki.com/system:page-tags/tag/pitch-haven pitch-haven]** -- Part of the [https://scp-wiki.wikidot.com/pitch-haven-hub Pitch Haven] canon.
 * **[https://scpwiki.com/system:page-tags/tag/rats-nest rats-nest]** -- Part of the [https://scp-wiki.wikidot.com/rat-s-nest-hub Rat's Nest] canon.
 * **[https://scpwiki.com/system:page-tags/tag/resurrection resurrection]** -- Part of the [https://scp-wiki.wikidot.com/resurrection Resurrection] project.
@@ -976,6 +978,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Part of the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] series.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Part of the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
 * **[https://scpwiki.com/system:page-tags/tag/cycle-of-seasons cycle-of-seasons]** -- Part of the [https://scp-wiki.wikidot.com/cycle-of-seasons-hub Cycle of Seasons] series.
+* **[https://scpwiki.com/system:page-tags/tag/deadlined deadlined]** -- Part of the [https://scp-wiki.wikidot.com/deadlined-hub Deadlined] series.
 * **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Part of the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] series.
 * **[https://scpwiki.com/system:page-tags/tag/eternal-mxtape eternal-mxtape]** -- Part of the [https://scp-wiki.wikidot.com/the-eternal-mxtape Eternal MxTape] series.
 * **[https://scpwiki.com/system:page-tags/tag/eventyr eventyr]** -- Part of the [https://scp-wiki.wikidot.com/eventyr-hub Eventyr] series.
@@ -989,6 +992,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Part of the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
+* **[https://scpwiki.com/system:page-tags/tag/phobia-anthology phobia-anthology]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-2024 Part of the Phobia horror anthology].
 * **[https://scpwiki.com/system:page-tags/tag/palisade palisade]** -- Part of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
 * **[https://scpwiki.com/system:page-tags/tag/project-crossover project-crossover]** -- Part of [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Part of [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
