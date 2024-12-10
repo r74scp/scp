@@ -1880,6 +1880,7 @@ http://scp-slovenija.wikidot.com/is-arhiva
 * **[[[/system:page-tags/tag/匡済部門|匡済部門]]]** - [[[rehabilitation-department-hub|匡済部門]]]。
 
 +++ フロント-JP
+それぞれの詳細は[[[front-jp|]]]を参照してください。
 
 * **[[[/system:page-tags/tag/信濃中央新聞|信濃中央新聞]]]** - 信濃中央新聞社。
 * **[[[/system:page-tags/tag/プリチャード学院|プリチャード学院]]]** - プリチャード学院。
@@ -3263,6 +3264,7 @@ http://scpfoundation.net/contests
 [[tab アンソロジータグ]]
 固定のメンバーによる、(特定の世界観に限らない)テーマの下に投稿された記事群に付与されるタグです。
 * **[[[/system:page-tags/tag/始のいろは|始のいろは]]]** - アンソロジー「[/iroha-the-begining-hub 始のいろは]」。
+* **[[[/system:page-tags/tag/scp漢字ドリル|scp漢字ドリル]]]** - アンソロジー「[/kanjihub SCP漢字ドリル]」。
 [[/tab]]
 [[tab 未分類タグ]]
 属す分類が検討中であるものの、タグ登録の価値が認められ、暫定で登録されているタグです。これらのタグは、早急に適切な分類をされる必要があります。
