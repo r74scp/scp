@@ -799,6 +799,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/vikander-kneed vikander-kneed]** -- Featuring or related to the [https://scp-wiki.wikidot.com/vikander-kneed-technical-media-hub Vikander-Kneed Technical Media] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/wandsmen wandsmen]** -- Featuring or related to [https://scp-wiki.wikidot.com/wandsmen-hub The Wandsmen] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/westhead-media westhead-media]** -- Featuring or related to the Westhead Media group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/world-parahealth-organization world-parahealth-organization]** -- Featuring or related to the World Parahealth Organization group of interest, a GOC member org.
 * **[https://scpwiki.com/system:page-tags/tag/wilsons-wildlife wilsons-wildlife]** -- Featuring or related to the [https://scp-wiki.wikidot.com/wilson-s-wildlife-solutions-hub Wilson's Wildlife Solutions] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/xia-dynasty xia-dynasty]** -- Featuring or related to the anomalous Xia Dynasty of ancient China.
 
@@ -1075,6 +1076,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-lillihammer doctor-lillihammer]** -- Dr. Lillian S. Lillihammer, memeticist at Site-43.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-mann doctor-mann]** -- Dr. Everett Mann, medical researcher.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-mcdoctorate doctor-mcdoctorate]** -- Dr. Placeholder McDoctorate, previously known as Director Nathan Valis.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-okorie doctor-okorie]** -- Dr. Udo Okorie, English expatriate and heir to a long, proud line of magic gunk detoxifiers.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-reynders doctor-reynders]** -- Dr. Ilse Reynders, formerly [https://scp-wiki.wikidot.com/scp-5616 SCP-5616].
 * **[https://scpwiki.com/system:page-tags/tag/doctor-rights doctor-rights]** -- Dr. Agatha Rights.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-rivera doctor-rivera]** -- Dr. Jessie Rivera, Site-120's resident reality bender.
@@ -1196,6 +1198,7 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/lovataar lovataar]** -- Lovataar, the ex-daeva princess who became one of the Klavigars.
 * **[https://scpwiki.com/system:page-tags/tag/manny manny]** -- Manny, aka The Man With the Upside Down Face at Herman Fuller's Circus of the Disquieting.
 * **[https://scpwiki.com/system:page-tags/tag/mari-macphaerson mari-macphaerson]** -- Mari MacPhaerson, the VP of Public Relations from Vikander-Kneed Technical Studies.
+* **[https://scpwiki.com/system:page-tags/tag/midnight-the-cat midnight-the-cat]** -- Midnight, sapient cat and member of the Serpent's Hand.
 * **[https://scpwiki.com/system:page-tags/tag/nadox nadox]** -- Nadox, one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/olivie-gwyneth olivie-gwyneth]** -- olivie-gwyneth, Head archivist of the Sidhe Lounge.
 * **[https://scpwiki.com/system:page-tags/tag/orok orok]** -- Orok, one of the four Klavigars of Sarkicism.
@@ -1206,11 +1209,13 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/queen-mab queen-mab]** -- Queen Mab, a Fae tyrant and goddess.
 * **[https://scpwiki.com/system:page-tags/tag/richard-chappell richard-chappell]** -- Richard Davis Chappell, founder of the Chicago Spirit.
 * **[https://scpwiki.com/system:page-tags/tag/robert-bumaro robert-bumaro]** -- Robert Bumaro, prophet of Mekhane.
+* **[https://scpwiki.com/system:page-tags/tag/robert-carter robert-carter]** -- Robert Carter of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/robin-thorne robin-thorne]** -- Robin Thorne, of the FBI Unusual Investigations Unit.
 * **[https://scpwiki.com/system:page-tags/tag/ruiz-duchamp ruiz-duchamp]** -- Ruiz Duchamp, an anartist.
 * **[https://scpwiki.com/system:page-tags/tag/saarn saarn]** -- Saarn, one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hedwig, a prophet of Maxwellism.
 * **[https://scpwiki.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer, serial reincarnator and false prophet.
+* **[https://scpwiki.com/system:page-tags/tag/skitter-marshall skitter-marshall]** -- Skitter Marshall of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/the-critic the-critic]** -- The Critic of Are We Cool Yet.
 * **[https://scpwiki.com/system:page-tags/tag/the-engineer the-engineer]** -- The Engineer of the Chaos Insurgency.
 * **[https://scpwiki.com/system:page-tags/tag/thilo-zwist thilo-zwist]** -- Thilo Zwist, memeticist.
