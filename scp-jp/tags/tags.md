@@ -1968,15 +1968,17 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/8-ボール|8-ボール]]]** //(8-ball)// - 人工知能の8-ボール、別名8B-A1。
 * **[[[/system:page-tags/tag/aaron-siegel|aaron-siegel]]]** //(aaron-siegel)// - O5-1のアーロン・シーゲル/アーロン・シーガル。
-* **[[[/system:page-tags/tag/エージェント・アダムス|エージェント・アダムス]]]** //(agent-adams)// - エージェント・アンドレア・アダムス。
-* **[[[/system:page-tags/tag/エージェント・グリーン|エージェント・グリーン]]]** //(agent-green)// - エージェント・グリーン。
-* **[[[/system:page-tags/tag/エージェント・カズマレク|エージェント・カズマレク]]]** //(agent-kazmarek)// - エージェント・トラヴィス・カズマレク。
+* **[[[/system:page-tags/tag/エージェント・アダムス|エージェント・アダムス]]]** //(agent-adams)// - エージェント・アンドレア・アダムス、機動部隊アルファ-9の警備特務部隊指揮官。
+* **[[[/system:page-tags/tag/エージェント・カレンダー|エージェント・カレンダー]]]** //(agent-calendar)// - エージェント・カレンダー、サイト-666管理官助手にして粗暴な憤怒の女悪魔。
+* **[[[/system:page-tags/tag/エージェント・グリーン|エージェント・グリーン]]]** //(agent-green)// - エージェント・グリーン、異常芸術の専門家。
+* **[[[/system:page-tags/tag/エージェント・カズマレク|エージェント・カズマレク]]]** //(agent-kazmarek)// - エージェント・トラヴィス・カズマレク、機動部隊ガンマ-1隊員。
 * **[[[/system:page-tags/tag/エージェント・ラフェリエール|エージェント・ラフェリエール]]]** //(agent-laferrier)// - エージェント・V. A. ラフェリエール。
 * **[[[/system:page-tags/tag/エージェント・ラメント|エージェント・ラメント]]]** //(agent-lament)// - エージェント・トロイ・ラメント。
 * **[[[/system:page-tags/tag/エージェント・ラーク|エージェント・ラーク]]]** //(agent-lurk)// - エージェント・ディートリッヒ・M・ラーク。
-* **[[[/system:page-tags/tag/エージェント・メルロ|エージェント・メルロ]]]** //(agent-merlo)// - エージェント・サシャ・メルロ。
+* **[[[/system:page-tags/tag/エージェント・メルロ|エージェント・メルロ]]]** //(agent-merlo)// - エージェント・サシャ・メルロ、サイバー・オペレーションの専門家。
 * **[[[/system:page-tags/tag/エージェント・ナヴァッロ|エージェント・ナヴァッロ]]]** //(agent-navarro)// - エージェント・ダニエル・ナヴァッロ。
 * **[[[/system:page-tags/tag/エージェント・ポペスク|エージェント・ポペスク]]]** //(agent-popescu)// - エージェント・ルクレティア・ポペスク。
+* **[[[/system:page-tags/tag/エージェント・ロドニー|エージェント・ロドニー]]]** //(agent-rodney)// - エージェント・ロドニー、主に[[span class="ruby"]]奇跡解放戦線[[span class="rt"]]Miracle Liberation Front[[/span]][[/span]]関連の事件に携わる熟練エージェント。
 * **[[[/system:page-tags/tag/エージェント・ストレルニコフ|エージェント・ストレルニコフ]]]** //(agent-strelnikov)// - エージェント・ドミトリー・ストレルニコフ。
 * **[[[/system:page-tags/tag/エージェント・トラウス|エージェント・トラウス]]]** //(agent-trauss)// - エージェント・トラウス、別名C-51174。
 * **[[[/system:page-tags/tag/エージェント・ヨリック|エージェント・ヨリック]]]** //(agent-yoric)// - エージェント・ヨリック・エルロイ、またの名をジャック・"ダメなヨリック"・ドーキンス。
@@ -1984,43 +1986,45 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/アレックス・ソーリー|アレックス・ソーリー]]]** //(alex-thorley)// - 非現実部門のアレックス・ソーリー。
 * **[[[/system:page-tags/tag/ベイリー三兄弟|ベイリー三兄弟]]]** //(bailey-brothers)// - トリスタン・ベイリー、トーマス・ベイリー、およびトレバー・ベイリー。
 * **[[[/system:page-tags/tag/キャプテン・エイドリアン|キャプテン・エイドリアン]]]** //(captain-adrian)// - エイドリアン、通称SCP-6159-2。使い魔、船長、超常法務官、精神的補助動物。
+* **[[[/system:page-tags/tag/イバニェス主任|イバニェス主任]]]** //(chief-ibanez)// - デルフィーナ・イバニェス主任、サイト-43の機動部隊たちを束ねる小柄なリーダー。
 * **[[[/system:page-tags/tag/d-7294|d-7294]]]** //(d-7294)// - D-7294。
 * **[[[/system:page-tags/tag/d-11424|d-11424]]]** //(d-11424)// - D-11424。
-* **[[[/system:page-tags/tag/アクタス管理官|アクタス管理官]]]** //(director-aktus)// - アクタス管理官。
+* **[[[/system:page-tags/tag/アクタス管理官|アクタス管理官]]]** //(director-aktus)// - サイト-81のジーン・カーライル・アクタス管理官。
 * **[[[/system:page-tags/tag/ボールド管理官|ボールド管理官]]]** //(director-bold)// - 解体部門のカル・ボールド管理官。
 * **[[[/system:page-tags/tag/ボハート管理官|ボハート管理官]]]** //(director-bohart)// - サイト-333の管理官、ヴィンセント・ボハート。博士号は持たない。
 * **[[[/system:page-tags/tag/ディアギレフ管理官|ディアギレフ管理官]]]** //(director-diaghilev)// - 錬金術部門のルスラフ・ディアギレフ管理官。
-* **[[[/system:page-tags/tag/ガレスピー管理官|ガレスピー管理官]]]** //(director-gillespie)// - ガレスピー管理官。
+* **[[[/system:page-tags/tag/ガレスピー管理官|ガレスピー管理官]]]** //(director-gillespie)// - サイト-77のガレスピー管理官。
+* **[[[/system:page-tags/tag/グラハム管理官|グラハム管理官]]]** //(director-graham)// - サイト-17の管理官、トーマス・グラハム管理官。
 * **[[[/system:page-tags/tag/マッキンス管理官|マッキンス管理官]]]** //(director-mcinnis)// - サイト-43管理官、アラン・J・マッキンス博士。
-* **[[[/system:page-tags/tag/マックティリス管理官|マックティリス管理官]]]** //(director-mctiriss)// - ケイト・マックティリス管理官。
+* **[[[/system:page-tags/tag/マックティリス管理官|マックティリス管理官]]]** //(director-mctiriss)// - ケイト・マックティリス管理官、[[[the-gulf|メキシコ湾]]]における財団活動の統括者。
+* **[[[/system:page-tags/tag/ムース管理官|ムース管理官]]]** //(director-moose)// - サイト-19のムース管理官、元蛇の手メンバー。
 * **[[[/system:page-tags/tag/スカウト管理官|スカウト管理官]]]** //(director-scout)// - ヴィヴィアン・レスリー・スカウト。故サイト-43共同管理官。
-* **[[[/system:page-tags/tag/ムース管理官|ムース管理官]]]** //(director-moose)// - ムース管理官。
 * **[[[/system:page-tags/tag/ラグー管理官|ラグー管理官]]]** //(director-lague)// - 統合プログラムならびにサイト-322の管理官、ポール・ラグー。
 * **[[[/system:page-tags/tag/ジャンゴ・ブリッジ博士|ジャンゴ・ブリッジ博士]]]** //(django-bridge)// - ジャンゴ・ブリッジ博士。
 * **[[[/system:page-tags/tag/アシュワース博士|アシュワース博士]]]** //(doctor-asheworth)// - ダニエル・アシュワース博士。
-* **[[[/system:page-tags/tag/ブランク博士|ブランク博士]]]** //(doctor-blank)// - ハロルド・R・ブランク博士。
-* **[[[/system:page-tags/tag/ブライト博士|ブライト博士]]]** //(doctor-bright)// - ブライト博士。
+* **[[[/system:page-tags/tag/ブランク博士|ブランク博士]]]** //(doctor-blank)// - サイト-43の歴史家、ハロルド・R・ブランク博士。
+* **[[[/system:page-tags/tag/ブライト博士|ブライト博士]]]** //(doctor-bright)// - ブライト博士、別名[[[SCP-963]]]。
 * **[[[/system:page-tags/tag/シメリアン博士|シメリアン博士]]]** //(doctor-cimmerian)// - シメリアン博士。
-* **[[[/system:page-tags/tag/クレフ博士|クレフ博士]]]** //(doctor-clef)// - アルト・クレフ博士。
-* **[[[/system:page-tags/tag/ダン博士|ダン博士]]]** //(doctor-dan)// - SCP-096担当のダン・███████博士。
+* **[[[/system:page-tags/tag/クレフ博士|クレフ博士]]]** //(doctor-clef)// - アルト・クレフ博士、元世界オカルト連合工作員エージェント・ウクレレであり、対現実改変者のエキスパート。
+* **[[[/system:page-tags/tag/ダン博士|ダン博士]]]** //(doctor-dan)// - [[[SCP-096]]]担当のダン・███████博士。
 * **[[[/system:page-tags/tag/エジソン博士|エジソン博士]]]** //(doctor-edison)// - マイケル・エジソン博士。
-* **[[[/system:page-tags/tag/エリオット博士|エリオット博士]]]** //(doctor-elliott)// - チェルシー・エリオット博士。
+* **[[[/system:page-tags/tag/エリオット博士|エリオット博士]]]** //(doctor-elliott)// - チェルシー・[[span class="ruby"]]"光合成"[[span class="rt"]]フォトシンセティック[[/span]][[/span]]・エリオット博士、異常植物の専門家。
 * **[[[/system:page-tags/tag/エルストロム博士|エルストロム博士]]]** //(doctor-elstrom)// - サイト-43の主任管理局員 エルストロム博士。
-* **[[[/system:page-tags/tag/エバーウッド博士|エバーウッド博士]]]** //(doctor-everwood)// - GoIスペシャリストのエバーウッド博士。
-* **[[[/system:page-tags/tag/フィネガン博士|フィネガン博士]]]** (//doctor-fynegan//) - フィネガン博士。
-* **[[[/system:page-tags/tag/ギアーズ博士|ギアーズ博士]]]** //(doctor-gears)// - ギアーズ博士。
+* **[[[/system:page-tags/tag/エバーウッド博士|エバーウッド博士]]]** //(doctor-everwood)// - サイト-55のGoIスペシャリスト、ジェイ・エバーウッド博士。
+* **[[[/system:page-tags/tag/フィネガン博士|フィネガン博士]]]** (//doctor-fynegan//) - ジョー・フィネガン博士、昆虫終末級事象の専門家。
+* **[[[/system:page-tags/tag/ギアーズ博士|ギアーズ博士]]]** //(doctor-gears)// - ギアーズ博士、黒の女王ことアリソンチャオの父。
 * **[[[/system:page-tags/tag/ジェラルド博士|ジェラルド博士]]]** //(doctor-gerald)// - ジェラルド博士。
-* **[[[/system:page-tags/tag/グラス博士|グラス博士]]]** //(doctor-glass)// - サイモン・グラス博士。
+* **[[[/system:page-tags/tag/グラス博士|グラス博士]]]** //(doctor-glass)// - サイモン・グラス博士、心理学部門の部門長。
 * **[[[/system:page-tags/tag/doctor-heiden|doctor-heiden]]]** //(doctor-heiden)// - フレドリック・ハイデン博士/ヘイデン博士。
-* **[[[/system:page-tags/tag/ホイガル博士|ホイガル博士]]]** //(doctor-hoygull)// - 鳥類部門のホイガル博士。
-* **[[[/system:page-tags/tag/アイスバーグ博士|アイスバーグ博士]]]** //(doctor-iceberg)// - アイスバーグ博士。
+* **[[[/system:page-tags/tag/ホイガル博士|ホイガル博士]]]** //(doctor-hoygull)// - 知性あるカモメであり鳥類部門の部門長、ホイガル博士。
+* **[[[/system:page-tags/tag/アイスバーグ博士|アイスバーグ博士]]]** //(doctor-iceberg)// - ギアーズ博士の故アシスタント、アイスバーグ博士。
 * **[[[/system:page-tags/tag/キング博士|キング博士]]]** //(doctor-king)// - キング博士。
 * **[[[/system:page-tags/tag/コンドラキ博士|コンドラキ博士]]]** //(doctor-kondraki)// - コンドラキ博士。
 * **[[[/system:page-tags/tag/ライト博士|ライト博士]]]** //(doctor-light)// - ソフィア・N・ライト博士。
 * **[[[/system:page-tags/tag/リリハンメル博士|リリハンメル博士]]]** //(doctor-lillihammer)// - リリアン・S・リリハンメル博士。
 * **[[[/system:page-tags/tag/マン博士|マン博士]]]** //(doctor-mann)// - エヴァレット・マン博士。
 * **[[[/system:page-tags/tag/マクドクトラート博士|マクドクトラート博士]]]**//(doctor-mcdoctorate)// - プレースホルダー・マクドクトラート博士。かつての名前はネイサン・ヴァリス管理官。
-* **[[[/system:page-tags/tag/レインデルス博士|レインデルス博士]]]** //(doctor-reynders)// - イルゼ・レインデルス博士。
+* **[[[/system:page-tags/tag/レインデルス博士|レインデルス博士]]]** //(doctor-reynders)// - イルゼ・レインデルス博士、元[[[SCP-5616]]]。
 * **[[[/system:page-tags/tag/ライツ博士|ライツ博士]]]** //(doctor-rights)// - ライツ博士。
 * **[[[/system:page-tags/tag/リベラ博士|リベラ博士]]]** //(doctor-rivera)// - ジェシー・リベラ博士。
 * **[[[/system:page-tags/tag/ロジェ博士|ロジェ博士]]]** //(doctor-roget)// - ラルフ・ロジェ博士。
@@ -2034,18 +2038,19 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ドレイヴン・コンドラキ|ドレイヴン・コンドラキ]]]** //(draven-kondraki)// - ドレイヴン・コンドラキ博士/管理官。
 * **[[[/system:page-tags/tag/バウ将軍|バウ将軍]]]** //(general-bowe)// - バウ将軍。
 * **[[[/system:page-tags/tag/グラソン|グラソン]]]** //(glacon)// - 人工知能のGlacon.aic。
+* **[[[/system:page-tags/tag/ハドフィールド家の双子|ハドフィールド家の双子]]]** //(hadfield-twins)// - ジョン・ハドフィールドとアビゲイル・ハドフィールド、またの名をO5-4とO5-8。
 * **[[[/system:page-tags/tag/ジェームス・ハークネス|ジェームス・ハークネス]]]** //(james-harkness)// - ジェームス・ハークネス、異常に高い認知抵抗値を有する気難しいネットワーク管理者。
 * **[[[/system:page-tags/tag/ジュディス・ロゥ博士|ジュディス・ロゥ博士]]]** //(judith-low)// - 歴史部門のジュディス・ロゥ博士。
 * **[[[/system:page-tags/tag/ケイン・パトス・クロウ|ケイン・パトス・クロウ]]]** //(kain-pathos-crow)// - ケイン・パトス・クロウ教授。
-* **[[[/system:page-tags/tag/ロンバルディ|ロンバルディ]]]** //(lombardi)// - [[[the-lombardi-tales|エージェント・ロンバルディ]]]。
+* **[[[/system:page-tags/tag/ロンバルディ|ロンバルディ]]]** //(lombardi)// - [[[the-lombardi-tales|ベテランのフィールドエージェント]]]、マックス・ロンバルディ。
 * **[[[/system:page-tags/tag/マリア・ジョーンズ|マリア・ジョーンズ]]]** //(maria-jones)// - RAISAのマリア・ジョーンズ。
 * **[[[/system:page-tags/tag/マリー・サラット|マリー・サラット]]]** //(doctor-elstrom)// - マリー・サラット、元財団エージェント・現超常ギャングスタ。
-* **[[[/system:page-tags/tag/マリオン・ホイーラー|マリオン・ホイーラー]]]** //(marion-wheeler)// - 反ミーム部門のマリオン・ホイーラー。
-* **[[[/system:page-tags/tag/マーク・桐生|マーク・桐生]]]** //(mark-kiryu)// - 桐生研究所のマーク・桐生。
+* **[[[/system:page-tags/tag/マリオン・ホイーラー|マリオン・ホイーラー]]]** //(marion-wheeler)// - [[[antimemetics-division-hub|反ミーム部門]]]のマリオン・ホイーラー。
+* **[[[/system:page-tags/tag/マーク・桐生|マーク・桐生]]]** //(mark-kiryu)// - [[[kiryu-labs-hub|桐生研究所]]]のマーク・桐生。
 * **[[[/system:page-tags/tag/オドンゴ・テジャニ|オドンゴ・テジャニ]]]** //(odongo-tejani)// - 倫理委員会 委員長、オドンゴ・テジャニ。
-* **[[[/system:page-tags/tag/フィリップ・ディアリング|フィリップ・ディアリング]]]** //(philip-deering)// - フィリップ・E・ディアリング、元SCP-5056-B。
+* **[[[/system:page-tags/tag/フィリップ・ディアリング|フィリップ・ディアリング]]]** //(philip-deering)// - フィリップ・E・ディアリング、元[[[SCP-5056|SCP-5056-B]]]。
+* **[[[/system:page-tags/tag/プリムローズ法務官|プリムローズ法務官]]]** //(primrose-esquire)// - プリムローズ・ファティッシュ・フォン・トレヴィル、通称[[[SCP-6159|SCP-6159-1]]]。弁護士、[[span class="ruby"]]大悪魔[[span class="rt"]]アークデーモン[[/span]][[/span]]、「[[[whore-of-blood-hub|血の娼婦]]]」、仲介者。
 * **[[[/system:page-tags/tag/professor-bjornsen|professor-bjornsen]]]** //(professor-bjornsen)// - アンダース・ビヨンセン/ビョルンセン教授。
-* **[[[/system:page-tags/tag/プリムローズ法務官|プリムローズ法務官]]]** //(primrose-esquire)// - プリムローズ・ファティッシュ・フォン・トレヴィル、通称SCP-6159-1。弁護士、[[span class="ruby"]]大悪魔[[span class="rt"]]アークデーモン[[/span]][[/span]]、「血の娼婦」、仲介者。
 * **[[[/system:page-tags/tag/コーンウェル研究員|コーンウェル研究員]]]** //(researcher-conwell)// - ジェイコブ・コーンウェル研究員。
 * **[[[/system:page-tags/tag/ジェームズ研究員|ジェームズ研究員]]]** //(researcher-james)// - ジェームズ研究助手、史上最高の財団研究員！(5才)。
 * **[[[/system:page-tags/tag/researcher-labelle|researcher-labelle]]]** //(researcher-labelle)// - ローズ・ラベル/ラブレ研究員。
@@ -2053,15 +2058,15 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/レックス研究員|レックス研究員]]]** //(researcher-rex)// - エバーウッド博士の助手にして次席研究員、レックス・アルシス/アルケス。
 * **[[[/system:page-tags/tag/ローゼン研究員|ローゼン研究員]]]** //(researcher-rosen)// - [[[david-rosen-file|デイヴィッド・ローゼン研究員]]]。
 * **[[[/system:page-tags/tag/スモールズ研究員|スモールズ研究員]]]** //(researcher-smalls)// - アダモ・スモールズ研究員。
-* **[[[/system:page-tags/tag/タローラン研究員|タローラン研究員]]]** //(researcher-talloran)// - タローラン研究員。
-* **[[[/system:page-tags/tag/リーヴィン・マーサー|リーヴィン・マーサー]]]** //(riven-mercer)// - 桐生研究所のリーヴィン・マーサー。
+* **[[[/system:page-tags/tag/タローラン研究員|タローラン研究員]]]** //(researcher-talloran)// - [[[SCP-3999]]]の焦点、タローラン研究員。
+* **[[[/system:page-tags/tag/リーヴィン・マーサー|リーヴィン・マーサー]]]** //(riven-mercer)// - [[[kiryu-labs-hub|桐生研究所]]]のリーヴィン・マーサー。
 * **[[[/system:page-tags/tag/サマラ・マクレア|サマラ・マクレア]]]** //(samara-maclear)// - サマラ・マクレア、財団のサイオニック・スペシャリスト。
 * **[[[/system:page-tags/tag/シェルドン・カッツ|シェルドン・カッツ]]]** //(sheldon-katz)// - 法務部門のシェルドン・カッツ。
 * **[[[/system:page-tags/tag/サイモン・ピエトリカウ|サイモン・ピエトリカウ]]]** //(simon-pietrykau)// - 解析部門のサイモン・ピエトリカウ。
 * **[[[/system:page-tags/tag/シャンク博士|シャンク博士]]]** //(thad-xyank)// - 時間異常部門のタデウス・“サド”・シャンク博士。
 * **[[[/system:page-tags/tag/管理者|管理者]]]** //(the-administrator)// - 管理者(O5評議会とは別の存在です)。
 * **[[[/system:page-tags/tag/yossarian-leiner|yossarian-leiner]]]** //(yossarian-leiner)// - 戦術神学部門の管理官、ヨッサリアン・レイナー/レナー。
-* **[[[/system:page-tags/tag/ジン・桐生|ジン・桐生]]]** //(zyn-kiryu)// - ジン・桐生研究員。
+* **[[[/system:page-tags/tag/ジン・桐生|ジン・桐生]]]** //(zyn-kiryu)// - [[[kiryu-labs-hub|桐生研究所]]]のジン・桐生研究員。
 
 @@ @@
 
@@ -2135,6 +2140,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ロヴァタール|ロヴァタール]]]** //(lovataar)// - ダエーワの姫君からクラヴィガルの一人へと転向した人物、ロヴァタール。
 * **[[[/system:page-tags/tag/マニー|マニー]]]** //(manny)// - ハーマン・フラーの不気味サーカスのマニー、またの名を"逆さまの顔を持つ男"。
 * **[[[/system:page-tags/tag/マリ・マクファーソン|マリ・マクファーソン]]]** //(mari-macphaerson)// - ヴィキャンデル=ニード・テクニカル・メディアの渉外部長、マリ・マクファーソン。
+* **[[[/system:page-tags/tag/ミッドナイト|ミッドナイト]]]** //(midnight-the-cat)// - ミッドナイト、蛇の手メンバーの知性あるネコ。
 * **[[[/system:page-tags/tag/ナドックス|ナドックス]]]** //(nadox)// - サーキシズムの4人のクラヴィガルの一人、ナドックス。
 * **[[[/system:page-tags/tag/オリヴィエ・ギネス|オリヴィエ・ギネス]]]** //(olivie-gwyneth)// - [[span class="ruby"]]妖精のラウンジ[[span class="rt"]]シー・ラウンジ[[/span]][[/span]]の主任アーキビスト、オリヴィエ・ギネス。
 * **[[[/system:page-tags/tag/オロク|オロク]]]** //(orok)// - サーキシズムの4人のクラヴィガルの一人、オロク。
@@ -3166,6 +3172,8 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/csコンテスト4|csコンテスト4]]]** //(cs-soutěž-4)// - [[[cz-contest-iv-hub|SCP-CSコンテスト4]]]。
 
 * **[[[/system:page-tags/tag/csコンテスト5|csコンテスト5]]]** //(cs-soutěž-5)// - [[[cz-contest-v-hub|SCP-CSコンテスト5]]]。
+
+* **[[[/system:page-tags/tag/csコンテスト6|csコンテスト6]]]** //(cs-soutěž-6)// - [[[cz-contest-vi-hub|SCP-CSコンテスト6]]]。
 
 [!--
 ★未申請。
