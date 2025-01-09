@@ -8030,6 +8030,15 @@
     },
     {
         "id": 1081,
+        "tag": "ラグー管理官",
+        "trans": "director-lague",
+        "desc": "統合プログラムならびにサイト-322の管理官、ポール・ラグー。",
+        "type": "財団職員-EN",
+        "category": "EN",
+        "list": ""
+    },
+    {
+        "id": 1082,
         "tag": "マッキンス管理官",
         "trans": "director-mcinnis",
         "desc": "サイト-43管理官、アラン・J・マッキンス博士。",
@@ -8038,7 +8047,7 @@
         "list": ""
     },
     {
-        "id": 1082,
+        "id": 1083,
         "tag": "マックティリス管理官",
         "trans": "director-mctiriss",
         "desc": "ケイト・マックティリス管理官、[[[the-gulf|メキシコ湾]]]における財団活動の統括者。",
@@ -8047,7 +8056,7 @@
         "list": ""
     },
     {
-        "id": 1083,
+        "id": 1084,
         "tag": "ムース管理官",
         "trans": "director-moose",
         "desc": "サイト-19のムース管理官、元蛇の手メンバー。",
@@ -8056,19 +8065,10 @@
         "list": ""
     },
     {
-        "id": 1084,
+        "id": 1085,
         "tag": "スカウト管理官",
         "trans": "director-scout",
         "desc": "ヴィヴィアン・レスリー・スカウト。故サイト-43共同管理官。",
-        "type": "財団職員-EN",
-        "category": "EN",
-        "list": ""
-    },
-    {
-        "id": 1085,
-        "tag": "ラグー管理官",
-        "trans": "director-lague",
-        "desc": "統合プログラムならびにサイト-322の管理官、ポール・ラグー。",
         "type": "財団職員-EN",
         "category": "EN",
         "list": ""
@@ -12712,7 +12712,7 @@
         "id": 1605,
         "tag": "csコンテスト6",
         "trans": "cs-soutěž-6",
-        "desc": "[[[cz-contest-vi-hub|SCP-CSコンテスト6]]]。",
+        "desc": "[[[cs-contest-vi-hub|SCP-CSコンテスト6]]]。",
         "type": "コンテスト-CS",
         "category": "CS",
         "list": ""

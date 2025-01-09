@@ -1861,11 +1861,11 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ディアギレフ管理官|ディアギレフ管理官]]]** //(director-diaghilev)// - 錬金術部門のルスラフ・ディアギレフ管理官。
 * **[[[/system:page-tags/tag/ガレスピー管理官|ガレスピー管理官]]]** //(director-gillespie)// - サイト-77のガレスピー管理官。
 * **[[[/system:page-tags/tag/グラハム管理官|グラハム管理官]]]** //(director-graham)// - サイト-17の管理官、トーマス・グラハム管理官。
+* **[[[/system:page-tags/tag/ラグー管理官|ラグー管理官]]]** //(director-lague)// - 統合プログラムならびにサイト-322の管理官、ポール・ラグー。
 * **[[[/system:page-tags/tag/マッキンス管理官|マッキンス管理官]]]** //(director-mcinnis)// - サイト-43管理官、アラン・J・マッキンス博士。
 * **[[[/system:page-tags/tag/マックティリス管理官|マックティリス管理官]]]** //(director-mctiriss)// - ケイト・マックティリス管理官、[[[the-gulf|メキシコ湾]]]における財団活動の統括者。
 * **[[[/system:page-tags/tag/ムース管理官|ムース管理官]]]** //(director-moose)// - サイト-19のムース管理官、元蛇の手メンバー。
 * **[[[/system:page-tags/tag/スカウト管理官|スカウト管理官]]]** //(director-scout)// - ヴィヴィアン・レスリー・スカウト。故サイト-43共同管理官。
-* **[[[/system:page-tags/tag/ラグー管理官|ラグー管理官]]]** //(director-lague)// - 統合プログラムならびにサイト-322の管理官、ポール・ラグー。
 * **[[[/system:page-tags/tag/ジャンゴ・ブリッジ博士|ジャンゴ・ブリッジ博士]]]** //(django-bridge)// - ジャンゴ・ブリッジ博士。
 * **[[[/system:page-tags/tag/アシュワース博士|アシュワース博士]]]** //(doctor-asheworth)// - ダニエル・アシュワース博士。
 * **[[[/system:page-tags/tag/ブランク博士|ブランク博士]]]** //(doctor-blank)// - サイト-43の歴史家、ハロルド・R・ブランク博士。
@@ -2836,7 +2836,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/csコンテスト5|csコンテスト5]]]** //(cs-soutěž-5)// - [[[cz-contest-v-hub|SCP-CSコンテスト5]]]。
 
-* **[[[/system:page-tags/tag/csコンテスト6|csコンテスト6]]]** //(cs-soutěž-6)// - [[[cz-contest-vi-hub|SCP-CSコンテスト6]]]。
+* **[[[/system:page-tags/tag/csコンテスト6|csコンテスト6]]]** //(cs-soutěž-6)// - [[[cs-contest-vi-hub|SCP-CSコンテスト6]]]。
 
 
 [[/tab]]
