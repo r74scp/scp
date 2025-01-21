@@ -3400,6 +3400,8 @@ SCP-ENだけではなく、他支部でも使用されている場合があり�
 
 * **[[[/system:page-tags/tag/vo|vo]]]** //(vo)// - JPの//元記事削除//に相当します。ただし、ES支部のオリジナル記事に付与されている場合は、//アーカイブ済み//タグに置換してください。
 
+* **[[[/system:page-tags/tag/scp-regional|scp-regional]]]** //(scp-regional)// - カノン-ES 「[[[i-57-hub|施設-57]]]」に属するSCPのうち、「ラテンアメリカ地域評議会」や「ルゾフォニア地域評議会」以外の地域評議会が収容しているSCPの報告書に付与されるタグです。
+
 +++ TH
 
 * **[[[/system:page-tags/tag/scp-th|scp-th]]]** //(scp-th)// - //scp//タグに置換してください。
