@@ -115,6 +115,7 @@ Miscellaneous major page tags that are not top-level tags.
  * //Conflicts with 'artwork', 'artist', and 'comic'//
 * **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should also be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
 * **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
+* **[https://scpwiki.com/system:page-tags/tag/policy policy]** -- Page contains actionable site rules and policy.
 * **[https://scpwiki.com/system:page-tags/tag/required required]** -- //required// pages are guides that are part of the required reading for joining the SCP Wiki.
 * **[https://scpwiki.com/system:page-tags/tag/_canon-hub _canon-hub]** -- Used for hubs which represent a [https://scp-wiki.wikidot.com/canon-hub canon].
  * //Requires 'hub'//
