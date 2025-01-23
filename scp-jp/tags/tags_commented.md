@@ -1742,6 +1742,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 それぞれの詳細は[[[departments|]]]を参照してください。
 
 * **[[[/system:page-tags/tag/怪奇部門|怪奇部門]]]** //(abnormalities)// - 怪奇部門。
+* **[[[/system:page-tags/tag/反ミーム部門|反ミーム部門]]]** //(antimemetics-division)// - [[[antimemetics-division-hub|反ミーム部門]]]。
 * **[[[/system:page-tags/tag/解体部門|解体部門]]]** //(decommissioning-dept)// - [[[decom-dept-hub|解体部門]]]。
 * **[[[/system:page-tags/tag/削除部門|削除部門]]]** //(deletions-dept)// - [[[deleted|削除部門]]]。
 * **[[[/system:page-tags/tag/デルタ-t|デルタ-t]]]** //(delta-t)// - 財団の超時間機構、[[[welcome-to-delta-t|デルタ-T (Δt)]]]。
