@@ -3277,7 +3277,7 @@ http://scpfoundation.net/contests
 [[tab アンソロジータグ]]
 固定のメンバーによる、(特定の世界観に限らない)テーマの下に投稿された記事群に付与されるタグです。
 * **[[[/system:page-tags/tag/始のいろは|始のいろは]]]** - アンソロジー「[/iroha-the-begining-hub 始のいろは]」。
-* **[[[/system:page-tags/tag/scp漢字ドリル|scp漢字ドリル]]]** - アンソロジー「[/kanjihub SCP漢字ドリル]」。
+* **[[[/system:page-tags/tag/scp漢字ドリル|scp漢字ドリル]]]** - アンソロジー「[/scp-kanji-drill-hub SCP漢字ドリル]」。
 * **[[[/system:page-tags/tag/t-arot|t-arot]]]** - アンソロジー「[/tarot-in-a-caramel-box Tale - Artwork Resonance On Tarot]」。
 [[/tab]]
 [[tab 未分類タグ]]
