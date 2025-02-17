@@ -1844,12 +1844,12 @@ http://scp-slovenija.wikidot.com/is-arhiva
 * **[[[/system:page-tags/tag/解体部門|解体部門]]]** //(decommissioning-dept)// - [[[decom-dept-hub|解体部門]]]。
 * **[[[/system:page-tags/tag/削除部門|削除部門]]]** //(deletions-dept)// - [[[deleted|削除部門]]]。
 * **[[[/system:page-tags/tag/デルタ-t|デルタ-t]]]** //(delta-t)// - 財団の超時間機構、[[[welcome-to-delta-t|デルタ-T (Δt)]]]。
+* **[[[/system:page-tags/tag/番外部門|番外部門]]]** //(department-of-other)// - 番外部門、ジョークSCPを扱う。
 * **[[[/system:page-tags/tag/倫理委員会|倫理委員会]]]** //(ethics-committee)// - 倫理委員会。
 * **[[[/system:page-tags/tag/ettra|ettra]]]** //(ettra)// - 緊急時脅威戦術対応機構 (ETTRA)。
 * **[[[/system:page-tags/tag/火急鎮静部門|火急鎮静部門]]]** //(fire-suppression-dept)// - [[[fire-suppression-department-hub|火急鎮静部門]]]。
 * **[[[/system:page-tags/tag/神話・民俗学部門|神話・民俗学部門]]]** //(folklore-dept)// - [[[department-of-mythology-and-folkloristics-hub|神話・民俗学部門]]]。
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - [[[domc-hub|誤伝達部門]]]。
-* **[[[/system:page-tags/tag/番外部門|番外部門]]]** //(department-of-other)// - 番外部門、ジョークSCPを扱う。
 * **[[[/system:page-tags/tag/空想科学部門|空想科学部門]]]** //(pataphysics-dept)// - 空想科学部門。
 * **[[[/system:page-tags/tag/調達・清算部門|調達・清算部門]]]** //(procurement-liquidation-dept)// - 調達・清算部門。
 * **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 超現実部門。
