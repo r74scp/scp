@@ -983,6 +983,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/bury-the-survivors bury-the-survivors]** -- Part of the [https://scp-wiki.wikidot.com/bury-the-survivors-hub Bury the Survivors] series.
 * **[https://scpwiki.com/system:page-tags/tag/cack-hard cack-hard]** -- One of the [https://scp-wiki.wikidot.com/cack-hub cack-hard] stories.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Part of the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] series.
+* **[https://scpwiki.com/system:page-tags/tag/cleanliness-guaranteed cleanliness-guaranteed]** -- Part of the Cleanliness Guaranteed series.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Part of the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
 * **[https://scpwiki.com/system:page-tags/tag/cycle-of-seasons cycle-of-seasons]** -- Part of the [https://scp-wiki.wikidot.com/cycle-of-seasons-hub Cycle of Seasons] series.
 * **[https://scpwiki.com/system:page-tags/tag/deadlined deadlined]** -- Part of the [https://scp-wiki.wikidot.com/deadlined-hub Deadlined] series.
@@ -995,6 +996,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/integration-program integration-program]** -- Part of the [https://scp-wiki.wikidot.com/integration-program-hub Integration Program] series.
 * **[https://scpwiki.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Part of the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
 * **[https://scpwiki.com/system:page-tags/tag/mister mister]** -- Featuring or relating to the anomalous individuals known as "Little Misters".
+* **[https://scpwiki.com/system:page-tags/tag/manhattan-crisis manhattan-crisis]** -- Part of the international [https://scp-wiki.wikidot.com/1998-911-hub Manhattan Crisis] series.
 * **[https://scpwiki.com/system:page-tags/tag/mundus-liberari mundus-liberari]** -- Part of the [https://scp-wiki.wikidot.com/mundus-liberari Mundus, Liberari] series.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-old-foes-hub Resurrection: Old Foes] series.
@@ -1237,6 +1239,7 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 
 * **[https://scpwiki.com/system:page-tags/tag/7th-occult-war 7th-occult-war]** -- The Seventh Occult War between the Allied Occult Initiative and the Obskuracorps.
 * **[https://scpwiki.com/system:page-tags/tag/alagadda alagadda]** -- The kingdom of Alagadda.
+* **[https://scpwiki.com/system:page-tags/tag/Amoni-Ram Amoni-Ram]** -- The city-state of Amoni-Ram, capital of the ancient Mekhanite Empire.
 * **[https://scpwiki.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- The city of Backdoor Soho.
 * **[https://scpwiki.com/system:page-tags/tag/deus-ex-machina deus-ex-machina]** -- Related to the Foundation's world-rebooting machine, [https://scp-wiki.wikidot.com/scp-2000 SCP-2000].
 * **[https://scpwiki.com/system:page-tags/tag/esterberg esterberg]** -- The Free Port known as [https://scp-wiki.wikidot.com/esterberg-city-wikipedia Esterberg]
@@ -1391,6 +1394,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/visual-archives2024 visual-archives2024]** -- An entry to the [https://scp-wiki.wikidot.com/visual-archives-art-contest 2024 Visual Archives Art Contest].
 * **[https://scpwiki.com/system:page-tags/tag/spring-cleaning24 spring-cleaning24]** -- An entry to the [https://scp-wiki.wikidot.com/deer-college-spring-cleaning-event 2024 Spring Cleaning Event].
 * **[https://scpwiki.com/system:page-tags/tag/pridefest2024 pridefest2024]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2024 Pride festival].
+* **[https://scpwiki.com/system:page-tags/tag/publicdomaincon2025 publicdomaincon2025]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2025 Public Domain Contest].
 * **[https://scpwiki.com/system:page-tags/tag/memecon2021-unofficial memecon2021-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].
 * **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
 * **[https://scpwiki.com/system:page-tags/tag/spook-nico-2024-unofficial spook-nico-2024-unofficial]** -- An entry to the unofficial [spook-nico-unnoficial-2024 2024 Spook Nico contest]
