@@ -1003,7 +1003,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/team-bird team-bird]** -- Part of the [https://scp-wiki.wikidot.com/bird Team Bird] series.
 * **[https://scpwiki.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Part of the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
 * **[https://scpwiki.com/system:page-tags/tag/the-twin-sites the-twin-sites]** -- Part of the Twin Sites series.
-* **[https://scpwiki.com/system:page-tags/tag/untitled-series untitled-series]** -- Error, description cannot be blank [https://scp-wiki.wikidot.com/https://scp-wiki.wikidot.com/unreality-hub or linked to the click to add text] series.
+* **[https://scpwiki.com/system:page-tags/tag/untitled-series untitled-series]** -- Part of an untitled [https://scp-wiki.wikidot.com/unreality-hub Unreality Department] series.
 * **[https://scpwiki.com/system:page-tags/tag/we-meet-again we-meet-again]** -- Part of the [https://scp-wiki.wikidot.com/and-every-time-we-meet-again-hub And Every Time We Meet Again] series.
 * **[https://scpwiki.com/system:page-tags/tag/whore-of-blood whore-of-blood]** -- Part of the [https://scp-wiki.wikidot.com/whore-of-blood-hub Whore of Blood] series.
 * **[https://scpwiki.com/system:page-tags/tag/w-i-t-c-h w-i-t-c-h]** -- Part of the Weaving Imperceptible Threads Continuity.
@@ -1277,6 +1277,7 @@ These tags are added only used by SCP Wiki staff, and are intended to designate 
 * **[https://scpwiki.com/system:page-tags/tag/event-featured event-featured]** -- Designates articles featured on special event days such as International Talk Like a Pirate Day.
 * **[https://scpwiki.com/system:page-tags/tag/metadata metadata]** -- Designates pages with meta information about articles.
 * **[https://scpwiki.com/system:page-tags/tag/unlisted unlisted]** -- Article has been unlisted from the SCP wiki.
+* **[https://scpwiki.com/system:page-tags/tag/_crom-hidden _crom-hidden]** -- Article cannot be searched for by crom.
 * **[https://scpwiki.com/system:page-tags/tag/_cc _cc]** -- This tag indicates that all images on the page in question have been demonstrated to be fully compliant with current licensing policy. __This tag should **only** be added by a member of the Licensing team__. This tag conflicts with _image.
  * //Conflicts with '_image'//
  * //Supersedes '_image'//
