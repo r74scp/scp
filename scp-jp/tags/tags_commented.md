@@ -1046,6 +1046,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/リザレクション|リザレクション]]]** //(resurrection)// - [[[resurrection|甦──リザレクション]]]。
 * **[[[/system:page-tags/tag/s&cプラスチック|s&cプラスチック]]]** //(s&c-plastics)// - [[[the-s-c-plastics-hub|S & Cプラスチック]]]。
 * **[[[/system:page-tags/tag/ボトルシップ|ボトルシップ]]]** //(ship-in-a-bottle)// - [[[siabhub|ボトルシップ]]]。
+* **[[[/system:page-tags/tag/simulacrum|simulacrum]]]** //(simulacrum)// - [[[simulacrum-project-hub|SIMULACRUM]]]。
 * **[[[/system:page-tags/tag/sotm|sotm]]]** //(sotm)// - [[[sotmhub|朝までまっすぐに]]]。
 * **[[[/system:page-tags/tag/極寒の戦争|極寒の戦争]]]** //(the-coldest-war)// - [[[the-coldest-war-hub|極寒の戦争]]]。
 * **[[[/system:page-tags/tag/メキシコ湾|メキシコ湾]]]** //(the-gulf)// - [[[the-gulf|メキシコ湾]]]。
