@@ -1269,6 +1269,8 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/外側の賑わい|外側の賑わい]]]** - [[[out-of-scp-universe-hub|外側の賑わい]]]。
 * **[[[/system:page-tags/tag/神世継|神世継]]]** - [[[kamiyotsugi-hub|神世継]]]。
 * **[[[/system:page-tags/tag/財団アルバイター|財団アルバイター]]]** - [[[foundation-arbeiter-hub|財団アルバイター]]]。
+* **[[[/system:page-tags/tag/晴れの休みは上野巡りへ|晴れの休みは上野巡りへ]]]** - [[[team-utscpfc|晴れの休みは上野巡りへ]]]。
+* **[[[/system:page-tags/tag/京都呪縛戦争|京都呪縛戦争]]]** - [[[kyoto-cursing-warfare|京都呪縛戦争/毒蛇、病毒]]]。
 
 +++ 合作連作-JP
 
@@ -2451,6 +2453,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/nyc2013|nyc2013]]]** //(nyc2013)// - [[[new-years-contest|2013年ニューイヤー・カノンコンテスト]]]。
 
 * **[[[/system:page-tags/tag/pridefest24|pridefest24]]]** //(pridefest2024)// - [[[pridefest|2024年プライドフェスティバル]]]。
+
+* **[[[/system:page-tags/tag/publicdomaincon2025|publicdomaincon2025]]]** //(publicdomaincon2025)// - [[[pdcontest2025|2025年パブリックドメインコンテスト]]]。
 
 * **[[[/system:page-tags/tag/paracon2023-unofficial|paracon2023-unofficial]]]** //(paracon2023-unofficial)// - 非公式企画の[[[https://scp-wiki.wikidot.com/forum/t-16423302/unofficial-paracon-2023| 2023年パラウォッチコンテスト]]]。
 
