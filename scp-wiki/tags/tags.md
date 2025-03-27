@@ -1076,6 +1076,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-elstrom doctor-elstrom]** -- Doctor Karen Elstrom, Site-43's chief administrative officer.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-everwood doctor-everwood]** -- Dr. Jay Everwood, GOI specialist at Site-55.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-fynegan doctor-fynegan]** -- Dr. Joe Fynegan, expert on insect apocalypses.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-garrison doctor-garrison]** -- Dr. Heather Garrison, sometimes memeticist and anomalous ontology specialist at Site-43.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-gears doctor-gears]** -- Dr. Charles Gears. Father of Alison Chao, aka the Black Queen.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-gerald doctor-gerald]** -- Dr. Gerald.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-glass doctor-glass]** -- Dr. Simon Glass, head of psychology.
@@ -1226,6 +1227,7 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/robin-thorne robin-thorne]** -- Robin Thorne, of the FBI Unusual Investigations Unit.
 * **[https://scpwiki.com/system:page-tags/tag/ruiz-duchamp ruiz-duchamp]** -- Ruiz Duchamp, an anartist.
 * **[https://scpwiki.com/system:page-tags/tag/saarn saarn]** -- Saarn, one of the four Klavigars of Sarkicism.
+* **[https://scpwiki.com/system:page-tags/tag/the-serpent the-serpent]** -- The Serpent, mythical ruler of the Wanderer's Library and namesake of the Serpent's Hand.
 * **[https://scpwiki.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hedwig, a prophet of Maxwellism.
 * **[https://scpwiki.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer, serial reincarnator and false prophet.
 * **[https://scpwiki.com/system:page-tags/tag/skitter-marshall skitter-marshall]** -- Skitter Marshall of Marshall, Carter and Dark.
@@ -1243,6 +1245,7 @@ Other individuals involved in the anomalous.
 Tags indicating that a tale or SCP article takes place in a specific time or location that isn't a Foundation Site or installation.
 
 * **[https://scpwiki.com/system:page-tags/tag/7th-occult-war 7th-occult-war]** -- The Seventh Occult War between the Allied Occult Initiative and the Obskuracorps.
+* **[https://scpwiki.com/system:page-tags/tag/adytum adytum]** -- The city of Adytum, capital of the sarkic empire known as Kalmaktama.
 * **[https://scpwiki.com/system:page-tags/tag/alagadda alagadda]** -- The kingdom of Alagadda.
 * **[https://scpwiki.com/system:page-tags/tag/amoni-ram amoni-ram]** -- The city-state of Amoni-Ram, capital of the ancient Mekhanite Empire.
 * **[https://scpwiki.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- The city of Backdoor Soho.
@@ -1308,8 +1311,10 @@ Tags for all events on the wiki, including contests.
 * **[https://scpwiki.com/system:page-tags/tag/art-exchange art-exchange]** -- Of or related to the [https://scp-wiki.wikidot.com/art-exchange-hub Annual Holiday Art Exchange].
 * **[https://scpwiki.com/system:page-tags/tag/af2014 af2014]** -- Of or related to the [https://scp-wiki.wikidot.com/april-fools-2014 Super Cute Pets!] 2014 April Fool's prank.
 * **[https://scpwiki.com/system:page-tags/tag/game-day game-day]** -- Of or related to the [https://scp-wiki.wikidot.com/gamedayindex Game Day] project.
+* **[https://scpwiki.com/system:page-tags/tag/pridefest2024 pridefest2024]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2024 Pride festival].
 * **[https://scpwiki.com/system:page-tags/tag/news-prompt news-prompt]** -- An entry which follows a writing prompt from site news.
 * **[https://scpwiki.com/system:page-tags/tag/nightmarefest nightmarefest]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/nightmarefest NIGHTMAREFEST].
+* **[https://scpwiki.com/system:page-tags/tag/spring-cleaning24 spring-cleaning24]** -- An entry to the [https://scp-wiki.wikidot.com/deer-college-spring-cleaning-event 2024 Spring Cleaning Event].
 * **[https://scpwiki.com/system:page-tags/tag/_townhouse _townhouse]** -- An entry to the 'Townhouse' category of the unofficial NIGHTMAREFEST.
  * //Requires 'nightmarefest'//
 * **[https://scpwiki.com/system:page-tags/tag/_the-bureaucrat _the-bureaucrat]** -- An entry to the 'The Bureaucrat' category of the unofficial NIGHTMAREFEST.
@@ -1398,13 +1403,11 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/remixcon2023 remixcon2023]** -- An entry to the [https://scp-wiki.wikidot.com/remixcon2023 2023 Remix Contest].
 * **[https://scpwiki.com/system:page-tags/tag/lorecon2023 lorecon2023]** -- An entry to the [http://scp-int.wikidot.com/lorecon2023 International 2023 Lore and Aesthetics Contest].
 * **[https://scpwiki.com/system:page-tags/tag/visual-archives2024 visual-archives2024]** -- An entry to the [https://scp-wiki.wikidot.com/visual-archives-art-contest 2024 Visual Archives Art Contest].
-* **[https://scpwiki.com/system:page-tags/tag/spring-cleaning24 spring-cleaning24]** -- An entry to the [https://scp-wiki.wikidot.com/deer-college-spring-cleaning-event 2024 Spring Cleaning Event].
-* **[https://scpwiki.com/system:page-tags/tag/pridefest2024 pridefest2024]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2024 Pride festival].
+* **[https://scpwiki.com/system:page-tags/tag/wrathcon2024 wrathcon2024]** -- A reposted entry to [https://scp-wiki.wikidot.com/wrathcon2024 Wrathcon 2024]
 * **[https://scpwiki.com/system:page-tags/tag/publicdomaincon2025 publicdomaincon2025]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2025 Public Domain Contest].
 * **[https://scpwiki.com/system:page-tags/tag/memecon2021-unofficial memecon2021-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].
 * **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
 * **[https://scpwiki.com/system:page-tags/tag/spook-nico-2024-unofficial spook-nico-2024-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/spook-nico-unnoficial-2024 2024 Spook Nico contest]
-* **[https://scpwiki.com/system:page-tags/tag/wrathcon2024 wrathcon2024]** -- A reposted entry to [https://scp-wiki.wikidot.com/wrathcon2024 Wrathcon 2024]
 
 [[/tab]]
 [[tab Translation]]
