@@ -1418,6 +1418,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/ハーマン・フラー|ハーマン・フラー]]]** //(herman-fuller)// - [[[herman-fuller-hub|ハーマン・フラーの不気味サーカス]]]。
 * **[[[/system:page-tags/tag/境界線イニシアチブ|境界線イニシアチブ]]]** //(horizon-initiative)// - [[[horizon-initiative-hub|境界線イニシアチブ]]]。
 * **[[[/system:page-tags/tag/ijamea|ijamea]]]** //(ijamea)// - [[[ijamea-hub|大日本帝国異常事例調査局 (IJAMEA)]]]。
+* **[[[/system:page-tags/tag/just-girly-things|just-girly-things]]]** //(just-girly-things)// - [[[just-girly-things-hub|Just Girly Things]]]。
 * **[[[/system:page-tags/tag/マナによる慈善財団|マナによる慈善財団]]]** //(manna-charitable-foundation)// - [[[manna-charitable-foundation-hub|マナによる慈善財団]]]。
 * **[[[/system:page-tags/tag/mc&d|mc&d]]]** //(marshall-carter-and-dark)// - [[[marshall-carter-and-dark-hub|マーシャル・カーター＆ダーク株式会社 (MC&D)]]]。
 * **[[[/system:page-tags/tag/何者でもない|何者でもない]]]** //(nobody)// - [[[nobody-hub|「何者でもない」]]]。
@@ -2822,6 +2823,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/恐怖コン24|恐怖コン24]]]** - [[[terror-contest-2024|恐怖のコンテスト2024]]]。
 
 * **[[[/system:page-tags/tag/bbc24|bbc24]]]** - [[[bbc24|棍棒での殴り合いコンテスト2024]]]。
+
+* **[[[/system:page-tags/tag/occon|occon]]]** - [[[occon25|オブジェクトクラス最強決定戦]]]。
 @@ @@
 
 +++ キャンペーン-JP
@@ -3234,6 +3237,7 @@ http://scpfoundation.net/contests
 +++ コンテスト-VN
 
 * **[[[/system:page-tags/tag/trinitycon2023|trinitycon2023]]]** //(trinitycon2023)// - [[[trinitycon2023|トリニティコンテスト2023]]]。
+* **[[[/system:page-tags/tag/100-vn|100-vn]]]** - [[[scp100vncontesthub|SCP-100-VNコンテスト]]]。
 
 [[/tab]][!--VN--]
 [[tab Others]]
