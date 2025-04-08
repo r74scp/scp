@@ -96,7 +96,7 @@ Pages created for internal use.
 
 * **[https://scpwiki.com/system:page-tags/tag/admin admin]** -- //admin// pages, as the name suggest, have some sort of official significance. Typically, they represent pages which are required to exist by Wikidot for some form of site functionality. They should only be created by staff.
 * **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. All of the SCP series pages are //hub// pages, as are the tale index and various other pages around the site. As it is a major page tag, hubs may not have other top-level tags (e.g. //scp// or //tale//), with the exception of //contest// pages. Tale hubs should additionally be tagged with the //_tale-hub// page.
-* **[https://scpwiki.com/system:page-tags/tag/workbench workbench]** -- Workbenches are pages created by mods and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're have permition from an acting team captian or admin**, or have received explicit permission from them to do so.
+* **[https://scpwiki.com/system:page-tags/tag/workbench workbench]** -- Workbenches are pages created by mods and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're an (acting) team captian or admin**, or have received explicit permission from them to do so.
 * **[https://scpwiki.com/system:page-tags/tag/sandbox sandbox]** -- In the very distant past, sandboxes on the main site were allowed. This was before the number of members became so big that the amount of sandboxes would create a total mess on the wiki. **Please note that personal sandboxes are no longer allowed on the main site.** The SCP Sandbox wiki at https://scp-sandbox-3.wikidot.com/ should be used for article drafts. Only staff may authorize new sandboxes on the site.
 
 [[/tab]]
@@ -956,7 +956,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/resurrection resurrection]** -- Part of the [https://scp-wiki.wikidot.com/resurrection Resurrection] project.
 * **[https://scpwiki.com/system:page-tags/tag/s&c-plastics s&c-plastics]** -- Part of the [https://scp-wiki.wikidot.com/the-s-c-plastics-hub S & C Plastics] canon.
 * **[https://scpwiki.com/system:page-tags/tag/the-sharkest-timeline the-sharkest-timeline]** -- Part of the [https://scp-wiki.wikidot.com/the-sharkest-timeline Sharkest Timeline] canon.
-* **[https://scpwiki.com/system:page-tags/tag/Semiotics Semiotics]** -- Part of the [https://scp-wiki.wikidot.com/semiotics-hub Semiotics] canon.
+* **[https://scpwiki.com/system:page-tags/tag/semiotics semiotics]** -- Part of the [https://scp-wiki.wikidot.com/semiotics-hub Semiotics] canon.
 * **[https://scpwiki.com/system:page-tags/tag/ship-in-a-bottle ship-in-a-bottle]** -- Part of the [https://scp-wiki.wikidot.com/siabhub Ship In A Bottle] canon.
 * **[https://scpwiki.com/system:page-tags/tag/simulacrum simulacrum]** -- Part of the [https://scp-wiki.wikidot.com/simulacrum-project-hub Simulacrum] canon.
 * **[https://scpwiki.com/system:page-tags/tag/sotm sotm]** -- Part of the [https://scp-wiki.wikidot.com/sotmhub Straight On Till Morning] canon.
@@ -1010,7 +1010,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Part of [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
 * **[https://scpwiki.com/system:page-tags/tag/team-bird team-bird]** -- Part of the [https://scp-wiki.wikidot.com/bird Team Bird] series.
 * **[https://scpwiki.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Part of the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
-* **[https://scpwiki.com/system:page-tags/tag/the-twin-sites the-twin-sites]** -- Part of the Twin Sites series.
+* **[https://scpwiki.com/system:page-tags/tag/the-twin-sites the-twin-sites]** -- Part of the [https://scp-wiki.wikidot.com/twin-sites-hub Twin Sites] series.
 * **[https://scpwiki.com/system:page-tags/tag/untitled-series untitled-series]** -- Part of an untitled [https://scp-wiki.wikidot.com/unreality-hub Unreality Department] series.
 * **[https://scpwiki.com/system:page-tags/tag/we-meet-again we-meet-again]** -- Part of the [https://scp-wiki.wikidot.com/and-every-time-we-meet-again-hub And Every Time We Meet Again] series.
 * **[https://scpwiki.com/system:page-tags/tag/whore-of-blood whore-of-blood]** -- Part of the [https://scp-wiki.wikidot.com/whore-of-blood-hub Whore of Blood] series.
