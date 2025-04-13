@@ -1918,7 +1918,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ケイン・パトス・クロウ|ケイン・パトス・クロウ]]]** //(kain-pathos-crow)// - ケイン・パトス・クロウ教授。
 * **[[[/system:page-tags/tag/ロンバルディ|ロンバルディ]]]** //(lombardi)// - [[[the-lombardi-tales|ベテランのフィールドエージェント]]]、マックス・ロンバルディ。
 * **[[[/system:page-tags/tag/マリア・ジョーンズ|マリア・ジョーンズ]]]** //(maria-jones)// - RAISAのマリア・ジョーンズ。
-* **[[[/system:page-tags/tag/マリー・サラット|マリー・サラット]]]** //(doctor-elstrom)// - マリー・サラット、元財団エージェント・現超常ギャングスタ。
+* **[[[/system:page-tags/tag/マリー・サラット|マリー・サラット]]]** //(marie-surratt)// - マリー・サラット、元財団エージェント・現超常ギャングスタ。
 * **[[[/system:page-tags/tag/マリオン・ホイーラー|マリオン・ホイーラー]]]** //(marion-wheeler)// - [[[antimemetics-division-hub|反ミーム部門]]]のマリオン・ホイーラー。
 * **[[[/system:page-tags/tag/マーク・桐生|マーク・桐生]]]** //(mark-kiryu)// - [[[kiryu-labs-hub|桐生研究所]]]のマーク・桐生。
 * **[[[/system:page-tags/tag/オドンゴ・テジャニ|オドンゴ・テジャニ]]]** //(odongo-tejani)// - 倫理委員会 委員長、オドンゴ・テジャニ。
@@ -2316,6 +2316,17 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ブタイ|ブタイ]]]** //(butai)// - ブタイ市。
 * **[[[/system:page-tags/tag/ホイオヒニャ|ホイオヒニャ]]]** //(hoiohiña)// - ホイオヒニャ。
 * **[[[/system:page-tags/tag/トラネジャンコ|トラネジャンコ]]]** //(tlaneyanco)// - トラネジャンコ王国。
+
+[[/tab]]
+[[tab TH]]
++++ セキュリティ施設-TH
+
+* **[[[/system:page-tags/tag/サイト-29a|サイト-29a]]]** //(site29a)// - サイト-29a。
+* **[[[/system:page-tags/tag/サイト-20|サイト-20]]]** //(site20)// - サイト-20。
+* **[[[/system:page-tags/tag/サイト-r31|サイト-r31]]]** //(siter31)// - サイト-R31。
+* **[[[/system:page-tags/tag/バイオエリア-78|バイオエリア-78]]]** //(bioarea78)// - バイオエリア-78。
+
+
 
 [[/tab]]
 [[tab IT]]

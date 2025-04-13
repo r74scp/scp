@@ -2052,7 +2052,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ケイン・パトス・クロウ|ケイン・パトス・クロウ]]]** //(kain-pathos-crow)// - ケイン・パトス・クロウ教授。
 * **[[[/system:page-tags/tag/ロンバルディ|ロンバルディ]]]** //(lombardi)// - [[[the-lombardi-tales|ベテランのフィールドエージェント]]]、マックス・ロンバルディ。
 * **[[[/system:page-tags/tag/マリア・ジョーンズ|マリア・ジョーンズ]]]** //(maria-jones)// - RAISAのマリア・ジョーンズ。
-* **[[[/system:page-tags/tag/マリー・サラット|マリー・サラット]]]** //(doctor-elstrom)// - マリー・サラット、元財団エージェント・現超常ギャングスタ。
+* **[[[/system:page-tags/tag/マリー・サラット|マリー・サラット]]]** //(marie-surratt)// - マリー・サラット、元財団エージェント・現超常ギャングスタ。
 * **[[[/system:page-tags/tag/マリオン・ホイーラー|マリオン・ホイーラー]]]** //(marion-wheeler)// - [[[antimemetics-division-hub|反ミーム部門]]]のマリオン・ホイーラー。
 * **[[[/system:page-tags/tag/マーク・桐生|マーク・桐生]]]** //(mark-kiryu)// - [[[kiryu-labs-hub|桐生研究所]]]のマーク・桐生。
 * **[[[/system:page-tags/tag/オドンゴ・テジャニ|オドンゴ・テジャニ]]]** //(odongo-tejani)// - 倫理委員会 委員長、オドンゴ・テジャニ。
@@ -2532,8 +2532,31 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/トラネジャンコ|トラネジャンコ]]]** //(tlaneyanco)// - トラネジャンコ王国。
 
 [[/tab]][!--ES--]
-[!--[[tab TH]]
-[[/tab]]TH--]
+[[tab TH]]
++++ セキュリティ施設-TH
+
+* **[[[/system:page-tags/tag/サイト-29a|サイト-29a]]]** //(site29a)// - サイト-29a。
+* **[[[/system:page-tags/tag/サイト-20|サイト-20]]]** //(site20)// - サイト-20。
+* **[[[/system:page-tags/tag/サイト-r31|サイト-r31]]]** //(siter31)// - サイト-R31。
+* **[[[/system:page-tags/tag/バイオエリア-78|バイオエリア-78]]]** //(bioarea78)// - バイオエリア-78。
+
+[!--★並びはTHのタグリスト(tag-list)に準拠--]
+
+[!--
+★既訳記事が無い(2025/04/13時点)ため未申請とする
+* **[[[/system:page-tags/tag/サイト-187|サイト-187]]]** //(site187)// - サイト-187。
+* **[[[/system:page-tags/tag/サイト-36bm|サイト-36bm]]]** //(site36bm)// - サイト-36BM。
+* **[[[/system:page-tags/tag/サイト-kp11|サイト-kp11]]]** //(sitekp11)// - サイト-KP11。
+* **[[[/system:page-tags/tag/バイオエリア-63|バイオエリア-63]]]** //(bioarea63)// - バイオエリア-63。
+★THにおいても付与された記事が無い模様(2025/04/13時点)。
+* **[[[/system:page-tags/tag/サイト-32|サイト-32]]]** //(site32)// - サイト-32。
+* **[[[/system:page-tags/tag/サイト-114r|サイト-114r]]]** //(site114r)// - サイト-114R。
+* **[[[/system:page-tags/tag/サイト-12tr|サイト-12tr]]]** //(site12tr)// - サイト-12Tr。
+* **[[[/system:page-tags/tag/セーフハウス-00|セーフハウス-00]]]** //(safehouse00)// - セーフハウス-00。
+* * **[[[/system:page-tags/tag/ビル-04|ビル-04]]]** //(building04)// - ビル-04。
+--]
+
+[[/tab]]
 [!--[[tab DE]]
 [[/tab]]DE--]
 [[tab IT]]
