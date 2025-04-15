@@ -1889,6 +1889,7 @@ http://scp-slovenija.wikidot.com/is-arhiva
 * **[[[/system:page-tags/tag/一般部門|一般部門]]]** - 一般部門。
 * **[[[/system:page-tags/tag/廃棄部門|廃棄部門]]]** - 廃棄部門。
 * **[[[/system:page-tags/tag/匡済部門|匡済部門]]]** - [[[rehabilitation-department-hub|匡済部門]]]。
+* **[[[/system:page-tags/tag/欺瞞部門|欺瞞部門]]]** - 欺瞞部門。
 
 +++ フロント-JP
 それぞれの詳細は[[[front-jp|]]]を参照してください。
