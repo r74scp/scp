@@ -886,6 +886,8 @@ The following applies to all tags in this category:
  * //Requires 'parawatch'//
 * **[https://scpwiki.com/system:page-tags/tag/_prometheus _prometheus]** -- An article following the Prometheus format.
  * //Requires 'prometheus'//
+* **[https://scpwiki.com/system:page-tags/tag/_pseudogenesis _pseudogenesis]** -- An article following the Pseudogenesis format.
+ * //Requires 'pseudogenesis'//
 * **[https://scpwiki.com/system:page-tags/tag/_sapphire _sapphire]** -- An article following the SAPPHIRE format.
  * //Requires 'sapphire'//
 * **[https://scpwiki.com/system:page-tags/tag/_sarkic _sarkic]** -- An article following the Sarkic format.
