@@ -1411,6 +1411,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/トトレイソフト|トトレイソフト]]]** //(totleighsoft)// - 異常なソフトウェア開発企業、トトレイソフト。
 * **[[[/system:page-tags/tag/異常積荷委員会|異常積荷委員会]]]** (//unusual-cargo//) - [[[unusual-cargo-hub|異常積荷委員会]]]。
 * **[[[/system:page-tags/tag/ウェストヘッド・メディア|ウェストヘッド・メディア]]]** //(westhead-media)// - ウェストヘッド・メディア。
+* **[[[/system:page-tags/tag/世界超保健機関|世界超保健機関]]]** //(world-parahealth-organization)// - GOC加盟団体、世界超保健機関。
 * **[[[/system:page-tags/tag/夏王朝|夏王朝]]]** //(xia-dynasty)// - 夏王朝。
 
 以下のタグについては、特定の他支部の項を参照してください。
