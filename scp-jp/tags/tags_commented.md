@@ -1015,7 +1015,6 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/南極の交流|南極の交流]]]** //(antarctic-exchange)// - [[[antarctic-exchange-hub|南極の交流]]]。
 * **[[[/system:page-tags/tag/アポセオシス|アポセオシス]]]** //(apotheosis)// - [[[apotheosis-hub|アポセオシス]]]。
 * **[[[/system:page-tags/tag/鐘を鳴らす者の詩|鐘を鳴らす者の詩]]]** //(bellerverse)// - [[[bellerverse|鐘を鳴らす者の詩]]]。
-* **[[[/system:page-tags/tag/ブラックラビット社|ブラックラビット社]]]** //(black-rabbit-company)// - [[[stealingsolidarityhub|団結号を奪え]]]。
 * **[[[/system:page-tags/tag/壊された虚構|壊された虚構]]]** //(broken-masquerade)// - [[[broken-masquerade-hub|壊された虚構]]]。
 * **[[[/system:page-tags/tag/ただの夢|ただの夢]]]** //(but-a-dream)// - [[[but-a-dream|ただの夢]]]。
 * **[[[/system:page-tags/tag/競り合う終末論|競り合う終末論]]]** //(competitive-eschatology)// - [[[competitive-eschatology-hub|競り合う終末論 ]]]。
@@ -1026,7 +1025,6 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/ドレッド&サーカス|ドレッド&サーカス]]]** //(dread&circuses)// - [[[dread-circuses-hub|ドレッド&サーカス]]]。
 * **[[[/system:page-tags/tag/死の終焉|死の終焉]]]** //(end-of-death)// - [[[end-of-death-hub|死の終焉]]]。
 * **[[[/system:page-tags/tag/eventyr|eventyr]]]** //(eventyr)// - [[[eventyr-hub|Eventyr]]]。
-* **[[[/system:page-tags/tag/etdp|etdp]]]** //(etdp)// - [[[etdp-hub-page|そして私は神を求めた]]]。
 * **[[[/system:page-tags/tag/120の記録書庫より|120の記録書庫より]]]** //(from-120s-archives)// - [[[from-120-s-archives-hub|120の記録書庫より]]]。
 * **[[[/system:page-tags/tag/翠の王|翠の王]]]** //(green-king)// - [[[codename-green-king-hub|コードネーム：翠の王]]]。
 * **[[[/system:page-tags/tag/ヘイムダル|ヘイムダル]]]** //(heimdall)// - [[[project-heimdall|ヘイムダル計画]]]。
@@ -1211,9 +1209,12 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/訓戒|訓戒]]]** //(admonition)// - [[[admonition|訓戒]]]。
 * **[[[/system:page-tags/tag/アナバシス|アナバシス]]]** //(anabasis)// - [[[anabasis-hub|アナバシス]]]。
 * **[[[/system:page-tags/tag/ao-tale|ao-tale]]]** //(ao-tale)// - [[[ao-hub|Anomalousアイテムの物語]]]。
+* **[[[/system:page-tags/tag/家電戦争|家電戦争]]]** //(appliance-wary)// - [[[the-appliance-war-hub|家電戦争]]]。
+* **[[[/system:page-tags/tag/ブラックラビット社|ブラックラビット社]]]** //(black-rabbit-company)// - [[[stealingsolidarityhub|団結号を奪え]]]。
 * **[[[/system:page-tags/tag/カック・ハード|カック・ハード]]]** //(cack-hard)// - [[[cack-hub|カック・ハード]]]。
 * **[[[/system:page-tags/tag/classical-revival|classical-revival]]]** //(classical-revival)// - [[[classicalrevivalindex|クラシカル・リバイバル]]]。
 * **[[[/system:page-tags/tag/コレクターtale|コレクターtale]]]** //(collector-tale)// - ミスター・コレクター(参照: //mister//タグ)。
+* **[[[/system:page-tags/tag/etdp|etdp]]]** //(etdp)// - [[[etdp-hub-page|そして私は神を求めた]]]。
 * **[[[/system:page-tags/tag/goc事件簿|goc事件簿]]]** //(goc-casefiles)// - [[[goc-hub-page#toc11|世界オカルト連合事件簿]]]。
 * **[[[/system:page-tags/tag/ハービンジャー|ハービンジャー]]]** //(harbinger)// - アンソロジーシリーズ『ハービンジャー』。
 * **[[[/system:page-tags/tag/ヘカトンケイレス・サイクル|ヘカトンケイレス・サイクル]]]** //(hecatoncheires-cycle)// - [[[hecatoncheires-cycle-hub|ヘカトンケイレス・サイクル]]]。
