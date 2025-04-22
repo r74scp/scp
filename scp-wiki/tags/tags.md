@@ -95,7 +95,7 @@ Pages created for internal use.
 +++ Other pages
 
 * **[https://scpwiki.com/system:page-tags/tag/admin admin]** -- //admin// pages, as the name suggest, have some sort of official significance. Typically, they represent pages which are required to exist by Wikidot for some form of site functionality. They should only be created by staff.
-* **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. All of the SCP series pages are //hub// pages, as are the tale index and various other pages around the site. As it is a major page tag, hubs may not have other top-level tags (e.g. //scp// or //tale//), with the exception of //contest// pages. Tale hubs should additionally be tagged with the //_tale-hub// page.
+* **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. All of the SCP series pages are //hub// pages, as are the tale index and various other pages around the site. As it is a major page tag, hubs may not have other top-level tags (e.g. //scp// or //tale//), with the exception of //site// pages. Tale hubs should also be tagged with //_tale-hub//, while canon hubs should be tagged with //_canon-hub//.
 * **[https://scpwiki.com/system:page-tags/tag/workbench workbench]** -- Workbenches are pages created by mods and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're an (acting) team captian or admin**, or have received explicit permission from them to do so.
 * **[https://scpwiki.com/system:page-tags/tag/sandbox sandbox]** -- In the very distant past, sandboxes on the main site were allowed. This was before the number of members became so big that the amount of sandboxes would create a total mess on the wiki. **Please note that personal sandboxes are no longer allowed on the main site.** The SCP Sandbox wiki at https://scp-sandbox-3.wikidot.com/ should be used for article drafts. Only staff may authorize new sandboxes on the site.
 
@@ -116,7 +116,7 @@ Miscellaneous major page tags that are not top-level tags.
  * //Requires 'hub'//
 * **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained] SCPs are a special sub-type of //scp//, and should be added to -EX articles as appropriate. Explained articles should also be tagged with their standard object class tag, or //esoteric-class// if the format does not specify a standard object class.
  * //Requires 'scp'//
-* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- Article has an illustration specifically made for the article, this includes photobashes and other forms of photo manipulation.
+* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- Article has an illustration specifically made for the article. This includes photobashes and other forms of photo manipulation.
  * //Conflicts with 'artwork', 'artist', and 'comic'//
 * **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should also be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
 * **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
@@ -924,6 +924,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/antarctic-exchange antarctic-exchange]** -- Part of the [https://scp-wiki.wikidot.com/antarctic-exchange-hub Antarctic Exchange] canon.
 * **[https://scpwiki.com/system:page-tags/tag/apotheosis apotheosis]** -- Part of the [https://scp-wiki.wikidot.com/antarctic-exchange-hub Apotheosis] canon.
 * **[https://scpwiki.com/system:page-tags/tag/bellerverse bellerverse]** -- Part of the [https://scp-wiki.wikidot.com/bellerverse Bellerverse] canon.
+* **[https://scpwiki.com/system:page-tags/tag/black-diamond-billions black-diamond-billions]** -- Part of the [https://scp-wiki.wikidot.com/black-diamond-billions-hub Black Diamond Billions] canon.
 * **[https://scpwiki.com/system:page-tags/tag/broken-masquerade broken-masquerade]** -- Part of the [https://scp-wiki.wikidot.com/broken-masquerade-hub Broken Masquerade] canon.
 * **[https://scpwiki.com/system:page-tags/tag/but-a-dream but-a-dream]** -- Part of the [https://scp-wiki.wikidot.com/but-a-dream But A Dream] canon.
 * **[https://scpwiki.com/system:page-tags/tag/competitive-eschatology competitive-eschatology]** -- Part of the [https://scp-wiki.wikidot.com/Competitive-Eschatology-Hub Competitive Eschatology] canon.
@@ -984,10 +985,9 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/anabasis anabasis]** -- Part of the [https://scp-wiki.wikidot.com/anabasis-hub Anabasis] series.
 * **[https://scpwiki.com/system:page-tags/tag/ao-tale ao-tale]** -- Part of the [https://scp-wiki.wikidot.com/ao-hub Tales of Anomalous Items] series, consisting of stories about anomalous objects.
 * **[https://scpwiki.com/system:page-tags/tag/appliance-war appliance-war]** -- Part of [https://scp-wiki.wikidot.com/the-appliance-war-hub The Appliance War] series.
-* **[https://scpwiki.com/system:page-tags/tag/black-diamond-billions black-diamond-billions]** -- Part of the Black Diamond Billions series.
 * **[https://scpwiki.com/system:page-tags/tag/black-rabbit-company black-rabbit-company]** -- Part of the [https://scp-wiki.wikidot.com/stealingsolidarityhub Stealing Solidarity] series.
 * **[https://scpwiki.com/system:page-tags/tag/bury-the-survivors bury-the-survivors]** -- Part of the [https://scp-wiki.wikidot.com/bury-the-survivors-hub Bury the Survivors] series.
-* **[https://scpwiki.com/system:page-tags/tag/cack-hard cack-hard]** -- One of the [https://scp-wiki.wikidot.com/cack-hub cack-hard] stories.
+* **[https://scpwiki.com/system:page-tags/tag/cack-hard cack-hard]** -- One of the [https://scp-wiki.wikidot.com/cack-hub Cack Hard] stories.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Part of the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] series.
 * **[https://scpwiki.com/system:page-tags/tag/cleanliness-guaranteed cleanliness-guaranteed]** -- Part of the Cleanliness Guaranteed series.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Part of the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
@@ -1006,7 +1006,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Part of the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
-* **[https://scpwiki.com/system:page-tags/tag/phobia-anthology phobia-anthology]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-2024 Part of the Phobia horror anthology].
+* **[https://scpwiki.com/system:page-tags/tag/phobia-anthology phobia-anthology]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-2024 Phobia horror anthology].
 * **[https://scpwiki.com/system:page-tags/tag/palisade palisade]** -- Part of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
 * **[https://scpwiki.com/system:page-tags/tag/project-crossover project-crossover]** -- Part of [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Part of [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
@@ -1410,6 +1410,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/memecon2021-unofficial memecon2021-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].
 * **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
 * **[https://scpwiki.com/system:page-tags/tag/spook-nico-2024-unofficial spook-nico-2024-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/spook-nico-unnoficial-2024 2024 Spook Nico contest]
+* **[https://scpwiki.com/system:page-tags/tag/intcanoncon2025 intcanoncon2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/international-canon-contest 2025 International Canon contest]
 
 [[/tab]]
 [[tab Translation]]
