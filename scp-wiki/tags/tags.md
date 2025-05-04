@@ -597,21 +597,28 @@ Describes the genre of an article.
 
 Describes the major themes of an article.
 
-* **[https://scpwiki.com/system:page-tags/tag/artificial-intelligence artificial-intelligence]** -- Focuses on artificial intelligence, and on anomalies that have AI or affect AIs.
+* **[https://scpwiki.com/system:page-tags/tag/artificial-intelligence artificial-intelligence]** -- Features artificial intelligence, and on anomalies that have AI or affect AIs.
+ * //Often used with 'science-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/bureaucracy bureaucracy]** -- Focuses on the administration, management and official procedures of an organisation.
-* **[https://scpwiki.com/system:page-tags/tag/ghost ghost]** -- Focuses on ghosts, also known as spectral entities.
+* **[https://scpwiki.com/system:page-tags/tag/demon demon]** -- Features supernatural entities traditionally associated with evil, temptation and Hell.
+ * //Often used with 'fantasy'//
+* **[https://scpwiki.com/system:page-tags/tag/faerie faerie]** -- Features fairies, fay or the fair folk, supernatural entities inspired by European folklore.
+ * //Often used with 'fantasy'//
+* **[https://scpwiki.com/system:page-tags/tag/ghost ghost]** -- Features ghosts, the spirits of the dead, also known as spectral entities.
 * **[https://scpwiki.com/system:page-tags/tag/historical historical]** -- Focuses on historical events, or on anomalies with historical significance.
  * //Compare with 'period-piece'//
 * **[https://scpwiki.com/system:page-tags/tag/legal legal]** -- Focuses on law, legal proceedings, and legal documents.
 * **[https://scpwiki.com/system:page-tags/tag/lgbtq lgbtq]** -- Focuses on LGBTQ+ themes, culture or history. Possible examples include portrayal of gay and lesbian relationships, depiction of asexuality and bisexuality, and exploration of trans, queer and agender identities.
-* **[https://scpwiki.com/system:page-tags/tag/murder-monster murder-monster]** -- Focuses on an inhuman anomaly that is hostile to human life.
+* **[https://scpwiki.com/system:page-tags/tag/murder-monster murder-monster]** -- Features an inhuman anomaly that is hostile to human life.
  * //Often used with 'horror'//
 * **[https://scpwiki.com/system:page-tags/tag/mythological mythological]** -- Focuses on creatures, events and practices drawn from mythology and folklore, outside of structured religious practice.
  * //Compare with 'fantasy', and 'religious-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/political political]** -- Focuses on politicians, diplomats or the political process.
 * **[https://scpwiki.com/system:page-tags/tag/religious-fiction religious-fiction]** -- Focuses on religion, faith and belief. Includes depictions of real-world religions, as well as worship of anomalous entities.
  * //Compare with 'mythological'//
-* **[https://scpwiki.com/system:page-tags/tag/superhero superhero]** -- Focuses on superheroes or supervillains. These characters typically have secret identities, costumes and supernatural powers.
+* **[https://scpwiki.com/system:page-tags/tag/superhero superhero]** -- Features superheroes or supervillains. These characters typically have secret identities, costumes and supernatural powers.
+* **[https://scpwiki.com/system:page-tags/tag/time-travel time-travel]** -- Features travel to or from the past or future.
+ * //Often used with 'science-fiction'//
 
 +++ Setting
 
@@ -980,8 +987,8 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 Tags for tale and SCP series, that may or may not have a Hub.
 
 * **[https://scpwiki.com/system:page-tags/tag/8000-dead-rats 8000-dead-rats]** -- Part of the [https://scp-wiki.wikidot.com/8000-dead-rats-hub 8000 Dead Rats] series.
-* **[https://scpwiki.com/system:page-tags/tag/abcs-of-death abcs-of-death]** -- Part of the ABC's of Death [https://scp-wiki.wikidot.com/scp-anthology-hub anthology].
-* **[https://scpwiki.com/system:page-tags/tag/admonition admonition]** -- Part of [https://scp-wiki.wikidot.com/admonition the Admonition] series.
+* **[https://scpwiki.com/system:page-tags/tag/abcs-of-death abcs-of-death]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-hub ABC's of Death SCP anthology].
+* **[https://scpwiki.com/system:page-tags/tag/admonition admonition]** -- Part of the [https://scp-wiki.wikidot.com/admonition Admonition] series.
 * **[https://scpwiki.com/system:page-tags/tag/anabasis anabasis]** -- Part of the [https://scp-wiki.wikidot.com/anabasis-hub Anabasis] series.
 * **[https://scpwiki.com/system:page-tags/tag/ao-tale ao-tale]** -- Part of the [https://scp-wiki.wikidot.com/ao-hub Tales of Anomalous Items] series, consisting of stories about anomalous objects.
 * **[https://scpwiki.com/system:page-tags/tag/appliance-war appliance-war]** -- Part of [https://scp-wiki.wikidot.com/the-appliance-war-hub The Appliance War] series.
@@ -990,7 +997,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/cack-hard cack-hard]** -- One of the [https://scp-wiki.wikidot.com/cack-hub Cack Hard] stories.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Part of the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] series.
 * **[https://scpwiki.com/system:page-tags/tag/cleanliness-guaranteed cleanliness-guaranteed]** -- Part of the Cleanliness Guaranteed series.
-* **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Part of the Tales of Mr. Collector. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
+* **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Part of the [https://scp-wiki.wikidot.com/tales-of-mr-collector Tales of Mr. Collector] series. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
 * **[https://scpwiki.com/system:page-tags/tag/cycle-of-seasons cycle-of-seasons]** -- Part of the [https://scp-wiki.wikidot.com/cycle-of-seasons-hub Cycle of Seasons] series.
 * **[https://scpwiki.com/system:page-tags/tag/deadlined deadlined]** -- Part of the [https://scp-wiki.wikidot.com/deadlined-hub Deadlined] series.
 * **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Part of the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] series.
@@ -1006,7 +1013,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Part of the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
-* **[https://scpwiki.com/system:page-tags/tag/phobia-anthology phobia-anthology]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-2024 Phobia horror anthology].
+* **[https://scpwiki.com/system:page-tags/tag/phobia-anthology phobia-anthology]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-2024 Phobia SCP anthology].
 * **[https://scpwiki.com/system:page-tags/tag/palisade palisade]** -- Part of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
 * **[https://scpwiki.com/system:page-tags/tag/project-crossover project-crossover]** -- Part of [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Part of [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
@@ -1187,6 +1194,7 @@ SCP Objects with their own character tags.
 Other individuals involved in the anomalous.
 
 * **[https://scpwiki.com/system:page-tags/tag/aldon aldon]** -- Aldon, an anartist.
+* **[https://scpwiki.com/system:page-tags/tag/amos-marshall amos-marshall]** -- Amos Marshall, of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/big-cheese-horace big-cheese-horace]** -- Big Cheese Horace of the Fifthists
 * **[https://scpwiki.com/system:page-tags/tag/brainy-brian brainy-brian]** -- Brainy Brian of Wondertainment/MC&D, also known as "Doctor Neurosis".
 * **[https://scpwiki.com/system:page-tags/tag/chaz-ambrose chaz-ambrose]** -- Chaz Ambrose, founder of Ambrose Restaurants.
@@ -1216,23 +1224,24 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/mari-macphaerson mari-macphaerson]** -- Mari MacPhaerson, the VP of Public Relations from Vikander-Kneed Technical Studies.
 * **[https://scpwiki.com/system:page-tags/tag/midnight-the-cat midnight-the-cat]** -- Midnight, sapient cat and member of the Serpent's Hand.
 * **[https://scpwiki.com/system:page-tags/tag/nadox nadox]** -- Nadox, one of the four Klavigars of Sarkicism.
-* **[https://scpwiki.com/system:page-tags/tag/olivie-gwyneth olivie-gwyneth]** -- olivie-gwyneth, Head archivist of the Sidhe Lounge.
+* **[https://scpwiki.com/system:page-tags/tag/olivie-gwyneth olivie-gwyneth]** -- Olivie Gwyneth, Head archivist of the Sidhe Lounge.
 * **[https://scpwiki.com/system:page-tags/tag/orok orok]** -- Orok, one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
-* **[https://scpwiki.com/system:page-tags/tag/percival-darke percival-darke]** -- Percival Darke, founder of Marshall, Carter and Dark AKA the Deathless Merchant of London.
+* **[https://scpwiki.com/system:page-tags/tag/percival-darke percival-darke]** -- Percival Darke, AKA the Deathless Merchant of London, founder of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/polaricecraps polaricecraps]** -- Polaricecraps, of Gamers Against Weed.
 * **[https://scpwiki.com/system:page-tags/tag/professor-aw professor-aw]** -- Professor A.W., inventor and creator of curiosities.
 * **[https://scpwiki.com/system:page-tags/tag/queen-mab queen-mab]** -- Queen Mab, a Fae tyrant and goddess.
 * **[https://scpwiki.com/system:page-tags/tag/richard-chappell richard-chappell]** -- Richard Davis Chappell, founder of the Chicago Spirit.
 * **[https://scpwiki.com/system:page-tags/tag/robert-bumaro robert-bumaro]** -- Robert Bumaro, prophet of Mekhane.
-* **[https://scpwiki.com/system:page-tags/tag/robert-carter robert-carter]** -- Robert Carter of Marshall, Carter and Dark.
+* **[https://scpwiki.com/system:page-tags/tag/robert-carter robert-carter]** -- Robert Carter, of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/robin-thorne robin-thorne]** -- Robin Thorne, of the FBI Unusual Investigations Unit.
 * **[https://scpwiki.com/system:page-tags/tag/ruiz-duchamp ruiz-duchamp]** -- Ruiz Duchamp, an anartist.
+* **[https://scpwiki.com/system:page-tags/tag/ruprecht-carter ruprecht-carter]** -- Ruprecht Carter, of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/saarn saarn]** -- Saarn, one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/the-serpent the-serpent]** -- The Serpent, mythical ruler of the Wanderer's Library and namesake of the Serpent's Hand.
 * **[https://scpwiki.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hedwig, a prophet of Maxwellism.
 * **[https://scpwiki.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer, serial reincarnator and false prophet.
-* **[https://scpwiki.com/system:page-tags/tag/skitter-marshall skitter-marshall]** -- Skitter Marshall of Marshall, Carter and Dark.
+* **[https://scpwiki.com/system:page-tags/tag/skitter-marshall skitter-marshall]** -- Skitter Marshall, of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/the-critic the-critic]** -- The Critic of Are We Cool Yet.
 * **[https://scpwiki.com/system:page-tags/tag/the-engineer the-engineer]** -- The Engineer of the Chaos Insurgency.
 * **[https://scpwiki.com/system:page-tags/tag/thilo-zwist thilo-zwist]** -- Thilo Zwist, memeticist.
