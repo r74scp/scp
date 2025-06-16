@@ -2737,6 +2737,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/spook-nico-2024-unofficial|spook-nico-2024-unofficial]]]** //(spook-nico-2024-unofficial)// - 非公式企画の[[[spook-nico-2024-unofficial|2024年Nicoを怖がらせようコンテスト]]]。
 
 * **[[[/system:page-tags/tag/intcanoncon2025|intcanoncon2025]]]** //(intcanoncon2025)// - 非公式企画の[[[international-canon-contest|2025年国際カノンコンテスト]]]。
+ * 本タグが付与される記事をENから翻訳する場合、関連するカノンタグ(カノンタグ-EN以外のもの)がENの翻訳元に付与されていなくてもJP独自で付与することが認められます。この場合、その旨をディスカッションに明示してください。
 
 以下のタグについては、特定の他支部の項を参照してください。
 
