@@ -1013,6 +1013,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Part of the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
+* **[https://scpwiki.com/system:page-tags/tag/parawatch-true-crime parawatch-true-crime]** -- Part of the Parawatch True Crime series presented by [https://scp-wiki.wikidot.com/crewtime crewtime].
 * **[https://scpwiki.com/system:page-tags/tag/phobia-anthology phobia-anthology]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-2024 Phobia SCP anthology].
 * **[https://scpwiki.com/system:page-tags/tag/palisade palisade]** -- Part of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
 * **[https://scpwiki.com/system:page-tags/tag/project-crossover project-crossover]** -- Part of [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
@@ -1021,6 +1022,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 * **[https://scpwiki.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Part of the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
 * **[https://scpwiki.com/system:page-tags/tag/the-twin-sites the-twin-sites]** -- Part of the [https://scp-wiki.wikidot.com/twin-sites-hub Twin Sites] series.
 * **[https://scpwiki.com/system:page-tags/tag/untitled-series untitled-series]** -- Part of an untitled [https://scp-wiki.wikidot.com/unreality-hub Unreality Department] series.
+* **[https://scpwiki.com/system:page-tags/tag/veil-upon-veil veil-upon-veil]** -- Part of the Veil Upon Veil series.
 * **[https://scpwiki.com/system:page-tags/tag/we-meet-again we-meet-again]** -- Part of the [https://scp-wiki.wikidot.com/and-every-time-we-meet-again-hub And Every Time We Meet Again] series.
 * **[https://scpwiki.com/system:page-tags/tag/whore-of-blood whore-of-blood]** -- Part of the [https://scp-wiki.wikidot.com/whore-of-blood-hub Whore of Blood] series.
 * **[https://scpwiki.com/system:page-tags/tag/w-i-t-c-h w-i-t-c-h]** -- Part of the Weaving Imperceptible Threads Continuity.
@@ -1188,6 +1190,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/tickle-monster tickle-monster]** -- The Tickle Monster, aka [https://scp-wiki.wikidot.com/scp-999 SCP-999].
 * **[https://scpwiki.com/system:page-tags/tag/the-sculpture the-sculpture]** -- The Sculpture, aka [https://scp-wiki.wikidot.com/scp-173 SCP-173].
 * **[https://scpwiki.com/system:page-tags/tag/the-specter the-specter]** -- The Specter, aka [https://scp-wiki.wikidot.com/scp-4944 SCP-4944].
+* **[https://scpwiki.com/system:page-tags/tag/too-spooky too-spooky]** -- Too Spooky, aka [https://scp-wiki.wikidot.com/scp-2006 SCP-2006].
 
 +++ Persons of Interest
 
@@ -1415,11 +1418,13 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/lorecon2023 lorecon2023]** -- An entry to the [http://scp-int.wikidot.com/lorecon2023 International 2023 Lore and Aesthetics Contest].
 * **[https://scpwiki.com/system:page-tags/tag/visual-archives2024 visual-archives2024]** -- An entry to the [https://scp-wiki.wikidot.com/visual-archives-art-contest 2024 Visual Archives Art Contest].
 * **[https://scpwiki.com/system:page-tags/tag/wrathcon2024 wrathcon2024]** -- A reposted entry to [https://scp-wiki.wikidot.com/wrathcon2024 Wrathcon 2024]
-* **[https://scpwiki.com/system:page-tags/tag/publicdomaincon2025 publicdomaincon2025]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2025 Public Domain Contest].
+* **[https://scpwiki.com/system:page-tags/tag/publicdomaincon2025 publicdomaincon2025]** -- An entry to the [https://scp-wiki.wikidot.com/pdcontest2025 2025 Public Domain Contest].
+* **[https://scpwiki.com/system:page-tags/tag/classiccon2025 classiccon2025]** -- An entry to the [https://scp-wiki.wikidot.com/classic-con 2025 Classic Contest].
 * **[https://scpwiki.com/system:page-tags/tag/memecon2021-unofficial memecon2021-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].
 * **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
 * **[https://scpwiki.com/system:page-tags/tag/spook-nico-2024-unofficial spook-nico-2024-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/spook-nico-unnoficial-2024 2024 Spook Nico contest]
 * **[https://scpwiki.com/system:page-tags/tag/intcanoncon2025 intcanoncon2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/international-canon-contest 2025 International Canon contest]
+* **[https://scpwiki.com/system:page-tags/tag/pridefest2025 pridefest2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/pridefest-2025 2025 pride festival]
 
 [[/tab]]
 [[tab Translation]]
