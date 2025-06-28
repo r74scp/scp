@@ -597,6 +597,7 @@
  * 適切ならば//乗り物//タグと併用してください。
 * **[[[/system:page-tags/tag/鉄道|鉄道]]]** - SCP-JP独自のアトリビュートタグです。鉄道の構成要素であるか、それらに関連もしくは影響するSCPの記事に付与されるタグです。線路、踏切、駅、鉄道車両、車両基地、路線図、時刻表などが該当します。
  * 適切ならば//構造//タグや//乗り物//タグなどと併用してください。
+* **[[[/system:page-tags/tag/情報科学|情報科学]]]** //(informatique)// - SCP-FR独自のアトリビュートタグです。プログラムであるか、情報処理デバイスであるSCPの記事に付与されるタグです。//fr//が併用される場合にのみ使用できます。
 
 [[>]]
 [#attribute-toc 目次へ]
@@ -959,6 +960,9 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * ,,︁,,,,,,**[[[/system:page-tags/tag/外部ウィキアーカイブ|外部ウィキアーカイブ]]]** - SCP財団Wiki外部のサイトから和訳・転載された記事に付与されるタグです。//外部ウィキアーカイブ//タグが付与されるページには、翻訳元の言語に相当する支部タグを併用される必要があります。新規作成は翻訳を含めて基本的に認められていません。
 
 [[/tab]]
+[[tab ジャンル]]
+ジャンルタグはJPにおいては制度未整備のためまだ導入されていません。このページの下部にある"翻訳に関するFAQ"のタブも参照して下さい。
+[[/tab]]
 [[tab ウィキ運営用]]
 
 コンテンツマーカー的性質を持つタグの中でも、サイトの運営のために使用されるタグ群です。特に制限が無い場合、通常のタグと同じく一般メンバーも利用できます。
@@ -1025,6 +1029,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/ドレッド&サーカス|ドレッド&サーカス]]]** //(dread&circuses)// - [[[dread-circuses-hub|ドレッド&サーカス]]]。
 * **[[[/system:page-tags/tag/死の終焉|死の終焉]]]** //(end-of-death)// - [[[end-of-death-hub|死の終焉]]]。
 * **[[[/system:page-tags/tag/eventyr|eventyr]]]** //(eventyr)// - [[[eventyr-hub|Eventyr]]]。
+* **[[[/system:page-tags/tag/消えゆく星々|消えゆく星々]]]** //(fading-stars)// - [[[fading-stars-hub|消えゆく星々]]]。
 * **[[[/system:page-tags/tag/120の記録書庫より|120の記録書庫より]]]** //(from-120s-archives)// - [[[from-120-s-archives-hub|120の記録書庫より]]]。
 * **[[[/system:page-tags/tag/翠の王|翠の王]]]** //(green-king)// - [[[codename-green-king-hub|コードネーム：翠の王]]]。
 * **[[[/system:page-tags/tag/ヘイムダル|ヘイムダル]]]** //(heimdall)// - [[[project-heimdall|ヘイムダル計画]]]。
@@ -1793,6 +1798,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/廃棄部門|廃棄部門]]]** - 廃棄部門。
 * **[[[/system:page-tags/tag/匡済部門|匡済部門]]]** - [[[rehabilitation-department-hub|匡済部門]]]。
 * **[[[/system:page-tags/tag/欺瞞部門|欺瞞部門]]]** - 欺瞞部門。
+* **[[[/system:page-tags/tag/葬祭部門|葬祭部門]]]** - 葬祭部門。
 
 +++ フロント-JP
 それぞれの詳細は[[[front-jp|]]]を参照してください。
@@ -1985,6 +1991,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/くすぐりオバケ|くすぐりオバケ]]]** //(tickle-monster)// - くすぐりオバケ、通称[[[SCP-999]]]。
 * **[[[/system:page-tags/tag/scp-173|scp-173]]]** //(the-sculpture)// - 彫刻、通称[[[SCP-173]]]。
 * **[[[/system:page-tags/tag/the-specter|the-specter]]]** //(the-specter)// - The Specter、通称[[[SCP-4944]]]。
+* **[[[/system:page-tags/tag/おおこわいこわい|おおこわいこわい]]]** //(too-spooky)// - おおこわいこわい、通称[[[SCP-2006]]]。
 
 @@ @@
 
