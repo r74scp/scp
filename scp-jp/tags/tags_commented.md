@@ -305,7 +305,7 @@
 * **[[[/system:page-tags/tag/知性|知性]]]** //(sapient)// - 哲学概念を把握する能力など知性体の特徴を示すSCPの記事に付与されるタグです。
 * **[[[/system:page-tags/tag/種族|種族]]]** //(species)// - 一個体ではなく、ある特定の種全体であるSCPの記事に付与されるタグです。
 * **[[[/system:page-tags/tag/群れ|群れ]]]** //(swarm)// - 群れる性質を示すSCPの記事に付与されるタグです。
-* **[[[/system:page-tags/tag/樹木|樹木]]]** //(arboreal)// - 樹状もしくは木のような植物であるか、その特徴を示すSCPの記事に付与されるタグです。
+* **[[[/system:page-tags/tag/樹木|樹木]]]** //(tree)// - 樹状もしくは木のような植物であるか、その特徴を示すSCPの記事に付与されるタグです。
  * 適切ならば//植物//タグと併用してください。
 * **[[[/system:page-tags/tag/ウイルス|ウイルス]]]** //(virus)// - ウイルスの特徴を示すSCPの記事に付与されるタグです。
  * 必ず//生物学//タグまたは//コンピュータ//タグと併用されねばなりません。
@@ -1127,7 +1127,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/アイディタ計画|アイディタ計画]]]** //(爱蒂塔计划)// - [[[project-aidita-hub|アイディタ計画]]]。
 * **[[[/system:page-tags/tag/港城江|港城江]]]** //(港城江)// - [[[k-s-g-hub|港．城．江]]]。
 * **[[[/system:page-tags/tag/荏苒荒涼|荏苒荒涼]]]** //(荏苒荒凉)// - [[[slipping-desolation|荏苒荒涼]]]。
-* **[[[/system:page-tags/tlorecon2023、転写不全ag/アルツハイマー・シンドローム|アルツハイマー・シンドローム]]]** //(阿尔兹海默症)// - [[[alzheimer-central|アルツハイマー・シンドローム]]]。
+* **[[[/system:page-tags/tag/アルツハイマー・シンドローム|アルツハイマー・シンドローム]]]** //(阿尔兹海默症)// - [[[alzheimer-central|アルツハイマー・シンドローム]]]。
 * **[[[/system:page-tags/tag/捜査部|捜査部]]]** //(刑侦处)// - [[[criminal-investigation-department-hub|捜査部]]]。
 * **[[[/system:page-tags/tag/転写不全|転写不全]]]** //(转录故障)// - [[[transcription-malfunctioned-hub|転写不全]]]。
 * **[[[/system:page-tags/tag/境界の画定者|境界の画定者]]]** //(边界勘定人)// - [[[demarcaters-of-the-edge-center|境界の画定者]]]。
