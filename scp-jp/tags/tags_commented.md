@@ -2491,6 +2491,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/publicdomaincon2025|publicdomaincon2025]]]** //(publicdomaincon2025)// - [[[pdcontest2025|2025年パブリックドメインコンテスト]]]。
 
+* **[[[/system:page-tags/tag/classiccon2025|classiccon2025]]]** //(classiccon2025)// - [[[classic-con|2025年クラシックコンテスト]]]。
+
 * **[[[/system:page-tags/tag/memecon2021-unofficial|memecon2021-unofficial]]]** //(memecon2021-unofficial)// - 非公式企画の[[[memecon-unofficial|2021年ミームコンテスト]]]。
 
 * **[[[/system:page-tags/tag/romcon2023-unofficial|romcon2023-unofficial]]]** //(romcon2023-unofficial)// - 非公式企画の[[[romcon|2023年ロマンスコンテスト]]]: SCPオリキャラトーナメント。
@@ -2501,6 +2503,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/intcanoncon2025|intcanoncon2025]]]** //(intcanoncon2025)// - 非公式企画の[[[international-canon-contest|2025年国際カノンコンテスト]]]。
  * 本タグが付与される記事をENから翻訳する場合、関連するカノンタグ(カノンタグ-EN以外のもの)がENの翻訳元に付与されていなくてもJP独自で付与することが認められます。この場合、その旨をディスカッションに明示してください。
+
+* **[[[/system:page-tags/tag/pridefest2025|pridefest2025]]]** //(pridefest2025)// - 非公式企画の[[[pridefest-2025|2025年プライドフェスティバル]]]。
 
 以下のタグについては、特定の他支部の項を参照してください。
 
@@ -2529,8 +2533,6 @@ SCPユニバースを彩るキャラクターたちのタグです。
  * **[[[/system:page-tags/tag/_夜勤|_夜勤]]]** (//_graveyard-shift//) - "夜勤"カテゴリへの参加作。
 
 * **[[[/system:page-tags/tag/spring-cleaning24|spring-cleaning24]]]** //(spring-cleaning24)// - [[[deer-college-spring-cleaning-event|2024年春の大掃除イベント]]]。
-
-* **[[[/system:page-tags/tag/pridefest2025|pridefest2025]]]** //(pridefest2025)// - [[[pridefest-2025|2025年プライドフェスティバル]]]。
 
 [[/tab]]
 [[tab JP]]
@@ -2913,11 +2915,13 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 +++ コンテスト-VN
 
-* **[[[/system:page-tags/tag/100-vn|100-vn]]]** - [[[scp100vncontesthub|SCP-100-VNコンテスト]]]。
+* **[[[/system:page-tags/tag/100-vn|100-vn]]]** //(100-vn)// - [[[scp100vncontesthub|SCP-100-VNコンテスト]]]。
 
-* **[[[/system:page-tags/tag/imgexcon25|imgexcon25]]]** - [[[imgexcon25|画像交換コンテスト2025]]]。
+* **[[[/system:page-tags/tag/collabcon-2022-vn|collabcon-2022-vn]]]** //(collabcon-2022-vn)// - [[[collabcon-2022-hub|共著コンテスト2022]]]。
 
 * **[[[/system:page-tags/tag/trinitycon2023|trinitycon2023]]]** //(trinitycon2023)// - [[[trinitycon2023|トリニティコンテスト2023]]]。
+
+* **[[[/system:page-tags/tag/imgexcon25|imgexcon25]]]** //(imgexcon25)// - [[[imgexcon25|画像交換コンテスト2025]]]。
 
 [[/tab]]
 [[tab Others]]
