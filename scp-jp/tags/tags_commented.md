@@ -2624,6 +2624,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/bbc24|bbc24]]]** - [[[bbc24|棍棒での殴り合いコンテスト2024]]]。
 
 * **[[[/system:page-tags/tag/occon|occon]]]** - [[[occon25|オブジェクトクラス最強決定戦]]]。
+
+* **[[[/system:page-tags/tag/時コン25|時コン25]]]** - [[[tokicontest2025-hub|時のコンテスト2025]]]。
 @@ @@
 
 +++ キャンペーン-JP
