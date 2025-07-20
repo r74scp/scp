@@ -146,7 +146,9 @@ Tags that describe the content of a //supplement// page.
 [[tab Object Classes]]
 ++ Object Classes
 
-All SCP articles tagged as scp should also be tagged with the appropriate tag for their object class or esoteric-class if it does not have one, if its object class cannot be determined from the article's contents, or if it has a non-standard object class. Legacy articles that are dual-classed (such as safe/euclid) are tagged with both of their constituent classes; however, as this is no longer allowed, it is only for posterity until all such articles are updated or deleted. The only exception is that articles can be tagged as both neutralized and as the object class they were prior to being neutralized.
+All articles tagged with scp should also be tagged with the appropriate tag for their object class, or with esoteric-class if it does not have one, if its object class cannot be determined from the article's contents, or if it has a non-standard object class.
+
+If an SCP has multiple object classes at the same time, most frequently Safe, Euclid or Keter and a secondary object class, it should be tagged with all applicable object class tags, which may include esoteric-class. If an article's object class changes over time, either by striking through an outdated object class or by updating the SCP article with a new iteration, only the object class or classes on the final version of the article should be applied as tags. The exception is articles tagged as neutralized, decommissioned or explained, which should be tagged with whatever object class they were before.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
@@ -173,7 +175,9 @@ The following applies to all tags in this category:
 
 This list is intended as a guide to attribute tags, or secondary tags on SCP articles. These should only be used on SCP articles, not tales or GoI formats.
 
-The list of tags has been divided into the following subsections: Entity, Animal, Mental, Biological, Physical, Artificial, Location, and Other.
+The list of tags has been divided into the following subsections: Entity, Animal, Biological, Mental, Physical, Location, Artificial, and Other.
+
+See the [https://05command.wikidot.com/tech-hub-tag Tag FAQ] for extended clarifications.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
@@ -187,7 +191,8 @@ The following applies to all tags in this category:
 Tags that apply to creatures that are **alive**, or to **autonomous** or non-living beings with similar properties.
 
 * **[https://scpwiki.com/system:page-tags/tag/adaptive adaptive]** -- SCP adapts to stimuli in an anomalous manner.
-* **[https://scpwiki.com/system:page-tags/tag/alive alive]** -- SCP is alive, meaning it exhibits the traits of metabolism, reaction, and reproduction. See the Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for more information.
+* **[https://scpwiki.com/system:page-tags/tag/alive alive]** -- SCP is alive, meaning it exhibits the biological traits of metabolic activity and response to stimuli.
+ * //Often used with 'animal', 'plant', and 'fungus'//
  * //Conflicts with 'autonomous'//
  * //Supersedes 'biological'//
 * **[https://scpwiki.com/system:page-tags/tag/amorphous amorphous]** -- SCP lacks a set form or shape, constantly changes shape, or has a poorly-defined shape e.g. a blob.
@@ -205,12 +210,14 @@ Tags that apply to creatures that are **alive**, or to **autonomous** or non-liv
 * **[https://scpwiki.com/system:page-tags/tag/humanoid humanoid]** -- SCP is humanoid or exhibits traits of humanoids.
 * **[https://scpwiki.com/system:page-tags/tag/metamorphic metamorphic]** -- SCP changes its form or shape, often to mimic the form or shape of other objects or entities. Often used to describe shapeshifters or mimics.
  * //Conflicts with 'amorphous'//
+* **[https://scpwiki.com/system:page-tags/tag/mimetic mimetic]** -- SCP exhibits anomalous mimicry.
+ * //Often used with 'auditory', 'gustatory', 'olfactory', 'tactile', and 'visual'//
 * **[https://scpwiki.com/system:page-tags/tag/predatory predatory]** -- SCP exhibits predatory behavior, obtaining food or sustenance by hunting for prey.
  * //Conflicts with 'hostile'//
 * **[https://scpwiki.com/system:page-tags/tag/plant plant]** -- SCP is a plant or exhibits plant-like traits.
 * **[https://scpwiki.com/system:page-tags/tag/sapient sapient]** -- SCP demonstrates sapience, the capacity for reason, abstract thought and complex emotional responses. Used to indicate intelligence equal to or exceeding human intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/species species]** -- SCP describes an entire species, rather than one or more individuals.
-* **[https://scpwiki.com/system:page-tags/tag/swarm swarm]** -- SCP exhibits swarm behavior.
+* **[https://scpwiki.com/system:page-tags/tag/swarm swarm]** -- SCP exhibits swarming behavior.
 * **[https://scpwiki.com/system:page-tags/tag/tree tree]** -- SCP is or exhibits traits of tree-like (arboreal) plants.
  * //Often used with 'plant'//
 * **[https://scpwiki.com/system:page-tags/tag/virus virus]** -- SCP exhibits traits of viral agents.
@@ -256,6 +263,7 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Often used with 'animal'//
 * **[https://scpwiki.com/system:page-tags/tag/dinosaur dinosaur]** -- SCP is, affects or resembles non-avian dinosaurs. Includes pterosaurs and extinct marine reptiles.
 * **[https://scpwiki.com/system:page-tags/tag/dragon dragon]** -- SCP is, affects, or resembles dragons. Includes all varieties of dragon from various traditions.
+ * //Often used with 'animal', and 'reptile'//
 * **[https://scpwiki.com/system:page-tags/tag/equine equine]** -- SCP is, affects or resembles horse-like animals, including zebra and donkeys.
  * //Often used with 'animal'//
 * **[https://scpwiki.com/system:page-tags/tag/feline feline]** -- SCP is, affects or resembles cat-like animals, including big cats like lions and tigers.
@@ -318,33 +326,34 @@ Tags that apply to entities, objects or phenomena with biological effects or pro
 Tags that apply to entities, objects or phenomena that have psychological, **mind-affecting** or **sensory** effects.
 
 * **[https://scpwiki.com/system:page-tags/tag/addictive addictive]** -- SCP causes desire or addictive behavior in affected subjects.
-* **[https://scpwiki.com/system:page-tags/tag/antimemetic antimemetic]** -- SCP is or involves the use of (an) antimeme(s) to suppress knowledge and/or understanding of an idea or concept, including itself.
+* **[https://scpwiki.com/system:page-tags/tag/antimemetic antimemetic]** -- SCP is or involves the use of an antimeme to suppress knowledge or understanding of an idea or concept, including itself.
  * //Avoid using with 'memetic'//
 * **[https://scpwiki.com/system:page-tags/tag/auditory auditory]** -- SCP is triggered by, activated by, or affects the sense of hearing.
  * //Avoid using with 'acoustic'//
 * **[https://scpwiki.com/system:page-tags/tag/cognitohazard cognitohazard]** -- SCP is hazardous to subjects when observed by any of the traditional 5 senses.
  * //Often used with 'auditory', 'gustatory', 'olfactory', 'tactile', and 'visual'//
-* **[https://scpwiki.com/system:page-tags/tag/compulsion compulsion]** -- SCP induces compulsive behavior in subjects or otherwise causes subjects to do things they normally would not. See the [https://05command.wikidot.com/tech-hub-tag Tag FAQ] for extended clarifications.
+* **[https://scpwiki.com/system:page-tags/tag/compulsion compulsion]** -- SCP induces compulsive behavior in subjects, or otherwise causes them to do things they normally would not do. This is usually a temporary urge following exposure to an anomaly, rather than a permanent change to behavior.
+ * //Compare with 'mind-affecting'//
 * **[https://scpwiki.com/system:page-tags/tag/empathic empathic]** -- SCP is capable of reading or conveying emotion, feelings, or sensations.
  * //Often used with 'telepathic'//
 * **[https://scpwiki.com/system:page-tags/tag/gustatory gustatory]** -- SCP is triggered by, activated by, or affects the sense of taste.
 * **[https://scpwiki.com/system:page-tags/tag/hallucination hallucination]** -- SCP induces hallucinations in subjects or is a hallucination.
  * //Often used with 'auditory', and 'visual'//
-* **[https://scpwiki.com/system:page-tags/tag/infohazard infohazard]** -- SCP has an effect that is triggered when it is described or referred to. See the [https://05command.wikidot.com/tech-hub-tag Tag FAQ] for extended clarifications.
+* **[https://scpwiki.com/system:page-tags/tag/infohazard infohazard]** -- SCP has an effect that is triggered when it is described or referred to. Unlike a meme, an infohazard is a physical object that has effects on thoughts and behavior related to it.
+ * //Compare with 'memetic'//
 * **[https://scpwiki.com/system:page-tags/tag/knowledge knowledge]** -- SCP absorbs, stores, generates, grants, or possesses knowledge that is anomalous, or through an anomalous process. SCPs capable of accurate predictions should be tagged //predictive// instead.
  * //Superseded by 'predictive'//
  * //Compare with 'telepathic'//
 * **[https://scpwiki.com/system:page-tags/tag/language language]** -- SCP imparts, exhibits, or is an anomalous language.
-* **[https://scpwiki.com/system:page-tags/tag/memetic memetic]** -- SCP is a memetic agent or exhibits traits of [https://scp-wiki.wikidot.com/Understanding-Memetics memetic propagation]. See the [https://05command.wikidot.com/tech-hub-tag Tag FAQ] for extended clarifications.
+* **[https://scpwiki.com/system:page-tags/tag/memetic memetic]** -- SCP is a memetic agent or exhibits traits of [https://scp-wiki.wikidot.com/Understanding-Memetics memetic propagation], meaning that the information itself is anomalous and infectious.
  * //Often used with 'cognitohazard'//
  * //Avoid using with 'antimemetic'//
  * //Supersedes 'contagion'//
-* **[https://scpwiki.com/system:page-tags/tag/mimetic mimetic]** -- SCP exhibits anomalous mimicry.
- * //Often used with 'auditory', 'gustatory', 'olfactory', 'tactile', and 'visual'//
+ * //Compare with 'infohazard'//
 * **[https://scpwiki.com/system:page-tags/tag/memory-affecting memory-affecting]** -- SCP imparts, changes, or removes memories in intelligent beings such as human subjects.
  * //Compare with 'mind-affecting'//
-* **[https://scpwiki.com/system:page-tags/tag/mind-affecting mind-affecting]** -- SCP affects the thinking of subjects, which can include behavior and overall intelligence. See the [https://05command.wikidot.com/tech-hub-tag Tag FAQ] for extended clarifications.
- * //Compare with 'memory-affecting'//
+* **[https://scpwiki.com/system:page-tags/tag/mind-affecting mind-affecting]** -- SCP affects the thinking of subjects, which can include behavior and overall intelligence. This change may be permanent, and may make people do things they would otherwise never do.
+ * //Compare with 'memory-affecting', and 'compulsion'//
 * **[https://scpwiki.com/system:page-tags/tag/neurological neurological]** -- SCP directly or indirectly affects the neurological system of subjects. Only applicable in situations where objective neurological changes are confirmed, as opposed to a simple change of behavior in the subject.
  * //Often used with 'mind-affecting', and 'memory-affecting'//
 * **[https://scpwiki.com/system:page-tags/tag/observational observational]** -- SCP has properties that are triggered or suppressed when directly or indirectly observed. These properties may or may not also be //cognitohazards//.
@@ -424,76 +433,6 @@ Tags that apply to the physical properties or effects of entities, objects or ph
 * **[https://scpwiki.com/system:page-tags/tag/vibration vibration]** -- SCP generates anomalous vibrations or other repetitive movement.
  * //Often used with 'acoustic'//
 
-+++ Artificial
-
-Tags that typically apply to objects or cultural practices created by humans, including **artifacts** and **artistic** works, as well as specific ways humans can interact with anomalies.
-
-* **[https://scpwiki.com/system:page-tags/tag/appliance appliance]** -- SCP is or resembles a household or domestic appliance.
- * //Often used with 'electrical', and 'electronic'//
- * //Supersedes 'artifact'//
- * //Superseded by 'computer'//
-* **[https://scpwiki.com/system:page-tags/tag/artistic artistic]** -- SCP is a work of art, exhibits artistic properties, or has artistic significance.
- * //Supersedes 'artifact'//
- * //Superseded by 'musical', 'performance', and 'sculpture'//
-* **[https://scpwiki.com/system:page-tags/tag/artifact artifact]** -- SCP is or was originally created by humans.
- * //Superseded by 'appliance', 'artistic', 'clothing', 'cinema', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
-* **[https://scpwiki.com/system:page-tags/tag/clockwork clockwork]** -- SCP operates primarily via clockworks, defined as mechanical devices constructed primarily using toothed wheels and/or powered by a mainspring.
- * //Supersedes 'mechanical'//
-* **[https://scpwiki.com/system:page-tags/tag/clothing clothing]** -- SCP is an artifact primarily intended to be worn for protection or comfort, including armor and protective helmets.
- * //Conflicts with 'jewelry'//
- * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/cinema cinema]** -- SCPs that are, relate to or concern the medium of cinema, film and/or movies.
- * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/computer computer]** -- SCP is a computational device or affects computational devices.
- * //Often used with 'electronic', and 'mechanical'//
- * //Supersedes 'artifact', and 'appliance'//
-* **[https://scpwiki.com/system:page-tags/tag/currency currency]** -- SCP is, is related to, affects, or is activated by money or other objects primarily intended to be used as a medium of exchange.
-* **[https://scpwiki.com/system:page-tags/tag/document document]** -- SCP is a textual document of some sort. Includes books.
- * //Supersedes 'artifact', and 'inscription'//
-* **[https://scpwiki.com/system:page-tags/tag/electronic electronic]** -- SCP is or resembles an electronic device.
-* **[https://scpwiki.com/system:page-tags/tag/exchange exchange]** -- SCP involves or is triggered by some form of exchange of physical or intangible goods, including but not limited to bartering and monetary trade.
-* **[https://scpwiki.com/system:page-tags/tag/food food]** -- SCP is primarily intended to be an edible object or substance.
- * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/foundation-made foundation-made]** -- SCP was created, intentionally or otherwise, by the SCP Foundation itself. Note that only the objects whose creation resulted directly from specific actions of the Foundation are applicable. This excludes phenomena which formed spontaneously at a Foundation site due to the area's routine exposure to a large number of contained anomalies.
-* **[https://scpwiki.com/system:page-tags/tag/game game]** -- SCP is, is used in, is activated by, or is otherwise related to one or more games, defined as a method of play or a sport -- especially a competitive one -- that can be won or lost by skill, strength, or luck.
- * //Often used with 'sport', and 'toy'//
-* **[https://scpwiki.com/system:page-tags/tag/inscription inscription]** -- SCP features carvings, engravings or inscriptions of words, numbers or other designs.
- * //Superseded by 'document'//
-* **[https://scpwiki.com/system:page-tags/tag/jewelry jewelry]** -- SCP is an object primarily intended to be worn in a decorative manner.
- * //Conflicts with 'clothing'//
- * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/mechanical mechanical]** -- SCP operates primarily in a mechanical manner or is a mechanical device.
- * //Superseded by 'clockwork', and 'robotic'//
-* **[https://scpwiki.com/system:page-tags/tag/media media]** -- SCP is or is contained on, one or more items of fixed or removable analog or digital media, such as a tape, record, disc, or drive.
- * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/military military]** -- SCP is military equipment, part or member of a military unit, or otherwise has military significance.
- * //Compare with 'weapon'//
-* **[https://scpwiki.com/system:page-tags/tag/musical musical]** -- SCP is, generates, or is generated by musical compositions.
- * //Supersedes 'artistic'//
-* **[https://scpwiki.com/system:page-tags/tag/online online]** -- SCP is available on, utilizes, or is dependent on a connection to the internet.
- * //Often used with 'computer', and 'electronic'//
-* **[https://scpwiki.com/system:page-tags/tag/performance performance]** -- SCP is or is used in a performance art, such as a dance or play.
- * //Supersedes 'artistic'//
-* **[https://scpwiki.com/system:page-tags/tag/photographic photographic]** -- SCP is or deals with photography or features a photograph as part of the primary anomaly.
-* **[https://scpwiki.com/system:page-tags/tag/religious religious]** -- SCP is associated with or otherwise has significance to one or more organized religions.
-* **[https://scpwiki.com/system:page-tags/tag/ritual ritual]** -- SCP is or is triggered or activated through ritualistic behavior.
-* **[https://scpwiki.com/system:page-tags/tag/robotic robotic]** -- SCP is a device or construct designed to operate on its own. Applicable to anything that can be described as a 'robot' or 'automaton'.
- * //Avoid using with 'autonomous'//
- * //Supersedes 'mechanical'//
-* **[https://scpwiki.com/system:page-tags/tag/sculpture sculpture]** -- SCP is a three-dimensional piece of artwork. To be considered a //sculpture//, the object in question must have been formed, carved, or molded.
- * //Supersedes 'artistic'//
-* **[https://scpwiki.com/system:page-tags/tag/sport sport]** -- SCP is, is used in, is activated by, or is otherwise related to one or more sports, defined as an activity involving physical exertion and skill in which one or more individuals compete against other individuals or teams. Sports should also be tagged with //game//. Equipment or gear specifically or exclusively used in sporting events should also be tagged with //clothing// or //tool//, as appropriate.
- * //Compare with 'game', 'clothing', and 'tool'//
-* **[https://scpwiki.com/system:page-tags/tag/tool tool]** -- SCP is (or was intended to be) used as a tool.
- * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/toy toy]** -- SCP is, or was primarily intended to be, used as a toy.
- * //Often used with 'game'//
- * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/weapon weapon]** -- SCP is or is intended to be used as a weapon.
- * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/vehicle vehicle]** -- SCP is or is intended to be used as a vehicle.
- * //Supersedes 'artifact'//
-
 +++ Location
 
 Tags that describe where the SCP is or where it comes from, or that apply to SCPs that describe or affect specific locations.
@@ -523,6 +462,71 @@ Tags that describe where the SCP is or where it comes from, or that apply to SCP
 * **[https://scpwiki.com/system:page-tags/tag/subterranean subterranean]** -- SCP is located or operates wholly or significantly underground, defined as below the surface of the Earth. Does not apply objects that are simply contained underground for safety or convenience.
 * **[https://scpwiki.com/system:page-tags/tag/sun sun]** -- SCP is, is related to, or affects a sun, which may or may not be our sun.
 
++++ Artificial
+
+Tags that typically apply to objects or cultural practices created by humans, including **artifacts** and **artistic** works, as well as specific ways humans can interact with anomalies.
+
+* **[https://scpwiki.com/system:page-tags/tag/appliance appliance]** -- SCP is or resembles a household or domestic appliance.
+ * //Often used with 'electrical', and 'electronic'//
+ * //Supersedes 'artifact'//
+ * //Superseded by 'computer'//
+* **[https://scpwiki.com/system:page-tags/tag/artistic artistic]** -- SCP is a work of art, exhibits artistic properties, or has artistic significance.
+ * //Supersedes 'artifact'//
+ * //Superseded by 'musical', 'performance', and 'sculpture'//
+* **[https://scpwiki.com/system:page-tags/tag/artifact artifact]** -- SCP is or was originally created by humans.
+ * //Superseded by 'appliance', 'artistic', 'clothing', 'cinema', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
+* **[https://scpwiki.com/system:page-tags/tag/clockwork clockwork]** -- SCP operates primarily via clockworks, defined as mechanical devices constructed primarily using toothed wheels and/or powered by a mainspring.
+ * //Supersedes 'mechanical'//
+* **[https://scpwiki.com/system:page-tags/tag/clothing clothing]** -- SCP is an artifact primarily intended to be worn for protection or comfort, including armor and protective helmets.
+ * //Conflicts with 'jewelry'//
+ * //Supersedes 'artifact'//
+* **[https://scpwiki.com/system:page-tags/tag/cinema cinema]** -- SCPs that are, relate to or concern the medium of cinema, film and/or movies.
+ * //Supersedes 'artifact'//
+* **[https://scpwiki.com/system:page-tags/tag/computer computer]** -- SCP is a computational device or affects computational devices.
+ * //Often used with 'electronic', and 'mechanical'//
+ * //Supersedes 'artifact', and 'appliance'//
+* **[https://scpwiki.com/system:page-tags/tag/currency currency]** -- SCP is, is related to, affects, or is activated by money or other objects primarily intended to be used as a medium of exchange.
+ * //Often used with 'exchange'//
+* **[https://scpwiki.com/system:page-tags/tag/document document]** -- SCP is a textual document of some sort. Includes books.
+ * //Supersedes 'artifact', and 'inscription'//
+* **[https://scpwiki.com/system:page-tags/tag/electronic electronic]** -- SCP is or resembles an electronic device.
+* **[https://scpwiki.com/system:page-tags/tag/food food]** -- SCP is primarily intended to be an edible object or substance.
+ * //Supersedes 'artifact'//
+* **[https://scpwiki.com/system:page-tags/tag/game game]** -- SCP is, is used in, is activated by, or is otherwise related to one or more games, defined as a method of play or a sport -- especially a competitive one -- that can be won or lost by skill, strength, or luck.
+ * //Often used with 'sport', and 'toy'//
+* **[https://scpwiki.com/system:page-tags/tag/inscription inscription]** -- SCP features carvings, engravings or inscriptions of words, numbers or other designs.
+ * //Superseded by 'document'//
+* **[https://scpwiki.com/system:page-tags/tag/jewelry jewelry]** -- SCP is an object primarily intended to be worn in a decorative manner.
+ * //Conflicts with 'clothing'//
+ * //Supersedes 'artifact'//
+* **[https://scpwiki.com/system:page-tags/tag/mechanical mechanical]** -- SCP operates primarily in a mechanical manner or is a mechanical device.
+ * //Superseded by 'clockwork', and 'robotic'//
+* **[https://scpwiki.com/system:page-tags/tag/media media]** -- SCP is or is contained on, one or more items of fixed or removable analog or digital media, such as a tape, record, disc, or drive.
+ * //Supersedes 'artifact'//
+* **[https://scpwiki.com/system:page-tags/tag/musical musical]** -- SCP is, generates, or is generated by musical compositions.
+ * //Supersedes 'artistic'//
+* **[https://scpwiki.com/system:page-tags/tag/online online]** -- SCP is available on, utilizes, or is dependent on a connection to the internet.
+ * //Often used with 'computer', and 'electronic'//
+* **[https://scpwiki.com/system:page-tags/tag/performance performance]** -- SCP is or is used in a performance art, such as a dance or play.
+ * //Supersedes 'artistic'//
+* **[https://scpwiki.com/system:page-tags/tag/photographic photographic]** -- SCP is or deals with photography or features a photograph as part of the primary anomaly.
+* **[https://scpwiki.com/system:page-tags/tag/robotic robotic]** -- SCP is a device or construct designed to operate on its own. Applicable to anything that can be described as a 'robot' or 'automaton'.
+ * //Avoid using with 'autonomous'//
+ * //Supersedes 'mechanical'//
+* **[https://scpwiki.com/system:page-tags/tag/sculpture sculpture]** -- SCP is a three-dimensional piece of artwork. To be considered a //sculpture//, the object in question must have been formed, carved, or molded.
+ * //Supersedes 'artistic'//
+* **[https://scpwiki.com/system:page-tags/tag/sport sport]** -- SCP is, is used in, is activated by, or is otherwise related to one or more sports, defined as an activity involving physical exertion and skill in which one or more individuals compete against other individuals or teams. Sports should also be tagged with //game//. Equipment or gear specifically or exclusively used in sporting events should also be tagged with //clothing// or //tool//, as appropriate.
+ * //Compare with 'game', 'clothing', and 'tool'//
+* **[https://scpwiki.com/system:page-tags/tag/tool tool]** -- SCP is (or was intended to be) used as a tool.
+ * //Supersedes 'artifact'//
+* **[https://scpwiki.com/system:page-tags/tag/toy toy]** -- SCP is, or was primarily intended to be, used as a toy.
+ * //Often used with 'game'//
+ * //Supersedes 'artifact'//
+* **[https://scpwiki.com/system:page-tags/tag/weapon weapon]** -- SCP is or is intended to be used as a weapon.
+ * //Supersedes 'artifact'//
+* **[https://scpwiki.com/system:page-tags/tag/vehicle vehicle]** -- SCP is or is intended to be used as a vehicle.
+ * //Supersedes 'artifact'//
+
 +++ Other
 
 Any tags that do not fit into the other sections.
@@ -530,13 +534,20 @@ Any tags that do not fit into the other sections.
 * **[https://scpwiki.com/system:page-tags/tag/anomalous-event anomalous-event]** -- The SCP is a singular anomalous event that significantly changed reality in some way.
  * //Avoid using with 'phenomenon'//
 * **[https://scpwiki.com/system:page-tags/tag/concept concept]** -- SCP is or affects a purely non-physical concept. Should not be used in conjunction with tags describing physical qualities.
+* **[https://scpwiki.com/system:page-tags/tag/exchange exchange]** -- SCP involves or is triggered by some form of exchange of physical or intangible goods, including but not limited to bartering and monetary trade.
+ * //Often used with 'currency'//
+* **[https://scpwiki.com/system:page-tags/tag/foundation-made foundation-made]** -- SCP was created, intentionally or otherwise, by the SCP Foundation itself. Note that only the objects whose creation resulted directly from specific actions of the Foundation are applicable. This excludes phenomena which formed spontaneously at a Foundation site due to the area's routine exposure to a large number of contained anomalies.
 * **[https://scpwiki.com/system:page-tags/tag/k-class-scenario k-class-scenario]** -- SCP is involved in or capable of instigating one or more K-Class End of the World scenarios. Should only be used in articles that specifically name a type of K-Class scenario.
 * **[https://scpwiki.com/system:page-tags/tag/mathematical mathematical]** -- SCP is or affects a number, number system, mathematical equation, or otherwise has mathematical significance.
 * **[https://scpwiki.com/system:page-tags/tag/meta meta]** -- SCP affects or is affected by its documentation or requires containment procedures regarding the way it is documented. See Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for extended clarifications.
+* **[https://scpwiki.com/system:page-tags/tag/military military]** -- SCP is military equipment, part or member of a military unit, or otherwise has military significance.
+ * //Compare with 'weapon'//
 * **[https://scpwiki.com/system:page-tags/tag/narrative narrative]** -- SCP is, is related to, or propagates via narrative information or documents.
 * **[https://scpwiki.com/system:page-tags/tag/probability probability]** -- SCP alters or manipulates the probability of certain events or outcomes.
 * **[https://scpwiki.com/system:page-tags/tag/phenomenon phenomenon]** -- The SCP is an ongoing widespread phenomenon not directly linked to a physical source.
  * //Avoid using with 'anomalous-event'//
+* **[https://scpwiki.com/system:page-tags/tag/religious religious]** -- SCP is associated with or otherwise has significance to one or more organized religions.
+* **[https://scpwiki.com/system:page-tags/tag/ritual ritual]** -- SCP is or is triggered or activated through ritualistic behavior.
 * **[https://scpwiki.com/system:page-tags/tag/uncontained uncontained]** -- SCP is neither fully nor partially contained. This should only be applied to SCPs where no instances are contained at all and does not apply if the Foundation successfully contains one or more instances.
 
 [[/tab]]
@@ -635,13 +646,16 @@ Describes when or where an article takes place.
 * **[https://scpwiki.com/system:page-tags/tag/corporate corporate]** -- Focuses on the operations of a business or corporation.
 * **[https://scpwiki.com/system:page-tags/tag/dystopian dystopian]** -- Imagines a non-existent society or culture, portrayed as being much worse than our current one.
 * **[https://scpwiki.com/system:page-tags/tag/halloween halloween]** -- Set during or influenced by the holiday of Halloween.
-* **[https://scpwiki.com/system:page-tags/tag/otherworldly otherworldly]** -- Set in another world, reality or universe. Includes works that are entirely set somewhere other than Earth, as well as portal fantasy fiction featuring travel to another world.
+* **[https://scpwiki.com/system:page-tags/tag/otherworldly otherworldly]** -- Set in another world, reality or universe. Includes works that are entirely set somewhere other than Earth, as well as stories featuring travel to another world.
+ * //Often used with 'fantasy', and 'science-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/period-piece period-piece]** -- Set during a specific period in the past.
  * //Compare with 'historical'//
 * **[https://scpwiki.com/system:page-tags/tag/school school]** -- Focuses on a school, college or university, or on the education system more broadly.
 * **[https://scpwiki.com/system:page-tags/tag/space-opera space-opera]** -- Depicts a futuristic society in outer space or on other planets, focusing on dramatic events and adventures.
+ * //Often used with 'science-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/utopian utopian]** -- Imagines a non-existent society or culture, portrayed as being much better than our current one.
 * **[https://scpwiki.com/system:page-tags/tag/western western]** -- Set in the American Frontier, during the time period known as the Wild West.
+ * //Compare with 'period-piece'//
 
 +++ Style
 
