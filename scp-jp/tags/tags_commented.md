@@ -2475,7 +2475,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/halloweencon2022|halloweencon2022]]]** //(halloweencon2022)// - [[[halloween-con-2022|2022年ハロウィンコンテスト]]]。
 
-* **[[[/system:page-tags/tag/departmentcon2022|departmentcon2022]]]** //(departmentcon2022)// - [[[departmentcon2022|2022年部門コンテスト]]]。
+* **[[[/system:page-tags/tag/departmentcon2022|departmentcon2022]]]** //(departmentcon2022)// - [[[department-contest|2022年部門コンテスト]]]。
 
 * **[[[/system:page-tags/tag/coldpostcon|coldpostcon]]]** //(coldpostcon)// - [[[coldpostcon|コールドポストコンテスト]]]。
 
