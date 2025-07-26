@@ -90,7 +90,7 @@ Pages created for internal use.
 +++ Other pages
 
 * **[https://scpwiki.com/system:page-tags/tag/admin admin]** -- //admin// pages, as the name suggest, have some sort of official significance. Typically, they represent pages which are required to exist by Wikidot for some form of site functionality. They should only be created by staff.
-* **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. All of the SCP series pages are //hub// pages, as are the tale index and various other pages around the site. As it is a major page tag, hubs may not have other top-level tags (e.g. //scp// or //tale//), with the exception of //site// pages. Tale hubs should also be tagged with //_tale-hub//, while canon hubs should be tagged with //_canon-hub//.
+* **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. All of the SCP series pages are //hub// pages, as are the tale index and various other pages around the site. As it is a major page tag, hubs may not have other top-level tags (e.g. //scp// or //tale//), with the exception of //site// pages. Hubs for Series should also be tagged with //series-hub//, while Canon hubs should be tagged with //canon-hub//, and hubs for specific Groups (GoI, Departments, MTFs) should be tagged with //group-hub//.
 * **[https://scpwiki.com/system:page-tags/tag/workbench workbench]** -- Workbenches are pages created by mods and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're an (acting) team captian or admin**, or have received explicit permission from them to do so.
 * **[https://scpwiki.com/system:page-tags/tag/sandbox sandbox]** -- In the very distant past, sandboxes on the main site were allowed. This was before the number of members became so big that the amount of sandboxes would create a total mess on the wiki. **Please note that personal sandboxes are no longer allowed on the main site.** The SCP Sandbox wiki at https://scp-sandbox-3.wikidot.com/ should be used for article drafts. Only staff may authorize new sandboxes on the site.
 
@@ -103,6 +103,9 @@ Miscellaneous major page tags that are not top-level tags.
 * **[https://scpwiki.com/system:page-tags/tag/001-proposal 001-proposal]** -- This is the tag for the articles proposing a possible [https://scp-wiki.wikidot.com/scp-001 SCP-001] object. SCPs tagged with this tag should also be tagged with their standard object class tag, or //esoteric-class// if applicable.
  * //Often used with 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/archived archived]** -- Pages which have been archived due to having been superseded, obsoleted, or inactivity. These pages should also be moved to the {{archived:}} category so they retain the 'archived page' notice and are locked from edits. See [https://scp-wiki.wikidot.com/archived-scps Archived Pages] for more information on archival.
+* **[https://scpwiki.com/system:page-tags/tag/canon-hub canon-hub]** -- Used for hubs which represent a [https://scp-wiki.wikidot.com/canon-hub canon].
+ * //Requires 'hub'//
+ * //Supersedes 'series-hub'//
 * **[https://scpwiki.com/system:page-tags/tag/co-authored co-authored]** -- //co-authored// pages are the result of two or more authors working together, but are not open to additions from other members (unless otherwise specified).
 * **[https://scpwiki.com/system:page-tags/tag/collaboration collaboration]** -- //collaboration// pages are those pages that are or were open to additions from any member, with the caveat that staff and the original author reserve the right to modify or delete entries found to be subpar, or close entries entirely.
 * **[https://scpwiki.com/system:page-tags/tag/comic comic]** -- For stories that are primarily told via sequential art.
@@ -111,18 +114,17 @@ Miscellaneous major page tags that are not top-level tags.
  * //Requires 'hub'//
 * **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained] SCPs are a special sub-type of //scp//, and should be added to -EX articles as appropriate. Explained articles should also be tagged with their standard object class tag, or //esoteric-class// if the format does not specify a standard object class.
  * //Requires 'scp'//
-* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- Article has an illustration specifically made for the article. This includes photobashes and other forms of photo manipulation.
+* **[https://scpwiki.com/system:page-tags/tag/group-hub group-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a specific [https://scp-wiki.wikidot.com/groups-of-interest Group of Interest], [https://scp-wiki.wikidot.com/departments Department] or [https://scp-wiki.wikidot.com/task-forces Mobile Task Force].
+ * //Requires 'hub'//
+* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- Article has an illustration specifically made for the article. This includes photobashes and other forms of photo manipulation beyond basic edits.
  * //Conflicts with 'artwork', 'artist', and 'comic'//
 * **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should also be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
 * **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
 * **[https://scpwiki.com/system:page-tags/tag/policy policy]** -- Page contains actionable site rules and policy.
 * **[https://scpwiki.com/system:page-tags/tag/required required]** -- //required// pages are guides that are part of the required reading for joining the SCP Wiki.
-* **[https://scpwiki.com/system:page-tags/tag/_canon-hub _canon-hub]** -- Used for hubs which represent a [https://scp-wiki.wikidot.com/canon-hub canon].
+* **[https://scpwiki.com/system:page-tags/tag/series-hub series-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a series of connected articles, which may include tales, SCPs and GoI Formats.
  * //Requires 'hub'//
- * //Supersedes '_tale-hub'//
-* **[https://scpwiki.com/system:page-tags/tag/_tale-hub _tale-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a series that consists mostly or entirely of //tale// articles.
- * //Requires 'hub'//
- * //Superseded by '_canon-hub'//
+ * //Superseded by 'canon-hub'//
 
 +++ Supplement pages
 
@@ -143,7 +145,7 @@ Tags that describe the content of a //supplement// page.
 
 All articles tagged with scp should also be tagged with the appropriate tag for their object class, or with esoteric-class if it does not have one, if its object class cannot be determined from the article's contents, or if it has a non-standard object class.
 
-If an SCP has multiple object classes at the same time, most frequently Safe, Euclid or Keter and a secondary object class, it should be tagged with all applicable object class tags, which may include esoteric-class. If an article's object class changes over time, either by striking through an outdated object class or by updating the SCP article with a new iteration, only the object class or classes on the final version of the article should be applied as tags. The exception is articles tagged as neutralized, decommissioned or explained, which should be tagged with whatever object class they were before.
+If an SCP has multiple object classes at the same time, most frequently Safe, Euclid or Keter and a secondary object class, it should be tagged with all applicable object class tags, which may include esoteric-class. If an article's object class changes over time, either by striking through an outdated object class or by updating the SCP article with a new iteration, only the object class or classes on the final version of the article should be applied as tags. The exception is articles tagged as neutralized, decommissioned or explained, which should be tagged with whatever object class they were before, if that object class is included in the article.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
@@ -292,7 +294,7 @@ Tags that apply to animals, or to entities that resemble animals.
 
 Tags that apply to entities, objects or phenomena with biological effects or properties.
 
-* **[https://scpwiki.com/system:page-tags/tag/biological biological]** -- SCP consists of biological molecules, tissues or organs. Please see the [https://05command.wikidot.com/tech-hub-tag Tag FAQ] for more details.
+* **[https://scpwiki.com/system:page-tags/tag/biological biological]** -- SCP consists of biological molecules, tissues or organs, but is not a living organism.
  * //Superseded by 'alive'//
 * **[https://scpwiki.com/system:page-tags/tag/biohazard biohazard]** -- SCP poses a hazard to humans or the environment as a result of biological function, or is a biological hazard.
 * **[https://scpwiki.com/system:page-tags/tag/blood blood]** -- SCP is related to or anomalously affects blood.
@@ -333,9 +335,9 @@ Tags that apply to entities, objects or phenomena that have psychological, **min
  * //Often used with 'telepathic'//
 * **[https://scpwiki.com/system:page-tags/tag/gustatory gustatory]** -- SCP is triggered by, activated by, or affects the sense of taste.
 * **[https://scpwiki.com/system:page-tags/tag/hallucination hallucination]** -- SCP induces hallucinations in subjects or is a hallucination.
- * //Often used with 'auditory', and 'visual'//
-* **[https://scpwiki.com/system:page-tags/tag/infohazard infohazard]** -- SCP has an effect that is triggered when it is described or referred to. Unlike a meme, an infohazard is a physical object that has effects on thoughts and behavior related to it.
- * //Compare with 'memetic'//
+ * //Often used with 'auditory', 'sensory', and 'visual'//
+* **[https://scpwiki.com/system:page-tags/tag/infohazard infohazard]** -- SCP has an effect that is triggered when it is described or referred to. Unlike a meme, an infohazard is an object that has effects on thoughts and behavior related to it.
+ * //Compare with 'memetic', and 'meta'//
 * **[https://scpwiki.com/system:page-tags/tag/knowledge knowledge]** -- SCP absorbs, stores, generates, grants, or possesses knowledge that is anomalous, or through an anomalous process. SCPs capable of accurate predictions should be tagged //predictive// instead.
  * //Superseded by 'predictive'//
  * //Compare with 'telepathic'//
@@ -534,10 +536,12 @@ Any tags that do not fit into the other sections.
 * **[https://scpwiki.com/system:page-tags/tag/foundation-made foundation-made]** -- SCP was created, intentionally or otherwise, by the SCP Foundation itself. Note that only the objects whose creation resulted directly from specific actions of the Foundation are applicable. This excludes phenomena which formed spontaneously at a Foundation site due to the area's routine exposure to a large number of contained anomalies.
 * **[https://scpwiki.com/system:page-tags/tag/k-class-scenario k-class-scenario]** -- SCP is involved in or capable of instigating one or more K-Class End of the World scenarios. Should only be used in articles that specifically name a type of K-Class scenario.
 * **[https://scpwiki.com/system:page-tags/tag/mathematical mathematical]** -- SCP is or affects a number, number system, mathematical equation, or otherwise has mathematical significance.
-* **[https://scpwiki.com/system:page-tags/tag/meta meta]** -- SCP affects or is affected by its documentation or requires containment procedures regarding the way it is documented. See Tag [https://05command.wikidot.com/tech-hub-tag FAQ] for extended clarifications.
+* **[https://scpwiki.com/system:page-tags/tag/meta meta]** -- SCP affects or is affected by its documentation or requires containment procedures regarding the way it is documented.
+ * //Often used with 'infohazard', and 'narrative'//
 * **[https://scpwiki.com/system:page-tags/tag/military military]** -- SCP is military equipment, part or member of a military unit, or otherwise has military significance.
  * //Compare with 'weapon'//
 * **[https://scpwiki.com/system:page-tags/tag/narrative narrative]** -- SCP is, is related to, or propagates via narrative information or documents.
+ * //Often used with 'meta'//
 * **[https://scpwiki.com/system:page-tags/tag/probability probability]** -- SCP alters or manipulates the probability of certain events or outcomes.
 * **[https://scpwiki.com/system:page-tags/tag/phenomenon phenomenon]** -- The SCP is an ongoing widespread phenomenon not directly linked to a physical source.
  * //Avoid using with 'anomalous-event'//
@@ -554,7 +558,7 @@ Describes the content, setting and style of a fictional work.
 [[div class="blockquote"]]
 The following applies to all tags in this category:
 
-* Requires any of 'tale', 'scp', 'goi-format', or '_tale-hub'
+* Requires any of 'tale', 'scp', 'goi-format', or 'series-hub'
 
 [[/div]]
 
@@ -569,7 +573,7 @@ Describes the genre of an article.
 * **[https://scpwiki.com/system:page-tags/tag/bittersweet bittersweet]** -- Intended to evoke both positive and negative emotions.
  * //Avoid using with 'bleak', and 'heartwarming'//
 * **[https://scpwiki.com/system:page-tags/tag/bleak bleak]** -- Intended to evoke negative emotions, focusing on anguish, distress and suffering.
- * //Avoid using with 'bittersweet'//
+ * //Avoid using with 'bittersweet', and 'heartwarming'//
 * **[https://scpwiki.com/system:page-tags/tag/breakout breakout]** -- Focuses on containment breaches and escaping from imprisonment, both attempted and successful.
  * //Compare with 'chase'//
 * **[https://scpwiki.com/system:page-tags/tag/comedy comedy]** -- Intended to be funny.
@@ -581,7 +585,7 @@ Describes the genre of an article.
 * **[https://scpwiki.com/system:page-tags/tag/fantasy fantasy]** -- Depicts magic and the supernatural, inspired by myths, legends and folklore.
  * //Compare with 'mythological'//
 * **[https://scpwiki.com/system:page-tags/tag/heartwarming heartwarming]** -- Intended to evoke positive emotions, focusing on pleasant experiences and supportive relationships.
- * //Avoid using with 'bittersweet'//
+ * //Avoid using with 'bittersweet', and 'bleak'//
 * **[https://scpwiki.com/system:page-tags/tag/horror horror]** -- Intended to evoke fear, shock or disgust in the reader.
 * **[https://scpwiki.com/system:page-tags/tag/body-horror body-horror]** -- Focuses on physical mutilation or transformation.
  * //Requires 'horror'//
@@ -604,14 +608,16 @@ Describes the genre of an article.
 
 Describes the major themes of an article.
 
+* **[https://scpwiki.com/system:page-tags/tag/alien alien]** -- Features extraterrestrial life, typically intelligent beings originating from a planet other than Earth.
+ * //Often used with 'science-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/artificial-intelligence artificial-intelligence]** -- Features artificial intelligence, and on anomalies that have AI or affect AIs.
  * //Often used with 'science-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/bureaucracy bureaucracy]** -- Focuses on the administration, management and official procedures of an organisation.
 * **[https://scpwiki.com/system:page-tags/tag/demon demon]** -- Features supernatural entities traditionally associated with evil, temptation and Hell.
  * //Often used with 'fantasy'//
-* **[https://scpwiki.com/system:page-tags/tag/faerie faerie]** -- Features fairies, fay or the fair folk, supernatural entities inspired by European folklore.
+* **[https://scpwiki.com/system:page-tags/tag/faerie faerie]** -- Features fairies, fae or the fair folk, supernatural entities inspired by European folklore.
  * //Often used with 'fantasy'//
-* **[https://scpwiki.com/system:page-tags/tag/ghost ghost]** -- Features ghosts, the spirits of the dead, also known as spectral entities.
+* **[https://scpwiki.com/system:page-tags/tag/ghost ghost]** -- Features ghosts, the spirits of the dead, often referred to as spectral entities by the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/historical historical]** -- Focuses on historical events, or on anomalies with historical significance.
  * //Compare with 'period-piece'//
 * **[https://scpwiki.com/system:page-tags/tag/legal legal]** -- Focuses on law, legal proceedings, and legal documents.
@@ -762,7 +768,6 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/black-queen black-queen]** -- Featuring or related to the [https://scp-wiki.wikidot.com/black-queen-hub Black Queen] person or group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/british-occult-service british-occult-service]** -- Featuring or related to the British Occult Service (MI666) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/broken-god broken-god]** -- Featuring or related to Mekhane, or the [https://scp-wiki.wikidot.com/church-of-the-broken-god-hub Church of the Broken God] (CotBG) group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/brothers-of-death brothers-of-death]** -- Featuring or related to the Brothers of Death canon or characters.
 * **[https://scpwiki.com/system:page-tags/tag/chaos-insurgency chaos-insurgency]** -- Featuring or related to the [https://scp-wiki.wikidot.com/chaos-insurgency-hub Chaos Insurgency] (CI) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/chicago-spirit chicago-spirit]** -- Featuring or related to the [https://scp-wiki.wikidot.com/chicago-spirit Chicago Spirit] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/children-of-the-night children-of-the-night]** -- Featuring or related to the Children of the Night, outlined in [https://scp-wiki.wikidot.com/scp-1000 SCP-1000].
@@ -994,7 +999,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 [[tab Series]]
 ++ Series
 
-Tags for tale and SCP series, that may or may not have a Hub.
+Tags for a series of connected articles, which may be SCPs, tales or GoI Formats, and may or may not have their own Hub page.
 
 * **[https://scpwiki.com/system:page-tags/tag/8000-dead-rats 8000-dead-rats]** -- Part of the [https://scp-wiki.wikidot.com/8000-dead-rats-hub 8000 Dead Rats] series.
 * **[https://scpwiki.com/system:page-tags/tag/abcs-of-death abcs-of-death]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-hub ABC's of Death SCP anthology].
@@ -1044,7 +1049,7 @@ Tags for tale and SCP series, that may or may not have a Hub.
 [[tab Characters]]
 ++ Characters
 
-Tags indicating that a specific character has a significant presence within the article. Divided into Foundation Employees, SCP Objects, and Persons of Interest.
+Tags indicating that a specific character has a significant presence within the article. Divided into Foundation Employees, SCP Objects, Persons of Interest and Pluripotent Entities.
 
 +++ Foundation Employees
 
@@ -1081,6 +1086,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/director-graham director-graham]** -- Director Thomas Graham, of Site 17.
 * **[https://scpwiki.com/system:page-tags/tag/director-mcinnis director-mcinnis]** -- Dr. Allan J. McInnis, Director of Site-43.
 * **[https://scpwiki.com/system:page-tags/tag/director-mctiriss director-mctiriss]** -- Director Kate McTiriss, commanding Foundation operations in [https://scp-wiki.wikidot.com/the-gulf The Gulf].
+* **[https://scpwiki.com/system:page-tags/tag/director-metanoia director-metanoia]** -- Director Amelie R. Metanoia, of the Anomalous Entity Engagement Division (AEED).
 * **[https://scpwiki.com/system:page-tags/tag/director-moose director-moose]** -- Director Tilda Moose, of Site-19. Former member of the Serpent's Hand.
 * **[https://scpwiki.com/system:page-tags/tag/director-richter director-richter]** -- Director Leah Richter, of Site-78.
 * **[https://scpwiki.com/system:page-tags/tag/director-scout director-scout]** -- Director Vivian L. Scout, late co-director of Site-43.
@@ -1097,7 +1103,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-elstrom doctor-elstrom]** -- Doctor Karen Elstrom, Site-43's chief administrative officer.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-everwood doctor-everwood]** -- Dr. Jay Everwood, GOI specialist at Site-55.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-fynegan doctor-fynegan]** -- Dr. Joe Fynegan, expert on insect apocalypses.
-* **[https://scpwiki.com/system:page-tags/tag/doctor-garrison doctor-garrison]** -- Dr. Heather Garrison, sometimes memeticist and anomalous ontology specialist at Site-43.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-garrison doctor-garrison]** -- Dr. Heather Garrison, memeticist and anomalous ontology specialist at Site-43.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-gears doctor-gears]** -- Dr. Charles Gears. Father of Alison Chao, aka the Black Queen.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-gerald doctor-gerald]** -- Dr. Gerald.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-glass doctor-glass]** -- Dr. Simon Glass, head of psychology.
@@ -1220,7 +1226,6 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/finnegan finnegan]** -- Finnegan, anartist.
 * **[https://scpwiki.com/system:page-tags/tag/grand-karcist-ion grand-karcist-ion]** -- Grand Karcist Ion, founder of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/halyna-ieva halyna-ieva]** -- Karcist Halyna Ieva, aka [https://scp-wiki.wikidot.com/mother-who-demands-ones-toes The Mother Who Demands One's Toes].
-* **[https://scpwiki.com/system:page-tags/tag/hanged-king hanged-king]** -- The Hanged King of Alagadda.
 * **[https://scpwiki.com/system:page-tags/tag/holly-light holly-light]** -- Holly Light, of Dr Wondertainment.
 * **[https://scpwiki.com/system:page-tags/tag/icky icky]** -- Veronica Mason, aka [https://scp-wiki.wikidot.com/icky-the-magic-clown Icky the Magic Clown] of Herman Fuller's Circus of the Disquieting.
 * **[https://scpwiki.com/system:page-tags/tag/iris-dark iris-dark]** -- Iris Dark, of Marshall, Carter & Dark Ltd.
@@ -1239,11 +1244,9 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/nadox nadox]** -- Nadox, one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/olivie-gwyneth olivie-gwyneth]** -- Olivie Gwyneth, Head archivist of the Sidhe Lounge.
 * **[https://scpwiki.com/system:page-tags/tag/orok orok]** -- Orok, one of the four Klavigars of Sarkicism.
-* **[https://scpwiki.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
 * **[https://scpwiki.com/system:page-tags/tag/percival-darke percival-darke]** -- Percival Darke, AKA the Deathless Merchant of London, founder of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/polaricecraps polaricecraps]** -- Polaricecraps, of Gamers Against Weed.
 * **[https://scpwiki.com/system:page-tags/tag/professor-aw professor-aw]** -- Professor A.W., inventor and creator of curiosities.
-* **[https://scpwiki.com/system:page-tags/tag/queen-mab queen-mab]** -- Queen Mab, a Fae tyrant and goddess.
 * **[https://scpwiki.com/system:page-tags/tag/richard-chappell richard-chappell]** -- Richard Davis Chappell, founder of the Chicago Spirit.
 * **[https://scpwiki.com/system:page-tags/tag/robert-bumaro robert-bumaro]** -- Robert Bumaro, prophet of Mekhane.
 * **[https://scpwiki.com/system:page-tags/tag/robert-carter robert-carter]** -- Robert Carter, of Marshall, Carter and Dark.
@@ -1251,7 +1254,6 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/ruiz-duchamp ruiz-duchamp]** -- Ruiz Duchamp, an anartist.
 * **[https://scpwiki.com/system:page-tags/tag/ruprecht-carter ruprecht-carter]** -- Ruprecht Carter, of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/saarn saarn]** -- Saarn, one of the four Klavigars of Sarkicism.
-* **[https://scpwiki.com/system:page-tags/tag/the-serpent the-serpent]** -- The Serpent, mythical ruler of the Wanderer's Library and namesake of the Serpent's Hand.
 * **[https://scpwiki.com/system:page-tags/tag/saint-hedwig saint-hedwig]** -- Saint Hedwig, a prophet of Maxwellism.
 * **[https://scpwiki.com/system:page-tags/tag/saturn-deer saturn-deer]** -- Saturn Deer, serial reincarnator and false prophet.
 * **[https://scpwiki.com/system:page-tags/tag/skitter-marshall skitter-marshall]** -- Skitter Marshall, of Marshall, Carter and Dark.
@@ -1261,6 +1263,16 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/tim-wilson tim-wilson]** -- Tim Wilson, of Wilson's Wildlife Solutions.
 * **[https://scpwiki.com/system:page-tags/tag/veronica-fitzroy veronica-fitzroy]** -- Veronica Katherine Fitzroy, anartist/D-class.
 * **[https://scpwiki.com/system:page-tags/tag/vincent-anderson vincent-anderson]** -- Vincent Anderson, of Anderson Robotics.
+
++++ Pluripotent Entities
+
+Powerful anomalous entities, which some might call gods.
+
+* **[https://scpwiki.com/system:page-tags/tag/brothers-of-death brothers-of-death]** -- The Three Brothers of Death, first mentioned in [[[SCP-1440]]].
+* **[https://scpwiki.com/system:page-tags/tag/hanged-king hanged-king]** -- The Hanged King of Alagadda.
+* **[https://scpwiki.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
+* **[https://scpwiki.com/system:page-tags/tag/queen-mab queen-mab]** -- Queen Mab, a Fae tyrant and goddess.
+* **[https://scpwiki.com/system:page-tags/tag/the-serpent the-serpent]** -- The Serpent, mythical ruler of the Wanderer's Library and namesake of the Serpent's Hand.
 
 [[/tab]]
 [[tab Locations]]
@@ -1336,6 +1348,7 @@ Tags for all events on the wiki, including contests.
 * **[https://scpwiki.com/system:page-tags/tag/af2014 af2014]** -- Of or related to the [https://scp-wiki.wikidot.com/april-fools-2014 Super Cute Pets!] 2014 April Fool's prank.
 * **[https://scpwiki.com/system:page-tags/tag/game-day game-day]** -- Of or related to the [https://scp-wiki.wikidot.com/gamedayindex Game Day] project.
 * **[https://scpwiki.com/system:page-tags/tag/pridefest2024 pridefest2024]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2024 Pride festival].
+* **[https://scpwiki.com/system:page-tags/tag/pridefest2025 pridefest2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/pridefest-2025 2025 pride festival]
 * **[https://scpwiki.com/system:page-tags/tag/news-prompt news-prompt]** -- An entry which follows a writing prompt from site news.
 * **[https://scpwiki.com/system:page-tags/tag/nightmarefest nightmarefest]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/nightmarefest NIGHTMAREFEST].
 * **[https://scpwiki.com/system:page-tags/tag/spring-cleaning24 spring-cleaning24]** -- An entry to the [https://scp-wiki.wikidot.com/deer-college-spring-cleaning-event 2024 Spring Cleaning Event].
@@ -1350,7 +1363,7 @@ Tags for all events on the wiki, including contests.
 
 Tags for contests and the articles submitted to them.
 
-* **[https://scpwiki.com/system:page-tags/tag/1000 1000]** -- An entry to the [https://scp-wiki.wikidot.com/forum/t-376556 SCP-1000 Contest].
+* **[https://scpwiki.com/system:page-tags/tag/1000 1000]** -- An entry to the [https://scp-wiki.wikidot.com/scp1000contesthub SCP-1000 Contest].
 * **[https://scpwiki.com/system:page-tags/tag/2000 2000]** -- An entry to the [https://scp-wiki.wikidot.com/scp2000contesthub SCP-2000 Contest].
 * **[https://scpwiki.com/system:page-tags/tag/3000 3000]** -- An entry to the [https://scp-wiki.wikidot.com/scp3000contesthub SCP-3000 Contest].
 * **[https://scpwiki.com/system:page-tags/tag/4000 4000]** -- An entry to the [https://scp-wiki.wikidot.com/scp4000contesthub SCP-4000 Contest].
@@ -1434,7 +1447,6 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
 * **[https://scpwiki.com/system:page-tags/tag/spook-nico-2024-unofficial spook-nico-2024-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/spook-nico-unnoficial-2024 2024 Spook Nico contest]
 * **[https://scpwiki.com/system:page-tags/tag/intcanoncon2025 intcanoncon2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/international-canon-contest 2025 International Canon contest]
-* **[https://scpwiki.com/system:page-tags/tag/pridefest2025 pridefest2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/pridefest-2025 2025 pride festival]
 
 [[/tab]]
 [[tab Translation]]
