@@ -36,14 +36,14 @@ All pages on the wiki should have exactly one top-level tag that determines what
 
 The following tags are for pages that contain fiction.
 
-* **[https://scpwiki.com/system:page-tags/tag/scp scp]** -- All SCP articles from the main blocks, [https://scp-wiki.wikidot.com/scp-001 001 proposals], [https://scp-wiki.wikidot.com/joke-scps jokes] (-J), [https://scp-wiki.wikidot.com/archived-scps archives] (-ARC), and [https://scp-wiki.wikidot.com/scp-ex explained] (-EX) articles should be tagged with //scp//.
+* **[https://scpwiki.com/system:page-tags/tag/scp scp]** -- All SCP articles from the main blocks should be tagged with //scp//, including [https://scp-wiki.wikidot.com/scp-international translated SCP articles from other branches], [https://scp-wiki.wikidot.com/scp-001 001 proposals], and [https://scp-wiki.wikidot.com/joke-scps joke] (-J), [https://scp-wiki.wikidot.com/archived-scps archived] (-ARC) and [https://scp-wiki.wikidot.com/scp-ex explained] (-EX) SCPs. Articles using the SCP format but posted outside the main blocks as tales may be tagged with //foundation-format//.
  * //Requires any of category 'object-class'//
  * //Conflicts with 'foundation-format'//
-* **[https://scpwiki.com/system:page-tags/tag/goi-format goi-format]** -- The page has been written up from the perspective of a specific Group of Interest, and conforms to the format(s) laid out in that GoI's hub page. GoI Formats should also be tagged with the tag of their GoI, as well as the underscore tag for the GoI format.
+* **[https://scpwiki.com/system:page-tags/tag/goi-format goi-format]** -- The page has been written up from the perspective of a specific Group of Interest, and conforms to the format or formats laid out in that GoI's hub page. GoI Formats should also be tagged with the tag of their GoI, as well as the underscore tag for that group's GoI format.
  * //Requires any of category 'goi-format'//
 * **[https://scpwiki.com/system:page-tags/tag/tale tale]** -- Any fiction that is set in the SCP universe but is not an SCP, GoI Format, site page or supplement.
 * **[https://scpwiki.com/system:page-tags/tag/supplement supplement]** -- //supplement// pages are defined as pages which require context from their parent page to understand. These pages should also have their parent page set to their originating article in order to maintain relevance and automatically create breadcrumb navigation. A page should only be tagged as //supplement// if they were created by the original author of the page, or with the original author's permission. Documents that are tributes or parodies should be tagged as //tale// instead, even if they are in the format of a log or transcript.
-* **[https://scpwiki.com/system:page-tags/tag/site site]** -- //site// pages are hub pages that document specific Foundation facilities, and provide information such as the objects stored at the site, site history, assigned personnel, etc. A page tagged //site// that is also a hub page e.g. for SCPs contained within that site should also be tagged //hub//.
+* **[https://scpwiki.com/system:page-tags/tag/site site]** -- //site// pages document specific Foundation facilities, and provide information such as the objects stored at the site, site history, assigned personnel, etc. A page tagged //site// that is also a hub page e.g. for SCPs contained within that site or for tales that take place there should also be tagged //hub//.
 
 +++ Information pages
 
@@ -107,18 +107,19 @@ Miscellaneous major page tags that are not top-level tags.
  * //Requires 'hub'//
  * //Supersedes 'series-hub'//
 * **[https://scpwiki.com/system:page-tags/tag/co-authored co-authored]** -- //co-authored// pages are the result of two or more authors working together, but are not open to additions from other members (unless otherwise specified).
-* **[https://scpwiki.com/system:page-tags/tag/collaboration collaboration]** -- //collaboration// pages are those pages that are or were open to additions from any member, with the caveat that staff and the original author reserve the right to modify or delete entries found to be subpar, or close entries entirely.
+* **[https://scpwiki.com/system:page-tags/tag/collaboration collaboration]** -- //collaboration// pages are those pages that are or were open to additions from any site member, with the caveat that staff and the original author reserve the right to modify or delete entries found to be subpar, or close entries entirely.
 * **[https://scpwiki.com/system:page-tags/tag/comic comic]** -- For stories that are primarily told via sequential art.
- * //Conflicts with 'illustrated'//
+ * //Supersedes 'illustrated'//
 * **[https://scpwiki.com/system:page-tags/tag/contest contest]** -- //contest// pages are pages created for the purpose of community contests. This should be used in conjunction with //hub// in the case of entry listings, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
  * //Requires 'hub'//
-* **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained] SCPs are a special sub-type of //scp//, and should be added to -EX articles as appropriate. Explained articles should also be tagged with their standard object class tag, or //esoteric-class// if the format does not specify a standard object class.
+* **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained ] (-EX) SCPs are a special type of //scp//. Articles that use Explained as an Object Class should be tagged with their previous object class tag, if it is included in the article.
  * //Requires 'scp'//
-* **[https://scpwiki.com/system:page-tags/tag/group-hub group-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a specific [https://scp-wiki.wikidot.com/groups-of-interest Group of Interest], [https://scp-wiki.wikidot.com/departments Department] or [https://scp-wiki.wikidot.com/task-forces Mobile Task Force].
+* **[https://scpwiki.com/system:page-tags/tag/group-hub group-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a specific [https://scp-wiki.wikidot.com/groups-of-interest Group of Interest], [https://scp-wiki.wikidot.com/departments Department] or [https://scp-wiki.wikidot.com/task-forces Mobile Task Force]. May also be a //canon-hub// or //series-hub//.
  * //Requires 'hub'//
-* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- Article has an illustration specifically made for the article. This includes photobashes and other forms of photo manipulation beyond basic edits.
- * //Conflicts with 'artwork', 'artist', and 'comic'//
-* **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should also be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
+* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- An article with one or more illustrations specifically made for it. This includes photobashes and other forms of photo manipulation that go beyond basic edits.
+ * //Conflicts with 'artwork', and 'artist'//
+ * //Superseded by 'comic'//
+* **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
 * **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
 * **[https://scpwiki.com/system:page-tags/tag/policy policy]** -- Page contains actionable site rules and policy.
 * **[https://scpwiki.com/system:page-tags/tag/required required]** -- //required// pages are guides that are part of the required reading for joining the SCP Wiki.
@@ -451,9 +452,11 @@ Tags that describe where the SCP is or where it comes from, or that apply to SCP
 * **[https://scpwiki.com/system:page-tags/tag/location location]** -- SCP is a unique geographical location.
  * //Superseded by 'city'//
 * **[https://scpwiki.com/system:page-tags/tag/moon moon]** -- SCP is, is related to, or affects a natural satellite or moon, which may or may not be our moon.
+ * //Supersedes 'satellite'//
 * **[https://scpwiki.com/system:page-tags/tag/planet planet]** -- SCP is, resembles, or affects a planet, which may or may not be our planet.
  * //Supersedes 'geological'//
 * **[https://scpwiki.com/system:page-tags/tag/satellite satellite]** -- SCP is a natural or artificial satellite orbiting a celestial body.
+ * //Superseded by 'moon'//
 * **[https://scpwiki.com/system:page-tags/tag/structure structure]** -- SCP is an artificial or natural structure. If it is intended for human occupation, it should be tagged //building// instead.
  * //Superseded by 'building'//
 * **[https://scpwiki.com/system:page-tags/tag/subterranean subterranean]** -- SCP is located or operates wholly or significantly underground, defined as below the surface of the Earth. Does not apply objects that are simply contained underground for safety or convenience.
@@ -550,8 +553,8 @@ Any tags that do not fit into the other sections.
 * **[https://scpwiki.com/system:page-tags/tag/uncontained uncontained]** -- SCP is neither fully nor partially contained. This should only be applied to SCPs where no instances are contained at all and does not apply if the Foundation successfully contains one or more instances.
 
 [[/tab]]
-[[tab Genre and Themes]]
-++ Genre and Themes
+[[tab Genre]]
+++ Genre
 
 Describes the content, setting and style of a fictional work.
 
@@ -596,11 +599,13 @@ Describes the genre of an article.
 * **[https://scpwiki.com/system:page-tags/tag/metafiction metafiction]** -- Fiction about fiction, referencing the work's fictional nature. May feature fiction affecting reality, characters entering or leaving works of fiction, and characters being aware that they are fictional or are influenced by narrative tropes.
 * **[https://scpwiki.com/system:page-tags/tag/military-fiction military-fiction]** -- Focuses on soldiers, field agents or mercenaries.
 * **[https://scpwiki.com/system:page-tags/tag/mystery mystery]** -- Focuses on investigation of unanswered questions.
+* **[https://scpwiki.com/system:page-tags/tag/religious-fiction religious-fiction]** -- Focuses on religion, faith and belief. Includes depictions of real-world religions, as well as worship of anomalous entities.
+ * //Compare with 'mythological'//
 * **[https://scpwiki.com/system:page-tags/tag/romance romance]** -- Focuses on romantic relationships between characters.
 * **[https://scpwiki.com/system:page-tags/tag/science-fiction science-fiction]** -- Depicts advanced science and technology. May feature scientific analysis of phenomena currently thought to be impossible.
 * **[https://scpwiki.com/system:page-tags/tag/slice-of-life slice-of-life]** -- Offers a look into the everyday lives of characters, with a focus on the mundane.
 * **[https://scpwiki.com/system:page-tags/tag/spy-fiction spy-fiction]** -- Focuses on espionage, counter-intelligence, double agents or assassination.
-* **[https://scpwiki.com/system:page-tags/tag/surrealism surrealism]** -- Surrealist fiction creates a dream-like story by juxtaposing the mundane with the impossible and irrational, with emphasis on subconscious associations between them.
+* **[https://scpwiki.com/system:page-tags/tag/surrealism surrealism]** -- Surrealist fiction creates a dream-like story by juxtaposing the mundane with the impossible and irrational, with an emphasis on subconscious associations between them.
  * //Compare with 'absurdism'//
 * **[https://scpwiki.com/system:page-tags/tag/xenofiction xenofiction]** -- Told from a non-human perspective, such as an alien, an animal, a monster or a machine.
 
@@ -624,11 +629,9 @@ Describes the major themes of an article.
 * **[https://scpwiki.com/system:page-tags/tag/lgbtq lgbtq]** -- Focuses on LGBTQ+ themes, culture or history. Possible examples include portrayal of gay and lesbian relationships, depiction of asexuality and bisexuality, and exploration of trans, queer and agender identities.
 * **[https://scpwiki.com/system:page-tags/tag/murder-monster murder-monster]** -- Features an inhuman anomaly that is hostile to human life.
  * //Often used with 'horror'//
-* **[https://scpwiki.com/system:page-tags/tag/mythological mythological]** -- Focuses on creatures, events and practices drawn from mythology and folklore, outside of structured religious practice.
+* **[https://scpwiki.com/system:page-tags/tag/mythological mythological]** -- Features creatures, events and practices drawn from a specific mythology, outside of structured religious practice.
  * //Compare with 'fantasy', and 'religious-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/political political]** -- Focuses on politicians, diplomats or the political process.
-* **[https://scpwiki.com/system:page-tags/tag/religious-fiction religious-fiction]** -- Focuses on religion, faith and belief. Includes depictions of real-world religions, as well as worship of anomalous entities.
- * //Compare with 'mythological'//
 * **[https://scpwiki.com/system:page-tags/tag/superhero superhero]** -- Features superheroes or supervillains. These characters typically have secret identities, costumes and supernatural powers.
 * **[https://scpwiki.com/system:page-tags/tag/time-travel time-travel]** -- Features travel to or from the past or future.
  * //Often used with 'science-fiction'//
@@ -653,7 +656,7 @@ Describes when or where an article takes place.
  * //Compare with 'historical'//
 * **[https://scpwiki.com/system:page-tags/tag/school school]** -- Focuses on a school, college or university, or on the education system more broadly.
 * **[https://scpwiki.com/system:page-tags/tag/space-opera space-opera]** -- Depicts a futuristic society in outer space or on other planets, focusing on dramatic events and adventures.
- * //Often used with 'science-fiction'//
+ * //Often used with 'science-fiction', 'alien', and 'otherworldly'//
 * **[https://scpwiki.com/system:page-tags/tag/utopian utopian]** -- Imagines a non-existent society or culture, portrayed as being much better than our current one.
 * **[https://scpwiki.com/system:page-tags/tag/western western]** -- Set in the American Frontier, during the time period known as the Wild West.
  * //Compare with 'period-piece'//
