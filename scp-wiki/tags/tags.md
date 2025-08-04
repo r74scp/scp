@@ -96,7 +96,7 @@ Pages created for internal use.
 
 * **[https://scpwiki.com/system:page-tags/tag/admin admin]** -- //admin// pages, as the name suggest, have some sort of official significance. Typically, they represent pages which are required to exist by Wikidot for some form of site functionality. They should only be created by staff.
 * **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. All of the SCP series pages are //hub// pages, as are the tale index and various other pages around the site. As it is a major page tag, hubs may not have other top-level tags (e.g. //scp// or //tale//), with the exception of //site// pages. Hubs for Series should also be tagged with //series-hub//, while Canon hubs should be tagged with //canon-hub//, and hubs for specific Groups (GoI, Departments, MTFs) should be tagged with //group-hub//.
-* **[https://scpwiki.com/system:page-tags/tag/workbench workbench]** -- Workbenches are pages created by mods and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're an (acting) team captian or admin**, or have received explicit permission from them to do so.
+* **[https://scpwiki.com/system:page-tags/tag/workbench workbench]** -- Workbenches are pages created by mods and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're an (acting) team captain or admin**, or have received explicit permission from them to do so.
 * **[https://scpwiki.com/system:page-tags/tag/sandbox sandbox]** -- In the very distant past, sandboxes on the main site were allowed. This was before the number of members became so big that the amount of sandboxes would create a total mess on the wiki. **Please note that personal sandboxes are no longer allowed on the main site.** The SCP Sandbox wiki at https://scp-sandbox-3.wikidot.com/ should be used for article drafts. Only staff may authorize new sandboxes on the site.
 
 [[/tab]]
@@ -389,7 +389,7 @@ Tags that apply to the physical properties or effects of entities, objects or ph
 * **[https://scpwiki.com/system:page-tags/tag/entropic entropic]** -- SCP has anomalous properties that affect or are affected by entropy, or that resemble entropic decay.
 * **[https://scpwiki.com/system:page-tags/tag/fire fire]** -- SCP is composed of fire, is related to fire, or enables the process of combustion.
 * **[https://scpwiki.com/system:page-tags/tag/future future]** -- SCP is from the future or was otherwise temporally displaced from a later time frame into an earlier one.
- * //Often used with 'temporal'//
+ * //Often used with 'temporal', and 'time-travel'//
 * **[https://scpwiki.com/system:page-tags/tag/gaseous gaseous]** -- SCP is or generates a gas.
 * **[https://scpwiki.com/system:page-tags/tag/gravity gravity]** -- SCP has anomalous properties that affect or are significantly affected by gravitational force.
 * **[https://scpwiki.com/system:page-tags/tag/immobile immobile]** -- SCP cannot be moved via any means known by the Foundation.
@@ -447,8 +447,10 @@ Tags that describe where the SCP is or where it comes from, or that apply to SCP
 * **[https://scpwiki.com/system:page-tags/tag/city city]** -- SCP is a city, town, or other settlement intended for human occupation. Should only be used if a significant portion of the city is considered anomalous.
  * //Supersedes 'location'//
 * **[https://scpwiki.com/system:page-tags/tag/extradimensional extradimensional]** -- SCP is of extradimensional origin, moves or propagates extradimensionally, and/or enables extradimensional travel.
+ * //Often used with 'otherworldly'//
  * //Avoid using with 'ectoentropic'//
 * **[https://scpwiki.com/system:page-tags/tag/extraterrestrial extraterrestrial]** -- SCP originates or is found in outer space and/or enables or exhibits extraterrestrial travel.
+ * //Often used with 'alien', 'science-fiction', and 'otherworldly'//
 * **[https://scpwiki.com/system:page-tags/tag/forest forest]** -- SCP is or affects forests, groves, orchards or other locations with high amounts of trees, manmade or otherwise.
 * **[https://scpwiki.com/system:page-tags/tag/geological geological]** -- SCP is or affects natural geological formations (such as caves, cliffs, mountains, valleys, or volcanoes) or significant geological events (such as earthquakes, landslides, or sinkholes).
  * //Superseded by 'planet'//
@@ -488,7 +490,7 @@ Tags that typically apply to objects or cultural practices created by humans, in
 * **[https://scpwiki.com/system:page-tags/tag/cinema cinema]** -- SCPs that are, relate to or concern the medium of cinema, film and/or movies.
  * //Supersedes 'artifact'//
 * **[https://scpwiki.com/system:page-tags/tag/computer computer]** -- SCP is a computational device or affects computational devices.
- * //Often used with 'electronic', and 'mechanical'//
+ * //Often used with 'artificial-intelligence', 'electronic', and 'mechanical'//
  * //Supersedes 'artifact', and 'appliance'//
 * **[https://scpwiki.com/system:page-tags/tag/currency currency]** -- SCP is, is related to, affects, or is activated by money or other objects primarily intended to be used as a medium of exchange.
  * //Often used with 'exchange'//
@@ -516,6 +518,7 @@ Tags that typically apply to objects or cultural practices created by humans, in
  * //Supersedes 'artistic'//
 * **[https://scpwiki.com/system:page-tags/tag/photographic photographic]** -- SCP is or deals with photography or features a photograph as part of the primary anomaly.
 * **[https://scpwiki.com/system:page-tags/tag/robotic robotic]** -- SCP is a device or construct designed to operate on its own. Applicable to anything that can be described as a 'robot' or 'automaton'.
+ * //Often used with 'artificial-intelligence'//
  * //Avoid using with 'autonomous'//
  * //Supersedes 'mechanical'//
 * **[https://scpwiki.com/system:page-tags/tag/sculpture sculpture]** -- SCP is a three-dimensional piece of artwork. To be considered a //sculpture//, the object in question must have been formed, carved, or molded.
@@ -547,6 +550,7 @@ Any tags that do not fit into the other sections.
 * **[https://scpwiki.com/system:page-tags/tag/meta meta]** -- SCP affects or is affected by its documentation or requires containment procedures regarding the way it is documented.
  * //Often used with 'infohazard', and 'narrative'//
 * **[https://scpwiki.com/system:page-tags/tag/military military]** -- SCP is military equipment, part or member of a military unit, or otherwise has military significance.
+ * //Often used with 'military-fiction'//
  * //Compare with 'weapon'//
 * **[https://scpwiki.com/system:page-tags/tag/narrative narrative]** -- SCP is, is related to, or propagates via narrative information or documents.
  * //Often used with 'meta'//
@@ -554,6 +558,7 @@ Any tags that do not fit into the other sections.
 * **[https://scpwiki.com/system:page-tags/tag/phenomenon phenomenon]** -- The SCP is an ongoing widespread phenomenon not directly linked to a physical source.
  * //Avoid using with 'anomalous-event'//
 * **[https://scpwiki.com/system:page-tags/tag/religious religious]** -- SCP is associated with or otherwise has significance to one or more organized religions.
+ * //Often used with 'religious-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/ritual ritual]** -- SCP is or is triggered or activated through ritualistic behavior.
 * **[https://scpwiki.com/system:page-tags/tag/uncontained uncontained]** -- SCP is neither fully nor partially contained. This should only be applied to SCPs where no instances are contained at all and does not apply if the Foundation successfully contains one or more instances.
 
@@ -779,8 +784,8 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/chaos-insurgency chaos-insurgency]** -- Featuring or related to the [https://scp-wiki.wikidot.com/chaos-insurgency-hub Chaos Insurgency] (CI) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/chicago-spirit chicago-spirit]** -- Featuring or related to the [https://scp-wiki.wikidot.com/chicago-spirit Chicago Spirit] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/children-of-the-night children-of-the-night]** -- Featuring or related to the Children of the Night, outlined in [https://scp-wiki.wikidot.com/scp-1000 SCP-1000].
-* **[https://scpwiki.com/system:page-tags/tag/children-of-the-torch children-of-the-torch]** -- SCP is of or related to the Children of the Torch group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/class-of-76 class-of-76]** -- Featuring or related to the [https://scp-wiki.wikidot.com/remembrance Class of '76] SCPs and stories.
+* **[https://scpwiki.com/system:page-tags/tag/children-of-the-torch children-of-the-torch]** -- Featuring or related to the Children of the Torch group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/class-of-76 class-of-76]** -- Featuring or related to the Class of '76 SCPs and stories.
 * **[https://scpwiki.com/system:page-tags/tag/cogwork-orthodoxy cogwork-orthodoxy]** -- Featuring or related to the Cogwork Orthodox Church faction of the Church of the Broken God group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/daevite daevite]** -- Featuring or related to [https://scp-wiki.wikidot.com/daevite-hub the Daevites].
 * **[https://scpwiki.com/system:page-tags/tag/deer-college deer-college]** -- Featuring or related to the [https://scp-wiki.wikidot.com/deer-college-hub Deer College] group of interest.
@@ -1002,6 +1007,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/unhuman unhuman]** -- Part of the [https://scp-wiki.wikidot.com/unhuman-hub UnHuman] canon.
 * **[https://scpwiki.com/system:page-tags/tag/war-on-all-fronts war-on-all-fronts]** -- Part of the [https://scp-wiki.wikidot.com/war-on-all-fronts-hub War On All Fronts] canon.
 * **[https://scpwiki.com/system:page-tags/tag/wonderful-world wonderful-world]** -- Part of the [https://scp-wiki.wikidot.com/wonder-world What a Wonderful World] canon.
+* **[https://scpwiki.com/system:page-tags/tag/world-kept-turning world-kept-turning]** -- Part of the [https://scp-wiki.wikidot.com/the-world-kept-turning-hub World Kept Turning] canon.
 
 [[/tab]]
 [[tab Series]]
@@ -1352,12 +1358,12 @@ These tags are added only used by SCP Wiki staff, and are intended to designate 
 Tags for all events on the wiki, including contests.
 
 * **[https://scpwiki.com/system:page-tags/tag/173fest 173fest]** -- An entry to the [https://scp-wiki.wikidot.com/173-festival 173 Festival].
-* **[https://scpwiki.com/system:page-tags/tag/art-exchange art-exchange]** -- Of or related to the [https://scp-wiki.wikidot.com/art-exchange-hub Annual Holiday Art Exchange].
-* **[https://scpwiki.com/system:page-tags/tag/af2014 af2014]** -- Of or related to the [https://scp-wiki.wikidot.com/april-fools-2014 Super Cute Pets!] 2014 April Fool's prank.
-* **[https://scpwiki.com/system:page-tags/tag/game-day game-day]** -- Of or related to the [https://scp-wiki.wikidot.com/gamedayindex Game Day] project.
+* **[https://scpwiki.com/system:page-tags/tag/art-exchange art-exchange]** -- Part of the [https://scp-wiki.wikidot.com/art-exchange-hub Annual Holiday Art Exchange].
+* **[https://scpwiki.com/system:page-tags/tag/af2014 af2014]** -- Part of the [https://scp-wiki.wikidot.com/april-fools-2014 Super Cute Pets!] 2014 April Fool's prank.
+* **[https://scpwiki.com/system:page-tags/tag/game-day game-day]** -- Part of the [https://scp-wiki.wikidot.com/gamedayindex Game Day] project.
 * **[https://scpwiki.com/system:page-tags/tag/pridefest2024 pridefest2024]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2024 Pride festival].
 * **[https://scpwiki.com/system:page-tags/tag/pridefest2025 pridefest2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/pridefest-2025 2025 pride festival]
-* **[https://scpwiki.com/system:page-tags/tag/news-prompt news-prompt]** -- An entry which follows a writing prompt from site news.
+* **[https://scpwiki.com/system:page-tags/tag/news-prompt news-prompt]** -- An article following a writing prompt from site news.
 * **[https://scpwiki.com/system:page-tags/tag/nightmarefest nightmarefest]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/nightmarefest NIGHTMAREFEST].
 * **[https://scpwiki.com/system:page-tags/tag/spring-cleaning24 spring-cleaning24]** -- An entry to the [https://scp-wiki.wikidot.com/deer-college-spring-cleaning-event 2024 Spring Cleaning Event].
 * **[https://scpwiki.com/system:page-tags/tag/_townhouse _townhouse]** -- An entry to the 'Townhouse' category of the unofficial NIGHTMAREFEST.
@@ -1371,14 +1377,14 @@ Tags for all events on the wiki, including contests.
 
 Tags for contests and the articles submitted to them.
 
-* **[https://scpwiki.com/system:page-tags/tag/1000 1000]** -- An entry to the [https://scp-wiki.wikidot.com/scp1000contesthub SCP-1000 Contest].
-* **[https://scpwiki.com/system:page-tags/tag/2000 2000]** -- An entry to the [https://scp-wiki.wikidot.com/scp2000contesthub SCP-2000 Contest].
-* **[https://scpwiki.com/system:page-tags/tag/3000 3000]** -- An entry to the [https://scp-wiki.wikidot.com/scp3000contesthub SCP-3000 Contest].
-* **[https://scpwiki.com/system:page-tags/tag/4000 4000]** -- An entry to the [https://scp-wiki.wikidot.com/scp4000contesthub SCP-4000 Contest].
-* **[https://scpwiki.com/system:page-tags/tag/5000 5000]** -- An entry to the [https://scp-wiki.wikidot.com/scp5000contesthub SCP-5000 Contest].
-* **[https://scpwiki.com/system:page-tags/tag/6000 6000]** -- An entry to the [https://scp-wiki.wikidot.com/scp6000contesthub SCP-6000 Contest].
-* **[https://scpwiki.com/system:page-tags/tag/7000 7000]** -- An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-7000 Contest].
-* **[https://scpwiki.com/system:page-tags/tag/8000 8000]** -- An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-8000 Contest].
+* **[https://scpwiki.com/system:page-tags/tag/1000 1000]** -- An entry to the [https://scp-wiki.wikidot.com/scp1000contesthub SCP-1000 Contest] (Folktales and Urban Legends).
+* **[https://scpwiki.com/system:page-tags/tag/2000 2000]** -- An entry to the [https://scp-wiki.wikidot.com/scp2000contesthub SCP-2000 Contest] (Science Fiction).
+* **[https://scpwiki.com/system:page-tags/tag/3000 3000]** -- An entry to the [https://scp-wiki.wikidot.com/scp3000contesthub SCP-3000 Contest] (Horror).
+* **[https://scpwiki.com/system:page-tags/tag/4000 4000]** -- An entry to the [https://scp-wiki.wikidot.com/scp4000contesthub SCP-4000 Contest] (History).
+* **[https://scpwiki.com/system:page-tags/tag/5000 5000]** -- An entry to the [https://scp-wiki.wikidot.com/scp5000contesthub SCP-5000 Contest] (Mystery).
+* **[https://scpwiki.com/system:page-tags/tag/6000 6000]** -- An entry to the [https://scp-wiki.wikidot.com/scp6000contesthub SCP-6000 Contest] (Nature).
+* **[https://scpwiki.com/system:page-tags/tag/7000 7000]** -- An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-7000 Contest] (Luck).
+* **[https://scpwiki.com/system:page-tags/tag/8000 8000]** -- An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-8000 Contest] (Fantasy).
 * **[https://scpwiki.com/system:page-tags/tag/gbc09 gbc09]** -- An entry to [https://scp-wiki.wikidot.com/gears-birthday-contest-2009 2009 Gears' Birthday Contest].
 * **[https://scpwiki.com/system:page-tags/tag/talecon10 talecon10]** -- An entry to [https://scp-wiki.wikidot.com/the-great-short-story-contest-archives The Great Short Story Contest].
 * **[https://scpwiki.com/system:page-tags/tag/hc2012 hc2012]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-contest 2012 Halloween Contest].
