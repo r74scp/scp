@@ -231,7 +231,7 @@ Tags that apply to creatures that are **alive**, or to **autonomous** or non-liv
 
 Tags that apply to animals, or to entities that resemble animals.
 
-* **[https://scpwiki.com/system:page-tags/tag/animal animal]** -- SCP is or affects animal life, defined as mobile multicellular organisms with a fixed bodily structure, that must ingest their food rather than producing it through photosynthesis.
+* **[https://scpwiki.com/system:page-tags/tag/animal animal]** -- SCP is an animal or affects animal life, defined as mobile multicellular organisms with a fixed bodily structure, that must ingest their food rather than producing it through photosynthesis.
  * //Often used with 'alive'//
 * **[https://scpwiki.com/system:page-tags/tag/amphibian amphibian]** -- SCP is, affects or resembles amphibians, including frogs, toads and salamanders.
  * //Often used with 'animal'//
@@ -274,7 +274,7 @@ Tags that apply to animals, or to entities that resemble animals.
  * //Often used with 'animal'//
 * **[https://scpwiki.com/system:page-tags/tag/fish fish]** -- SCP is, affects or resembles fish (piscine).
  * //Often used with 'animal'//
-* **[https://scpwiki.com/system:page-tags/tag/insect insect]** -- SCP is, affects or resembles insects, which are six-legged arthropods. (This does not include spiders, which should be tagged //arachnid//, or woodlice, which should be tagged //crustacean//. This also does not include centipedes or millipedes, which should be tagged //arthropod//).
+* **[https://scpwiki.com/system:page-tags/tag/insect insect]** -- SCP is, affects or resembles insects, which are six-legged, three-segment arthropods. (This does not include spiders, which should be tagged //arachnid//, or woodlice, which should be tagged //crustacean//. This also does not include centipedes or millipedes, which should be tagged //arthropod//).
  * //Often used with 'animal'//
  * //Conflicts with 'arachnid', and 'crustacean'//
  * //Supersedes 'invertebrate', and 'arthropod'//
@@ -344,7 +344,7 @@ Tags that apply to entities, objects or phenomena that have psychological, **min
  * //Often used with 'auditory', 'sensory', and 'visual'//
 * **[https://scpwiki.com/system:page-tags/tag/infohazard infohazard]** -- SCP has an effect that is triggered when it is described or referred to. Unlike a meme, an infohazard is an object that has effects on thoughts and behavior related to it.
  * //Compare with 'memetic', and 'meta'//
-* **[https://scpwiki.com/system:page-tags/tag/knowledge knowledge]** -- SCP absorbs, stores, generates, grants, or possesses knowledge that is anomalous, or through an anomalous process. SCPs capable of accurate predictions should be tagged //predictive// instead.
+* **[https://scpwiki.com/system:page-tags/tag/knowledge knowledge]** -- SCP absorbs, stores, generates, grants, or possesses knowledge that is anomalous, or through an anomalous process.
  * //Superseded by 'predictive'//
  * //Compare with 'telepathic'//
 * **[https://scpwiki.com/system:page-tags/tag/language language]** -- SCP imparts, exhibits, or is an anomalous language.
@@ -473,8 +473,9 @@ Tags that describe where the SCP is or where it comes from, or that apply to SCP
 
 +++ Artificial
 
-Tags that typically apply to objects or cultural practices created by humans, including **artifacts** and **artistic** works, as well as specific ways humans can interact with anomalies.
+Tags that typically apply to objects created by humans, including **artifacts** and **artistic** works, as well as specific ways humans can interact with anomalies.
 
+* **[https://scpwiki.com/system:page-tags/tag/alcohol alcohol]** -- SCP is, affects or is related to alcoholic beverages, alcohol production and distribution, or alcohol intoxication. Alcohols other than ethanol are excluded.
 * **[https://scpwiki.com/system:page-tags/tag/appliance appliance]** -- SCP is or resembles a household or domestic appliance.
  * //Often used with 'electrical', and 'electronic'//
  * //Supersedes 'artifact'//
@@ -763,9 +764,10 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/department-of-other department-of-other]** -- Featuring or related to the Foundation's Department of Other, responsible for -J SCPs.
 * **[https://scpwiki.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Featuring or related to the Foundation's Pataphysics Department.
 * **[https://scpwiki.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Featuring or related to the Foundation's Department of Procurement and Liquidation.
+* **[https://scpwiki.com/system:page-tags/tag/samsara samsara]** -- Featuring or related to Mobile Task Force Tau-5 "Samsara".
+* **[https://scpwiki.com/system:page-tags/tag/spicy-crust-pizzaria spicy-crust-pizzaria]** -- Featuring or related to Spicy Crust Pizzeria, a pizza restaurant used as a Foundation front company.
 * **[https://scpwiki.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Featuring or related to the Foundation's Department of Surrealistics.
 * **[https://scpwiki.com/system:page-tags/tag/tactical-theology tactical-theology]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/tactical-theology-hub Department of Tactical Theology].
-* **[https://scpwiki.com/system:page-tags/tag/samsara samsara]** -- Featuring or related to Mobile Task Force Tau-5 "Samsara".
 * **[https://scpwiki.com/system:page-tags/tag/telecom-office telecom-office]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/telecommunications-monitoring-office-hub Telecommunications Monitoring Office].
 * **[https://scpwiki.com/system:page-tags/tag/unreality-dept unreality-dept]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/unreality-hub Unreality Department].
 
@@ -1221,6 +1223,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/ten-dots ten-dots]** -- [https://scp-wiki.wikidot.com/scp-2521 SCP-2521].
 * **[https://scpwiki.com/system:page-tags/tag/the-old-man the-old-man]** -- The Old Man, aka [https://scp-wiki.wikidot.com/scp-106 SCP-106].
 * **[https://scpwiki.com/system:page-tags/tag/tickle-monster tickle-monster]** -- The Tickle Monster, aka [https://scp-wiki.wikidot.com/scp-999 SCP-999].
+* **[https://scpwiki.com/system:page-tags/tag/the-kumiho the-kumiho]** -- The nine-tailed kumiho/gumiho, aka [https://scp-wiki.wikidot.com/scp-953 SCP-953].
 * **[https://scpwiki.com/system:page-tags/tag/the-sculpture the-sculpture]** -- The Sculpture, aka [https://scp-wiki.wikidot.com/scp-173 SCP-173].
 * **[https://scpwiki.com/system:page-tags/tag/the-specter the-specter]** -- The Specter, aka [https://scp-wiki.wikidot.com/scp-4944 SCP-4944].
 * **[https://scpwiki.com/system:page-tags/tag/too-spooky too-spooky]** -- Too Spooky, aka [https://scp-wiki.wikidot.com/scp-2006 SCP-2006].
@@ -1285,6 +1288,7 @@ Other individuals involved in the anomalous.
 
 Powerful anomalous entities, which some might call gods.
 
+* **[https://scpwiki.com/system:page-tags/tag/anafabula anafabula]** -- The anafabula, aka [https://scp-wiki.wikidot.com/SCP-2747], an antagonistic anti-narrative that annihilates any work that features it in its entirety.
 * **[https://scpwiki.com/system:page-tags/tag/brothers-of-death brothers-of-death]** -- The Three Brothers of Death, first mentioned in [[[SCP-1440]]].
 * **[https://scpwiki.com/system:page-tags/tag/hanged-king hanged-king]** -- The Hanged King of Alagadda.
 * **[https://scpwiki.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
