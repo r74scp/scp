@@ -117,7 +117,7 @@ Miscellaneous major page tags that are not top-level tags.
  * //Supersedes 'illustrated'//
 * **[https://scpwiki.com/system:page-tags/tag/contest contest]** -- //contest// pages are pages created for the purpose of community contests. This should be used in conjunction with //hub// in the case of entry listings, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
  * //Requires 'hub'//
-* **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained ] (-EX) SCPs are a special type of //scp//. Articles that use Explained as an Object Class should be tagged with their previous object class tag, if it is included in the article.
+* **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained ] (-EX) SCPs are a special type of //scp//, although //explained// can be used as an object class on any SCP. Articles that use Explained as an Object Class should be tagged with their previous object class tag, if it is included in the article.
  * //Requires 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/group-hub group-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a specific [https://scp-wiki.wikidot.com/groups-of-interest Group of Interest], [https://scp-wiki.wikidot.com/departments Department] or [https://scp-wiki.wikidot.com/task-forces Mobile Task Force]. May also be a //canon-hub// or //series-hub//.
  * //Requires 'hub'//
@@ -149,9 +149,9 @@ Tags that describe the content of a //supplement// page.
 [[tab Object Classes]]
 ++ Object Classes
 
-All articles tagged with scp should also be tagged with the appropriate tag for their object class, or with esoteric-class if it does not have one, if its object class cannot be determined from the article's contents, or if it has a non-standard object class.
+All articles tagged with scp should also be tagged with the appropriate tag for their object class, or with esoteric-class if it does not have one, if its object class cannot be determined from the article's contents, or if it has a non-standard object class. For the purpose of tagging, //explained// can be used as an object class on any type of SCP article.
 
-If an SCP has multiple object classes at the same time, most frequently Safe, Euclid or Keter and a secondary object class, it should be tagged with all applicable object class tags, which may include esoteric-class. If an article's object class changes over time, either by striking through an outdated object class or by updating the SCP article with a new iteration, only the object class or classes on the final version of the article should be applied as tags. The exception is articles tagged as neutralized, decommissioned or explained, which should be tagged with whatever object class they were before, if that object class is included in the article.
+If an SCP has multiple object classes at the same time, most frequently Safe, Euclid or Keter and a secondary object class, it should be tagged with all applicable object class tags, which may include esoteric-class. If an article's object class changes over time, either by striking through an outdated object class or by updating the SCP article with a new iteration, only the object class or classes on the final version of the article should be applied as tags. The exception is articles tagged as //neutralized//, //decommissioned// or //explained//, which should be tagged with whatever object class they were before, if that object class is included in the article.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
@@ -167,20 +167,18 @@ The following applies to all tags in this category:
 * **[https://scpwiki.com/system:page-tags/tag/apollyon apollyon]** -- SCP is Apollyon.
 * **[https://scpwiki.com/system:page-tags/tag/archon archon]** -- SCP is Archon.
 * **[https://scpwiki.com/system:page-tags/tag/ticonderoga ticonderoga]** -- SCP is Ticonderoga.
-* **[https://scpwiki.com/system:page-tags/tag/neutralized neutralized]** -- SCP is Neutralized.
-* **[https://scpwiki.com/system:page-tags/tag/decommissioned decommissioned]** -- SCP is decommissioned.
-* **[https://scpwiki.com/system:page-tags/tag/pending pending]** -- SCP is pending classification.
+* **[https://scpwiki.com/system:page-tags/tag/neutralized neutralized]** -- SCP has been Neutralized.
+* **[https://scpwiki.com/system:page-tags/tag/decommissioned decommissioned]** -- SCP has been Decommissioned.
+* **[https://scpwiki.com/system:page-tags/tag/pending pending]** -- SCP is still pending classification.
 * **[https://scpwiki.com/system:page-tags/tag/esoteric-class esoteric-class]** -- SCP has an object class other than one of the above.
 
 [[/tab]]
 [[tab SCP Attributes]]
 ++ SCP Attributes
 
-This list is intended as a guide to attribute tags, or secondary tags on SCP articles. These should only be used on SCP articles, not tales or GoI formats.
+This list is intended as a guide to attribute tags. These should only be used as descriptors on SCP articles, and should not be used on tales or GoI formats. See the [https://05command.wikidot.com/tech-hub-tag Tag Guide and FAQ] for extended clarifications.
 
 The list of tags has been divided into the following subsections: Entity, Animal, Biological, Mental, Physical, Location, Artificial, and Other.
-
-See the [https://05command.wikidot.com/tech-hub-tag Tag FAQ] for extended clarifications.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
@@ -575,7 +573,7 @@ Any tags that do not fit into the other sections.
 [[tab Genre]]
 ++ Genre
 
-Describes the content, setting and style of a fictional work.
+Describes the content, setting and style of a fictional work. See the [https://scp-wiki.wikidot.com/genre-tagging-guide Genre Tagging Guide] for further explanation and clarification.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
@@ -712,7 +710,7 @@ Describes the style of an article. These tags may only be applied to tales, and 
 [[tab Art]]
 ++ Art
 
-Tags describing the Style and Content of art pages.
+Tags describing the Style and Content of art pages. See the [https://scp-wiki.wikidot.com/art-tagging-guide Art Tagging Guide] for a more detailed guide with illustrative examples.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
@@ -740,7 +738,7 @@ These tags refer to the content that the artwork is depicting.
 * **[https://scpwiki.com/system:page-tags/tag/goi-art goi-art]** -- Artwork depicting characters, objects, or themes from a specific Group of Interest. Also applies to GoI logos.
 * **[https://scpwiki.com/system:page-tags/tag/logo logo]** -- Artwork depicting one or more logos or other symbolic graphics, such as insignia, flags and coats of arms.
 * **[https://scpwiki.com/system:page-tags/tag/personnel-art personnel-art]** -- Artwork depicting specific SCP Foundation employees.
-* **[https://scpwiki.com/system:page-tags/tag/poster poster]** -- Artwork depicting a poster, infographic or advertisment, using a combination of images and words to convey information.
+* **[https://scpwiki.com/system:page-tags/tag/poster poster]** -- Artwork depicting a poster, infographic or advertisement, using a combination of images and words to convey information.
 * **[https://scpwiki.com/system:page-tags/tag/scp-art scp-art]** -- Artwork depicting one or more SCP objects or entities.
 
 [[/tab]]
@@ -758,23 +756,23 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/antimemetics-division antimemetics-division]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/antimemetics-division-hub Antimemetics Division].
 * **[https://scpwiki.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
 * **[https://scpwiki.com/system:page-tags/tag/deletions-dept deletions-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/deleted Department of Deletions].
-* **[https://scpwiki.com/system:page-tags/tag/delta-t delta-t]** -- Featuring or related to [https://scp-wiki.wikidot.com/welcome-to-delta-t Delta T], the transtemporal Foundation agency.
+* **[https://scpwiki.com/system:page-tags/tag/delta-t delta-t]** -- Featuring or related to Research and Containment Team [https://scp-wiki.wikidot.com/welcome-to-delta-t Delta T] or the Temporal Anomalies Department, the transtemporal Foundation agency.
 * **[https://scpwiki.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Featuring or related to the Foundation's Ethics Committee.
-* **[https://scpwiki.com/system:page-tags/tag/engagement-division engagement-division]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/anomalous-entity-engagement-division-hub Anomalous Entity Engagement Division] (AEED).
+* **[https://scpwiki.com/system:page-tags/tag/engagement-division engagement-division]** -- Featuring or related to the [https://scp-wiki.wikidot.com/anomalous-entity-engagement-division-hub Anomalous Entity Engagement Division] (AEED).
 * **[https://scpwiki.com/system:page-tags/tag/ettra ettra]** -- Featuring or related to the Emergent Threat Tactical Response Authority.
 * **[https://scpwiki.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/fire-suppression-department-hub Fire Suppression Department].
 * **[https://scpwiki.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
-* **[https://scpwiki.com/system:page-tags/tag/last-hope last-hope]** -- Featuring or related to MTF Alpha-9, Last Hope.
+* **[https://scpwiki.com/system:page-tags/tag/last-hope last-hope]** -- Featuring or related to MTF Alpha-9, "Last Hope".
 * **[https://scpwiki.com/system:page-tags/tag/miscommunications miscommunications]** -- Featuring or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
-* **[https://scpwiki.com/system:page-tags/tag/department-of-other department-of-other]** -- Featuring or related to the Foundation's Department of Other, responsible for -J SCPs.
+* **[https://scpwiki.com/system:page-tags/tag/department-of-other department-of-other]** -- Featuring or related to the Department of Other, responsible for -J SCPs.
 * **[https://scpwiki.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Featuring or related to the Foundation's Pataphysics Department.
 * **[https://scpwiki.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Featuring or related to the Foundation's Department of Procurement and Liquidation.
 * **[https://scpwiki.com/system:page-tags/tag/samsara samsara]** -- Featuring or related to Mobile Task Force Tau-5 "Samsara".
-* **[https://scpwiki.com/system:page-tags/tag/spicy-crust-pizzaria spicy-crust-pizzaria]** -- Featuring or related to Spicy Crust Pizzeria, a pizza restaurant used as a Foundation front company.
-* **[https://scpwiki.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Featuring or related to the Foundation's Department of Surrealistics.
+* **[https://scpwiki.com/system:page-tags/tag/spicy-crust-pizzaria spicy-crust-pizzaria]** -- Featuring or related to Spicy Crust Pizzeria or Spicy Crust Pizza, a restaurant chain used as a Foundation front company.
+* **[https://scpwiki.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Featuring or related to the Department of Surrealistics.
 * **[https://scpwiki.com/system:page-tags/tag/tactical-theology tactical-theology]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/tactical-theology-hub Department of Tactical Theology].
 * **[https://scpwiki.com/system:page-tags/tag/telecom-office telecom-office]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/telecommunications-monitoring-office-hub Telecommunications Monitoring Office].
-* **[https://scpwiki.com/system:page-tags/tag/unreality-dept unreality-dept]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/unreality-hub Unreality Department].
+* **[https://scpwiki.com/system:page-tags/tag/unreality-dept unreality-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/unreality-hub Unreality Department].
 
 +++ Groups of Interest
 
