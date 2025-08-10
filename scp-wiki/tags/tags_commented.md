@@ -171,9 +171,9 @@ The following applies to all tags in this category:
 [[tab SCP Attributes]]
 ++ SCP Attributes
 
-This list is intended as a guide to attribute tags. These should only be used as descriptors on SCP articles, and should not be used on tales or GoI formats. See the [https://05command.wikidot.com/tech-hub-tag Tag Guide and FAQ] for extended clarifications.
+This list is intended as a guide to attribute tags. These should only be used as descriptors on SCP articles, and should not be used on tales or GoI formats. See the [https://scp-wiki.wikidot.com/scp-tagging-guide SCP Tagging Guide] for a more detailed explanation of how to apply these.
 
-The list of tags has been divided into the following subsections: Entity, Animal, Biological, Mental, Physical, Location, Artificial, and Other.
+The list of tags has been divided into the following subsections: Entity, Animal, Biological, Mental, Physical, Environment, Artificial, and Other.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
@@ -433,7 +433,7 @@ Tags that apply to the physical properties or effects of entities, objects or ph
 * **[https://scpwiki.com/system:page-tags/tag/vibration vibration]** -- SCP generates anomalous vibrations or other repetitive movement.
  * //Often used with 'acoustic'//
 
-+++ Location
++++ Environment
 
 Tags that describe where the SCP is or where it comes from, or that apply to SCPs that describe or affect specific locations or natural phenomena.
 
@@ -763,7 +763,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Featuring or related to the Foundation's Pataphysics Department.
 * **[https://scpwiki.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Featuring or related to the Foundation's Department of Procurement and Liquidation.
 * **[https://scpwiki.com/system:page-tags/tag/samsara samsara]** -- Featuring or related to Mobile Task Force Tau-5 "Samsara".
-* **[https://scpwiki.com/system:page-tags/tag/spicy-crust-pizzaria spicy-crust-pizzaria]** -- Featuring or related to Spicy Crust Pizzeria or Spicy Crust Pizza, a restaurant chain used as a Foundation front company.
+* **[https://scpwiki.com/system:page-tags/tag/spicy-crust-pizzeria spicy-crust-pizzeria]** -- Featuring or related to Spicy Crust Pizzeria or Spicy Crust Pizza, a restaurant chain used as a Foundation front company.
 * **[https://scpwiki.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Featuring or related to the Department of Surrealistics.
 * **[https://scpwiki.com/system:page-tags/tag/tactical-theology tactical-theology]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/tactical-theology-hub Department of Tactical Theology].
 * **[https://scpwiki.com/system:page-tags/tag/telecom-office telecom-office]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/telecommunications-monitoring-office-hub Telecommunications Monitoring Office].
