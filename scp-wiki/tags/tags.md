@@ -479,14 +479,14 @@ Tags that describe where the SCP is or where it comes from, or that apply to SCP
 Tags that typically apply to objects created by humans, including **artifacts** and **artistic** works, as well as specific ways humans can interact with anomalies.
 
 * **[https://scpwiki.com/system:page-tags/tag/alcohol alcohol]** -- SCP is, affects or is related to alcoholic beverages, alcohol production and distribution, or alcohol intoxication. Alcohols other than ethanol are excluded.
-* **[https://scpwiki.com/system:page-tags/tag/appliance appliance]** -- SCP is or resembles a household or domestic appliance.
+* **[https://scpwiki.com/system:page-tags/tag/appliance appliance]** -- SCP is an artifact that is or that resembles a household or domestic appliance.
  * //Often used with 'electrical', and 'electronic'//
  * //Supersedes 'artifact'//
  * //Superseded by 'computer'//
 * **[https://scpwiki.com/system:page-tags/tag/artistic artistic]** -- SCP is a work of art, exhibits artistic properties, or has artistic significance.
  * //Supersedes 'artifact'//
  * //Superseded by 'cinema', 'musical', 'performance', 'photographic', and 'sculpture'//
-* **[https://scpwiki.com/system:page-tags/tag/artifact artifact]** -- SCP is or was originally created by humans.
+* **[https://scpwiki.com/system:page-tags/tag/artifact artifact]** -- SCP is an object created by humans (or other intelligent beings).
  * //Superseded by 'appliance', 'artistic', 'clothing', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
 * **[https://scpwiki.com/system:page-tags/tag/clockwork clockwork]** -- SCP operates primarily via clockworks, defined as mechanical devices constructed primarily using toothed wheels and/or powered by a mainspring.
  * //Supersedes 'mechanical'//
@@ -495,27 +495,27 @@ Tags that typically apply to objects created by humans, including **artifacts** 
  * //Supersedes 'artifact'//
 * **[https://scpwiki.com/system:page-tags/tag/cinema cinema]** -- SCPs that are, relate to or concern the medium of cinema, film and/or movies.
  * //Supersedes 'artistic'//
-* **[https://scpwiki.com/system:page-tags/tag/computer computer]** -- SCP is a computational device or affects computational devices.
+* **[https://scpwiki.com/system:page-tags/tag/computer computer]** -- SCP is a computational device, an artifact that can carry out mathematical operations, or affects computational devices.
  * //Often used with 'electronic', and 'mechanical'//
  * //Supersedes 'artifact', and 'appliance'//
 * **[https://scpwiki.com/system:page-tags/tag/currency currency]** -- SCP is, is related to, affects, or is activated by money or other objects primarily intended to be used as a medium of exchange.
  * //Often used with 'exchange'//
-* **[https://scpwiki.com/system:page-tags/tag/document document]** -- SCP is a textual document of some sort. Includes books.
+* **[https://scpwiki.com/system:page-tags/tag/document document]** -- SCP is a textual document. This category of artifact includes books.
  * //Supersedes 'artifact', and 'inscription'//
-* **[https://scpwiki.com/system:page-tags/tag/electronic electronic]** -- SCP is or resembles an electronic device.
-* **[https://scpwiki.com/system:page-tags/tag/food food]** -- SCP is primarily intended to be an edible object or substance.
+* **[https://scpwiki.com/system:page-tags/tag/electronic electronic]** -- SCP is an artifact that operates using semiconductors (such as the ones in computer chips) to control the flow of electricity within it, or resembles an electronic device.
+* **[https://scpwiki.com/system:page-tags/tag/food food]** -- SCP is intended to be an edible object or substance, including artifacts classed as food or drink.
  * //Supersedes 'artifact'//
 * **[https://scpwiki.com/system:page-tags/tag/foundation-made foundation-made]** -- SCP was created, intentionally or otherwise, by the SCP Foundation itself. Note that only the objects whose creation resulted directly from specific actions of the Foundation are applicable. This excludes the spontaneous occurrence of anomalous phenomena at Foundation sites containing a large number of anomalies.
 * **[https://scpwiki.com/system:page-tags/tag/game game]** -- SCP is, is used in, is activated by, or is otherwise related to one or more games, defined as a method of play or a sport -- especially a competitive one -- that can be won or lost by skill, strength, or luck.
  * //Often used with 'sport', and 'toy'//
 * **[https://scpwiki.com/system:page-tags/tag/inscription inscription]** -- SCP features carvings, engravings or inscriptions of words, numbers or other designs.
  * //Superseded by 'document'//
-* **[https://scpwiki.com/system:page-tags/tag/jewelry jewelry]** -- SCP is an object primarily intended to be worn in a decorative manner.
+* **[https://scpwiki.com/system:page-tags/tag/jewelry jewelry]** -- SCP is an artifact intended to be worn in a decorative manner.
  * //Conflicts with 'clothing'//
  * //Supersedes 'artifact'//
 * **[https://scpwiki.com/system:page-tags/tag/mechanical mechanical]** -- SCP operates primarily in a mechanical manner or is a mechanical device.
  * //Superseded by 'clockwork', and 'robotic'//
-* **[https://scpwiki.com/system:page-tags/tag/media media]** -- SCP is or is contained on, one or more items of fixed or removable analog or digital media, such as a tape, record, disc, or drive.
+* **[https://scpwiki.com/system:page-tags/tag/media media]** -- SCP is or is recorded onto one or more artifacts consisting of fixed or removable analog or digital media, such as a tape, record, disc, or drive.
  * //Supersedes 'artifact'//
 * **[https://scpwiki.com/system:page-tags/tag/musical musical]** -- SCP is, generates, or is generated by musical compositions.
  * //Supersedes 'artistic'//
@@ -533,14 +533,14 @@ Tags that typically apply to objects created by humans, including **artifacts** 
 * **[https://scpwiki.com/system:page-tags/tag/sport sport]** -- SCP is, is used in, is activated by, or is otherwise related to one or more sports, defined as an activity involving physical exertion and skill in which one or more individuals compete against other individuals or teams.
  * //Requires 'game'//
  * //Often used with 'clothing', and 'tool'//
-* **[https://scpwiki.com/system:page-tags/tag/tool tool]** -- SCP is (or was intended to be) used as a tool.
+* **[https://scpwiki.com/system:page-tags/tag/tool tool]** -- SCP is an artifact intended to be used as a tool.
  * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/toy toy]** -- SCP is, or was primarily intended to be, used as a toy.
+* **[https://scpwiki.com/system:page-tags/tag/toy toy]** -- SCP is an artifact intended to be used as a toy.
  * //Often used with 'game'//
  * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/weapon weapon]** -- SCP is or is intended to be used as a weapon.
+* **[https://scpwiki.com/system:page-tags/tag/weapon weapon]** -- SCP is an artifact intended to be used as a weapon.
  * //Supersedes 'artifact'//
-* **[https://scpwiki.com/system:page-tags/tag/vehicle vehicle]** -- SCP is or is intended to be used as a vehicle.
+* **[https://scpwiki.com/system:page-tags/tag/vehicle vehicle]** -- SCP is an artifact intended to be used as a vehicle.
  * //Supersedes 'artifact'//
 
 +++ Other
