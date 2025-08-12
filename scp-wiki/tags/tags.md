@@ -476,8 +476,10 @@ Tags that describe where the SCP is or where it comes from, or that apply to SCP
 
 +++ Artificial
 
-Tags that typically apply to objects created by humans, including **artifacts** and **artistic** works, as well as specific ways humans can interact with anomalies.
+Tags that typically apply to objects created by humans, including **artifacts** and **artistic** works, as well as some specific ways humans can interact with these objects.
 
+* **[https://scpwiki.com/system:page-tags/tag/artifact artifact]** -- SCP is an object created by humans (or other intelligent beings).
+ * //Superseded by 'appliance', 'artistic', 'clothing', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
 * **[https://scpwiki.com/system:page-tags/tag/alcohol alcohol]** -- SCP is, affects or is related to alcoholic beverages, alcohol production and distribution, or alcohol intoxication. Alcohols other than ethanol are excluded.
 * **[https://scpwiki.com/system:page-tags/tag/appliance appliance]** -- SCP is an artifact that is or that resembles a household or domestic appliance.
  * //Often used with 'electrical', and 'electronic'//
@@ -486,8 +488,6 @@ Tags that typically apply to objects created by humans, including **artifacts** 
 * **[https://scpwiki.com/system:page-tags/tag/artistic artistic]** -- SCP is a work of art, exhibits artistic properties, or has artistic significance.
  * //Supersedes 'artifact'//
  * //Superseded by 'cinema', 'musical', 'performance', 'photographic', and 'sculpture'//
-* **[https://scpwiki.com/system:page-tags/tag/artifact artifact]** -- SCP is an object created by humans (or other intelligent beings).
- * //Superseded by 'appliance', 'artistic', 'clothing', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
 * **[https://scpwiki.com/system:page-tags/tag/clockwork clockwork]** -- SCP operates primarily via clockworks, defined as mechanical devices constructed primarily using toothed wheels and/or powered by a mainspring.
  * //Supersedes 'mechanical'//
 * **[https://scpwiki.com/system:page-tags/tag/clothing clothing]** -- SCP is an artifact primarily intended to be worn for protection or comfort, including armor and protective helmets.
@@ -503,7 +503,7 @@ Tags that typically apply to objects created by humans, including **artifacts** 
 * **[https://scpwiki.com/system:page-tags/tag/document document]** -- SCP is a textual document. This category of artifact includes books.
  * //Supersedes 'artifact', and 'inscription'//
 * **[https://scpwiki.com/system:page-tags/tag/electronic electronic]** -- SCP is an artifact that operates using semiconductors (such as the ones in computer chips) to control the flow of electricity within it, or resembles an electronic device.
-* **[https://scpwiki.com/system:page-tags/tag/food food]** -- SCP is intended to be an edible object or substance, including artifacts classed as food or drink.
+* **[https://scpwiki.com/system:page-tags/tag/food food]** -- SCP is intended to be an edible object or substance, including any artifacts classed as food or drink.
  * //Supersedes 'artifact'//
 * **[https://scpwiki.com/system:page-tags/tag/foundation-made foundation-made]** -- SCP was created, intentionally or otherwise, by the SCP Foundation itself. Note that only the objects whose creation resulted directly from specific actions of the Foundation are applicable. This excludes the spontaneous occurrence of anomalous phenomena at Foundation sites containing a large number of anomalies.
 * **[https://scpwiki.com/system:page-tags/tag/game game]** -- SCP is, is used in, is activated by, or is otherwise related to one or more games, defined as a method of play or a sport -- especially a competitive one -- that can be won or lost by skill, strength, or luck.
@@ -884,6 +884,8 @@ The following applies to all tags in this category:
  * //Requires 'chaos-insurgency'//
 * **[https://scpwiki.com/system:page-tags/tag/_chicago-spirit _chicago-spirit]** -- An article following the Chicago Spirit format.
  * //Requires 'chicago-spirit'//
+* **[https://scpwiki.com/system:page-tags/tag/_daevite _daevite]** -- An article following the Daevite format.
+ * //Requires 'chicago-spirit'//
 * **[https://scpwiki.com/system:page-tags/tag/_deer-college _deer-college]** -- An article following the Deer College format.
  * //Requires 'deer-college'//
 * **[https://scpwiki.com/system:page-tags/tag/_eric _eric]** -- An article following the Eric format.
@@ -943,6 +945,8 @@ The following applies to all tags in this category:
  * //Requires 'shark-punching-center'//
 * **[https://scpwiki.com/system:page-tags/tag/_three-moons-initiative _three-moons-initiative]** -- An article following the Three Moons Initiative format.
  * //Requires 'three-moons-initiative'//
+* **[https://scpwiki.com/system:page-tags/tag/_totleighsoft _totleighsoft]** -- An article following the TotleighSoft format.
+ * //Requires 'totleighsoft'//
 * **[https://scpwiki.com/system:page-tags/tag/_unusual-cargo _unusual-cargo]** -- An article following the Commission on Unusual Cargo format.
  * //Requires 'unusual-cargo'//
 * **[https://scpwiki.com/system:page-tags/tag/_unusual-incidents-unit _unusual-incidents-unit]** -- An article following the Unusual Incidents Unit format.
