@@ -1483,6 +1483,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/madao|madao]]]** //(madao)// - 要注意団体-ITの項を参照してください。
 * **[[[/system:page-tags/tag/魔術師学会|魔術師学会]]]** //(mages-academy)// - 要注意団体-DEの項を参照してください。
 * **[[[/system:page-tags/tag/陰陽寮|陰陽寮]]]** - JP側で独自に登録されたタグです。準要注意団体-JPの項を参照してください。
+* **[[[/system:page-tags/tag/晴明院|晴明院]]]** - JP側で独自に登録されたタグです。準要注意団体-JPの項を参照してください。
 * **[[[/system:page-tags/tag/ライト・クーリエ・エンタープライズ|ライト・クーリエ・エンタープライズ]]]** - JP側で独自に登録されたタグです。準要注意団体-JPの項を参照してください。
 
 [[/tab]][!--EN--]
@@ -1545,7 +1546,6 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/艦政本部対超常課|艦政本部対超常課]]]** - 艦政本部対超常課。
 * **[[[/system:page-tags/tag/判官会|判官会]]]** - 判官会。
 * **[[[/system:page-tags/tag/九十九機関|九十九機関]]]** - 九十九機関。
-* **[[[/system:page-tags/tag/晴明院|晴明院]]]** - 晴明院。
 * **[[[/system:page-tags/tag/マクロカオシズム|マクロカオシズム]]]** - マクロカオシズム。
 * **[[[/system:page-tags/tag/d-pixsea|d-pixsea]]]** - D-PiXsea。
 * **[[[/system:page-tags/tag/久斯動物医療センター|久斯動物医療センター]]]** - [[[kusuno-animal-medical-center|久斯動物医療センター]]]。
@@ -1561,6 +1561,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 以下は他支部で作成された要注意団体を、JP側で独自にタグ登録したものです。運用ルールの差異から区別して掲載しています。詳細はタグガイドの[[[tag-guide#toc16|こちらの項目]]]を参照してください。
 
 * **[[[/system:page-tags/tag/陰陽寮|陰陽寮]]]** - 陰陽寮 (Bureau of Onmyō / Onmyō Bureau) / 怪異なる事物についての聖帝評議会 (the Holy Emperor's Council on Unearthly Matters)。
+* **[[[/system:page-tags/tag/晴明院|晴明院]]]** - 晴明院。
 * **[[[/system:page-tags/tag/ライト・クーリエ・エンタープライズ|ライト・クーリエ・エンタープライズ]]]** - ライト・クーリエ・エンタープライズ。
 
 [[/tab]][!--JP--]
@@ -1907,6 +1908,11 @@ http://scp-slovenija.wikidot.com/is-arhiva
 * **[[[/system:page-tags/tag/信濃中央新聞|信濃中央新聞]]]** - 信濃中央新聞社。
 * **[[[/system:page-tags/tag/プリチャード学院|プリチャード学院]]]** - プリチャード学院。
 
++++ JPで独自に登録された財団下部組織
+以下は他支部で作成された財団下部組織を、JP側で独自にタグ登録したものです。運用ルールの差異から区別して掲載しています。詳細はタグガイドの[[[tag-guide#toc16|こちらの項目]]]を参照してください。
+
+* **[[[/system:page-tags/tag/演繹部門|演繹部門]]]** - 演繹部門。
+
 [[/tab]][!--JP--]
 [!--[[tab RU]]
 [[/tab]]RU--]
@@ -1924,6 +1930,10 @@ http://scp-slovenija.wikidot.com/is-arhiva
 +++ 部門-CN
 
 * **[[[/system:page-tags/tag/論理部門|論理部門]]]** //(逻辑部)// - [[[dol-hub|財団論理部門]]]。 
+
+以下のタグについては、特定の他支部の項を参照してください。
+
+* **[[[/system:page-tags/tag/演繹部門|演繹部門]]]** - JP側で独自に登録されたタグです。財団下部組織-JPの項を参照してください。
 
 [[/tab]]
 [!--[[tab FR]]
@@ -2128,6 +2138,11 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/the-specter|the-specter]]]** //(the-specter)// - The Specter、通称[[[SCP-4944]]]。
 * **[[[/system:page-tags/tag/おおこわいこわい|おおこわいこわい]]]** //(too-spooky)// - おおこわいこわい、通称[[[SCP-2006]]]。
 
+以下のタグについては、特定の他支部の項を参照してください。
+
+* **[[[/system:page-tags/tag/ドリームマン|ドリームマン]]]** - JP側で独自に登録されたタグです。キャラクター-JPの項を参照してください。
+* **[[[/system:page-tags/tag/私たちを見守るもの|私たちを見守るもの]]]** - JP側で独自に登録されたタグです。キャラクター-JPの項を参照してください。
+
 @@ @@
 
 +++ 要注意人物-EN
@@ -2227,6 +2242,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/エージェント・谷崎|エージェント・谷崎]]]** - エージェント・谷崎。
 * **[[[/system:page-tags/tag/エージェント・戸神|エージェント・戸神]]]** - エージェント・戸神。
 * **[[[/system:page-tags/tag/エージェント・那澤なごむ|エージェント・那澤なごむ]]]** - エージェント・那澤なごむ。
+* **[[[/system:page-tags/tag/エージェント・榾火|エージェント・榾火]]]** - エージェント・榾火。
 * **[[[/system:page-tags/tag/エージェント・亦好|エージェント・亦好]]]** - エージェント・亦好。
 * **[[[/system:page-tags/tag/エージェント・斑座|エージェント・斑座]]]** - エージェント・斑座。
 * **[[[/system:page-tags/tag/萌里菻|萌里菻]]]** - 萌里菻。
@@ -2283,6 +2299,12 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/広末孝行|広末孝行]]]** - 広末孝行。
 * **[[[/system:page-tags/tag/マックス|マックス]]]** - マックス。
 * **[[[/system:page-tags/tag/闇親方|闇親方]]]** - 闇、あるいは栄。
+
++++ JPで独自に登録されたキャラクター
+以下は他支部で作成されたキャラクターを、JP側で独自にタグ登録したものです。運用ルールの差異から区別して掲載しています。詳細はタグガイドの[[[tag-guide#toc16|こちらの項目]]]を参照してください。
+
+* **[[[/system:page-tags/tag/ドリームマン|ドリームマン]]]** - ドリームマン、通称[[[SCP-990]]]。
+* **[[[/system:page-tags/tag/私たちを見守るもの|私たちを見守るもの]]]** -私たちを見守るもの、通称[[[SCP-4999]]]。
 
 [[/tab]][!--JP--]
 [[tab RU]]
@@ -2375,7 +2397,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [!--[[tab PT]]
 [[/tab]]PT--]
 [!--[[tab CS]]
-[[/tab]][!--CS--]
+[[/tab]]CS--]
 [[tab ZH]]
 
 +++ キャラクター-ZH
@@ -2405,6 +2427,13 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/Koschei.aic|Koschei.aic]]]** //(Koschei.aic)// - 標註在與人工智能專員[[[*personnel-and-character-dossier-zh#Koschei.aic|Koschei.aic]]]相關的頁面上。
 * **[[[/system:page-tags/tag/研究員K|研究員K]]]** //(研究員K)// - 標註在與基金會員工[[[*personnel-and-character-dossier-zh#K-the-intern|研究員K]]]相關的[[[*ktheintern|頁面]]]上。--]
 [[/tab]]
+[[tab VN]]
+
++++ キャラクター-VN
+
+* **[[[/system:page-tags/tag/ズオン管理官|ズオン管理官]]]** //(giám-đốc-nguyễn-dương)// - サイト-21-VNの「臨時」管理官、グエン・ズオン。
+
+[[/tab]][!--VN--]
 [!--[[tab Others]]
 [[/tab]]--]
 [[/tabview]]
@@ -2501,6 +2530,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/サイト-cn-19|サイト-cn-19]]]** //(site-cn-19)// - [[[site-cn-19|サイト-CN-19]]]。
 * **[[[/system:page-tags/tag/サイト-cn-21|サイト-cn-21]]]** //(site-cn-21)// - [[[site-cn-21|サイト-CN-21]]]。
 * **[[[/system:page-tags/tag/サイト-cn-34|サイト-cn-34]]]** //(site-cn-34)// - [[[site-cn-34|サイト-CN-34]]]。
+* **[[[/system:page-tags/tag/サイト-cn-44|サイト-cn-44]]]** //(site-cn-44)// - [[[site-cn-44|サイト-CN-44]]]。
 * **[[[/system:page-tags/tag/サイト-cn-71|サイト-cn-71]]]** //(site-cn-71)// - [[[secure-facility-
 * dossier-site-cn-71|サイト-CN-71]]]。
 * **[[[/system:page-tags/tag/サイト-cn-75|サイト-cn-75]]]** //(site-cn-75)// - [[[site-cn-75|サイト-CN-75]]]。
@@ -2960,6 +2990,8 @@ http://scpfoundation.net/contests
 
 * **[[[/system:page-tags/tag/2024-メタタイトルコンテスト|2024-メタタイトルコンテスト]]]** //(2024-별칭경연)// - [[[title-contest-hub-2024|第三回メタタイトルコンテスト]]]。
 
+* **[[[/system:page-tags/tag/2025-短編コンテスト|2025-短編コンテスト]]]** //(2025-단편경연-ko)// - [[[short-contest-2025|2025年短編コンテスト]]]。
+
 [!--★タグ内のハイフンを残すものと残さないものが混在しているので、いずれ修整したい。--]
 [!--
 ★未申請。
@@ -3078,6 +3110,8 @@ http://scpfoundation.net/contests
 
 * **[[[/system:page-tags/tag/看図説話-鬼百合|看図説話-鬼百合]]]** //(看图说话-鬼百合)// - [[[picture-writing-tiger-lily|看図執筆: シーズン-鬼百合]]]。
 
+* **[[[/system:page-tags/tag/看図説話-待宵草|看図説話-待宵草]]]** //(看图说话-待宵草)// - [[[picture-writing-oenothera|看図執筆: シーズン-待宵草]]]。
+
 * **[[[/system:page-tags/tag/2020愚人コンテスト|2020愚人コンテスト]]]** //(2020愚人竞赛)// - [[[2020-waifu-contest|2020年WAIFUコンテスト]]]。
 
 [!--
@@ -3086,7 +3120,6 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/2019ハロウィン|2019ハロウィン]]]** //(2019万圣节)// - [[[halloween-event-2019|2019ハロウィンイベント“历史员工”]]]。
 * **[[[/system:page-tags/tag/2020ハロウィン|2020ハロウィン]]]** //(2020万圣节)// - [[[halloween-event-2020|2020ハロウィンイベント“梦结局”]]]。
 * **[[[/system:page-tags/tag/看図説話-彼岸花|看図説話-彼岸花]]]** //(看图说话-彼岸花)// - [[[picture-writing-manjusaka|看図執筆: シーズン-彼岸花]]]。
-* **[[[/system:page-tags/tag/看図説話-待宵草|看図説話-待宵草]]]** //(看图说话-待宵草)// - [[[picture-writing-oenothera|看図執筆: シーズン-待宵草]]]。
 * **[[[/system:page-tags/tag/凡人终死コンテスト|凡人终死コンテスト]]]** //(凡人终死竞赛)// - [[[memento-mori-hub|2019年“凡人终死”コンテスト]]]。
 --]
 
@@ -3237,6 +3270,8 @@ http://scpfoundation.net/contests
 * **[[[/system:page-tags/tag/csコンテスト5|csコンテスト5]]]** //(cs-soutěž-5)// - [[[cz-contest-v-hub|SCP-CSコンテスト5]]]。
 
 * **[[[/system:page-tags/tag/csコンテスト6|csコンテスト6]]]** //(cs-soutěž-6)// - [[[cs-contest-vi-hub|SCP-CSコンテスト6]]]。
+
+* **[[[/system:page-tags/tag/2025再誕コンテスト|2025再誕コンテスト]]]** //(soutěž-znovuzrození2025)//  - [[[soutez-znovuzrozeni2025-hub|2025再誕コンテスト]]]。
 
 [!--
 ★未申請。
