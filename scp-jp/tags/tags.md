@@ -1561,7 +1561,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 以下は他支部で作成された要注意団体を、JP側で独自にタグ登録したものです。運用ルールの差異から区別して掲載しています。詳細はタグガイドの[[[tag-guide#toc16|こちらの項目]]]を参照してください。
 
 * **[[[/system:page-tags/tag/陰陽寮|陰陽寮]]]** - 陰陽寮 (Bureau of Onmyō / Onmyō Bureau) / 怪異なる事物についての聖帝評議会 (the Holy Emperor's Council on Unearthly Matters)。
-* **[[[/system:page-tags/tag/晴明院|晴明院]]]** - 晴明院。
+* **[[[/system:page-tags/tag/晴明院|晴明院]]]** - 晴明院 / セイメイ・ギャラリー (The Seimei Gallery)。
 * **[[[/system:page-tags/tag/ライト・クーリエ・エンタープライズ|ライト・クーリエ・エンタープライズ]]]** - ライト・クーリエ・エンタープライズ。
 
 [[/tab]][!--JP--]
