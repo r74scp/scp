@@ -927,11 +927,11 @@ The following applies to all tags in this category:
 * **[https://scpwiki.com/system:page-tags/tag/_oria _oria]** -- An article following the Office For The Reclamation of Islamic Artifacts format.
  * //Requires 'oria'//
 * **[https://scpwiki.com/system:page-tags/tag/_other _other]** -- A GoI Format following a format not associated with a tagged Group of Interest.
-* **[https://scpwiki.com/system:page-tags/tag/_parawatch _parawatch]** -- An article following the Parawatch format.
+* **[https://scpwiki.com/system:page-tags/tag/_parawatch _parawatch]** -- An article following the Parawatch Wiki format.
  * //Requires 'parawatch'//
-* **[https://scpwiki.com/system:page-tags/tag/_prometheus _prometheus]** -- An article following the Prometheus format.
+* **[https://scpwiki.com/system:page-tags/tag/_prometheus _prometheus]** -- An article following the Prometheus Labs format.
  * //Requires 'prometheus'//
-* **[https://scpwiki.com/system:page-tags/tag/_pseudogenesis _pseudogenesis]** -- An article following the Pseudogenesis format.
+* **[https://scpwiki.com/system:page-tags/tag/_pseudogenesis _pseudogenesis]** -- An article following the Pseudogenesis Productions format.
  * //Requires 'pseudogenesis'//
 * **[https://scpwiki.com/system:page-tags/tag/_sapphire _sapphire]** -- An article following the SAPPHIRE format.
  * //Requires 'sapphire'//
@@ -1398,7 +1398,8 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/5000 5000]** -- An entry to the [https://scp-wiki.wikidot.com/scp5000contesthub SCP-5000 Contest] (Mystery).
 * **[https://scpwiki.com/system:page-tags/tag/6000 6000]** -- An entry to the [https://scp-wiki.wikidot.com/scp6000contesthub SCP-6000 Contest] (Nature).
 * **[https://scpwiki.com/system:page-tags/tag/7000 7000]** -- An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-7000 Contest] (Luck).
-* **[https://scpwiki.com/system:page-tags/tag/8000 8000]** -- An entry to the [https://scp-wiki.wikidot.com/scp7000contesthub SCP-8000 Contest] (Fantasy).
+* **[https://scpwiki.com/system:page-tags/tag/8000 8000]** -- An entry to the [https://scp-wiki.wikidot.com/scp8000contesthub SCP-8000 Contest] (Fantasy).
+* **[https://scpwiki.com/system:page-tags/tag/9000 9000]** -- An entry to the [https://scp-wiki.wikidot.com/scp9000contesthub SCP-9000 Contest] (Structures, Constructs, Patterns).
 * **[https://scpwiki.com/system:page-tags/tag/gbc09 gbc09]** -- An entry to [https://scp-wiki.wikidot.com/gears-birthday-contest-2009 2009 Gears' Birthday Contest].
 * **[https://scpwiki.com/system:page-tags/tag/talecon10 talecon10]** -- An entry to [https://scp-wiki.wikidot.com/the-great-short-story-contest-archives The Great Short Story Contest].
 * **[https://scpwiki.com/system:page-tags/tag/hc2012 hc2012]** -- An entry to the [https://scp-wiki.wikidot.com/halloween-contest 2012 Halloween Contest].
