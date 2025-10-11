@@ -1157,6 +1157,8 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 
 * **[[[/system:page-tags/tag/雑草|雑草]]]** //(chwasty)// - [[[chwasty-hub|雑草]]]。
 * **[[[/system:page-tags/tag/潜伏治療|潜伏治療]]]** //(przyczajone-leczenie)// - [[[przyczajone-leczenie-hub|潜伏治療]]]。
+* **[[[/system:page-tags/tag/ツィツフズ・ヘル|ツィツフズ・ヘル]]]** //(piekło-cyców)// - [[[pieklo-cycow-hub|ツィツフズ・ヘル]]]。
+* **[[[/system:page-tags/tag/罪団|罪団]]]** //(symonia)// - [[span class="ruby"]][[[symonia-hub|罪団]]][[span class="rt"]]シモニア[[/span]][[/span]]。
 
 [[/tab]]
 [[tab ES]]
@@ -2676,6 +2678,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/occon|occon]]]** - [[[occon25|オブジェクトクラス最強決定戦]]]。
 
 * **[[[/system:page-tags/tag/時コン25|時コン25]]]** - [[[tokicontest2025-hub|時のコンテスト2025]]]。
+
+* **[[[/system:page-tags/tag/4000jp|4000jp]]]** - [[[scp4000jp-contest-hub|SCP-4000-JPコンテスト]]]。
 @@ @@
 
 +++ キャンペーン-JP
