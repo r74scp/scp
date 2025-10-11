@@ -544,6 +544,8 @@ Any tags that do not fit into the other sections.
 
 * **[https://scpwiki.com/system:page-tags/tag/anomalous-event anomalous-event]** -- The SCP is a singular anomalous event that significantly changed reality in some way.
  * //Avoid using with 'phenomenon'//
+* **[https://scpwiki.com/system:page-tags/tag/child child]** -- SCP is a child, or is related to or affects children.
+ * //Often used with 'humanoid'//
 * **[https://scpwiki.com/system:page-tags/tag/clown clown]** -- SCP is, resembles, affects, or involves one or more clowns.
  * //Often used with 'humanoid'//
 * **[https://scpwiki.com/system:page-tags/tag/concept concept]** -- SCP is or affects a purely non-physical concept. Should not be used in conjunction with tags describing physical qualities.
@@ -637,6 +639,7 @@ Describes the major themes of an article.
 * **[https://scpwiki.com/system:page-tags/tag/ghost ghost]** -- Features ghosts, the spirits of the dead, often referred to as spectral entities by the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/historical historical]** -- Focuses on historical events, or on anomalies with historical significance.
  * //Compare with 'period-piece'//
+* **[https://scpwiki.com/system:page-tags/tag/journalism journalism]** -- Focuses on journalists, professional reviewers, news reports or news articles.
 * **[https://scpwiki.com/system:page-tags/tag/legal legal]** -- Focuses on law, legal proceedings, and legal documents.
 * **[https://scpwiki.com/system:page-tags/tag/lgbtq lgbtq]** -- Focuses on LGBTQ+ themes, culture or history. Possible examples include portrayal of gay and lesbian relationships, depiction of asexuality and bisexuality, and exploration of trans, queer and agender identities.
 * **[https://scpwiki.com/system:page-tags/tag/murder-monster murder-monster]** -- Features an inhuman anomaly that is hostile to human life.
@@ -795,6 +798,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/dr-wondertainment dr-wondertainment]** -- Featuring or related to the [https://scp-wiki.wikidot.com/dr-wondertainment-hub Dr. Wondertainment] person or group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/factory factory]** -- Featuring or related to [https://scp-wiki.wikidot.com/factory-hub The Factory] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/fifthist fifthist]** -- Featuring or related to [https://scp-wiki.wikidot.com/fifthist-hub The Fifth Church] group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/finnfolk finnfolk]** -- Featuring or related to the Finnfolk of [https://scp-wiki.wikidot.com/seas-of-orcadia-hub Orcadia], aquatic humanoids known as //Homo aquarius//.
 * **[https://scpwiki.com/system:page-tags/tag/gamers-against-weed gamers-against-weed]** -- Featuring or related to the [https://scp-wiki.wikidot.com/gamers-against-weed-hub Gamers Against Weed] (GAW) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/giftschreiber giftschreiber]** -- Featuring or related to the Giftschreiber (Poison Writers) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/global-occult-coalition global-occult-coalition]** -- Featuring or related to the [https://scp-wiki.wikidot.com/goc-hub-page Global Occult Coalition (GOC)] group of interest.
@@ -835,6 +839,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/serpents-hand serpents-hand]** -- Featuring or related to [https://scp-wiki.wikidot.com/serpent-s-hand-hub The Serpent's Hand] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/shark-punching-center shark-punching-center]** -- Featuring or related to the [https://scp-wiki.wikidot.com/spc-hub Shark Punching Center] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/silicon-nornir silicon-nornir]** -- Featuring or related to the Servants of the Silicon Nornir religion, a member of the GOC's Council of 108.
+* **[https://scpwiki.com/system:page-tags/tag/sin-nombre sin-nombre]** -- Featuring or related to the gSin Nombre drug cartel group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/sugarcomb-confectionery sugarcomb-confectionery]** -- Featuring or related to the Sugarcomb Confectionery group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/three-moons-initiative three-moons-initiative]** -- Featuring or related to [https://scp-wiki.wikidot.com/three-moons-initiative-hub The Three Moons Initiative] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/totleighsoft totleighsoft]** -- Featuring or related to the anomalous software development corporation TotleighSoft.
@@ -1026,6 +1031,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/abcs-of-death abcs-of-death]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-hub ABC's of Death SCP anthology].
 * **[https://scpwiki.com/system:page-tags/tag/admonition admonition]** -- Part of the [https://scp-wiki.wikidot.com/admonition Admonition] series.
 * **[https://scpwiki.com/system:page-tags/tag/anabasis anabasis]** -- Part of the [https://scp-wiki.wikidot.com/anabasis-hub Anabasis] series.
+* **[https://scpwiki.com/system:page-tags/tag/animal-hospital animal-hospital]** -- Part of the [https://scp-wiki.wikidot.com/animal-hospital-hub ANIMAL HOSPITAL] series.
 * **[https://scpwiki.com/system:page-tags/tag/ao-tale ao-tale]** -- Part of the [https://scp-wiki.wikidot.com/ao-hub Tales of Anomalous Items] series, consisting of stories about anomalous objects.
 * **[https://scpwiki.com/system:page-tags/tag/appliance-war appliance-war]** -- Part of [https://scp-wiki.wikidot.com/the-appliance-war-hub The Appliance War] series.
 * **[https://scpwiki.com/system:page-tags/tag/black-rabbit-company black-rabbit-company]** -- Part of the [https://scp-wiki.wikidot.com/stealingsolidarityhub Stealing Solidarity] series.
@@ -1125,7 +1131,8 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-everwood doctor-everwood]** -- Dr. Jay Everwood, GOI specialist at Site-55.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-fynegan doctor-fynegan]** -- Dr. Joe Fynegan, expert on insect apocalypses.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-garrison doctor-garrison]** -- Dr. Heather Garrison, memeticist and anomalous ontology specialist at Site-43.
-* **[https://scpwiki.com/system:page-tags/tag/doctor-gears doctor-gears]** -- Dr. Charles Gears. Father of Alison Chao, aka the Black Queen.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-gat doctor-gat]** -- Dr. Irving Gat, head researcher of the Surrealistics Department..
+* **[https://scpwiki.com/system:page-tags/tag/doctor-gears doctor-gears]** -- Dr. Charles Gears.Unemotional father of Alison Chao, aka the Black Queen.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-gerald doctor-gerald]** -- Dr. Gerald.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-glass doctor-glass]** -- Dr. Simon Glass, head of psychology.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-heiden doctor-heiden]** -- Dr. Frederick Heiden.
