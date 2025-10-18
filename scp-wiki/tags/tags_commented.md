@@ -839,7 +839,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/serpents-hand serpents-hand]** -- Featuring or related to [https://scp-wiki.wikidot.com/serpent-s-hand-hub The Serpent's Hand] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/shark-punching-center shark-punching-center]** -- Featuring or related to the [https://scp-wiki.wikidot.com/spc-hub Shark Punching Center] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/silicon-nornir silicon-nornir]** -- Featuring or related to the Servants of the Silicon Nornir religion, a member of the GOC's Council of 108.
-* **[https://scpwiki.com/system:page-tags/tag/sin-nombre sin-nombre]** -- Featuring or related to the gSin Nombre drug cartel group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/sin-nombre-cartel sin-nombre-cartel]** -- Featuring or related to the Sin Nombre drug cartel group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/sugarcomb-confectionery sugarcomb-confectionery]** -- Featuring or related to the Sugarcomb Confectionery group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/three-moons-initiative three-moons-initiative]** -- Featuring or related to [https://scp-wiki.wikidot.com/three-moons-initiative-hub The Three Moons Initiative] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/totleighsoft totleighsoft]** -- Featuring or related to the anomalous software development corporation TotleighSoft.
