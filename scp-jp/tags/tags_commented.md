@@ -1050,7 +1050,8 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/on-guard-43|on-guard-43]]]** //(on-guard-43)// - [[[on-guard-43-hub|On Guard 43]]]。
 * **[[[/system:page-tags/tag/ゴルゴタの丘で|ゴルゴタの丘で]]]** //(on-mount-golgotha)// - [[[on-mount-golgotha-hub|ゴルゴタの丘で]]]。
 * **[[[/system:page-tags/tag/最上の事|最上の事]]]** //(only-game-in-town)// - [[[only-game-in-town-hub|最上の事]]]。
-* **[[[/system:page-tags/tag/オルカディア|オルカディア]]]** //(orcadia)// - オルカディアの海。
+* **[[[/system:page-tags/tag/オルカディア|オルカディア]]]** //(orcadia)// - [[[seas-of-orcadia-hub|オルカディアの海]]]。
+* **[[[/system:page-tags/tag/切り裂かれた我らの脈|切り裂かれた我らの脈]]]** //(our-open-veins)// - [[[our-open-veins-hub|切り裂かれた我らの脈]]]。
 * **[[[/system:page-tags/tag/pitch-haven|pitch-haven]]]** //(pitch-haven)// - [[[pitch-haven-hub|Pitch Haven]]]。
 * **[[[/system:page-tags/tag/ラッツネスト|ラッツネスト]]]** //(rats-nest)// - [[[rat-s-nest-hub|ラッツネスト]]]。
 * **[[[/system:page-tags/tag/リザレクション|リザレクション]]]** //(resurrection)// - [[[resurrection|甦──リザレクション]]]。
@@ -1156,6 +1157,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 それぞれの概要は[[[canon-hub-pl|]]]を参照してください。
 
 * **[[[/system:page-tags/tag/雑草|雑草]]]** //(chwasty)// - [[[chwasty-hub|雑草]]]。
+* **[[[/system:page-tags/tag/黒塗りの空|黒塗りの空]]]** //(czarne-niebo)// - [[[czarne-niebo-hub|黒塗りの空]]]。
 * **[[[/system:page-tags/tag/潜伏治療|潜伏治療]]]** //(przyczajone-leczenie)// - [[[przyczajone-leczenie-hub|潜伏治療]]]。
 * **[[[/system:page-tags/tag/ツィツフズ・ヘル|ツィツフズ・ヘル]]]** //(piekło-cyców)// - [[[pieklo-cycow-hub|ツィツフズ・ヘル]]]。
 * **[[[/system:page-tags/tag/罪団|罪団]]]** //(symonia)// - [[span class="ruby"]][[[symonia-hub|罪団]]][[span class="rt"]]シモニア[[/span]][[/span]]。
@@ -1220,6 +1222,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/死のabc|死のabc]]]** //(abcs-of-death)// - 死のABC[[[scp-anthology-hub|アンソロジー]]]。
 * **[[[/system:page-tags/tag/訓戒|訓戒]]]** //(admonition)// - [[[admonition|訓戒]]]。
 * **[[[/system:page-tags/tag/アナバシス|アナバシス]]]** //(anabasis)// - [[[anabasis-hub|アナバシス]]]。
+* **[[[/system:page-tags/tag/animal-hospital|animal-hospital]]]** //(animal-hospital)// - [[[animal-hospital-hub|ANIMAL HOSPITAL]]]。
 * **[[[/system:page-tags/tag/ao-tale|ao-tale]]]** //(ao-tale)// - [[[ao-hub|Anomalousアイテムの物語]]]。
 * **[[[/system:page-tags/tag/家電戦争|家電戦争]]]** //(appliance-wary)// - [[[the-appliance-war-hub|家電戦争]]]。
 * **[[[/system:page-tags/tag/ブラックラビット社|ブラックラビット社]]]** //(black-rabbit-company)// - [[[stealingsolidarityhub|団結号を奪え]]]。
@@ -2205,7 +2208,22 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/フロッグ博士|フロッグ博士]]]** //(dr-frog)// - 精神科医のフロッグ博士。
 [[/tab]]
+[[tab PL]]
+
+それぞれの詳細は[[[polskie-akta|職員・人物ファイル-PL]]]を参照してください。
+
++++ 財団職員-PL
+
+* **[[[/system:page-tags/tag/オシミオルニツキ博士|オシミオルニツキ博士]]]** //(doktor-ośmiornicki)// - マチェイ・オシミオルニツキ博士。
+
++++ SCPオブジェクト-PL
+
++++ 要注意人物-PL
+
+[[/tab]]
 [[tab ES]]
+
+それぞれの詳細は[[[dossier-personajes|職員・人物ファイル-ES]]]を参照してください。
 
 +++ キャラクター-ES
 
@@ -2241,8 +2259,9 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [[/tab]]
 [[tab ZH]]
 
-+++ キャラクター-ZH
 それぞれの詳細は[[[personnel-and-character-dossier-zh|職員・人物ファイル-ZH]]]を参照してください。
+
++++ キャラクター-ZH
 
 * **[[[/system:page-tags/tag/クリス博士|クリス博士]]]** //(kris博士)// - クリス博士。
 
@@ -3421,7 +3440,7 @@ ENでは作品のジャンルや設定、フォーマット等を示すタグ群
 * [*http://scp-wiki-de.wikidot.com/tag-guide タグリスト-DE]
 * [*http://fondazionescp.wikidot.com/tag-guide タグリスト-IT]
 * [*http://scp-ukrainian.wikidot.com/tag-guide タグリスト-UA]
-* [*http://scp-pt-br.wikidot.com/tag-guide タグリスト-PT/BR]
+* [*http://scp-pt-br.wikidot.com/guia-de-tags タグリスト-PT/BR]
 * --タグリスト-CS--
 * [*http://scp-zh-tr.wikidot.com/tag-guide タグリスト-ZH/TR]
 * [*http://scp-vn.wikidot.com/tag-guide タグリスト-VN]
