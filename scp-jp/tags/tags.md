@@ -153,7 +153,7 @@
 以下のタグはフィクションを含むページに付与されます。
 
 * ,,,,**[[[/system:page-tags/tag/scp|scp]]]** //(scp)// - [/scp-series メインブロック]、[/scp-001 001提言]、[/joke-scps Joke(-J)]、[/scp-ex Explained(-EX)]、[/scp-d Decommissioned(-D)]のいずれかに属する[[footnote]]何らかの理由でアーカイブされ、これらの分類から外れた場合も含みます。[[/footnote]]SCP報告書の記事に付与されるタグです。//scp//タグが使用される場合、オブジェクトクラスカテゴリのタグのいずれかと併用されねばなりません。作成に関しては[[[how-to-write:post-scp|]]]を参照してください。
- * **[[[/system:page-tags/tag/explained|explained]]]** //(explained)// - //scp//タグの特殊なサブクラスであり、Explained(-EX)の報告書に付与されるタグです。必ず//scp//タグ及びいずれかのオブジェクトクラスタグと併用されねばなりません。[#faq 一般的なFAQ]及び[#faq 翻訳に関するFAQ]も参照してください。
+ * **[[[/system:page-tags/tag/explained|explained]]]** //(explained)// - //scp//タグの特殊なサブクラスとしてExplained(-EX)の報告書に付与されるタグであり、通常のSCP記事でオブジェクトクラスタグとして使用することもできます。必ずscpタグと併用されねばなりません。[#faq 翻訳に関するFAQ]及び[#faq オブジェクトクラスタグのFAQ]も参照してください。
  * **[[[/system:page-tags/tag/白|白]]]** //(blanc)// / **[[[/system:page-tags/tag/青|青]]]** //(bleu)// / **[[[/system:page-tags/tag/緑|緑]]]** //(vert)// / **[[[/system:page-tags/tag/黄|黄]]]** //(jaune)// / **[[[/system:page-tags/tag/橙|橙]]]** //(orange)// / **[[[/system:page-tags/tag/赤|赤]]]** //(rouge)// / **[[[/system:page-tags/tag/黒|黒]]]** //(noir)// / **[[[/system:page-tags/tag/未定|未定]]]** //(indéterminé)// - [[[niveaux-de-menace-des-objets-scp|脅威レベル]]]が付与されていることを表すタグです。必ず//scp//タグ及びいずれかのオブジェクトクラスタグと併用されねばなりません。
 
 * ,,,,**[[[/system:page-tags/tag/goi-format|goi-format]]]** //(goi-format)// - ある特定の要注意団体(GoI)の視点で記述された独自のフォーマットの記事[[footnote]]SCP-ENの定義では、「GoIハブで用意されているフォーマットに従う」と制限がありますが、JPでは導入されていません。[[/footnote]]に付与されるタグです。必ずGoIフォーマット隠しタグ1つと併用されねばなりません。作成に関しては[[[how-to-write:post-goi-format|]]]を参照してください。
@@ -241,19 +241,21 @@
 [[tab オブジェクトクラス]]
 
 オブジェクトに指定されている[[[object-classes|オブジェクトクラス]]]を表すタグです。
-//scp//タグが付与されたページにしか付与できません。また、//scp//ページは、いずれか1つ[[footnote]]2種類のオブジェクトクラスが併記してある過去のSCP報告書(例: safe/euclid)には、その両方のクラスがタグ付けされています。しかし、現在そのような報告書の作成は許可されていないため、これは当該記事が修正、もしくは削除されるまでの間、後世のためにのみ存在する形式です。[[/footnote]]のオブジェクトクラスタグを付与されなければなりません。
+//scp//タグが付与されたページにしか付与できません。また、//scp//ページは、オブジェクトクラスタグを最低でも1つ以上付与されなければなりません。
+
+//neutralized//・//decommissioned//・//pending//のタグを使用する際は[#faq オブジェクトクラスタグのFAQ]を**必ず参照してください。**//explained//タグについてはオブジェクトクラスタグではないため"メジャー"タブの説明を確認してください。
 
 * **[[[/system:page-tags/tag/safe|safe]]]** //(safe)// - オブジェクトクラス: Safe
 * **[[[/system:page-tags/tag/euclid|euclid]]]** //(euclid)// - オブジェクトクラス: Euclid
 * **[[[/system:page-tags/tag/keter|keter]]]** //(keter)// - オブジェクトクラス: Keter
 * **[[[/system:page-tags/tag/thaumiel|thaumiel]]]** //(thaumiel)// - オブジェクトクラス: Thaumiel
-* **[[[/system:page-tags/tag/neutralized|neutralized]]]** //(neutralized)// - オブジェクトクラス: Neutralized。[#faq 翻訳に関するFAQ]も参照してください。
 * **[[[/system:page-tags/tag/apollyon|apollyon]]]** //(apollyon)// - オブジェクトクラス: Apollyon
 * **[[[/system:page-tags/tag/archon|archon]]]** //(archon)// - オブジェクトクラス: Archon
 * **[[[/system:page-tags/tag/ticonderoga|ticonderoga]]]** //(ticonderoga)// - オブジェクトクラス: Ticonderoga
+* **[[[/system:page-tags/tag/neutralized|neutralized]]]** //(neutralized)// - オブジェクトクラス: Neutralized
 * **[[[/system:page-tags/tag/decommissioned|decommissioned]]]** //(decommissioned)// - オブジェクトクラス: Decommissioned
-* **[[[/system:page-tags/tag/pending|pending]]]** //(pending)// - 分類保留中。
-* **[[[/system:page-tags/tag/esoteric-class|esoteric-class]]]** //(esoteric-class)// - 上記のいずれでもないオブジェクトクラスの場合に付与されるタグです。
+* **[[[/system:page-tags/tag/pending|pending]]]** //(pending)// - オブジェクトクラスの分類保留中: Pending
+* **[[[/system:page-tags/tag/esoteric-class|esoteric-class]]]** //(esoteric-class)// - 上記のいずれでもないオブジェクトクラスが使用されているか、オブジェクトクラスが存在しない場合に付与されるタグです。[[[anomaly-classification-system-guide|撹乱クラスやリスククラス]]]は含まれません。
 
 [[/tab]]
 [[tab アトリビュート]]
@@ -3746,10 +3748,6 @@ JPにおける「改稿」は、元著者ないしはスタッフから許可を
 * ローカルルールの範疇で追記・修整された合作作品。
 * 過去のリサイクルコンテストの投稿作品。
 
-+++* オブジェクトクラス: Explained
-
-//explained//はExplained(-EX)ブロックに属する//scp//に付与されるタグであり、オブジェクトクラスタグではありません。そのため、別途のオブジェクトクラスタグが必要です。この場合、適切なオブジェクトクラスタグは//esoteric-class//タグです。
-
 ----
 
 +++* _(アンダーバー)から始まるタグについて
@@ -3765,10 +3763,10 @@ ENではイラストをはじめとするアート作品についてJPとは異�
 一方、JPは現時点では両者を区分していません。//アーティスト//タグの付与されたページを翻訳する際は、//アートワーク//タグに置き換えるようにしてください。
 
 +++* //explained//タグについて
-他言語版サイトの//scp//記事では、オブジェクトクラスカテゴリのタグの代わりにexplainedタグが適用されていることがあります。そういったページの翻訳時にはその状態を再現してください。ただし、JPオリジナル記事ではそのようなことがないようにしてください。[#faq 一般的なFAQ]も参照してください。
+他言語版サイトの//scp//記事では、オブジェクトクラスタグの代わりに//explained//タグが適用されていることがあります。そういったページの翻訳時にはその状態を再現してください(Explainedの前のオブジェクトクラスが設定されているが対応するタグが無い場合は次の項目も参照)。
 
-+++* //neutralized//タグについて
-他言語版サイトの//scp//記事では、//neutralized//タグと他のオブジェクトクラスタグが併用されていることがあります。そういったページの翻訳時にはその状態を再現してください。ただし、JPオリジナル記事ではそのようなことがないようにしてください。
++++* オブジェクトクラスタグについて
+他言語版サイトの//scp//記事では、オブジェクトクラスタグも翻訳元に合わせてください。なお、//neutralized//タグのみ付与されている様な場合ではJP独自に1つ前のオブジェクトクラスタグを付与することもできますが、そうした時はその旨をディスカッションで明記してください。オブジェクトクラスタグのFAQタブも参照してください。
 
 +++* //ガイド//タグと//他支部公式//タグについて
 他支部で//guide//タグに相当するタグが付与されているページは、//ガイド//タグではなく//他支部公式//タグを付与するようにしてください。SCP-JPにおける//ガイド//タグはENとは運用方法が異なり互換性が無いため、使用しないでください。
@@ -3788,6 +3786,59 @@ ENでは作品のジャンルや設定、フォーマット等を示すタグ群
 一方、現段階でJPでは制度が未整備であるため、翻訳の際は"ジャンルとテーマ"タグ群の付与は不要です。今後の議論及び制度整備により使用が解禁される可能性があります。
 
 [[/tab]]
+
+[[tab オブジェクトクラスタグのFAQ]]
+
++++* 2つの原則
+**第1に:** 作中でオブジェクトクラスが変わる場合は、最終的なオブジェクトクラスのタグが優先して適用されます。例えばオブジェクトクラスの欄が「--Keter-- Euclid」や「Euclid(元Keter)」などと表記される場合、オブジェクトクラスタグは//euclid//のみを付与するべきです。ただし、最終的なオブジェクトクラスがNeutralizedかDecommissionedかExplainedである場合は異なる処理が行われます。このFAQにおけるそれぞれの項目を確認してください。
+
+**第2に:** 偽の報告書などで虚偽のオブジェクトクラスが用いられている場合は、作中で真実とされるオブジェクトクラスのタグのみ適用します。例えばSafeクラスオブジェクトの報告書を読ませた後に高クリアランスバージョンの報告書で実はKeterクラスオブジェクトだったと判明するような演出を用いる記事では、真のクラスである//keter//タグのみを付与するべきです。読ませる順番にかかわらず、作中での真のクラスに該当するタグを優先してください。
+
++++* オブジェクトクラス: Neutralized
+NeutralizedのSCPは故意または過失によって破壊・無力化されたため、多くの場合「Neutralized(元Safe)」などの形式で以前のオブジェクトクラスが報告書に併記されています。そうしたページには//neutralized//に加えて以前のオブジェクトクラスのタグも付与してください。「--Safe-- --Keter-- Neutralized」のように複数回に渡るクラス変更の末にNeutralizedとなった場合には、//neutralized//とその1つ前のタグ(例では//keter//)のみを付与してください。
+
+財団が発見した際には既に破壊・無力化されていたなどの理由から、作中でNeutralized以前のオブジェクトクラスが言及されないSCP報告書も存在します。その場合には//neutralized//タグのみを付与するようにしてください。また「--Euclid-- --Decommissioned-- Neutralized」のような形でDecommissionedやExplainedと共存する場合、2つ前のオブジェクトクラス(例ではEuclid)については無視し、//neutralized//タグと直前のタグのみを付与してください。
+
++++* オブジェクトクラス: Decommissioned
+DecommissionedのSCPは財団によって意図的に破壊・無力化されたため、多くの場合「Decommissioned(元Safe)」などの形式で以前のオブジェクトクラスが報告書に併記されています。そうしたページには//decommissioned//に加えて以前のオブジェクトクラスのタグも付与してください。「--Safe-- --Keter-- Decommissioned」のように複数回に渡るクラス変更の末にDecommissionedとなった場合には、//decommissioned//とその1つ前のタグ(例では//keter//)のみを付与してください。
+
+Neutralizedなどと同様に、作中でDecommissioned以前のオブジェクトクラスが言及されない場合には//decommissioned//タグのみを付与するようにしてください。また「--Euclid-- --Neutralized-- Decommissioned」のような形でNeutralizedやExplainedと共存する場合、2つ前のオブジェクトクラス(例ではEuclid)については無視し、//decommissoned//タグと直前のタグのみを付与してください。
+
++++* オブジェクトクラス: Pending
+PendingはそのSCPに正式なオブジェクトクラスが割り当てられるまでの仮区分です。あくまで作中において調査や協議が進行中であることを強調する目的で使用されるクラスであるため、自分のSCP報告書にどのオブジェクトクラスタグを付与すればいいのか分からないからといった理由で//pending//タグを使うことはやめてください。
+
+//pending//タグは、オブジェクトクラスがPendingであると明確に判別できる場合にのみ使用できます。「Pending(保留)」や「審議中(Pending)」といった形式でオブジェクトクラスが表記されている場合には//pending//が使用可能ですが、「保留」「審議中」「未定」「TBD」「議論待ち」などの意味は類似しているがPendingとは表記されていないオブジェクトクラスについては//esoteric-class//を使用するべきです。
+
++++* オブジェクトクラス: Explained
+//explained//はExplained(-EX)ブロックに属する//scp//に付与されるタグであり、オブジェクトクラスタグではありませんが、通常のSCP記事でもオブジェクトクラスがExplainedの場合はオブジェクトクラスタグの代わりとして使用することができます。
+
+ExplainedのSCPは多くの場合、完全に原理が解明されたかそもそも異常ではなかったことが判明する以前のオブジェクトクラスが「Explained(元Safe)」などの形式で報告書に併記されています。そうしたページには//explained//に加えて以前のオブジェクトクラスのタグも付与してください。「--Safe-- --Keter-- Explained」のように複数回に渡るクラス変更の末にExplainedとなった場合には、//explained//とその1つ前のタグ(例では//keter//)のみを付与してください。
+
+Neutralizedなどと同様に、作中でExplained以前のオブジェクトクラスが言及されない場合には//explained//タグのみを付与するようにしてください。また「--Euclid-- --Neutralized-- Explained」のような形でNeutralizedやDecommissionedと共存する場合、2つ前のオブジェクトクラス(例ではEuclid)については無視し、//explained//タグと直前のタグのみを付与してください。
+
++++* オブジェクトクラス: Uncontained/未収容
+UncontainedはそのSCPが未収容であることを示すためのクラスです。ただし//未収容//タグはアトリビュートタグであり、オブジェクトクラスタグの代わりとして使用することはできません。オブジェクトクラスがUncontainedであるSCP報告書は、オブジェクトクラスタグを//esoteric-class//とした上でアトリビュートタグの//未収容//を併用する必要があります。
+
+[[[anomaly-classification-system-guide|アノマリー分類システム (ACS)]]]でUncontainedクラスを使用したい場合には、このFAQにおける"オブジェクトクラスの拡張システム"の項目も確認してください。
+
++++* 重複するオブジェクトクラス
+1つのSCP報告書内で複数のオブジェクトに個別のオブジェクトクラスを与えられている場合があります。例えばSCP-XXXX-JP-AはSafeで、-BはEuclid、-CはKeterであるといった形式です。この場合、ページにはそれぞれに該当するオブジェクトクラスのタグをすべて付与してください。例の場合では//safe//・//euclid//・//keter//です。
+
+これらのオブジェクトクラスが変更されていたり、NeutralizedかDecommissionedかExplainedのクラスを用いている場合には、さらにそれぞれでオブジェクトクラスタグのルールに従う処理を行う必要があります。SCP-XXXX-JP-1が「Neutralized(元Safe)」であり-2が「Explained」、-3が「Keter(元Euclid)」となっていた場合には、付与すべきタグは//safe//・//neutralized//・//explained//・//keter//です。
+
+上記のような形式でなくても、2種類かそれ以上のオブジェクトクラスが併記してあるSCP報告書が存在します。このような"デュアルクラス"と呼ばれる形式の報告書は長らく作成を禁止されていましたが、現在のタグシステム上では存在が許容されるようになりました。例えば「SafeかつApollyon」という表記の場合、ページには//safe//と//apollyon//両方のタグを付与してください。さらにそこからDecommissionedになった場合のタグは//safe//・//apollyon//・//decommissoned//です。
+
+また、読者の選択によって結末が分岐し、最終的なオブジェクトクラスが変化するSCP報告書も存在します。例えば、そのSCPにふさわしいオブジェクトクラスがSafeかThaumielかを読者が選び、それぞれの選択に沿った形の結末を見ることができるような形式です。このような場合は最終的なオブジェクトクラスがSafeでありThaumielでもあると考えられるため、//safe//と//thaumiel//両方のタグが付与されます。
+
++++* オブジェクトクラスの拡張システム
+[[[anomaly-classification-system-guide|アノマリー分類システム (ACS)]]]ではオブジェクトクラス表記の拡張として「収容クラス」と「副次クラス」が存在します。副次クラスを使用する際、標準的な使用法では収容クラスに「Esoteric」と表示されますが、このような場合には副次クラスだけを考慮してください。収容クラスがEsotericで副次クラスがThaumielであるなら、付与すべきオブジェクトクラスタグは//thaumiel//のみです。ACSには「撹乱クラス」と「リスククラス」も存在しますが、これはオブジェクトクラスとは異なるためタグ付与の際は無視してください。
+
+またACSでは、収容クラスと副次クラスを個別に設定し「Euclid/Thaumiel」のような表記を作ることもできます。このような場合には上記の"重複するオブジェクトクラス"の処理と同様に//euclid//と//thaumiel//両方のタグを付与するべきです。ただし「Euclid/Uncontained」のようにデュアルクラス形式かつUncontainedである場合には、Uncontainedに対して//esoteric-class//は適用せず、収容クラスか副次クラスのタグ(例では//euclid//)とアトリビュートタグの//未収容//を用いてください。
+
+[[[esoteric-classes-complete-list#toc1|サブクラスシステム]]]と総称される形式では、「Safe-doctrina」や「Neutralized // Phenomenon」や「**オブジェクトクラス:** Humanoid **収容クラス:** Euclid」などのようにオブジェクトクラスが表記されます。これらの形式は標準的な分類システムに要素を追加したものと見なされるため、メインとなるオブジェクトクラスに該当するタグのみを付与してください。上の例ではそれぞれ//safe//、//neutralized//、//euclid//が付与されます。
+
+[[/tab]]
+
 [[tab 関連ページ]]
 
 * [[[tag-guide|]]]

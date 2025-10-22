@@ -12,7 +12,7 @@
         "id": 1,
         "tag": "explained",
         "trans": "explained",
-        "desc": "//scp//タグの特殊なサブクラスであり、Explained(-EX)の報告書に付与されるタグです。必ず//scp//タグ及びいずれかのオブジェクトクラスタグと併用されねばなりません。[#faq 一般的なFAQ]及び[#faq 翻訳に関するFAQ]も参照してください。",
+        "desc": "//scp//タグの特殊なサブクラスとしてExplained(-EX)の報告書に付与されるタグであり、通常のSCP記事でオブジェクトクラスタグとして使用することもできます。必ずscpタグと併用されねばなりません。[#faq 翻訳に関するFAQ]及び[#faq オブジェクトクラスタグのFAQ]も参照してください。",
         "category": "メジャー",
         "list": "",
         "type": ""
@@ -442,15 +442,6 @@
     },
     {
         "id": 49,
-        "tag": "neutralized",
-        "trans": "neutralized",
-        "desc": "オブジェクトクラス: Neutralized。[#faq 翻訳に関するFAQ]も参照してください。",
-        "category": "オブジェクトクラス",
-        "list": "",
-        "type": ""
-    },
-    {
-        "id": 50,
         "tag": "apollyon",
         "trans": "apollyon",
         "desc": "オブジェクトクラス: Apollyon",
@@ -459,7 +450,7 @@
         "type": ""
     },
     {
-        "id": 51,
+        "id": 50,
         "tag": "archon",
         "trans": "archon",
         "desc": "オブジェクトクラス: Archon",
@@ -468,10 +459,19 @@
         "type": ""
     },
     {
-        "id": 52,
+        "id": 51,
         "tag": "ticonderoga",
         "trans": "ticonderoga",
         "desc": "オブジェクトクラス: Ticonderoga",
+        "category": "オブジェクトクラス",
+        "list": "",
+        "type": ""
+    },
+    {
+        "id": 52,
+        "tag": "neutralized",
+        "trans": "neutralized",
+        "desc": "オブジェクトクラス: Neutralized",
         "category": "オブジェクトクラス",
         "list": "",
         "type": ""
@@ -489,7 +489,7 @@
         "id": 54,
         "tag": "pending",
         "trans": "pending",
-        "desc": "分類保留中。",
+        "desc": "オブジェクトクラスの分類保留中: Pending",
         "category": "オブジェクトクラス",
         "list": "",
         "type": ""
@@ -498,7 +498,7 @@
         "id": 55,
         "tag": "esoteric-class",
         "trans": "esoteric-class",
-        "desc": "上記のいずれでもないオブジェクトクラスの場合に付与されるタグです。",
+        "desc": "上記のいずれでもないオブジェクトクラスが使用されているか、オブジェクトクラスが存在しない場合に付与されるタグです。[[[anomaly-classification-system-guide|撹乱クラスやリスククラス]]]は含まれません。",
         "category": "オブジェクトクラス",
         "list": "",
         "type": ""
