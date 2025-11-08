@@ -3008,6 +3008,9 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/エッセイキャンペーン|エッセイキャンペーン]]]** - [[[essay-campaign-2024|新星応援！キラキラエッセイキャンペーン]]]。
 
 * **[[[/system:page-tags/tag/af2025|af2025]]]** - AF-2025-JP。
+
+* **[[[/system:page-tags/tag/災禍転福キャンペーン|災禍転福キャンペーン]]]** - [[[saikatenpuku-campaign-hub|災禍転福キャンペーン]]]。
+
 [[/tab]][!--JP--]
 [!--[[tab RU]]
 コンテストはあるが個別のタグはない。
