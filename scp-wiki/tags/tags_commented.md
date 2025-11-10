@@ -144,7 +144,7 @@ Tags that describe the content of a //supplement// page.
 [[tab Object Classes]]
 ++ Object Classes
 
-All articles tagged with scp should also be tagged with the appropriate tag for their object class, or with esoteric-class if it does not have one, if its object class cannot be determined from the article's contents, or if it has a non-standard object class. For the purpose of tagging, //explained// can be used as an object class on any type of SCP article.
+All articles tagged with scp should also be tagged with the appropriate tag for their object class, or with esoteric-class if it does not have one, if its object class cannot be determined from the article's contents, or if it has a non-standard object class. For the purpose of tagging, //explained// can be used as an object class on any type of SCP article. For definitions of these classes, see the [https://scp-wiki.wikidot.com/object-classes Object Classes guide].
 
 If an SCP has multiple object classes at the same time, most frequently Safe, Euclid or Keter and a secondary object class, it should be tagged with all applicable object class tags, which may include esoteric-class. If an article's object class changes over time, either by striking through an outdated object class or by updating the SCP article with a new iteration, only the object class or classes on the final version of the article should be applied as tags. The exception is articles tagged as //neutralized//, //decommissioned// or //explained//, which should be tagged with whatever object class they were before, if that object class is included in the article.
 
@@ -161,6 +161,7 @@ The following applies to all tags in this category:
 * **[https://scpwiki.com/system:page-tags/tag/thaumiel thaumiel]** -- SCP is Thaumiel.
 * **[https://scpwiki.com/system:page-tags/tag/apollyon apollyon]** -- SCP is Apollyon.
 * **[https://scpwiki.com/system:page-tags/tag/archon archon]** -- SCP is Archon.
+* **[https://scpwiki.com/system:page-tags/tag/cernunnos cernunnos]** -- SCP is Cernunnos.
 * **[https://scpwiki.com/system:page-tags/tag/ticonderoga ticonderoga]** -- SCP is Ticonderoga.
 * **[https://scpwiki.com/system:page-tags/tag/neutralized neutralized]** -- SCP has been Neutralized.
 * **[https://scpwiki.com/system:page-tags/tag/decommissioned decommissioned]** -- SCP has been Decommissioned.
@@ -752,6 +753,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/abnormalities abnormalities]** -- Featuring or related to the Department of Abnormalities.
 * **[https://scpwiki.com/system:page-tags/tag/angle-grinders angle-grinders]** -- Featuring or related to [https://scp-wiki.wikidot.com/mtf-theta-90-hub-page Mobile Task Force Theta-90] "Angle Grinders".
 * **[https://scpwiki.com/system:page-tags/tag/antimemetics-division antimemetics-division]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/antimemetics-division-hub Antimemetics Division].
+* **[https://scpwiki.com/system:page-tags/tag/continuity-dept continuity-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/department-of-continuity-hub Department of Continuity].
 * **[https://scpwiki.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
 * **[https://scpwiki.com/system:page-tags/tag/deletions-dept deletions-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/deleted Department of Deletions].
 * **[https://scpwiki.com/system:page-tags/tag/delta-t delta-t]** -- Featuring or related to Research and Containment Team [https://scp-wiki.wikidot.com/welcome-to-delta-t Delta T] or the Temporal Anomalies Department, the transtemporal Foundation agency.
@@ -1059,10 +1061,13 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/phobia-anthology phobia-anthology]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-2024 Phobia SCP anthology].
 * **[https://scpwiki.com/system:page-tags/tag/palisade palisade]** -- Part of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
 * **[https://scpwiki.com/system:page-tags/tag/project-crossover project-crossover]** -- Part of [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
+* **[https://scpwiki.com/system:page-tags/tag/phoenix-nightingale-magpies phoenix-nightingale-magpies]** -- Part of [https://scp-wiki.wikidot.com/florence-thorne-hub The Phoenix, The Nightingale, & The Magpies] series.
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Part of [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
+* **[https://scpwiki.com/system:page-tags/tag/run-the-river-red run-the-river-red]** -- Part of the [https://scp-wiki.wikidot.com/run-the-river-red-hub Run the River Red] series.
 * **[https://scpwiki.com/system:page-tags/tag/team-bird team-bird]** -- Part of the [https://scp-wiki.wikidot.com/bird Team Bird] series.
 * **[https://scpwiki.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Part of the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
 * **[https://scpwiki.com/system:page-tags/tag/the-twin-sites the-twin-sites]** -- Part of the [https://scp-wiki.wikidot.com/twin-sites-hub Twin Sites] series.
+* **[https://scpwiki.com/system:page-tags/tag/tree-of-life tree-of-life]** -- Part of the [https://scpwiki.com/scp-anthology-2025 2025 SCP Anthology], themed around the Tree of Life from Kabbalah.
 * **[https://scpwiki.com/system:page-tags/tag/untitled-series untitled-series]** -- Part of an untitled [https://scp-wiki.wikidot.com/unreality-hub Unreality Department] series.
 * **[https://scpwiki.com/system:page-tags/tag/veil-upon-veil veil-upon-veil]** -- Part of the Veil Upon Veil series.
 * **[https://scpwiki.com/system:page-tags/tag/we-meet-again we-meet-again]** -- Part of the [https://scp-wiki.wikidot.com/and-every-time-we-meet-again-hub And Every Time We Meet Again] series.
@@ -1189,6 +1194,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/simon-pietrykau simon-pietrykau]** -- Simon Pietrykau, of the Department of Analytics.
 * **[https://scpwiki.com/system:page-tags/tag/thad-xyank thad-xyank]** -- Dr. Thaddeus "Thad" Xyank, of the Department of Temporal Anomalies.
 * **[https://scpwiki.com/system:page-tags/tag/the-administrator the-administrator]** -- The Administrator (as a separate entity from the O5 Council).
+* **[https://scpwiki.com/system:page-tags/tag/the-archivist the-archivist]** -- The Archivist, AKA O5-10.
 * **[https://scpwiki.com/system:page-tags/tag/yossarian-leiner yossarian-leiner]** -- Yossarian Leiner, Director of the Department of Tactical Theology.
 * **[https://scpwiki.com/system:page-tags/tag/zyn-kiryu zyn-kiryu]** -- Researcher Zyn Kiryu, of [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs].
 
@@ -1267,8 +1273,9 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/legate-trunnion legate-trunnion]** -- Legate Trunnion, prophet of the Cogwork Orthodoxy.
 * **[https://scpwiki.com/system:page-tags/tag/lewitt-zairi-family lewitt-zairi-family]** -- The Lewitt Zairi Family, of the Horizon Initiative.
 * **[https://scpwiki.com/system:page-tags/tag/lovataar lovataar]** -- Lovataar, the ex-daeva princess who became one of the Klavigars.
+* **[https://scpwiki.com/system:page-tags/tag/lucas-monaco lucas-monaco]** -- Lucas Monaco, employee of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/manny manny]** -- Manny, aka The Man With the Upside Down Face at Herman Fuller's Circus of the Disquieting.
-* **[https://scpwiki.com/system:page-tags/tag/mari-macphaerson mari-macphaerson]** -- Mari MacPhaerson, the VP of Public Relations from Vikander-Kneed Technical Studies.
+* **[https://scpwiki.com/system:page-tags/tag/mari-macphaerson mari-macphaerson]** -- Mari MacPhaerson, the VP of Public Relations for Vikander-Kneed Technical Studies.
 * **[https://scpwiki.com/system:page-tags/tag/midnight-the-cat midnight-the-cat]** -- Midnight, sapient cat and member of the Serpent's Hand.
 * **[https://scpwiki.com/system:page-tags/tag/nadox nadox]** -- Nadox, one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/olivie-gwyneth olivie-gwyneth]** -- Olivie Gwyneth, Head archivist of the Sidhe Lounge.
