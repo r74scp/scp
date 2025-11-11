@@ -1304,8 +1304,8 @@ Other individuals involved in the anomalous.
 
 Powerful anomalous entities, which some might call gods.
 
-* **[https://scpwiki.com/system:page-tags/tag/anafabula anafabula]** -- The anafabula, aka [https://scp-wiki.wikidot.com/SCP-2747], an antagonistic anti-narrative that annihilates any work that features it in its entirety.
-* **[https://scpwiki.com/system:page-tags/tag/brothers-of-death brothers-of-death]** -- The Three Brothers of Death, first mentioned in [[[SCP-1440]]].
+* **[https://scpwiki.com/system:page-tags/tag/anafabula anafabula]** -- The anafabula, aka [https://scp-wiki.wikidot.com/scp-2747 SCP-2747], an antagonistic anti-narrative that annihilates any work that features it in its entirety.
+* **[https://scpwiki.com/system:page-tags/tag/brothers-of-death brothers-of-death]** -- The Three Brothers of Death, first mentioned in [https://scp-wiki.wikidot.com/scp-1440 SCP-1440].
 * **[https://scpwiki.com/system:page-tags/tag/hanged-king hanged-king]** -- The Hanged King of Alagadda.
 * **[https://scpwiki.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
 * **[https://scpwiki.com/system:page-tags/tag/queen-mab queen-mab]** -- Queen Mab, a Fae tyrant and goddess.
