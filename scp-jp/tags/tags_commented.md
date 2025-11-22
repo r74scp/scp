@@ -250,6 +250,7 @@
 * **[[[/system:page-tags/tag/thaumiel|thaumiel]]]** //(thaumiel)// - オブジェクトクラス: Thaumiel
 * **[[[/system:page-tags/tag/apollyon|apollyon]]]** //(apollyon)// - オブジェクトクラス: Apollyon
 * **[[[/system:page-tags/tag/archon|archon]]]** //(archon)// - オブジェクトクラス: Archon
+* **[[[/system:page-tags/tag/cernunnos|cernunnos]]]** //(cernunnos)// - オブジェクトクラス: Cernunnos
 * **[[[/system:page-tags/tag/ticonderoga|ticonderoga]]]** //(ticonderoga)// - オブジェクトクラス: Ticonderoga
 * **[[[/system:page-tags/tag/neutralized|neutralized]]]** //(neutralized)// - オブジェクトクラス: Neutralized
 * **[[[/system:page-tags/tag/decommissioned|decommissioned]]]** //(decommissioned)// - オブジェクトクラス: Decommissioned
@@ -1230,7 +1231,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 [[tab EN]]
 +++ Taleシリーズ-EN
 
-* **[[[/system:page-tags/tag/死のabc|死のabc]]]** //(abcs-of-death)// - 死のABC[[[scp-anthology-hub|アンソロジー]]]。
+* **[[[/system:page-tags/tag/死のabc|死のabc]]]** //(abcs-of-death)// - [[[scp-anthology-hub|死のABCアンソロジー]]]。
 * **[[[/system:page-tags/tag/訓戒|訓戒]]]** //(admonition)// - [[[admonition|訓戒]]]。
 * **[[[/system:page-tags/tag/アナバシス|アナバシス]]]** //(anabasis)// - [[[anabasis-hub|アナバシス]]]。
 * **[[[/system:page-tags/tag/animal-hospital|animal-hospital]]]** //(animal-hospital)// - [[[animal-hospital-hub|ANIMAL HOSPITAL]]]。
@@ -1257,6 +1258,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/project-thaumiel|project-thaumiel]]]** //(project-thaumiel)// - [[[thaumiel|プロジェクトThaumiel]]]。
 * **[[[/system:page-tags/tag/team-bird|team-bird]]]** //(team-bird)// - [[[bird|チームバード]]]。
 * **[[[/system:page-tags/tag/タイム・アフター・タイム・パスワード|タイム・アフター・タイム・パスワード]]]** //(time-after-time-password)// - [[[the-time-after-time-password-hub|タイム・アフター・タイム・パスワード]]]。
+* **[[[/system:page-tags/tag/生命の樹|生命の樹]]]** //(tree-of-life)// - [[[scp-anthology-2025|生命の樹アンソロジー]]]。
 * **[[[/system:page-tags/tag/veil-upon-veil|veil-upon-veil]]]** //(veil-upon-veil)// - ヴェール・アポン・ヴェール。
 * **[[[/system:page-tags/tag/血の娼婦|血の娼婦]]]** //(whore-of-blood)// - [[[whore-of-blood-hub|血の娼婦]]]。
 * **[[[/system:page-tags/tag/ユグドラシルの測量技師|ユグドラシルの測量技師]]]** //(yggdrasil-s-surveyor)// - [[[yggdrasils-surveyor|ユグドラシルの測量技師]]]。
@@ -1790,6 +1792,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 
 * **[[[/system:page-tags/tag/怪奇部門|怪奇部門]]]** //(abnormalities)// - 怪奇部門。
 * **[[[/system:page-tags/tag/反ミーム部門|反ミーム部門]]]** //(antimemetics-division)// - [[[antimemetics-division-hub|反ミーム部門]]]。
+* **[[[/system:page-tags/tag/継続部門|継続部門]]]** //(continuity-dept)// - [[[department-of-continuity-hub|継続部門]]]。
 * **[[[/system:page-tags/tag/解体部門|解体部門]]]** //(decommissioning-dept)// - [[[decom-dept-hub|解体部門]]]。
 * **[[[/system:page-tags/tag/削除部門|削除部門]]]** //(deletions-dept)// - [[[deleted|削除部門]]]。
 * **[[[/system:page-tags/tag/デルタ-t|デルタ-t]]]** //(delta-t)// - 財団の超時間機構、[[[welcome-to-delta-t|デルタ-T (Δt)]]]。
@@ -2831,6 +2834,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/cn2000|cn2000]]]** //(cn2000)// - [[[scpcn2000contesthub|SCP-CN-2000コンテスト]]]。
 
 * **[[[/system:page-tags/tag/cn3000|cn3000]]]** //(cn3000)// - [[[scpcn3000contesthub|SCP-CN-3000コンテスト]]]。
+
+* **[[[/system:page-tags/tag/cn4000|cn4000]]]** //(cn4000)// - [[[scpcn4000contesthub|SCP-CN-4000コンテスト]]]。
 
 * **[[[/system:page-tags/tag/春節コンテスト|春節コンテスト]]]** //(春节竞赛)// - [[[chinese-new-year-contest|2014年春節Taleコンテスト]]]。
 
