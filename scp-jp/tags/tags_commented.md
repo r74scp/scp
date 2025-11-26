@@ -1318,7 +1318,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 [[tab KO]]
 +++ Taleシリーズ-KO
 
-* **[[[/system:page-tags/tag/トマト|トマト]]]** //(토마토)// - [[[tomato-project|トマト・プロジェクト]]]。
+* **[[[/system:page-tags/tag/foundation-story|foundation-story]]]** //(연작 파운데이션-스토리)// - [[[the-foundation-story-of-scka|The Foundation Story]]]。
 
 [[/tab]]
 [[tab CN]]

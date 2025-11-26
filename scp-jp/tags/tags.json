@@ -5473,9 +5473,9 @@
     },
     {
         "id": 790,
-        "tag": "トマト",
-        "trans": "토마토",
-        "desc": "[[[tomato-project|トマト・プロジェクト]]]。",
+        "tag": "foundation-story",
+        "trans": "연작 파운데이션-스토리",
+        "desc": "[[[the-foundation-story-of-scka|The Foundation Story]]]。",
         "type": "Taleシリーズ-KO",
         "category": "KO",
         "list": ""
