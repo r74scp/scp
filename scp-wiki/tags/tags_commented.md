@@ -1040,7 +1040,9 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/bury-the-survivors bury-the-survivors]** -- Part of the [https://scp-wiki.wikidot.com/bury-the-survivors-hub Bury the Survivors] series.
 * **[https://scpwiki.com/system:page-tags/tag/cack-hard cack-hard]** -- One of the [https://scp-wiki.wikidot.com/cack-hub Cack Hard] stories.
 * **[https://scpwiki.com/system:page-tags/tag/classical-revival classical-revival]** -- Part of the [https://scp-wiki.wikidot.com/classicalrevivalindex Classical Revival] series.
-* **[https://scpwiki.com/system:page-tags/tag/cleanliness-guaranteed cleanliness-guaranteed]** -- Part of the Cleanliness Guaranteed series.
+* **[https://scpwiki.com/system:page-tags/tag/cleanliness-guaranteed cleanliness-guaranteed]** -- Part of the [https://scp-wiki.wikidot.com/cleanliness-guaranteed-hub Cleanliness Guaranteed*] series.
+* **[https://scpwiki.com/system:page-tags/tag/creative-destruction creative-destruction]** -- Part of the [https://scp-wiki.wikidot.com/creative-destruction-hub Creative Destruction] series.
+* **[https://scpwiki.com/system:page-tags/tag/crowne-of-thornes crowne-of-thornes]** -- Part of the [https://scp-wiki.wikidot.com/crowne-thorne-hub Crowne of Thornes] series.
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Part of the [https://scp-wiki.wikidot.com/tales-of-mr-collector Tales of Mr. Collector] series. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
 * **[https://scpwiki.com/system:page-tags/tag/cycle-of-seasons cycle-of-seasons]** -- Part of the [https://scp-wiki.wikidot.com/cycle-of-seasons-hub Cycle of Seasons] series.
 * **[https://scpwiki.com/system:page-tags/tag/deadlined deadlined]** -- Part of the [https://scp-wiki.wikidot.com/deadlined-hub Deadlined] series.
@@ -1063,7 +1065,9 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/project-crossover project-crossover]** -- Part of [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
 * **[https://scpwiki.com/system:page-tags/tag/phoenix-nightingale-magpies phoenix-nightingale-magpies]** -- Part of [https://scp-wiki.wikidot.com/florence-thorne-hub The Phoenix, The Nightingale, & The Magpies] series.
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Part of [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
+* **[https://scpwiki.com/system:page-tags/tag/red-queens-race red-queens-race]** -- Part of the [https://scp-wiki.wikidot.com/red-queen-s-race Red Queen's Race] series.
 * **[https://scpwiki.com/system:page-tags/tag/run-the-river-red run-the-river-red]** -- Part of the [https://scp-wiki.wikidot.com/run-the-river-red-hub Run the River Red] series.
+* **[https://scpwiki.com/system:page-tags/tag/tales-of-the-mosaic tales-of-the-mosaic]** -- Part of the [https://scp-wiki.wikidot.com/tales-of-the-mosaic Tales of the Mosaic] series.
 * **[https://scpwiki.com/system:page-tags/tag/team-bird team-bird]** -- Part of the [https://scp-wiki.wikidot.com/bird Team Bird] series.
 * **[https://scpwiki.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Part of the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
 * **[https://scpwiki.com/system:page-tags/tag/the-twin-sites the-twin-sites]** -- Part of the [https://scp-wiki.wikidot.com/twin-sites-hub Twin Sites] series.
@@ -1223,6 +1227,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/hogslice hogslice]** -- Hogslice, aka [https://scp-wiki.wikidot.com/scp-6599 SCP-6599].
 * **[https://scpwiki.com/system:page-tags/tag/iris-thompson iris-thompson]** -- Iris Thompson, aka [https://scp-wiki.wikidot.com/scp-105 SCP-105].
 * **[https://scpwiki.com/system:page-tags/tag/leslie leslie]** -- Leslie, instance of [https://scp-wiki.wikidot.com/scp-3774 SCP-3774].
+* **[https://scpwiki.com/system:page-tags/tag/laughy-mclaugherson laughy-mclaugherson]** -- Laughy McLaugherson, aka [https://scp-wiki.wikidot.com/scp-2030 SCP-2030-1 ].
 * **[https://scpwiki.com/system:page-tags/tag/marw marw]** -- Marw, aka The Library Cat or [https://scp-wiki.wikidot.com/SCP-ES-234 SCP-ES-234].
 * **[https://scpwiki.com/system:page-tags/tag/moon-champion moon-champion]** -- Moon Champion, aka Champion of the Moon or [https://scp-wiki.wikidot.com/scp-1233 SCP-1233].
 * **[https://scpwiki.com/system:page-tags/tag/mr-fish mr-fish]** -- Mr. Fish, Little Mister from Dr. Wondertainment, aka [https://scp-wiki.wikidot.com/scp-527 SCP-527].
@@ -1260,6 +1265,7 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/faeowynn-wilson faeowynn-wilson]** -- Faeowynn "Fae" Wilson, of Wilson's Wildlife Solutions.
 * **[https://scpwiki.com/system:page-tags/tag/finnegan finnegan]** -- Finnegan, anartist.
 * **[https://scpwiki.com/system:page-tags/tag/grand-karcist-ion grand-karcist-ion]** -- Grand Karcist Ion, founder of Sarkicism.
+* **[https://scpwiki.com/system:page-tags/tag/golem-of-prague golem-of-prague]** -- Josef ben Judah, aka the [https://scp-wiki.wikidot.com/the-golem-of-prague Golem of Prague].
 * **[https://scpwiki.com/system:page-tags/tag/halyna-ieva halyna-ieva]** -- Karcist Halyna Ieva, aka [https://scp-wiki.wikidot.com/mother-who-demands-ones-toes The Mother Who Demands One's Toes].
 * **[https://scpwiki.com/system:page-tags/tag/holly-light holly-light]** -- Holly Light, of Dr Wondertainment.
 * **[https://scpwiki.com/system:page-tags/tag/icky icky]** -- Veronica Mason, aka [https://scp-wiki.wikidot.com/icky-the-magic-clown Icky the Magic Clown] of Herman Fuller's Circus of the Disquieting.
