@@ -1274,6 +1274,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/防御柵計画|防御柵計画]]]** //(palisade)// - [[[project-palisade|防御柵計画]]]。
 * **[[[/system:page-tags/tag/project-crossover|project-crossover]]]** //(project-crossover)// - [[[crossoverprojectindex|クロスオーバープロジェクト]]]。
 * **[[[/system:page-tags/tag/project-thaumiel|project-thaumiel]]]** //(project-thaumiel)// - [[[thaumiel|プロジェクトThaumiel]]]。
+* **[[[/system:page-tags/tag/tales-of-the-mosaic|tales-of-the-mosaic]]]** //(tales-of-the-mosaic)// - [[[tales-of-the-mosaic|Tales of the Mosaic]]]。
 * **[[[/system:page-tags/tag/team-bird|team-bird]]]** //(team-bird)// - [[[bird|チームバード]]]。
 * **[[[/system:page-tags/tag/タイム・アフター・タイム・パスワード|タイム・アフター・タイム・パスワード]]]** //(time-after-time-password)// - [[[the-time-after-time-password-hub|タイム・アフター・タイム・パスワード]]]。
 * **[[[/system:page-tags/tag/生命の樹|生命の樹]]]** //(tree-of-life)// - [[[scp-anthology-2025|生命の樹アンソロジー]]]。
