@@ -476,6 +476,7 @@ Tags that typically apply to objects created by humans, including **artifacts** 
 
 * **[https://scpwiki.com/system:page-tags/tag/artifact artifact]** -- SCP is an object created by humans (or other intelligent beings).
  * //Superseded by 'appliance', 'artistic', 'clothing', 'computer', 'document', 'food', 'jewelry', 'media', 'tool', 'toy', 'weapon', and 'vehicle'//
+* **[https://scpwiki.com/system:page-tags/tag/archaeological archaeological]** -- SCP is an object uncovered in an archaeological dig, or otherwise relates to the material culture of an ancient people.
 * **[https://scpwiki.com/system:page-tags/tag/alcohol alcohol]** -- SCP is, affects or is related to alcoholic beverages, alcohol production and distribution, or alcohol intoxication. Alcohols other than ethanol are excluded.
 * **[https://scpwiki.com/system:page-tags/tag/appliance appliance]** -- SCP is an artifact that is or that resembles a household or domestic appliance.
  * //Often used with 'electrical', and 'electronic'//
@@ -739,6 +740,7 @@ These tags refer to the content that the artwork is depicting.
 * **[https://scpwiki.com/system:page-tags/tag/personnel-art personnel-art]** -- Artwork depicting specific SCP Foundation employees.
 * **[https://scpwiki.com/system:page-tags/tag/poster poster]** -- Artwork depicting a poster, infographic or advertisement, using a combination of images and words to convey information.
 * **[https://scpwiki.com/system:page-tags/tag/scp-art scp-art]** -- Artwork depicting one or more SCP objects or entities.
+* **[https://scpwiki.com/system:page-tags/tag/task-force-art task-force-art]** -- Artwork depicting members of one of the Foundation's Mobile Task Forces, or their MTF insignia.
 
 [[/tab]]
 [[tab Groups]]
@@ -1052,6 +1054,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/harbinger harbinger]** -- Part of the HARBINGER series.
 * **[https://scpwiki.com/system:page-tags/tag/hecatoncheires-cycle hecatoncheires-cycle]** -- Part of the [https://scp-wiki.wikidot.com/hecatoncheires-cycle-hub Hecatoncheires Cycle].
 * **[https://scpwiki.com/system:page-tags/tag/integration-program integration-program]** -- Part of the [https://scp-wiki.wikidot.com/integration-program-hub Integration Program] series.
+* **[https://scpwiki.com/system:page-tags/tag/in-saffron-sands in-saffron-sands]** -- Part of the [https://scp-wiki.wikidot.com/saffronsands-hub In Saffron Sands] series.
 * **[https://scpwiki.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Part of the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
 * **[https://scpwiki.com/system:page-tags/tag/mister mister]** -- Featuring or relating to the anomalous individuals known as "Little Misters".
 * **[https://scpwiki.com/system:page-tags/tag/manhattan-crisis manhattan-crisis]** -- Part of the international [https://scp-wiki.wikidot.com/1998-911-hub Manhattan Crisis] series.
@@ -1316,6 +1319,7 @@ Powerful anomalous entities, which some might call gods.
 * **[https://scpwiki.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
 * **[https://scpwiki.com/system:page-tags/tag/queen-mab queen-mab]** -- Queen Mab, a Fae tyrant and goddess.
 * **[https://scpwiki.com/system:page-tags/tag/the-serpent the-serpent]** -- The Serpent, mythical ruler of the Wanderer's Library and namesake of the Serpent's Hand.
+* **[https://scpwiki.com/system:page-tags/tag/yaldabaoth yaldabaoth]** -- Yaldabaoth the demiurge, also known as Važjuma by followers of sarkicism, the reviled creator of the physical universe.
 
 [[/tab]]
 [[tab Locations]]
@@ -1323,20 +1327,21 @@ Powerful anomalous entities, which some might call gods.
 
 Tags indicating that a tale or SCP article takes place in a specific time or location that isn't a Foundation Site or installation.
 
-* **[https://scpwiki.com/system:page-tags/tag/7th-occult-war 7th-occult-war]** -- The Seventh Occult War between the Allied Occult Initiative and the Obskuracorps.
-* **[https://scpwiki.com/system:page-tags/tag/adytum adytum]** -- The city of Adytum, capital of the sarkic empire known as Kalmaktama.
-* **[https://scpwiki.com/system:page-tags/tag/alagadda alagadda]** -- The kingdom of Alagadda.
-* **[https://scpwiki.com/system:page-tags/tag/amoni-ram amoni-ram]** -- The city-state of Amoni-Ram, capital of the ancient Mekhanite Empire.
-* **[https://scpwiki.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- The city of Backdoor Soho.
+* **[https://scpwiki.com/system:page-tags/tag/7th-occult-war 7th-occult-war]** -- Set during or related to the Seventh Occult War, a conflict between the Allied Occult Initiative and the Nazi Obskuracorps, occurring in parallel to the Second World War.
+* **[https://scpwiki.com/system:page-tags/tag/adytum adytum]** -- Set in or related to the city of Adytum, capital of the ancient Sarkic empire known as Kalmaktama.
+* **[https://scpwiki.com/system:page-tags/tag/alagadda alagadda]** -- Set in or related to the kingdom of Alagadda, the domain of the Hanged King.
+* **[https://scpwiki.com/system:page-tags/tag/amoni-ram amoni-ram]** -- Set in or related to the city-state of Amoni-Ram, capital of the ancient Mekhanite Empire.
+* **[https://scpwiki.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- Set in or related to the Free Port of Backdoor Soho.
 * **[https://scpwiki.com/system:page-tags/tag/deus-ex-machina deus-ex-machina]** -- Related to the Foundation's world-rebooting machine, [https://scp-wiki.wikidot.com/scp-2000 SCP-2000].
-* **[https://scpwiki.com/system:page-tags/tag/esterberg esterberg]** -- The Free Port known as [https://scp-wiki.wikidot.com/esterberg-city-wikipedia Esterberg]
-* **[https://scpwiki.com/system:page-tags/tag/eurtec eurtec]** -- The metropolis of Eurtec.
-* **[https://scpwiki.com/system:page-tags/tag/hong-shing hong-shing]** -- The extradimensional city of Hong Shing that connects the Left Phase, or baseline reality, and the Right Phase, a universe filled with ionizing radiation.
-* **[https://scpwiki.com/system:page-tags/tag/hy-brasil hy-brasil]** -- The island of [https://scp-wiki.wikidot.com/nx-03 Hy-Brasil].
-* **[https://scpwiki.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- The Free Port of [https://scp-wiki.wikidot.com/larue-hub La Rue Macabre].
-* **[https://scpwiki.com/system:page-tags/tag/three-portlands three-portlands]** -- The Free Port of [https://scp-wiki.wikidot.com/three-portlands-hub Three Portlands].
-* **[https://scpwiki.com/system:page-tags/tag/undervegas undervegas]** -- The demonic city of [https://scp-wiki.wikidot.com/undervegas-hub Undervegas].
-* **[https://scpwiki.com/system:page-tags/tag/wanderers-library wanderers-library]** -- The universe-connecting [https://scp-wiki.wikidot.com/wanderers-library-hub Wanderer's Library].
+* **[https://scpwiki.com/system:page-tags/tag/esterberg esterberg]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/esterberg-city-wikipedia Esterberg]
+* **[https://scpwiki.com/system:page-tags/tag/eurtec eurtec]** -- Set in or related to the metropolis of Eurtec.
+* **[https://scpwiki.com/system:page-tags/tag/hong-shing hong-shing]** -- Set in or related to the extradimensional city of Hong Shing, connecting baseline reality (the Left Phase) to a universe filled with ionizing radiation (the Right Phase).
+* **[https://scpwiki.com/system:page-tags/tag/hy-brasil hy-brasil]** -- Set in or related to the vanishing island of [https://scp-wiki.wikidot.com/nx-03 Hy-Brasil].
+* **[https://scpwiki.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/larue-hub La Rue Macabre].
+* **[https://scpwiki.com/system:page-tags/tag/noosphere noosphere]** -- Related to the Noösphere, a conceptual space consisting of the totality of human knowledge and thought.
+* **[https://scpwiki.com/system:page-tags/tag/three-portlands three-portlands]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/three-portlands-hub Three Portlands].
+* **[https://scpwiki.com/system:page-tags/tag/undervegas undervegas]** -- Set in or related to the demonic city of [https://scp-wiki.wikidot.com/undervegas-hub Undervegas].
+* **[https://scpwiki.com/system:page-tags/tag/wanderers-library wanderers-library]** -- Set in or related to the universe-connecting [https://scp-wiki.wikidot.com/wanderers-library-hub Wanderer's Library].
 
 [[/tab]]
 [[tab Content Markers]]
@@ -1489,8 +1494,9 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/classiccon2025 classiccon2025]** -- An entry to the [https://scp-wiki.wikidot.com/classic-con 2025 Classic Contest].
 * **[https://scpwiki.com/system:page-tags/tag/memecon2021-unofficial memecon2021-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].
 * **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
-* **[https://scpwiki.com/system:page-tags/tag/spook-nico-2024-unofficial spook-nico-2024-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/spook-nico-unnoficial-2024 2024 Spook Nico contest]
-* **[https://scpwiki.com/system:page-tags/tag/intcanoncon2025 intcanoncon2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/international-canon-contest 2025 International Canon contest]
+* **[https://scpwiki.com/system:page-tags/tag/spook-nico-2024-unofficial spook-nico-2024-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/spook-nico-unnoficial-2024 2024 Spook Nico contest].
+* **[https://scpwiki.com/system:page-tags/tag/intcanoncon2025 intcanoncon2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/international-canon-contest 2025 International Canon contest].
+* **[https://scpwiki.com/system:page-tags/tag/dumbcon2026-unofficial dumbcon2026-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/dumbcon 2026 Dumbcon].
 
 [[/tab]]
 [[tab Translation]]
