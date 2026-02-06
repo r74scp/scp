@@ -1240,7 +1240,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/アナバシス|アナバシス]]]** //(anabasis)// - [[[anabasis-hub|アナバシス]]]。
 * **[[[/system:page-tags/tag/animal-hospital|animal-hospital]]]** //(animal-hospital)// - [[[animal-hospital-hub|ANIMAL HOSPITAL]]]。
 * **[[[/system:page-tags/tag/ao-tale|ao-tale]]]** //(ao-tale)// - [[[ao-hub|Anomalousアイテムの物語]]]。
-* **[[[/system:page-tags/tag/家電戦争|家電戦争]]]** //(appliance-wary)// - [[[the-appliance-war-hub|家電戦争]]]。
+* **[[[/system:page-tags/tag/家電戦争|家電戦争]]]** //(appliance-war)// - [[[the-appliance-war-hub|家電戦争]]]。
 * **[[[/system:page-tags/tag/ブラックラビット社|ブラックラビット社]]]** //(black-rabbit-company)// - [[[stealingsolidarityhub|団結号を奪え]]]。
 * **[[[/system:page-tags/tag/カック・ハード|カック・ハード]]]** //(cack-hard)// - [[[cack-hub|カック・ハード]]]。
 * **[[[/system:page-tags/tag/classical-revival|classical-revival]]]** //(classical-revival)// - [[[classicalrevivalindex|クラシカル・リバイバル]]]。
