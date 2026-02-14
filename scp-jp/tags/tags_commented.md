@@ -2347,6 +2347,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ユーテック|ユーテック]]]** (//eurtec//) - ユーテック。
 * **[[[/system:page-tags/tag/ハイ・ブラジル|ハイ・ブラジル]]]** //(hy-brasil)// - ハイ・ブラジル島。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。
+* **[[[/system:page-tags/tag/ノウアスフィア|ノウアスフィア]]]** //(noosphere)// - 人間の知識や思考の総体からなる概念的な圏域、ノウアスフィア。
 * **[[[/system:page-tags/tag/スリー・ポートランド|スリー・ポートランド]]]** //(three-portlands)// - [[[three-portlands-hub|スリー・ポートランド]]]。
 * **[[[/system:page-tags/tag/アンダーベガス|アンダーベガス]]]** //(undervegas)// - 悪魔の街、アンダーベガス。
 * **[[[/system:page-tags/tag/放浪者の図書館|放浪者の図書館]]]** //(wanderers-library)// - [[[wanderers-library-hub|放浪者の図書館]]]。
@@ -2373,6 +2374,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/サイト-81ka|サイト-81ka]]]** - サイト-81KA。
 * **[[[/system:page-tags/tag/サイト-81uo|サイト-81uo]]]** - [[[secure-facility-dossier-site-81uo|サイト-81UO]]]。
+* **[[[/system:page-tags/tag/サイト-81kk|サイト-81kk]]]** - サイト-81KK。
+* **[[[/system:page-tags/tag/サイト-81et|サイト-81et]]]** - サイト-81ET。
 
 @@ @@
 
