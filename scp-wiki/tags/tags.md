@@ -66,7 +66,7 @@ Pages for site members to showcase their body of work.
 * **[https://scpwiki.com/system:page-tags/tag/author author]** -- This tag should be used for author profile pages. There should only be a single author profile page for each qualifying site member.
 * **[https://scpwiki.com/system:page-tags/tag/artist artist]** -- This tag should, similarly, be used for artist profile pages. If a site member wants more than one artist profile page, they must get staff permission first.
  * //Conflicts with 'illustrated'//
-* **[https://scpwiki.com/system:page-tags/tag/artwork artwork]** -- //artwork// pages host Foundation-related artwork created by community members, whether as individual pieces or collections.
+* **[https://scpwiki.com/system:page-tags/tag/artwork artwork]** -- Used to host artwork created by community members, whether as individual pieces or collections.
  * //Conflicts with 'illustrated'//
 
 +++ Import pages
@@ -1138,7 +1138,6 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/django-bridge django-bridge]** -- Django Bridge.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-asheworth doctor-asheworth]** -- Dr. Daniel Asheworth, Site-120's resident thaumaturge.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-blank doctor-blank]** -- Dr. Harold R. Blank, historian at Site-43.
-* **[https://scpwiki.com/system:page-tags/tag/doctor-bright doctor-bright]** -- Dr. Jack Bright, aka [https://scp-wiki.wikidot.com/scp-963 SCP-963].
 * **[https://scpwiki.com/system:page-tags/tag/doctor-cimmerian doctor-cimmerian]** -- Dr. Jeremiah Cimmerian, ethics committee liaison.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-clef doctor-clef]** -- Dr. Alto Clef, formerly Agent Ukelele of the Global Occult Coalition. Expert in terminating reality benders.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-dan doctor-dan]** -- Dr. Dan ███████, of [https://scp-wiki.wikidot.com/scp-096 SCP-096].
