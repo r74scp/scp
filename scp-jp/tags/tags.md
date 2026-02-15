@@ -1149,7 +1149,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/境界の画定者|境界の画定者]]]** //(边界勘定人)// - [[[demarcaters-of-the-edge-center|境界の画定者]]]。
 * **[[[/system:page-tags/tag/コールド・スタート|コールド・スタート]]]** //(冷启动)// - [[[cold-start-hub|コールド・スタート]]]。
 * **[[[/system:page-tags/tag/meme主義|meme主義]]]** //(meme主义)// - [[[the-accelerationism|MEME主義]]]。
-* **[[[/system:page-tags/tag/セントラル・キッチン|セントラル・キッチン]]]** //(中央厨房)// - [[[kitchen|セントラル・キッチン]]]。
+* **[[[/system:page-tags/tag/セントラル・キッチン|セントラル・キッチン]]]** //(中央厨房)// - [[[kitchen-cn|セントラル・キッチン]]]。※[[[kitchen|本来のURL]]]からENのtaleとの衝突により変更している。
 
 [[/tab]][!--CN--]
 [[tab FR]]

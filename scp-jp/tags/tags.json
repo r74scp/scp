@@ -4629,7 +4629,7 @@
         "id": 696,
         "tag": "セントラル・キッチン",
         "trans": "中央厨房",
-        "desc": "[[[kitchen|セントラル・キッチン]]]。",
+        "desc": "[[[kitchen-cn|セントラル・キッチン]]]。※[[[kitchen|本来のURL]]]からENのtaleとの衝突により変更している。",
         "type": "カノン-CN",
         "category": "CN",
         "list": ""
