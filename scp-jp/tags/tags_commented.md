@@ -1159,6 +1159,8 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/楽屋裏|楽屋裏]]]** //(dans-les-coulisses)// - [[[dans-les-coulisses|楽屋裏]]]。
 * **[[[/system:page-tags/tag/人的資源|人的資源]]]** //(ressources-humaines)// - [[[ressources-humaines|人的資源]]]。
 * **[[[/system:page-tags/tag/壁を背に|壁を背に]]]** //(dos-au-mur)// - [[[dos-au-mur|壁を背に]]]。
+* **[[[/system:page-tags/tag/太陽が沈む時|太陽が沈む時]]]** //(soleil-couche)// - [[[centre-quand-le-soleil-se-couche|太陽が沈む時]]]。
+ * **[[[/system:page-tags/tag/asp|太陽が沈む時-scp]]]** //(soleil-couche-scp)// - "太陽が沈む時"のデリバティブ記事[[footnote]]SCP-FR独自の記事区分です。[#faq 翻訳に関するFAQ]の項目も参照してください。 [[/footnote]]。
 
 [[/tab]]
 [[tab PL]]
@@ -1346,7 +1348,6 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 +++ 合作Taleシリーズ-FR
 * **[[[/system:page-tags/tag/アレフ、その後|アレフ、その後]]]** //(après-aleph)// - [[[apres-aleph|アレフ、その後]]]。
 * **[[[/system:page-tags/tag/project-crossover|project-crossover]]]** //(crossover)// - [[[projetcrossoverfrindex|プロジェクト・クロスオーバー-FR]]](参照: プロジェクト-EN //project-crossover//タグ)。
-* **[[[/system:page-tags/tag/太陽が沈む時|太陽が沈む時]]]** //(soleil-couche-scp)// - [[[centre-quand-le-soleil-se-couche|太陽が沈む時]]]。
 
 
 [[/tab]]
@@ -3473,8 +3474,8 @@ ENではイラストをはじめとするアート作品についてJPとは異�
 +++* //resource//タグについて
 ENで使用されている//resource//タグは、//世界観//タグに置き換えてください。
 
-+++* FR及びDEの一部カノン・Taleシリーズで使用される//scp//相当のタグについて
-SCP-FR・DEの一部のカノン・Taleシリーズに属する記事には、メジャータグが付与されない代わりにそのカノン独自のメジャータグ相当のタグが付与されていることがあります(例: [[[machina-portal|]]]における//asp//)。そのような記事を翻訳する場合、以下に従ってください。
++++* FR及びDEの一部カノンで使用される//scp//相当のタグについて
+SCP-FR・DEの一部のカノンに属する記事には、メジャータグが付与されない代わりにそのカノン独自のメジャータグ相当のタグが付与されていることがあります(例: [[[machina-portal|]]]における//asp//)。そのような記事を翻訳する場合、以下に従ってください。
 * //goi-format//タグを付与する。
  * この場合、GoIフォーマット隠しタグは例外的に付与する必要はありません。
 * アトリビュートタグ及びオブジェクトクラスタグが付与されている場合は削除し、SCP-JPに投稿する際にディスカッションポストでその旨を補足する(下書き段階では不要です)。
