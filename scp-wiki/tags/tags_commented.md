@@ -551,8 +551,11 @@ Any tags that do not fit into the other sections.
 * **[https://scpwiki.com/system:page-tags/tag/clown clown]** -- SCP is, resembles, affects, or involves one or more clowns.
  * //Often used with 'humanoid'//
 * **[https://scpwiki.com/system:page-tags/tag/concept concept]** -- SCP is or affects a purely non-physical concept. Should not be used in conjunction with tags describing physical qualities.
+* **[https://scpwiki.com/system:page-tags/tag/deity deity]** -- SCP is a deity or specifically affects a specific deity, or deities in general.
+ * //Often used with 'religious'//
 * **[https://scpwiki.com/system:page-tags/tag/exchange exchange]** -- SCP involves or is triggered by some form of exchange of physical or intangible goods, including but not limited to bartering and monetary trade.
  * //Often used with 'currency'//
+* **[https://scpwiki.com/system:page-tags/tag/foundation-personnel foundation-personnel]** -- SCP was employed by the Foundation prior to receiving an SCP designation, or was recruited as an employee after being contained. Also applies to anomalies that specifically affect one or more Foundation personnel.
 * **[https://scpwiki.com/system:page-tags/tag/k-class-scenario k-class-scenario]** -- SCP is involved in or capable of instigating one or more K-Class End of the World scenarios. Should only be used in articles that specifically name a type of K-Class scenario.
 * **[https://scpwiki.com/system:page-tags/tag/mathematical mathematical]** -- SCP is or affects a number, number system, mathematical equation, or otherwise has mathematical significance.
 * **[https://scpwiki.com/system:page-tags/tag/meta meta]** -- SCP affects or is affected by its documentation or requires containment procedures regarding the way it is documented.
@@ -759,21 +762,23 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/decommissioning-dept decommissioning-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/decom-dept-hub Decommissioning Department].
 * **[https://scpwiki.com/system:page-tags/tag/deletions-dept deletions-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/deleted Department of Deletions].
 * **[https://scpwiki.com/system:page-tags/tag/delta-t delta-t]** -- Featuring or related to Research and Containment Team [https://scp-wiki.wikidot.com/welcome-to-delta-t Delta T] or the Temporal Anomalies Department, the transtemporal Foundation agency.
+* **[https://scpwiki.com/system:page-tags/tag/department-of-other department-of-other]** -- Featuring or related to the Department of Other, responsible for -J SCPs.
 * **[https://scpwiki.com/system:page-tags/tag/ethics-committee ethics-committee]** -- Featuring or related to the Foundation's Ethics Committee.
 * **[https://scpwiki.com/system:page-tags/tag/engagement-division engagement-division]** -- Featuring or related to the [https://scp-wiki.wikidot.com/anomalous-entity-engagement-division-hub Anomalous Entity Engagement Division] (AEED).
-* **[https://scpwiki.com/system:page-tags/tag/ettra ettra]** -- Featuring or related to the Emergent Threat Tactical Response Authority.
+* **[https://scpwiki.com/system:page-tags/tag/ettra ettra]** -- Featuring or related to the Emergent Threat Tactical Response Authority (ETTRA).
 * **[https://scpwiki.com/system:page-tags/tag/fire-suppression-dept fire-suppression-dept]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/fire-suppression-department-hub Fire Suppression Department].
 * **[https://scpwiki.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
+* **[https://scpwiki.com/system:page-tags/tag/geology-dept geology-dept]** -- Featuring or related to the Department of Geology.
 * **[https://scpwiki.com/system:page-tags/tag/last-hope last-hope]** -- Featuring or related to MTF Alpha-9, "Last Hope".
 * **[https://scpwiki.com/system:page-tags/tag/miscommunications miscommunications]** -- Featuring or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
-* **[https://scpwiki.com/system:page-tags/tag/department-of-other department-of-other]** -- Featuring or related to the Department of Other, responsible for -J SCPs.
-* **[https://scpwiki.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Featuring or related to the Foundation's Pataphysics Department.
-* **[https://scpwiki.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Featuring or related to the Foundation's Department of Procurement and Liquidation.
+* **[https://scpwiki.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Featuring or related to the Pataphysics Department.
+* **[https://scpwiki.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Featuring or related to the Department of Procurement and Liquidation.
+* **[https://scpwiki.com/system:page-tags/tag/raisa raisa]** -- Featuring or related to the Recordkeeping and Information Security Administration (RAISA).
 * **[https://scpwiki.com/system:page-tags/tag/samsara samsara]** -- Featuring or related to Mobile Task Force Tau-5 "Samsara".
 * **[https://scpwiki.com/system:page-tags/tag/spicy-crust-pizzeria spicy-crust-pizzeria]** -- Featuring or related to Spicy Crust Pizzeria or Spicy Crust Pizza, a restaurant chain used as a Foundation front company.
 * **[https://scpwiki.com/system:page-tags/tag/surrealistics-dept surrealistics-dept]** -- Featuring or related to the Department of Surrealistics.
-* **[https://scpwiki.com/system:page-tags/tag/tactical-theology tactical-theology]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/tactical-theology-hub Department of Tactical Theology].
-* **[https://scpwiki.com/system:page-tags/tag/telecom-office telecom-office]** -- Featuring or related to the Foundation's [https://scp-wiki.wikidot.com/telecommunications-monitoring-office-hub Telecommunications Monitoring Office].
+* **[https://scpwiki.com/system:page-tags/tag/tactical-theology tactical-theology]** -- Featuring or related to the [https://scp-wiki.wikidot.com/tactical-theology-hub Department of Tactical Theology].
+* **[https://scpwiki.com/system:page-tags/tag/telecom-office telecom-office]** -- Featuring or related to the [https://scp-wiki.wikidot.com/telecommunications-monitoring-office-hub Telecommunications Monitoring Office].
 * **[https://scpwiki.com/system:page-tags/tag/unreality-dept unreality-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/unreality-hub Unreality Department].
 
 +++ Groups of Interest
@@ -1070,6 +1075,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Part of [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
 * **[https://scpwiki.com/system:page-tags/tag/red-queens-race red-queens-race]** -- Part of the [https://scp-wiki.wikidot.com/red-queen-s-race Red Queen's Race] series.
 * **[https://scpwiki.com/system:page-tags/tag/run-the-river-red run-the-river-red]** -- Part of the [https://scp-wiki.wikidot.com/run-the-river-red-hub Run the River Red] series.
+* **[https://scpwiki.com/system:page-tags/tag/stop-making-sense stop-making-sense]** -- Part of the [https://scp-wiki.wikidot.com/stop-making-sense Stop Making Sense] series.
 * **[https://scpwiki.com/system:page-tags/tag/tales-of-the-mosaic tales-of-the-mosaic]** -- Part of the [https://scp-wiki.wikidot.com/tales-of-the-mosaic Tales of the Mosaic] series.
 * **[https://scpwiki.com/system:page-tags/tag/team-bird team-bird]** -- Part of the [https://scp-wiki.wikidot.com/bird Team Bird] series.
 * **[https://scpwiki.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Part of the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
@@ -1169,6 +1175,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-vang doctor-vang]** -- Dr. S. Vang.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-wettle doctor-wettle]** -- Dr. William Wallace Wettle, unfortunate Head of Replication Studies at Site-43. Central to [https://scp-wiki.wikidot.com/scp-7000 SCP-7000].
 * **[https://scpwiki.com/system:page-tags/tag/draven-kondraki draven-kondraki]** -- Dr./Director Draven Kondraki, son of Benjamin Kondraki.
+* **[https://scpwiki.com/system:page-tags/tag/florence-thorne florence-thorne]** -- [https://scp-wiki.wikidot.com/florence-thorne-hub Battlemage Florence Thorne] of the UIU, formerly known as Florence Elsinger during her employment by the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/general-bowe general-bowe]** -- General Bowe, former leader of projects to weaponize SCP objects.
 * **[https://scpwiki.com/system:page-tags/tag/glacon glacon]** -- Glacon.aic, an artificial intelligence.
 * **[https://scpwiki.com/system:page-tags/tag/greg-chudley greg-chudley]** -- Researcher Greg Chudley, of Site-78.
