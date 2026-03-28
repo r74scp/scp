@@ -190,7 +190,7 @@ The following applies to all tags in this category:
 
 +++ Entity
 
-Tags that apply to creatures that are **alive**, or to **autonomous** or non-living beings with similar properties.
+Tags that apply to creatures that are **alive**, or to **autonomous** or non-living beings with similar properties, or to phenomena affecting a specific type of being.
 
 * **[https://scpwiki.com/system:page-tags/tag/adaptive adaptive]** -- SCP adapts to stimuli in an anomalous manner.
 * **[https://scpwiki.com/system:page-tags/tag/alive alive]** -- SCP is alive, meaning it exhibits the biological traits of metabolic activity and response to stimuli.
@@ -204,6 +204,13 @@ Tags that apply to creatures that are **alive**, or to **autonomous** or non-liv
  * //Conflicts with 'alive'//
 * **[https://scpwiki.com/system:page-tags/tag/bacteria bacteria]** -- SCP is, resembles, or exhibits traits of a bacterial life-form.
  * //Often used with 'alive', and 'contagion'//
+* **[https://scpwiki.com/system:page-tags/tag/child child]** -- SCP is a child, or is related to or affects children.
+ * //Often used with 'humanoid'//
+* **[https://scpwiki.com/system:page-tags/tag/clown clown]** -- SCP is, resembles, affects, or involves one or more clowns.
+ * //Often used with 'humanoid'//
+* **[https://scpwiki.com/system:page-tags/tag/deity deity]** -- SCP is a deity or specifically affects a specific deity, or deities in general.
+ * //Often used with 'religious'//
+* **[https://scpwiki.com/system:page-tags/tag/foundation-personnel foundation-personnel]** -- SCP was employed by the Foundation prior to receiving an SCP designation, or was recruited as an employee after being contained. Also applies to anomalies that specifically affect one or more Foundation personnel.
 * **[https://scpwiki.com/system:page-tags/tag/fungus fungus]** -- SCP is or exhibits traits of fungal organisms, including mushrooms, yeasts and mold.
  * //Often used with 'alive'//
  * //Avoid using with 'plant'//
@@ -551,16 +558,9 @@ Any tags that do not fit into the other sections.
 
 * **[https://scpwiki.com/system:page-tags/tag/anomalous-event anomalous-event]** -- The SCP is a singular anomalous event that significantly changed reality in some way.
  * //Avoid using with 'phenomenon'//
-* **[https://scpwiki.com/system:page-tags/tag/child child]** -- SCP is a child, or is related to or affects children.
- * //Often used with 'humanoid'//
-* **[https://scpwiki.com/system:page-tags/tag/clown clown]** -- SCP is, resembles, affects, or involves one or more clowns.
- * //Often used with 'humanoid'//
 * **[https://scpwiki.com/system:page-tags/tag/concept concept]** -- SCP is or affects a purely non-physical concept. Should not be used in conjunction with tags describing physical qualities.
-* **[https://scpwiki.com/system:page-tags/tag/deity deity]** -- SCP is a deity or specifically affects a specific deity, or deities in general.
- * //Often used with 'religious'//
 * **[https://scpwiki.com/system:page-tags/tag/exchange exchange]** -- SCP involves or is triggered by some form of exchange of physical or intangible goods, including but not limited to bartering and monetary trade.
  * //Often used with 'currency'//
-* **[https://scpwiki.com/system:page-tags/tag/foundation-personnel foundation-personnel]** -- SCP was employed by the Foundation prior to receiving an SCP designation, or was recruited as an employee after being contained. Also applies to anomalies that specifically affect one or more Foundation personnel.
 * **[https://scpwiki.com/system:page-tags/tag/k-class-scenario k-class-scenario]** -- SCP is involved in or capable of instigating one or more K-Class End of the World scenarios. Should only be used in articles that specifically name a type of K-Class scenario.
 * **[https://scpwiki.com/system:page-tags/tag/mathematical mathematical]** -- SCP is or affects a number, number system, mathematical equation, or otherwise has mathematical significance.
 * **[https://scpwiki.com/system:page-tags/tag/meta meta]** -- SCP affects or is affected by its documentation or requires containment procedures regarding the way it is documented.
@@ -899,7 +899,7 @@ The following applies to all tags in this category:
 * **[https://scpwiki.com/system:page-tags/tag/_chicago-spirit _chicago-spirit]** -- An article following the Chicago Spirit format.
  * //Requires 'chicago-spirit'//
 * **[https://scpwiki.com/system:page-tags/tag/_daevite _daevite]** -- An article following the Daevite format.
- * //Requires 'chicago-spirit'//
+ * //Requires 'daevite'//
 * **[https://scpwiki.com/system:page-tags/tag/_deer-college _deer-college]** -- An article following the Deer College format.
  * //Requires 'deer-college'//
 * **[https://scpwiki.com/system:page-tags/tag/_eric _eric]** -- An article following the Eric format.
@@ -908,6 +908,8 @@ The following applies to all tags in this category:
  * //Requires 'factory'//
 * **[https://scpwiki.com/system:page-tags/tag/_fifthist _fifthist]** -- An article following the Fifthist format.
  * //Requires 'fifthist'//
+* **[https://scpwiki.com/system:page-tags/tag/_gamers-against-weed _gamers-against-weed]** -- An article following the Gamers Against Weed format.
+ * //Requires 'gamers-against-weed'//
 * **[https://scpwiki.com/system:page-tags/tag/_global-occult-coalition _global-occult-coalition]** -- An article following the Global Occult Coalition format.
  * //Requires 'global-occult-coalition'//
 * **[https://scpwiki.com/system:page-tags/tag/_gru-division-p _gru-division-p]** -- An article following the GRU Division P format.
