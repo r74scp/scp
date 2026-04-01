@@ -90,7 +90,7 @@ Pages created for internal use.
 +++ Other pages
 
 * **[https://scpwiki.com/system:page-tags/tag/admin admin]** -- //admin// pages, as the name suggest, have some sort of official significance. Typically, they represent pages which are required to exist by Wikidot for some form of site functionality. They should only be created by staff.
-* **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. All of the SCP series pages are //hub// pages, as are the tale index and various other pages around the site. As it is a major page tag, hubs may not have other top-level tags (e.g. //scp// or //tale//), with the exception of //site// pages. Hubs for Series should also be tagged with //series-hub//, while Canon hubs should be tagged with //canon-hub//, and hubs for specific Groups (GoI, Departments, MTFs) should be tagged with //group-hub//.
+* **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. All of the SCP series pages are //hub// pages, as are the tale index and various other pages around the site. Unlike other major page tags, hub may be applied alongside another top level tag, if a page of that type also functions as a hub page. Hubs for Series should also be tagged with //series-hub//, while Canon hubs should be tagged with //canon-hub//, and hubs for specific Groups (GoI, Departments, MTFs) should be tagged with //group-hub//.
 * **[https://scpwiki.com/system:page-tags/tag/workbench workbench]** -- Workbenches are pages created by mods and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're an (acting) team captain or admin**, or have received explicit permission from them to do so.
 * **[https://scpwiki.com/system:page-tags/tag/sandbox sandbox]** -- In the very distant past, sandboxes on the main site were allowed. This was before the number of members became so big that the amount of sandboxes would create a total mess on the wiki. **Please note that personal sandboxes are no longer allowed on the main site.** The SCP Sandbox wiki at https://scp-sandbox-3.wikidot.com/ should be used for article drafts. Only staff may authorize new sandboxes on the site.
 
@@ -172,7 +172,7 @@ The following applies to all tags in this category:
 [[tab SCP Attributes]]
 ++ SCP Attributes
 
-This list is intended as a guide to attribute tags. These should only be used as descriptors on SCP articles, and should not be used on tales or GoI formats. See the [https://scp-wiki.wikidot.com/scp-tagging-guide SCP Tagging Guide] for a more detailed explanation of how to apply these.
+This list is for SCP attribute tags. These should only be used as descriptors on SCP articles, and should not be used on tales or GoI formats. See the [https://scp-wiki.wikidot.com/scp-tagging-guide SCP Tagging Guide] for a more detailed explanation of how to apply these.
 
 The list of tags has been divided into the following subsections: Entity, Animal, Biological, Mental, Physical, Environment, Artificial, and Other.
 
@@ -343,6 +343,8 @@ Tags that apply to entities, objects or phenomena that have psychological, **min
  * //Often used with 'auditory', 'gustatory', 'olfactory', 'tactile', and 'visual'//
 * **[https://scpwiki.com/system:page-tags/tag/compulsion compulsion]** -- SCP induces compulsive behavior in subjects, or otherwise causes them to do things they normally would not do. This is usually a temporary urge following exposure to an anomaly, rather than a permanent change to behavior.
  * //Compare with 'mind-affecting'//
+* **[https://scpwiki.com/system:page-tags/tag/dream dream]** -- SCP affects or is related to dreaming.
+ * //Often used with 'mind-affecting', and 'sleep'//
 * **[https://scpwiki.com/system:page-tags/tag/empathic empathic]** -- SCP is capable of reading or conveying emotion, feelings, or sensations.
  * //Often used with 'telepathic'//
 * **[https://scpwiki.com/system:page-tags/tag/gustatory gustatory]** -- SCP is triggered by, activated by, or affects the sense of taste.
@@ -372,7 +374,7 @@ Tags that apply to entities, objects or phenomena that have psychological, **min
  * //Supersedes 'knowledge'//
 * **[https://scpwiki.com/system:page-tags/tag/sensory sensory]** -- SCP affects sensory perception.
  * //Often used with 'auditory', 'gustatory', 'olfactory', 'tactile', and 'visual'//
-* **[https://scpwiki.com/system:page-tags/tag/sleep sleep]** -- SCP is related to sleep.
+* **[https://scpwiki.com/system:page-tags/tag/sleep sleep]** -- SCP affects or is related to sleep.
 * **[https://scpwiki.com/system:page-tags/tag/tactile tactile]** -- SCP is activated by, triggered by, or affects the sense of touch. Note that this refers specifically to the sense of touch, not simply something that can activate by touching something else.
 * **[https://scpwiki.com/system:page-tags/tag/telepathic telepathic]** -- SCP can transfer information via anomalous means.
 * **[https://scpwiki.com/system:page-tags/tag/visual visual]** -- SCP is triggered by, activated by, or affects the sense of sight.
@@ -1077,6 +1079,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Part of [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
 * **[https://scpwiki.com/system:page-tags/tag/red-queens-race red-queens-race]** -- Part of the [https://scp-wiki.wikidot.com/red-queen-s-race Red Queen's Race] series.
 * **[https://scpwiki.com/system:page-tags/tag/run-the-river-red run-the-river-red]** -- Part of the [https://scp-wiki.wikidot.com/run-the-river-red-hub Run the River Red] series.
+* **[https://scpwiki.com/system:page-tags/tag/stillborn-skies stillborn-skies]** -- Part of the [https://scp-wiki.wikidot.com/stillborn-skies-hub Stillborn Skies] series.
 * **[https://scpwiki.com/system:page-tags/tag/stop-making-sense stop-making-sense]** -- Part of the [https://scp-wiki.wikidot.com/stop-making-sense Stop Making Sense] series.
 * **[https://scpwiki.com/system:page-tags/tag/tales-of-the-mosaic tales-of-the-mosaic]** -- Part of the [https://scp-wiki.wikidot.com/tales-of-the-mosaic Tales of the Mosaic] series.
 * **[https://scpwiki.com/system:page-tags/tag/team-bird team-bird]** -- Part of the [https://scp-wiki.wikidot.com/bird Team Bird] series.
@@ -1345,7 +1348,8 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/eurtec eurtec]** -- Set in or related to the metropolis of Eurtec.
 * **[https://scpwiki.com/system:page-tags/tag/hong-shing hong-shing]** -- Set in or related to the extradimensional city of Hong Shing, connecting baseline reality (the Left Phase) to a universe filled with ionizing radiation (the Right Phase).
 * **[https://scpwiki.com/system:page-tags/tag/hy-brasil hy-brasil]** -- Set in or related to the vanishing island of [https://scp-wiki.wikidot.com/nx-03 Hy-Brasil].
-* **[https://scpwiki.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/larue-hub La Rue Macabre].
+* **[https://scpwiki.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/dossier-lph La Rue Macabre].
+* **[https://scpwiki.com/system:page-tags/tag/little-havana little-havana]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/larue-hub Little Havana].
 * **[https://scpwiki.com/system:page-tags/tag/noosphere noosphere]** -- Related to the Noösphere, a conceptual space consisting of the totality of human knowledge and thought.
 * **[https://scpwiki.com/system:page-tags/tag/three-portlands three-portlands]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/three-portlands-hub Three Portlands].
 * **[https://scpwiki.com/system:page-tags/tag/undervegas undervegas]** -- Set in or related to the demonic city of [https://scp-wiki.wikidot.com/undervegas-hub Undervegas].
@@ -1505,6 +1509,7 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/spook-nico-2024-unofficial spook-nico-2024-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/spook-nico-unnoficial-2024 2024 Spook Nico contest].
 * **[https://scpwiki.com/system:page-tags/tag/intcanoncon2025 intcanoncon2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/international-canon-contest 2025 International Canon contest].
 * **[https://scpwiki.com/system:page-tags/tag/dumbcon2026-unofficial dumbcon2026-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/dumbcon 2026 Dumbcon].
+* **[https://scpwiki.com/system:page-tags/tag/timjc2026-unofficial timjc2026-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/timjc 2026 This Is My JamCon].
 
 [[/tab]]
 [[tab Translation]]
