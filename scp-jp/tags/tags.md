@@ -1934,6 +1934,7 @@ http://scp-slovenija.wikidot.com/is-arhiva
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - [[[domc-hub|誤伝達部門]]]。
 * **[[[/system:page-tags/tag/空想科学部門|空想科学部門]]]** //(pataphysics-dept)// - 空想科学部門。
 * **[[[/system:page-tags/tag/調達・清算部門|調達・清算部門]]]** //(procurement-liquidation-dept)// - 調達・清算部門。
+* **[[[/system:page-tags/tag/raisa|raisa]]]** //(raisa)// - 記録・情報保安管理局/記録情報セキュリティ管理室。
 * **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 超現実部門。
 * **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - 戦術神学部門。
 * **[[[/system:page-tags/tag/電気通信監視室|電気通信監視室]]]** //(telecom-office)// - [[[telecommunications-monitoring-office-hub|電気通信監視室]]]。
@@ -2569,7 +2570,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ズオン管理官|ズオン管理官]]]** //(giám-đốc-nguyễn-dương)// - サイト-21-VNの「臨時」管理官、グエン・ズオン。
 * **[[[/system:page-tags/tag/スティーブ・グエン|スティーブ・グエン]]]** //(steve-nguyễn)// - タイプブルーで元フィールドエージェントのサイト-75-VN心霊課管理官、スティーブ・グエン。
 * **[[[/system:page-tags/tag/ウェルマン家|ウェルマン家]]]** //(gia-đình-wellman)// - 長年にわたり財団に仕えてきた、ウェルマン家。
-* **[[[/system:page-tags/tag/サイト-75-vn管理官|サイト-75-vn管理官]]** //(quản-trị-điểm-75-vn)// - 身元や出自が謎に包まれたサイト-75-VNの最高責任者、サイト-75-VN管理官。
+* **[[[/system:page-tags/tag/サイト-75-vn管理官|サイト-75-vn管理官]]]** //(quản-trị-điểm-75-vn)// - 身元や出自が謎に包まれたサイト-75-VNの最高責任者、サイト-75-VN管理官。
 
 [[/tab]][!--VN--]
 [!--[[tab Others]]
@@ -3332,6 +3333,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/c404fr|c404fr]]]** //(c404fr)// - [[[le-concours-des-404-ans|ERREUR(フランス支部404周年コンテスト)]]]。
 
+* **[[[/system:page-tags/tag/ch2022|ch2022]]]** //(ch2022)// - [[[concours-halloween-2022|]]]。
+
 * **[[[/system:page-tags/tag/chalete2024|chalete2024]]]** //(chalete2024)// - [[[chalete2024|]]]。
 
 [!--★タグリスト-FRに合わせて分類別にするか迷うが、ひとまずはJP版の開催年次順で行く。--]
@@ -3342,9 +3345,15 @@ SCPユニバースを彩るキャラクターたちのタグです。
 +++ コンテスト-PL
 * **[[[/system:page-tags/tag/pl200|pl200]]]** //(pl200)// - [[[konkurs-pl-200|SCP-PL-200コンテスト「責任」]]]。
 
+* **[[[/system:page-tags/tag/crackfic2022|crackfic2022]]]** //(crackfic2022)// - [[[haszyszofikcyjnokonkurs|クラックフィクションコンテスト]]]。
+
+* **[[[/system:page-tags/tag/goif2023|goif2023]]]** //(goif2023)// - [[[konkurs-formatow-goi-2023|第二回GoIFコンテスト]]]。
+
+* **[[[/system:page-tags/tag/goipl2021|goipl2021]]]** //(goipl2021)// - [[[konkurs-goi-pl-2021|GoI-PLコンテスト2021]]]。
+
 * **[[[/system:page-tags/tag/kw2021|kw2021]]]** //(kw2021)// - [[[konkurs-wakacyjny-2021|夏季コンテスト2021]]]。
 
-* **[[[/system:page-tags/tag/crackfic2022|crackfic2022]]]** //(crackfic2022)// - [[[haszyszofikcyjnokonkurs|クラックフィクションコンテスト]]]。
+* **[[[/system:page-tags/tag/syl2020|syl2020]]]** //(syl2020)// - [[[inicjatywy-sylwestrowe|2020年大晦日執筆チャレンジ]]]。
 
 * **[[[/system:page-tags/tag/syl2021|syl2021]]]** //(syl2021)// - [[[inicjatywy-sylwestrowe|2021年大晦日執筆チャレンジ]]]。
 
@@ -3369,11 +3378,19 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/halloween-2013|halloween-2013]]]** //(halloween-2013)// - [[[concurso-de-halloween|ハロウィンコンテスト]]]。
 
+* **[[[/system:page-tags/tag/concurso-historia-2014|concurso-historia-2014]]]** //(concurso-historia-2014)// - [[[concurso-historia-2014|2014年4月の歴史コンテスト]]]。
+
+* **[[[/system:page-tags/tag/concurso-relatos-2015|concurso-relatos-2015]]]** //(concurso-relatos-2015)// - [[[concurso-relatos-2015|2015年公式短編Taleコンテスト]]]。
+
 * **[[[/system:page-tags/tag/concurso-scp-2016|concurso-scp-2016]]]** //(concurso-scp-2016)// - [[[http://scp-es.com/forum/t-1721909/nuevo-concurso:creacion-de-un-scp-es|新コンテスト: SCP-ES執筆]]]。
 
 * **[[[/system:page-tags/tag/es100|es100]]]** //(#concurso100)// - [[[concurso-scp-es-100|SCP-ES-100コンテスト]]]。
 
+* **[[[/system:page-tags/tag/colaborativo2018|colaborativo2018]]]** //(colaborativo2018)// - [[[concurso-colaborativo-2018|2018年共著コンテスト]]]。
+
 * **[[[/system:page-tags/tag/exploracion2019|exploracion2019]]]** //(exploracion2019)// - [[[concurso-exploracion-2019|2019年探査コンテスト]]]。
+
+* **[[[/system:page-tags/tag/gdicon2020|gdicon2020]]]** //(gdicon2020)// - [[[concurso-gdi-2020|2020年GoIコンテスト]]]。
 
 * **[[[/system:page-tags/tag/es200|es200]]]** //(200con)// - [[[concurso-es-200|SCP-ES-200コンテスト]]]。
 
@@ -3382,13 +3399,12 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [!--
 ★未申請。
 * **[[[/system:page-tags/tag/短編Taleコンテスト2013|短編Taleコンテスト2013]]]** //(concurso-relatos-cortos)// - [[[concurso-de-relatos-cortos|2013年クリスマスの短編Taleコンテスト]]]。
-* **[[[/system:page-tags/tag/歴史コンテスト2014|歴史コンテスト2014]]]** //(concurso-historia-2014)// - [[[concurso-historia-2014|2014年4月の歴史コンテスト]]]。
-* **[[[/system:page-tags/tag/短編Taleコンテスト2015|短編Taleコンテスト2015]]]** //(concurso-relatos-2015)// - [[[concurso-relatos-2015|2015年公式短編Taleコンテスト]]]。
+
 * **[[[/system:page-tags/tag/goi-es-2017コンテスト|goi-es-2017コンテスト]]]** //(concurso-gdi-es-2017)// - [[[concurso-gdi-es-2017|2017年GoI-ESコンテスト]]]。
 * **[[[/system:page-tags/tag/crc2018|crc2018]]]** //(crc2018)// - [[[concurso-de-relatos-cortos-2018|2018年短編Taleコンテスト]]]。
-* **[[[/system:page-tags/tag/colaborativo2018|colaborativo2018]]]** //(colaborativo2018)// - [[[concurso-colaborativo-2018|2018年共著コンテスト]]]。
+
 * **[[[/system:page-tags/tag/imagen2019|imagen2019]]]** //(imagen2019)// - [[[imagen-con-2019|2019年画像コンテスト]]]。
-* **[[[/system:page-tags/tag/gdicon2020|gdicon2020]]]** //(gdicon2020)// - [[[concurso-gdi-2020|2020年GoIコンテスト]]]。
+
 ★未申請。タグリスト未掲載。
 * **[[[/system:page-tags/tag/idea2018|idea2018]]]** //(idea2018)// - [[[idea2018|2018年アイデア提供コンテスト]]]。
 * **[[[/system:page-tags/tag/halloween-con-2020|halloween-con-2020]]]** //(halloween-con-2020)// - [[[halloween-con-2020|2020年ハロウィンコンテスト]]]。
@@ -3474,9 +3490,13 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/2020冬季コンテストzh|2020冬季コンテストzh]]]** //(2020冬季競賽)// - ZHの[[[lunar-new-year-2020|2020冬季コンテスト]]]。
 
-* **[[[/system:page-tags/tag/2021夏季コンテスト|2021夏季コンテスト]]]** //(2021夏季競賽)//  - [[[summer-contest-2021|2021夏季コンテスト]]]。
+* **[[[/system:page-tags/tag/2021夏季コンテストzh|2021夏季コンテストzh]]]** //(2021夏季競賽)//  - ZHの[[[summer-contest-2021|2021夏季コンテスト]]]。
 
-* **[[[/system:page-tags/tag/2024夏季コンテスト|2024夏季コンテスト]]]** //(2024夏季競賽)//  - [[[summer-contest-2024|2024夏季コンテスト]]]。
+* **[[[/system:page-tags/tag/2023紅藍合戦|2023紅藍合戦]]]** //(2023紅藍爭霸賽)//  - [[[honglam-battle|2023紅藍合戦]]]。
+
+> * **[[[/system:page-tags/tag/2023冬季コンテストzh|2023冬季コンテストzh]]]** //(2023冬季競賽)// - ZHの[[[better-to-add-an-imaaage|2023冬季コンテスト]]]。
+
+* **[[[/system:page-tags/tag/2024夏季コンテストzh|2024夏季コンテストzh]]]** //(2024夏季競賽)//  - ZHの[[[summer-contest-2024|2024夏季コンテスト]]]。
 
 [!--
 ★未申請。
@@ -3510,6 +3530,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/100-vn|100-vn]]]** //(100-vn)// - [[[scp100vncontesthub|SCP-100-VNコンテスト]]]。
 
 * **[[[/system:page-tags/tag/collabcon-2022-vn|collabcon-2022-vn]]]** //(collabcon-2022-vn)// - [[[collabcon-2022-hub|共著コンテスト2022]]]。
+
+* **[[[/system:page-tags/tag/childhoodcon2023|childhoodcon2023]]]** //(childhoodcon2023)// - [[[childhoodcon2023|幼少期コンテスト2023]]]。
 
 * **[[[/system:page-tags/tag/trinitycon2023|trinitycon2023]]]** //(trinitycon2023)// - [[[trinitycon2023|トリニティコンテスト2023]]]。
 
