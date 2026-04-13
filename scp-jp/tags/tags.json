@@ -4998,7 +4998,7 @@
         "id": 738,
         "tag": "コレクターtale",
         "trans": "collector-tale",
-        "desc": "ミスター・コレクター(参照: //mister//タグ)。",
+        "desc": "ミスター・コレクター(参照: //[[[/system:page-tags/tag/mister|mister]]]//タグ)。",
         "type": "Taleシリーズ-EN",
         "category": "EN",
         "list": ""
@@ -8535,7 +8535,7 @@
         "id": 1142,
         "tag": "キャプテン・エイドリアン",
         "trans": "captain-adrian",
-        "desc": "エイドリアン、通称SCP-6159-2。使い魔、船長、超常法務官、精神的補助動物。",
+        "desc": "エイドリアン、通称[[[SCP-6159|SCP-6159-2]]]。使い魔、船長、超常法務官、精神的補助動物。",
         "type": "財団職員-EN",
         "category": "EN",
         "list": ""
@@ -9003,7 +9003,7 @@
         "id": 1194,
         "tag": "ウェトル博士",
         "trans": "doctor-wettle",
-        "desc": "ウィリアム・ウォレス・ウェトル博士。",
+        "desc": "サイト-43の運の悪い再現研究部門長にして、[[[SCP-7000]]]の焦点。ウィリアム・ウォレス・ウェトル博士。",
         "type": "財団職員-EN",
         "category": "EN",
         "list": ""
@@ -10190,7 +10190,7 @@
     {
         "id": 1326,
         "tag": "ヤルダバオート",
-        "trans": "queen-mab",
+        "trans": "yaldabaoth",
         "desc": "サーキック信者から[[span class=\"ruby\"]]Važjuma[[span class=\"rt\"]]ヴァジュマ[[/span]][[/span]]とも呼ばれる、忌み嫌われる宇宙の創造者、デミウルゴスたるヤルダバオート。",
         "type": "多能性実体-EN",
         "category": "EN",
