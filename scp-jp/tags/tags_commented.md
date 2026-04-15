@@ -2694,6 +2694,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/dumbcon2026-unofficial|dumbcon2026-unofficial]]]** //(dumbcon2026-unofficial)// - 非公式企画の[[[dumbcon|2026年アホコンテスト]]]。
 
+* **[[[/system:page-tags/tag/timjc2026-unofficial|timjc2026-unofficial]]]** //(timjc2026-unofficial)// - 非公式企画の[[[timjc|2026年これが私の]]][[span class="ruby"]][[[timjc|推し曲]]][[span class="rt"]]ジャム[[/span]][[/span]][[[timjc|コンテスト]]]。
+
 以下のタグについては、特定の他支部の項を参照してください。
 
 * **[[[/system:page-tags/tag/goi2019|goi2019]]]** //(goi2019)// - コンテスト-INT (Otherタグ内) の項を参照してください。
@@ -2817,6 +2819,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/時コン25|時コン25]]]** - [[[tokicontest2025-hub|時のコンテスト2025]]]。
 
 * **[[[/system:page-tags/tag/4000jp|4000jp]]]** - [[[scp4000jp-contest-hub|SCP-4000-JPコンテスト]]]。
+
+* **[[[/system:page-tags/tag/ビギナーズコンテスト|ビギナーズコンテスト]]]** - [[[beginner-s-contest-2026|ビギナーズコンテスト2026]]]。
 @@ @@
 
 +++ キャンペーン-JP
@@ -2872,6 +2876,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/災禍転福キャンペーン|災禍転福キャンペーン]]]** - [[[saikatenpuku-campaign-hub|災禍転福キャンペーン]]]。
 
 * **[[[/system:page-tags/tag/af2026|af2026]]]** - AF-2026-JP。
+
+* **[[[/system:page-tags/tag/お見合い2026|お見合い2026]]]** - [[[matchmaking2026|財団日本支部お見合い計画2026]]]。
 
 [[/tab]]
 [[tab RU]]
@@ -3147,7 +3153,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/2023紅藍合戦|2023紅藍合戦]]]** //(2023紅藍爭霸賽)//  - [[[honglam-battle|2023紅藍合戦]]]。
 
-> * **[[[/system:page-tags/tag/2023冬季コンテストzh|2023冬季コンテストzh]]]** //(2023冬季競賽)// - ZHの[[[better-to-add-an-imaaage|2023冬季コンテスト]]]。
+* **[[[/system:page-tags/tag/2023冬季コンテストzh|2023冬季コンテストzh]]]** //(2023冬季競賽)// - ZHの[[[better-to-add-an-imaaage|2023冬季コンテスト]]]。
 
 * **[[[/system:page-tags/tag/2024夏季コンテストzh|2024夏季コンテストzh]]]** //(2024夏季競賽)//  - ZHの[[[summer-contest-2024|2024夏季コンテスト]]]。
 
