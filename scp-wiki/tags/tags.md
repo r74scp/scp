@@ -35,7 +35,7 @@ When choosing tags for an article, keep in mind that you want to keep the list a
 [[tab Top Level]]
 ++ Top Level
 
-All pages on the wiki should have exactly one top-level tag that determines what kind of page it is.
+All pages on the wiki should have exactly one top-level tag that determines what kind of page it is. The sole exception is that pages may have the hub tag in addition to one other top level tag.
 
 +++ Fictional works
 
@@ -95,7 +95,7 @@ Pages created for internal use.
 +++ Other pages
 
 * **[https://scpwiki.com/system:page-tags/tag/admin admin]** -- //admin// pages, as the name suggest, have some sort of official significance. Typically, they represent pages which are required to exist by Wikidot for some form of site functionality. They should only be created by staff.
-* **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. All of the SCP series pages are //hub// pages, as are the tale index and various other pages around the site. Unlike other major page tags, hub may be applied alongside another top level tag, if a page of that type also functions as a hub page. Hubs for Series should also be tagged with //series-hub//, while Canon hubs should be tagged with //canon-hub//, and hubs for specific Groups (GoI, Departments, MTFs) should be tagged with //group-hub//.
+* **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. Unlike other major page tags, hub may be applied alongside another top level tag, if a page of that type also functions as a hub page. Hubs for series should also be tagged //series-hub//, canon hubs should be tagged //canon-hub//, and hubs for specific Groups (GoI, Departments, MTFs) should be tagged //group-hub//.
 * **[https://scpwiki.com/system:page-tags/tag/workbench workbench]** -- Workbenches are pages created by mods and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're an (acting) team captain or admin**, or have received explicit permission from them to do so.
 * **[https://scpwiki.com/system:page-tags/tag/sandbox sandbox]** -- In the very distant past, sandboxes on the main site were allowed. This was before the number of members became so big that the amount of sandboxes would create a total mess on the wiki. **Please note that personal sandboxes are no longer allowed on the main site.** The SCP Sandbox wiki at https://scp-sandbox-3.wikidot.com/ should be used for article drafts. Only staff may authorize new sandboxes on the site.
 
@@ -427,7 +427,7 @@ Tags that apply to the physical properties or effects of entities, objects or ph
 * **[https://scpwiki.com/system:page-tags/tag/reality-bending reality-bending]** -- SCP is capable of manipulating reality through anomalous means (aka 'ontokinetic', 'reality-bending' or 'reality warping') .
  * //Avoid using with 'thaumaturgy'//
  * //Supersedes 'ectoentropic'//
-* **[https://scpwiki.com/system:page-tags/tag/self-repairing self-repairing]** -- SCP exhibits an anomalous ability restore or repair itself to functional condition.
+* **[https://scpwiki.com/system:page-tags/tag/self-repairing self-repairing]** -- SCP exhibits an anomalous ability to restore or repair itself to functional condition.
 * **[https://scpwiki.com/system:page-tags/tag/self-replicating self-replicating]** -- SCP exhibits an anomalous ability to replicate other than via biological reproduction.
  * //Avoid using with 'reproductive'//
 * **[https://scpwiki.com/system:page-tags/tag/shadow shadow]** -- SCP is triggered, activated, or otherwise significantly affected by shadows cast by subjects.
@@ -904,6 +904,8 @@ The following applies to all tags in this category:
  * //Requires 'daevite'//
 * **[https://scpwiki.com/system:page-tags/tag/_deer-college _deer-college]** -- An article following the Deer College format.
  * //Requires 'deer-college'//
+* **[https://scpwiki.com/system:page-tags/tag/_dr-wondertainment _dr-wondertainment]** -- An article following the Dr. Wondertainment format.
+ * //Requires 'dr-wondertainment'//
 * **[https://scpwiki.com/system:page-tags/tag/_eric _eric]** -- An article following the Eric format.
  * //Requires 'eric'//
 * **[https://scpwiki.com/system:page-tags/tag/_factory _factory]** -- An article following the Factory format.
@@ -918,6 +920,8 @@ The following applies to all tags in this category:
  * //Requires 'gru-division-p'//
 * **[https://scpwiki.com/system:page-tags/tag/_herman-fuller _herman-fuller]** -- An article following the Herman Fuller format.
  * //Requires 'herman-fuller'//
+* **[https://scpwiki.com/system:page-tags/tag/_hmfscp _hmfscp]** -- An article following the His/Her Majesty's Foundation for the Secure Containment of the Paranormal format.
+ * //Requires 'hmfscp'//
 * **[https://scpwiki.com/system:page-tags/tag/_homo-sapiens-sidhe _homo-sapiens-sidhe]** -- An article following the Fae/Homo sapiens sidhe format.
  * //Requires 'homo-sapiens-sidhe'//
 * **[https://scpwiki.com/system:page-tags/tag/_horizon-initiative _horizon-initiative]** -- An article following the Horizon Initiative format.
@@ -1023,13 +1027,14 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/rats-nest rats-nest]** -- Part of the [https://scp-wiki.wikidot.com/rat-s-nest-hub Rat's Nest] canon.
 * **[https://scpwiki.com/system:page-tags/tag/resurrection resurrection]** -- Part of the [https://scp-wiki.wikidot.com/resurrection Resurrection] project.
 * **[https://scpwiki.com/system:page-tags/tag/s&c-plastics s&c-plastics]** -- Part of the [https://scp-wiki.wikidot.com/the-s-c-plastics-hub S & C Plastics] canon.
-* **[https://scpwiki.com/system:page-tags/tag/the-sharkest-timeline the-sharkest-timeline]** -- Part of the [https://scp-wiki.wikidot.com/the-sharkest-timeline Sharkest Timeline] canon.
 * **[https://scpwiki.com/system:page-tags/tag/semiotics semiotics]** -- Part of the [https://scp-wiki.wikidot.com/semiotics-hub Semiotics] canon.
+* **[https://scpwiki.com/system:page-tags/tag/series-0 series-0]** -- Part of the [https://scp-wiki.wikidot.com/series-0 Series 0] canon.
 * **[https://scpwiki.com/system:page-tags/tag/ship-in-a-bottle ship-in-a-bottle]** -- Part of the [https://scp-wiki.wikidot.com/siabhub Ship In A Bottle] canon.
 * **[https://scpwiki.com/system:page-tags/tag/simulacrum simulacrum]** -- Part of the [https://scp-wiki.wikidot.com/simulacrum-project-hub Simulacrum] canon.
 * **[https://scpwiki.com/system:page-tags/tag/sotm sotm]** -- Part of the [https://scp-wiki.wikidot.com/sotmhub Straight On Till Morning] canon.
 * **[https://scpwiki.com/system:page-tags/tag/the-coldest-war the-coldest-war]** -- Part of [https://scp-wiki.wikidot.com/the-coldest-war-hub The Coldest War] canon.
 * **[https://scpwiki.com/system:page-tags/tag/the-gulf the-gulf]** -- Part of [https://scp-wiki.wikidot.com/The-Gulf The Gulf] canon.
+* **[https://scpwiki.com/system:page-tags/tag/the-sharkest-timeline the-sharkest-timeline]** -- Part of the [https://scp-wiki.wikidot.com/the-sharkest-timeline Sharkest Timeline] canon.
 * **[https://scpwiki.com/system:page-tags/tag/the-trashfire the-trashfire]** -- Part of [https://scp-wiki.wikidot.com/the-trashfire The Trashfire] canon.
 * **[https://scpwiki.com/system:page-tags/tag/third-law third-law]** -- Part of the [https://scp-wiki.wikidot.com/third-law-hub Third Law] canon.
 * **[https://scpwiki.com/system:page-tags/tag/twisted-pines twisted-pines]** -- Part of the [https://scp-wiki.wikidot.com/those-twisted-pines-hub Those Twisted Pines] canon.
@@ -1067,6 +1072,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Part of the [https://scp-wiki.wikidot.com/goc-hub-page#casefiles Global Occult Coalition Casefiles].
 * **[https://scpwiki.com/system:page-tags/tag/harbinger harbinger]** -- Part of the HARBINGER series.
 * **[https://scpwiki.com/system:page-tags/tag/hecatoncheires-cycle hecatoncheires-cycle]** -- Part of the [https://scp-wiki.wikidot.com/hecatoncheires-cycle-hub Hecatoncheires Cycle].
+* **[https://scpwiki.com/system:page-tags/tag/i-didnt-forget i-didnt-forget]** -- Part of the [https://scp-wiki.wikidot.com/i-didn-t-forget-hub I Didn't Forget] series.
 * **[https://scpwiki.com/system:page-tags/tag/integration-program integration-program]** -- Part of the [https://scp-wiki.wikidot.com/integration-program-hub Integration Program] series.
 * **[https://scpwiki.com/system:page-tags/tag/in-saffron-sands in-saffron-sands]** -- Part of the [https://scp-wiki.wikidot.com/saffronsands-hub In Saffron Sands] series.
 * **[https://scpwiki.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Part of the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
@@ -1076,6 +1082,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Part of or relating to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
+* **[https://scpwiki.com/system:page-tags/tag/opus-confidant opus-confidant]** -- Part of the OpusConfident parody series.
 * **[https://scpwiki.com/system:page-tags/tag/parawatch-true-crime parawatch-true-crime]** -- Part of the Parawatch True Crime series presented by [https://scp-wiki.wikidot.com/crewtime crewtime].
 * **[https://scpwiki.com/system:page-tags/tag/phobia-anthology phobia-anthology]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-2024 Phobia SCP anthology].
 * **[https://scpwiki.com/system:page-tags/tag/palisade palisade]** -- Part of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
@@ -1171,11 +1178,13 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-lillihammer doctor-lillihammer]** -- Dr. Lillian S. Lillihammer, memeticist at Site-43.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-mann doctor-mann]** -- Dr. Everett Mann, medical researcher.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-mcdoctorate doctor-mcdoctorate]** -- Dr. Placeholder McDoctorate, previously known as Director Nathan Valis.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-ngo doctor-ngo]** -- Dr. Nhung Thanh Ngo, Site-43’s lead psychiatrist.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-okorie doctor-okorie]** -- Dr. Udo Okorie, English expatriate and heir to a long, proud line of magic gunk detoxifiers.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-reynders doctor-reynders]** -- Dr. Ilse Reynders, formerly [https://scp-wiki.wikidot.com/scp-5616 SCP-5616].
 * **[https://scpwiki.com/system:page-tags/tag/doctor-rights doctor-rights]** -- Dr. Agatha Rights.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-rivera doctor-rivera]** -- Dr. Jessie Rivera, Site-120's resident reality bender.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-roget doctor-roget]** -- Dr. Ralph Roget, of Site-77.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-rydderech doctor-rydderech]** -- Dr. Wynn Rydderech, co-founder of Site-43. Contained as [https://scp-wiki.wikidot.com/scp-5520 SCP-5520].
 * **[https://scpwiki.com/system:page-tags/tag/doctor-scranton doctor-scranton]** -- Dr. Robert Scranton, inventor of the Scranton Reality Anchor. Imprisoned by [https://scp-wiki.wikidot.com/scp-3001 SCP-3001].
 * **[https://scpwiki.com/system:page-tags/tag/doctor-shaw doctor-shaw]** -- Dr. Elias Blake Shaw, aka SCP-963.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sinclair doctor-sinclair]** -- Dr. Katherine Sinclair, thaumaturge at Site-87.
