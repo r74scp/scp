@@ -41,30 +41,30 @@ All pages on the wiki should have exactly one top-level tag that determines what
 
 The following tags are for pages that contain fiction.
 
-* **[https://scpwiki.com/system:page-tags/tag/scp scp]** -- All SCP articles from the main blocks should be tagged with //scp//, including [https://scp-wiki.wikidot.com/scp-international translated SCP articles from other branches], [https://scp-wiki.wikidot.com/scp-001 001 proposals], and [https://scp-wiki.wikidot.com/joke-scps joke] (-J), [https://scp-wiki.wikidot.com/archived-scps archived] (-ARC) and [https://scp-wiki.wikidot.com/scp-ex explained] (-EX) SCPs. Articles using the SCP format but posted outside the main blocks as tales may be tagged with //foundation-format//.
+* **[https://scpwiki.com/system:page-tags/tag/scp scp]** -- All SCP articles from the main blocks should be tagged with //scp//, including [https://scp-wiki.wikidot.com/scp-international translated SCP articles from other branches], [https://scp-wiki.wikidot.com/scp-001 001 proposals], and [https://scp-wiki.wikidot.com/joke-scps joke] (-J), [https://scp-wiki.wikidot.com/archived-scps archived] (-ARC) and [https://scp-wiki.wikidot.com/scp-ex explained] (-EX) SCPs. Articles using the SCP format but posted outside the main blocks as a //tale// may be tagged with //foundation-format// instead.
  * //Requires any of category 'object-class'//
  * //Conflicts with 'foundation-format'//
-* **[https://scpwiki.com/system:page-tags/tag/goi-format goi-format]** -- The page has been written up from the perspective of a specific Group of Interest, and conforms to the format or formats laid out in that GoI's hub page. GoI Formats should also be tagged with the tag of their GoI, as well as the underscore tag for that group's GoI format.
+* **[https://scpwiki.com/system:page-tags/tag/goi-format goi-format]** -- Written from the perspective of a specific Group of Interest, and conforms to the format or formats laid out in that GoI's hub page. GoI Formats should also be tagged with the tag of their GoI, as well as the underscore tag for that group's GoI format.
  * //Requires any of category 'goi-format'//
 * **[https://scpwiki.com/system:page-tags/tag/tale tale]** -- Any fiction that is set in the SCP universe but is not an SCP, GoI Format, site page or supplement.
-* **[https://scpwiki.com/system:page-tags/tag/supplement supplement]** -- //supplement// pages are defined as pages which require context from their parent page to understand. These pages should also have their parent page set to their originating article in order to maintain relevance and automatically create breadcrumb navigation. A page should only be tagged as //supplement// if they were created by the original author of the page, or with the original author's permission. Documents that are tributes or parodies should be tagged as //tale// instead, even if they are in the format of a log or transcript.
-* **[https://scpwiki.com/system:page-tags/tag/site site]** -- //site// pages document specific Foundation facilities, and provide information such as the objects stored at the site, site history, assigned personnel, etc. A page tagged //site// that is also a hub page e.g. for SCPs contained within that site or for tales that take place there should also be tagged //hub//.
+* **[https://scpwiki.com/system:page-tags/tag/supplement supplement]** -- Pages which require context from their parent page to understand. These pages should also have their parent page set to their originating article, in order to maintain relevance and automatically create breadcrumb navigation. A page should only be tagged as //supplement// if they were created by the original author of the page, or with the original author's permission. Documents that are tributes or parodies should be tagged as //tale// instead, even if they are in the format of a log or transcript.
+* **[https://scpwiki.com/system:page-tags/tag/site site]** -- Documentation of a specific Foundation facility, providing information such as the objects stored at the site, site history, and assigned personnel. A page tagged //site// that is also a hub page e.g. for SCPs contained within that site or for tales that take place there should also be tagged //hub//.
 
 +++ Information pages
 
 These pages contain information about the site or the writing process.
 
 * **[https://scpwiki.com/system:page-tags/tag/guide guide]** -- These pages are writing guides, helpful hints, or other pages intended to assist site users. Guides are only tagged by staff, or with staff permission. See also //essay//.
-* **[https://scpwiki.com/system:page-tags/tag/essay essay]** -- //essay// pages contain useful information on specific topics that may be helpful to authors writing related articles, but are different from a //guide// in that essays are subjective and reflect the author's personal opinion.
-* **[https://scpwiki.com/system:page-tags/tag/news news]** -- //news// pages contain news about the SCP Foundation in the broadest sense of the word, ranging from new artwork by fans to recently posted successful articles and everything in between. May also be used for formal announcements by staff (in as far as those aren't done on the main page or in the forum).
-* **[https://scpwiki.com/system:page-tags/tag/resource resource]** -- //resource// pages list various aspects of the SCP canon, optionally also adding information regarding them.
+* **[https://scpwiki.com/system:page-tags/tag/essay essay]** -- These pages contain useful information on specific topics that may be helpful to authors writing related articles, but are different from a //guide// in that essays are subjective and reflect the author's personal opinion.
+* **[https://scpwiki.com/system:page-tags/tag/news news]** -- Contain news about the SCP Wiki in the broadest sense of the word, ranging from new artwork by fans to recently posted successful articles and everything in between. May also be used for formal announcements by staff (in as far as those aren't done on the main page or in the forum).
+* **[https://scpwiki.com/system:page-tags/tag/resource resource]** -- Pages listing various aspects of the SCP canon. May also adding information regarding them.
 
 +++ User pages
 
 Pages for site members to showcase their body of work.
 
 * **[https://scpwiki.com/system:page-tags/tag/author author]** -- This tag should be used for author profile pages. There should only be a single author profile page for each qualifying site member.
-* **[https://scpwiki.com/system:page-tags/tag/artist artist]** -- This tag should, similarly, be used for artist profile pages. If a site member wants more than one artist profile page, they must get staff permission first.
+* **[https://scpwiki.com/system:page-tags/tag/artist artist]** -- This tag should be used for artist profile pages. If a site member wants more than one artist profile page, they must get staff permission first.
  * //Conflicts with 'illustrated'//
 * **[https://scpwiki.com/system:page-tags/tag/artwork artwork]** -- Used to host artwork created by community members, whether as individual pieces or collections.
  * //Conflicts with 'illustrated'//
@@ -78,9 +78,9 @@ These pages are designed to be imported onto other pages.
  * //Superseded by 'theme', and 'more-by'//
 * **[https://scpwiki.com/system:page-tags/tag/component-backend component-backend]** -- An 'internal template' page that is designed only to be imported into other //component// or //component-backend// pages, but not used directly by authors.
  * //Conflicts with 'component'//
-* **[https://scpwiki.com/system:page-tags/tag/theme theme]** -- Theme pages are templates that modify the general look and feel of a page.
+* **[https://scpwiki.com/system:page-tags/tag/theme theme]** -- Templates that modify the general look and feel of a page.
  * //Supersedes 'component'//
-* **[https://scpwiki.com/system:page-tags/tag/fragment fragment]** -- A page that is designed to be imported onto a single page, and contains content for that page only. They should be parented to that page. Pages of this type should be in the {{fragment:}} category and are exempt from deletion as long as their parent exists on the wiki. If they are orphaned or their parent is deleted, they are eligible for summary deletion.
+* **[https://scpwiki.com/system:page-tags/tag/fragment fragment]** -- A page that is designed to be imported onto a single page, containing content for that page only. They should be parented to that page. Pages of this type should be in the {{fragment:}} category and are exempt from deletion as long as their parent exists on the wiki. If they are orphaned or their parent is deleted, they are eligible for summary deletion.
 * **[https://scpwiki.com/system:page-tags/tag/more-by more-by]** -- A page that lists works by a single author, designed to be imported onto that author's published works on the Wiki. They should be parented to that author's author page, if they have one. Pages of this type should be in the {{more-by:}} category and are exempt from voting. EN recommends that other branches do not translate these pages.
  * //Supersedes 'component'//
 
@@ -88,15 +88,15 @@ These pages are designed to be imported onto other pages.
 
 Pages created for internal use.
 
-* **[https://scpwiki.com/system:page-tags/tag/forum forum]** -- //forum// pages are those required for internal functioning of Wikidot's forum system. They should only be created by staff.
-* **[https://scpwiki.com/system:page-tags/tag/splash splash]** -- //splash// pages are used as 'cover pages' for certain articles. (see: [https://scp-wiki.wikidot.com/SCP-902 SCP-902] >> [https://scp-wiki.wikidot.com/902-warning SCP-902 Warning].)
-* **[https://scpwiki.com/system:page-tags/tag/redirect redirect]** -- //redirect// pages are those which redirect the user to a different page. They should only be created by staff or with explicit staff permission.
+* **[https://scpwiki.com/system:page-tags/tag/forum forum]** -- Pages required for internal functioning of Wikidot's forum system. They should only be created by staff.
+* **[https://scpwiki.com/system:page-tags/tag/splash splash]** -- Pages used as 'cover pages' for certain articles. (see: [https://scp-wiki.wikidot.com/SCP-902 SCP-902] >> [https://scp-wiki.wikidot.com/902-warning SCP-902 Warning].)
+* **[https://scpwiki.com/system:page-tags/tag/redirect redirect]** -- Pages that redirect the user to a different page. They should only be created by staff or with explicit staff permission.
 
 +++ Other pages
 
-* **[https://scpwiki.com/system:page-tags/tag/admin admin]** -- //admin// pages, as the name suggest, have some sort of official significance. Typically, they represent pages which are required to exist by Wikidot for some form of site functionality. They should only be created by staff.
-* **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- //hub// pages are pages with a large number of links to related pages. Unlike other major page tags, hub may be applied alongside another top level tag, if a page of that type also functions as a hub page. Hubs for series should also be tagged //series-hub//, canon hubs should be tagged //canon-hub//, and hubs for specific Groups (GoI, Departments, MTFs) should be tagged //group-hub//.
-* **[https://scpwiki.com/system:page-tags/tag/workbench workbench]** -- Workbenches are pages created by mods and admins to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're an (acting) team captain or admin**, or have received explicit permission from them to do so.
+* **[https://scpwiki.com/system:page-tags/tag/admin admin]** -- These pages, as the name suggests, have some sort of official significance. Typically, they represent pages which are required to exist by Wikidot for some form of site functionality. They should only be created by staff.
+* **[https://scpwiki.com/system:page-tags/tag/hub hub]** -- Pages with a large number of links to related pages. Unlike other top level tags, hub may be applied alone or alongside another top level tag, if a page of that type also functions as a hub page. Hubs for series should also be tagged //series-hub//, canon hubs should be tagged //canon-hub//, hubs for specific Groups (GoI, Departments, MTFs) should be tagged //group-hub//, and hubs for contests should be tagged //contest//.
+* **[https://scpwiki.com/system:page-tags/tag/workbench workbench]** -- Pages created by staff to allow them to monitor certain pages using Wikidot's modules. While you're free to use those same monitors on your //author// page, **please do not create any workbench pages unless you're an (acting) team captain or admin**, or have received explicit permission from them to do so.
 * **[https://scpwiki.com/system:page-tags/tag/sandbox sandbox]** -- In the very distant past, sandboxes on the main site were allowed. This was before the number of members became so big that the amount of sandboxes would create a total mess on the wiki. **Please note that personal sandboxes are no longer allowed on the main site.** The SCP Sandbox wiki at https://scp-sandbox-3.wikidot.com/ should be used for article drafts. Only staff may authorize new sandboxes on the site.
 
 [[/tab]]
@@ -105,17 +105,17 @@ Pages created for internal use.
 
 Miscellaneous major page tags that are not top-level tags.
 
-* **[https://scpwiki.com/system:page-tags/tag/001-proposal 001-proposal]** -- This is the tag for the articles proposing a possible [https://scp-wiki.wikidot.com/scp-001 SCP-001] object. SCPs tagged with this tag should also be tagged with their standard object class tag, or //esoteric-class// if applicable.
+* **[https://scpwiki.com/system:page-tags/tag/001-proposal 001-proposal]** -- For articles proposing a possible [https://scp-wiki.wikidot.com/scp-001 SCP-001] object. SCPs tagged with this tag should also be tagged with their standard object class tag, or //esoteric-class// if applicable.
  * //Often used with 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/archived archived]** -- Pages which have been archived due to having been superseded, obsoleted, or inactivity. These pages should also be moved to the {{archived:}} category so they retain the 'archived page' notice and are locked from edits. See [https://scp-wiki.wikidot.com/archived-scps Archived Pages] for more information on archival.
 * **[https://scpwiki.com/system:page-tags/tag/canon-hub canon-hub]** -- Used for hubs which represent a [https://scp-wiki.wikidot.com/canon-hub canon].
  * //Requires 'hub'//
  * //Supersedes 'series-hub'//
-* **[https://scpwiki.com/system:page-tags/tag/co-authored co-authored]** -- //co-authored// pages are the result of two or more authors working together, but are not open to additions from other members (unless otherwise specified).
-* **[https://scpwiki.com/system:page-tags/tag/collaboration collaboration]** -- //collaboration// pages are those pages that are or were open to additions from any site member, with the caveat that staff and the original author reserve the right to modify or delete entries found to be subpar, or close entries entirely.
+* **[https://scpwiki.com/system:page-tags/tag/co-authored co-authored]** -- Pages that are the result of two or more authors working together, but are not open to additions from other members (unless otherwise specified).
+* **[https://scpwiki.com/system:page-tags/tag/collaboration collaboration]** -- Pages that are or were open to additions from any site member, with the caveat that staff and the original author reserve the right to modify or delete entries found to be subpar, or close entries entirely.
 * **[https://scpwiki.com/system:page-tags/tag/comic comic]** -- For stories that are primarily told via sequential art.
  * //Supersedes 'illustrated'//
-* **[https://scpwiki.com/system:page-tags/tag/contest contest]** -- //contest// pages are pages created for the purpose of community contests. This should be used in conjunction with //hub// in the case of entry listings, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
+* **[https://scpwiki.com/system:page-tags/tag/contest contest]** -- Pages created for the purpose of community contests. This should be used in conjunction with //hub// in the case of entry listings, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
  * //Requires 'hub'//
 * **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained ] (-EX) SCPs are a special type of //scp//, although //explained// can be used as an object class on any SCP. Articles that use Explained as an Object Class should be tagged with their previous object class tag, if it is included in the article.
  * //Requires 'scp'//
@@ -127,7 +127,7 @@ Miscellaneous major page tags that are not top-level tags.
 * **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
 * **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
 * **[https://scpwiki.com/system:page-tags/tag/policy policy]** -- Page contains actionable site rules and policy.
-* **[https://scpwiki.com/system:page-tags/tag/required required]** -- //required// pages are guides that are part of the required reading for joining the SCP Wiki.
+* **[https://scpwiki.com/system:page-tags/tag/required required]** -- Guides that are part of the required reading for joining the SCP Wiki.
 * **[https://scpwiki.com/system:page-tags/tag/series-hub series-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a series of connected articles, which may include tales, SCPs and GoI Formats.
  * //Requires 'hub'//
  * //Superseded by 'canon-hub'//
@@ -720,7 +720,7 @@ Describes the style of an article. These tags may only be applied to tales, and 
 [[tab Art]]
 ++ Art
 
-Tags describing the Style and Content of art pages. See the [https://scp-wiki.wikidot.com/art-tagging-guide Art Tagging Guide] for a more detailed guide with illustrative examples.
+Tags describing the Style and Content of artworks on art pages. See the [https://scp-wiki.wikidot.com/art-tagging-guide Art Tagging Guide] for a more detailed guide with illustrative examples.
 
 [[div class="blockquote"]]
 The following applies to all tags in this category:
@@ -756,7 +756,7 @@ These tags refer to the content that the artwork is depicting.
 [[tab Groups]]
 ++ Groups
 
-The following tags are for specific Departments or Groups of Interest.
+The following tags are for specific Departments, Groups of Interest, or Anomalous Entities.
 
 +++ Departments
 
@@ -1392,8 +1392,8 @@ These tags are added only used by SCP Wiki staff, and are intended to designate 
 * **[https://scpwiki.com/system:page-tags/tag/in-rewrite in-rewrite]** -- This is a temporary tag that may be placed on an article //by members of the Rewrite Team// only. It indicates the article is currently being rewritten and should be removed when said rewrite is posted. It should only be placed on articles where for reasons of site history, the original article will not be deleted before the rewrite is posted.
 * **[https://scpwiki.com/system:page-tags/tag/rewritable rewritable]** -- This is a temporary tag that may be be placed on an article //by members of the Rewrite Team// only. It indicates that the article is eligible to be rewritten due to circumstances falling outside the usual case of low rating and old age.
 * **[https://scpwiki.com/system:page-tags/tag/rewrite rewrite]** -- This tag indicates that the article in question is a rewrite of another article.
-* **[https://scpwiki.com/system:page-tags/tag/deletion-range deletion-range]** -- This is a temporary tag that indicates the article is currently being voted on for deletion. It should only be placed on articles where a deletion vote has been started. Other tags should be removed when this tag is added to a page. Remove if deletion is permanently cancelled for whatever reason.
-* **[https://scpwiki.com/system:page-tags/tag/deletable deletable]** -- This is a temporary tag that indicates the article has been voted on for deletion. It should only be placed on articles where a deletion vote has been concluded. Other tags should be removed when this tag is added to a page. Remove if deletion is permanently cancelled for whatever reason.
+* **[https://scpwiki.com/system:page-tags/tag/in-deletion in-deletion]** -- This is a temporary tag that indicates the article is currently eligible for deletion. It should only be placed on articles where a deletion post has been made by staff. Other tags should be removed when this tag is added to a page. Remove if deletion is permanently cancelled for whatever reason.
+* **[https://scpwiki.com/system:page-tags/tag/deletable deletable]** -- This is a temporary tag that indicates the article has been voted on for deletion. It should only be placed on articles where three members of staff have witnessed the article for deletion //and// any deletion timers have expired. Other tags should be removed when this tag is added to a page. Remove if deletion is permanently cancelled for whatever reason.
 * **[https://scpwiki.com/system:page-tags/tag/featured featured]** -- Designates [https://scp-wiki.wikidot.com/featured-scp-archive Featured Articles] and [https://scp-wiki.wikidot.com/featured-tale-archive Featured Tales].
 * **[https://scpwiki.com/system:page-tags/tag/prize-feature prize-feature]** -- Designates articles featured by the winner of a site contest.
 * **[https://scpwiki.com/system:page-tags/tag/reviewers-spotlight reviewers-spotlight]** -- Designates articles featured by a [https://scp-wiki.wikidot.com/reviewers-spotlight-archive forum reviewer].
