@@ -113,19 +113,13 @@ Miscellaneous major page tags that are not top-level tags.
  * //Supersedes 'series-hub'//
 * **[https://scpwiki.com/system:page-tags/tag/co-authored co-authored]** -- Pages that are the result of two or more authors working together, but are not open to additions from other members (unless otherwise specified).
 * **[https://scpwiki.com/system:page-tags/tag/collaboration collaboration]** -- Pages that are or were open to additions from any site member, with the caveat that staff and the original author reserve the right to modify or delete entries found to be subpar, or close entries entirely.
-* **[https://scpwiki.com/system:page-tags/tag/comic comic]** -- For stories that are primarily told via sequential art.
- * //Supersedes 'illustrated'//
 * **[https://scpwiki.com/system:page-tags/tag/contest contest]** -- Pages created for the purpose of community contests. This should be used in conjunction with //hub// in the case of entry listings, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
  * //Requires 'hub'//
 * **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained ] (-EX) SCPs are a special type of //scp//, although //explained// can be used as an object class on any SCP. Articles that use Explained as an Object Class should be tagged with their previous object class tag, if it is included in the article.
  * //Requires 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/group-hub group-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a specific [https://scp-wiki.wikidot.com/groups-of-interest Group of Interest], [https://scp-wiki.wikidot.com/departments Department] or [https://scp-wiki.wikidot.com/task-forces Mobile Task Force]. May also be a //canon-hub// or //series-hub//.
  * //Requires 'hub'//
-* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- An article with one or more illustrations specifically made for it. This includes photobashes and other forms of photo manipulation that go beyond basic edits.
- * //Conflicts with 'artwork', and 'artist'//
- * //Superseded by 'comic'//
 * **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
-* **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
 * **[https://scpwiki.com/system:page-tags/tag/policy policy]** -- Page contains actionable site rules and policy.
 * **[https://scpwiki.com/system:page-tags/tag/required required]** -- Guides that are part of the required reading for joining the SCP Wiki.
 * **[https://scpwiki.com/system:page-tags/tag/series-hub series-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a series of connected articles, which may include tales, SCPs and GoI Formats.
@@ -144,6 +138,26 @@ Tags that describe the content of a //supplement// page.
  * //Requires 'supplement'//
 * **[https://scpwiki.com/system:page-tags/tag/interview interview]** -- This supplement contains primarily interview transcripts (see: [https://scp-wiki.wikidot.com/SCP-277 SCP-277] >> [https://scp-wiki.wikidot.com/277interview Interview 277-A]). This tag **should not** be used on //scp// pages, even if they have extensive interview transcripts.
  * //Requires 'supplement'//
+
+[[/tab]]
+[[tab Content Markers]]
+++ Content Markers
+
+Tags for noting specific content.
+
+* **[https://scpwiki.com/system:page-tags/tag/audio audio]** -- //audio// pages are pages with one or more audio files attached.
+* **[https://scpwiki.com/system:page-tags/tag/comic comic]** -- For stories that are primarily told via sequential art.
+ * //Supersedes 'illustrated'//
+* **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- An article with one or more illustrations specifically made for it. This includes photobashes and other forms of photo manipulation that go beyond basic edits.
+ * //Conflicts with 'artwork', and 'artist'//
+ * //Superseded by 'comic'//
+* **[https://scpwiki.com/system:page-tags/tag/interactive interactive]** -- The article contains elements that require user input or interaction, e.g. making a decision (making the user click a single link or open a collapsible does not count).
+ * //Supersedes 'animated'//
+* **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
+* **[https://scpwiki.com/system:page-tags/tag/video video]** -- //video// pages are pages with one or more video files attached.
+ * //Supersedes 'animated'//
+* **[https://scpwiki.com/system:page-tags/tag/_adult _adult]** -- Denotes mature content, readers aged 18 or over should view at their own discretion. Content tagged as adult should be given an [https://scp-wiki.wikidot.com/component:adult-content-warning Adult Content Warning], as explained in the [https://scp-wiki.wikidot.com/adult-content-warning-guide Adult Content Warning Guide].
+* **[https://scpwiki.com/system:page-tags/tag/_listpages _listpages]** -- A tag to denote that this page is an LPT article. LPT (ListPages Presented Text) means that the article presents its content through offsets served via ListPages.
 
 [[/tab]]
 [[tab Object Classes]]
@@ -292,6 +306,8 @@ Tags that apply to animals, or to entities that resemble animals.
 * **[https://scpwiki.com/system:page-tags/tag/invertebrate invertebrate]** -- SCP is, affects or resembles invertebrates, animals lacking spinal columns.
  * //Superseded by 'arachnid', 'arthropod', 'cephalopod', 'crustacean', 'insect', and 'worm'//
 * **[https://scpwiki.com/system:page-tags/tag/primate primate]** -- SCP is, affects or resembles non-human apes, monkeys or lemurs.
+ * //Often used with 'animal'//
+* **[https://scpwiki.com/system:page-tags/tag/pig pig]** -- SCP is, affects or resembles pigs (porcine).
  * //Often used with 'animal'//
 * **[https://scpwiki.com/system:page-tags/tag/rabbit rabbit]** -- SCP is, affects or resembles rabbits or hares.
  * //Often used with 'animal'//
@@ -733,11 +749,16 @@ The following applies to all tags in this category:
 
 These tags describe the art style used in the piece.
 
+* **[https://scpwiki.com/system:page-tags/tag/3d-rendered 3d-rendered]** -- Artwork is a 2D image created using 3D modelling software.
 * **[https://scpwiki.com/system:page-tags/tag/animated animated]** -- Artwork is animated. Generally applies to .gif files.
  * //Superseded by 'interactive', and 'video'//
 * **[https://scpwiki.com/system:page-tags/tag/cel-shaded cel-shaded]** -- Artwork with outlines drawn, then shaded using solid blocks of color or gradients. The characteristic style of animation, comic books and manga.
+* **[https://scpwiki.com/system:page-tags/tag/colored-pencil colored-pencil]** --  Artwork colored by pencil or crayon, or digital art emulating that style.
 * **[https://scpwiki.com/system:page-tags/tag/image-editing image-editing]** -- Artwork created by altering or combining existing images.
+* **[https://scpwiki.com/system:page-tags/tag/inked inked]** -- Artwork coloured using marker pen, or other source of ink.
+* **[https://scpwiki.com/system:page-tags/tag/outlined outlined]** -- Artwork representing the outline of an object in a single color, with minimal internal detail.
 * **[https://scpwiki.com/system:page-tags/tag/painted painted]** -- Artwork created using paint or pastel, or using digital brush strokes to blend colors and mimic the appearance of paint.
+* **[https://scpwiki.com/system:page-tags/tag/photographed photographed]** -- Photograph of an artwork, usually a physical 3-dimensional object created by the artist. If another art style tag is applicable to an artwork, it should generally replace this tag.
 * **[https://scpwiki.com/system:page-tags/tag/pixel-art pixel-art]** -- Artwork created by drawing individual pixels, or by deliberately pixelating an existing image.
 * **[https://scpwiki.com/system:page-tags/tag/sketched sketched]** -- Artwork drawn with pencil, pen or crayon, or created digitally in a similar style. May be shaded, or left as a line drawing.
 
@@ -750,6 +771,8 @@ These tags refer to the content that the artwork is depicting.
 * **[https://scpwiki.com/system:page-tags/tag/personnel-art personnel-art]** -- Artwork depicting specific SCP Foundation employees.
 * **[https://scpwiki.com/system:page-tags/tag/poster poster]** -- Artwork depicting a poster, infographic or advertisement, using a combination of images and words to convey information.
 * **[https://scpwiki.com/system:page-tags/tag/scp-art scp-art]** -- Artwork depicting one or more SCP objects or entities.
+* **[https://scpwiki.com/system:page-tags/tag/tale-art tale-art]** -- Artwork created as a depiction of a specific tale on the SCP Wiki.
+ * //Conflicts with 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/task-force-art task-force-art]** -- Artwork depicting members of one of the Foundation's Mobile Task Forces, or their MTF insignia.
 
 [[/tab]]
@@ -805,7 +828,6 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/broken-god broken-god]** -- Featuring or related to Mekhane, or the [https://scp-wiki.wikidot.com/church-of-the-broken-god-hub Church of the Broken God] (CotBG) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/chaos-insurgency chaos-insurgency]** -- Featuring or related to the [https://scp-wiki.wikidot.com/chaos-insurgency-hub Chaos Insurgency] (CI) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/chicago-spirit chicago-spirit]** -- Featuring or related to the [https://scp-wiki.wikidot.com/chicago-spirit Chicago Spirit] group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/children-of-the-night children-of-the-night]** -- Featuring or related to the Children of the Night, outlined in [https://scp-wiki.wikidot.com/scp-1000 SCP-1000].
 * **[https://scpwiki.com/system:page-tags/tag/children-of-the-torch children-of-the-torch]** -- Featuring or related to the Children of the Torch group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/class-of-76 class-of-76]** -- Featuring or related to the Class of '76 SCPs and stories.
 * **[https://scpwiki.com/system:page-tags/tag/cogwork-orthodoxy cogwork-orthodoxy]** -- Featuring or related to the Cogwork Orthodox Church faction of the Church of the Broken God group of interest.
@@ -814,7 +836,6 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/dr-wondertainment dr-wondertainment]** -- Featuring or related to the [https://scp-wiki.wikidot.com/dr-wondertainment-hub Dr. Wondertainment] person or group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/factory factory]** -- Featuring or related to [https://scp-wiki.wikidot.com/factory-hub The Factory] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/fifthist fifthist]** -- Featuring or related to [https://scp-wiki.wikidot.com/fifthist-hub The Fifth Church] group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/finnfolk finnfolk]** -- Featuring or related to the Finnfolk of [https://scp-wiki.wikidot.com/seas-of-orcadia-hub Orcadia], aquatic humanoids known as //Homo aquarius//.
 * **[https://scpwiki.com/system:page-tags/tag/gamers-against-weed gamers-against-weed]** -- Featuring or related to the [https://scp-wiki.wikidot.com/gamers-against-weed-hub Gamers Against Weed] (GAW) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/giftschreiber giftschreiber]** -- Featuring or related to the Giftschreiber (Poison Writers) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/global-occult-coalition global-occult-coalition]** -- Featuring or related to the [https://scp-wiki.wikidot.com/goc-hub-page Global Occult Coalition (GOC)] group of interest.
@@ -824,7 +845,6 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/gru-division-p gru-division-p]** -- Featuring or related to the [https://scp-wiki.wikidot.com/gru-p-hub GRU Division P] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/herman-fuller herman-fuller]** -- Featuring or related to the [https://scp-wiki.wikidot.com/herman-fuller-hub Herman Fuller's Circus of the Disquieting] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/hmfscp hmfscp]** -- Featuring or related to His/Her Majesty's Foundation For The Study of Curiosities and Phantasmagoria.
-* **[https://scpwiki.com/system:page-tags/tag/homo-sapiens-sidhe homo-sapiens-sidhe]** -- Featuring or related to the Fae (Homo sapiens sidhe), as outlined in [https://scp-wiki.wikidot.com/from-120-s-archives-hub From 120's Archives].
 * **[https://scpwiki.com/system:page-tags/tag/horizon-initiative horizon-initiative]** -- Featuring or related to [https://scp-wiki.wikidot.com/horizon-initiative-hub The Horizon Initiative] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/hunters-black-lodge hunters-black-lodge]** -- Featuring or related to the Hunter's Black Lodge, a neo-sarkic crime syndicate first described in [https://scp-wiki.wikidot.com/scp-2408 SCP-2408].
 * **[https://scpwiki.com/system:page-tags/tag/icsut icsut]** -- Featuring or related to the International Center for the Study of Unified Thaumatology, member of the GOC's Council of 108.
@@ -837,14 +857,12 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/marshall-carter-and-dark marshall-carter-and-dark]** -- Featuring or related to the [https://scp-wiki.wikidot.com/marshall-carter-and-dark-hub Marshall, Carter, and Dark Ltd.] (MC&D) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/maxwellism maxwellism]** -- Featuring or related to the Church of Maxwellism faction of the Church of the Broken God group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/miracle-liberation-front miracle-liberation-front]** -- Featuring or related to the Miracle Liberation Front, a para-terrorist organization of sapient anomalous entities dedicated to overthrowing the Veil.
-* **[https://scpwiki.com/system:page-tags/tag/nameless nameless]** -- Featuring or related to the Nameless, or the Fae, as outlined in [https://scp-wiki.wikidot.com/scp-4000 SCP-4000].
 * **[https://scpwiki.com/system:page-tags/tag/nobody nobody]** -- Featuring or related to the "[https://scp-wiki.wikidot.com/nobody-hub Nobody]" person or group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/obearwatch obearwatch]** -- Featuring or related to the Obearwatch group of interest, a council that sends bears to help.
 * **[https://scpwiki.com/system:page-tags/tag/obskura obskura]** -- Featuring or related to the Nazi Obskurakorps group of interest, or to their contemporary successor OBSKURA.
 * **[https://scpwiki.com/system:page-tags/tag/oneiroi oneiroi]** -- Featuring or related to the [https://scp-wiki.wikidot.com/oneiroi Oneiroi Collective] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/oria oria]** -- Featuring or related to the [https://scp-wiki.wikidot.com/oria-hub Office For The Reclamation of Islamic Artifacts (ORIA)] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/parawatch parawatch]** -- Featuring or related to the [https://scp-wiki.wikidot.com/parawatch-hub Parawatch Wiki] group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/pattern-screamer pattern-screamer]** -- Featuring or related to pattern screamers, entities that do not exist.
 * **[https://scpwiki.com/system:page-tags/tag/pentagram pentagram]** -- Featuring or related to PENTAGRAM group of interest, the occult branch of the USA's Department of Defense.
 * **[https://scpwiki.com/system:page-tags/tag/prometheus prometheus]** -- Featuring or related to the [https://scp-wiki.wikidot.com/prometheus-labs-hub Prometheus Labs] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/pseudogenesis pseudogenesis]** -- Featuring or related to the [https://scp-wiki.wikidot.com/prometheus-labs-hub Pseudogenesis Productions ] group of interest.
@@ -868,6 +886,18 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/world-parahealth-organization world-parahealth-organization]** -- Featuring or related to the World Parahealth Organization group of interest, a GOC member org.
 * **[https://scpwiki.com/system:page-tags/tag/wilsons-wildlife wilsons-wildlife]** -- Featuring or related to the [https://scp-wiki.wikidot.com/wilson-s-wildlife-solutions-hub Wilson's Wildlife Solutions] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/xia-dynasty xia-dynasty]** -- Featuring or related to the anomalous Xia Dynasty of ancient China.
+
++++ Anomalous Entities
+
+These tags are used to designate pages that prominently feature a group of anomalous entities, which may or may not have their own SCP number.
+
+* **[https://scpwiki.com/system:page-tags/tag/children-of-the-night children-of-the-night]** -- Featuring or related to the Children of the Night, outlined in [https://scp-wiki.wikidot.com/scp-1000 SCP-1000].
+* **[https://scpwiki.com/system:page-tags/tag/finnfolk finnfolk]** -- Featuring or related to the Finnfolk of [https://scp-wiki.wikidot.com/seas-of-orcadia-hub Orcadia], aquatic humanoids known as //Homo aquarius//.
+* **[https://scpwiki.com/system:page-tags/tag/homo-sapiens-sidhe homo-sapiens-sidhe]** -- Featuring or related to the Fae (Homo sapiens sidhe), as outlined in [https://scp-wiki.wikidot.com/from-120-s-archives-hub From 120's Archives].
+* **[https://scpwiki.com/system:page-tags/tag/malo malo]** -- Featuring or relating to instances of [https://scp-wiki.wikidot.com/scp-1471 SCP-1471-A], aka MalO.
+* **[https://scpwiki.com/system:page-tags/tag/mister mister]** -- Featuring or relating to the anomalous individuals known as "Little Misters".
+* **[https://scpwiki.com/system:page-tags/tag/nameless nameless]** -- Featuring or related to the Nameless, or the Fae, as outlined in [https://scp-wiki.wikidot.com/scp-4000 SCP-4000].
+* **[https://scpwiki.com/system:page-tags/tag/pattern-screamer pattern-screamer]** -- Featuring or related to pattern screamers, entities that do not exist.
 
 [[/tab]]
 [[tab GoI Formats]]
@@ -996,6 +1026,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/black-diamond-billions black-diamond-billions]** -- Part of the [https://scp-wiki.wikidot.com/black-diamond-billions-hub Black Diamond Billions] canon.
 * **[https://scpwiki.com/system:page-tags/tag/broken-masquerade broken-masquerade]** -- Part of the [https://scp-wiki.wikidot.com/broken-masquerade-hub Broken Masquerade] canon.
 * **[https://scpwiki.com/system:page-tags/tag/but-a-dream but-a-dream]** -- Part of the [https://scp-wiki.wikidot.com/but-a-dream But A Dream] canon.
+* **[https://scpwiki.com/system:page-tags/tag/chaos-on-the-monolith chaos-on-the-monolith]** -- Part of the [https://scp-wiki.wikidot.com/chaos-on-the-monolith-hub Chaos On The Monolith] canon.
 * **[https://scpwiki.com/system:page-tags/tag/competitive-eschatology competitive-eschatology]** -- Part of the [https://scp-wiki.wikidot.com/Competitive-Eschatology-Hub Competitive Eschatology] canon.
 * **[https://scpwiki.com/system:page-tags/tag/cool-war-2 cool-war-2]** -- Part of the [https://scp-wiki.wikidot.com/cool-war-2-hub Cool War 2: Ruiz From Your Grave] canon.
 * **[https://scpwiki.com/system:page-tags/tag/daybreak daybreak]** -- Part of the [https://scp-wiki.wikidot.com/daybreak Daybreak] canon.
@@ -1031,7 +1062,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 * **[https://scpwiki.com/system:page-tags/tag/series-0 series-0]** -- Part of the [https://scp-wiki.wikidot.com/series-0 Series 0] canon.
 * **[https://scpwiki.com/system:page-tags/tag/ship-in-a-bottle ship-in-a-bottle]** -- Part of the [https://scp-wiki.wikidot.com/siabhub Ship In A Bottle] canon.
 * **[https://scpwiki.com/system:page-tags/tag/simulacrum simulacrum]** -- Part of the [https://scp-wiki.wikidot.com/simulacrum-project-hub Simulacrum] canon.
-* **[https://scpwiki.com/system:page-tags/tag/sotm sotm]** -- Part of the [https://scp-wiki.wikidot.com/sotmhub Straight On Till Morning] canon.
+* **[https://scpwiki.com/system:page-tags/tag/straight-on-til-morning straight-on-til-morning]** -- Part of the [https://scp-wiki.wikidot.com/sotmhub Straight On Till Morning] canon.
 * **[https://scpwiki.com/system:page-tags/tag/the-coldest-war the-coldest-war]** -- Part of [https://scp-wiki.wikidot.com/the-coldest-war-hub The Coldest War] canon.
 * **[https://scpwiki.com/system:page-tags/tag/the-gulf the-gulf]** -- Part of [https://scp-wiki.wikidot.com/The-Gulf The Gulf] canon.
 * **[https://scpwiki.com/system:page-tags/tag/the-sharkest-timeline the-sharkest-timeline]** -- Part of the [https://scp-wiki.wikidot.com/the-sharkest-timeline Sharkest Timeline] canon.
@@ -1064,7 +1095,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/cleanliness-guaranteed cleanliness-guaranteed]** -- Part of the [https://scp-wiki.wikidot.com/cleanliness-guaranteed-hub Cleanliness Guaranteed*] series.
 * **[https://scpwiki.com/system:page-tags/tag/creative-destruction creative-destruction]** -- Part of the [https://scp-wiki.wikidot.com/creative-destruction-hub Creative Destruction] series.
 * **[https://scpwiki.com/system:page-tags/tag/crowne-of-thornes crowne-of-thornes]** -- Part of the [https://scp-wiki.wikidot.com/crowne-thorne-hub Crowne of Thornes] series.
-* **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Part of the [https://scp-wiki.wikidot.com/tales-of-mr-collector Tales of Mr. Collector] series. (See also: //[https://scp-wiki.wikidot.com/system:page-tags/tag/mister mister]//).
+* **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Part of the [https://scp-wiki.wikidot.com/tales-of-mr-collector Tales of Mr. Collector] series.
 * **[https://scpwiki.com/system:page-tags/tag/cycle-of-seasons cycle-of-seasons]** -- Part of the [https://scp-wiki.wikidot.com/cycle-of-seasons-hub Cycle of Seasons] series.
 * **[https://scpwiki.com/system:page-tags/tag/deadlined deadlined]** -- Part of the [https://scp-wiki.wikidot.com/deadlined-hub Deadlined] series.
 * **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Part of the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] series.
@@ -1076,7 +1107,6 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/integration-program integration-program]** -- Part of the [https://scp-wiki.wikidot.com/integration-program-hub Integration Program] series.
 * **[https://scpwiki.com/system:page-tags/tag/in-saffron-sands in-saffron-sands]** -- Part of the [https://scp-wiki.wikidot.com/saffronsands-hub In Saffron Sands] series.
 * **[https://scpwiki.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Part of the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
-* **[https://scpwiki.com/system:page-tags/tag/mister mister]** -- Featuring or relating to the anomalous individuals known as "Little Misters".
 * **[https://scpwiki.com/system:page-tags/tag/manhattan-crisis manhattan-crisis]** -- Part of the international [https://scp-wiki.wikidot.com/1998-911-hub Manhattan Crisis] series.
 * **[https://scpwiki.com/system:page-tags/tag/mundus-liberari mundus-liberari]** -- Part of the [https://scp-wiki.wikidot.com/mundus-liberari Mundus, Liberari] series.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
@@ -1249,8 +1279,9 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/geoffrey-quincy-harrison geoffrey-quincy-harrison]** -- Geoffrey Quincy Harrison III, aka [https://scp-wiki.wikidot.com/scp-5595 SCP-5595], a sassy gumball machine stationed in Site-322’s accounting department.
 * **[https://scpwiki.com/system:page-tags/tag/grabnok grabnok]** -- Grabnok the Destroyer, aka [https://scp-wiki.wikidot.com/scp-507 SCP-507], the Reluctant Dimension Hopper.
 * **[https://scpwiki.com/system:page-tags/tag/hard-to-destroy-reptile hard-to-destroy-reptile]** -- The "Hard-To-Destroy Reptile", aka [https://scp-wiki.wikidot.com/scp-682 SCP-682].
-* **[https://scpwiki.com/system:page-tags/tag/half-cat-josie half-cat-josie]** -- Josie the half-cat, aka [https://scp-wiki.wikidot.com/scp-529 SCP-529].
+* **[https://scpwiki.com/system:page-tags/tag/half-cat-josie half-cat-josie]** -- Josie the Half-Cat, aka [https://scp-wiki.wikidot.com/scp-529 SCP-529].
 * **[https://scpwiki.com/system:page-tags/tag/hana-thompson hana-thompson]** -- Hana Thompson, aka [https://scp-wiki.wikidot.com/scp-6317 SCP-6317].
+* **[https://scpwiki.com/system:page-tags/tag/hand-drawn-cassy hand-drawn-cassy]** -- Hand-drawn "Cassy", aka [https://scp-wiki.wikidot.com/scp-085 SCP-085].
 * **[https://scpwiki.com/system:page-tags/tag/heather-mason heather-mason]** -- Heather Mason, aka [https://scp-wiki.wikidot.com/scp-3090 SCP-3090], "Ms. Mad About Video Games".
 * **[https://scpwiki.com/system:page-tags/tag/hogslice hogslice]** -- Hogslice, aka [https://scp-wiki.wikidot.com/scp-6599 SCP-6599].
 * **[https://scpwiki.com/system:page-tags/tag/iris-thompson iris-thompson]** -- Iris Thompson, aka [https://scp-wiki.wikidot.com/scp-105 SCP-105].
@@ -1368,20 +1399,6 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/three-portlands three-portlands]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/three-portlands-hub Three Portlands].
 * **[https://scpwiki.com/system:page-tags/tag/undervegas undervegas]** -- Set in or related to the demonic city of [https://scp-wiki.wikidot.com/undervegas-hub Undervegas].
 * **[https://scpwiki.com/system:page-tags/tag/wanderers-library wanderers-library]** -- Set in or related to the universe-connecting [https://scp-wiki.wikidot.com/wanderers-library-hub Wanderer's Library].
-
-[[/tab]]
-[[tab Content Markers]]
-++ Content Markers
-
-Tags for noting specific content.
-
-* **[https://scpwiki.com/system:page-tags/tag/audio audio]** -- //audio// pages are pages with one or more audio files attached.
-* **[https://scpwiki.com/system:page-tags/tag/interactive interactive]** -- The article contains elements that require user input or interaction, e.g. making a decision (making the user click a single link or open a collapsible does not count).
- * //Supersedes 'animated'//
-* **[https://scpwiki.com/system:page-tags/tag/video video]** -- //video// pages are pages with one or more video files attached.
- * //Supersedes 'animated'//
-* **[https://scpwiki.com/system:page-tags/tag/_adult _adult]** -- Denotes mature content, readers aged 18 or over should view at their own discretion. Content tagged as adult should be given an [https://scp-wiki.wikidot.com/component:adult-content-warning Adult Content Warning], as explained in the [https://scp-wiki.wikidot.com/adult-content-warning-guide Adult Content Warning Guide].
-* **[https://scpwiki.com/system:page-tags/tag/_listpages _listpages]** -- A tag to denote that this page is an LPT article. LPT (ListPages Presented Text) means that the article presents its content through offsets served via ListPages.
 
 [[/tab]]
 [[tab Staff Process]]
