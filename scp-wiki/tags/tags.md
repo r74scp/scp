@@ -47,6 +47,7 @@ The following tags are for pages that contain fiction.
 * **[https://scpwiki.com/system:page-tags/tag/goi-format goi-format]** -- Written from the perspective of a specific Group of Interest, and conforms to the format or formats laid out in that GoI's hub page. GoI Formats should also be tagged with the tag of their GoI, as well as the underscore tag for that group's GoI format.
  * //Requires any of category 'goi-format'//
 * **[https://scpwiki.com/system:page-tags/tag/tale tale]** -- Any fiction that is set in the SCP universe but is not an SCP, GoI Format, site page or supplement.
+ * //Conflicts with 'tale-art'//
 * **[https://scpwiki.com/system:page-tags/tag/supplement supplement]** -- Pages which require context from their parent page to understand. These pages should also have their parent page set to their originating article, in order to maintain relevance and automatically create breadcrumb navigation. A page should only be tagged as //supplement// if they were created by the original author of the page, or with the original author's permission. Documents that are tributes or parodies should be tagged as //tale// instead, even if they are in the format of a log or transcript.
 * **[https://scpwiki.com/system:page-tags/tag/site site]** -- Documentation of a specific Foundation facility, providing information such as the objects stored at the site, site history, and assigned personnel. A page tagged //site// that is also a hub page e.g. for SCPs contained within that site or for tales that take place there should also be tagged //hub//.
 
@@ -145,7 +146,7 @@ Tags that describe the content of a //supplement// page.
 
 Tags for noting specific content.
 
-* **[https://scpwiki.com/system:page-tags/tag/audio audio]** -- //audio// pages are pages with one or more audio files attached.
+* **[https://scpwiki.com/system:page-tags/tag/audio audio]** -- Pages with one or more audio files attached or embedded.
 * **[https://scpwiki.com/system:page-tags/tag/comic comic]** -- For stories that are primarily told via sequential art.
  * //Supersedes 'illustrated'//
 * **[https://scpwiki.com/system:page-tags/tag/illustrated illustrated]** -- An article with one or more illustrations specifically made for it. This includes photobashes and other forms of photo manipulation that go beyond basic edits.
@@ -154,7 +155,7 @@ Tags for noting specific content.
 * **[https://scpwiki.com/system:page-tags/tag/interactive interactive]** -- The article contains elements that require user input or interaction, e.g. making a decision (making the user click a single link or open a collapsible does not count).
  * //Supersedes 'animated'//
 * **[https://scpwiki.com/system:page-tags/tag/poetry poetry]** -- Applicable if the page consists significantly of a form of poetry, with elements such as meter and rhyme.
-* **[https://scpwiki.com/system:page-tags/tag/video video]** -- //video// pages are pages with one or more video files attached.
+* **[https://scpwiki.com/system:page-tags/tag/video video]** -- Pages with one or more video files attached or embedded.
  * //Supersedes 'animated'//
 * **[https://scpwiki.com/system:page-tags/tag/_adult _adult]** -- Denotes mature content, readers aged 18 or over should view at their own discretion. Content tagged as adult should be given an [https://scp-wiki.wikidot.com/component:adult-content-warning Adult Content Warning], as explained in the [https://scp-wiki.wikidot.com/adult-content-warning-guide Adult Content Warning Guide].
 * **[https://scpwiki.com/system:page-tags/tag/_listpages _listpages]** -- A tag to denote that this page is an LPT article. LPT (ListPages Presented Text) means that the article presents its content through offsets served via ListPages.
@@ -768,7 +769,7 @@ These tags refer to the content that the artwork is depicting.
 
 * **[https://scpwiki.com/system:page-tags/tag/goi-art goi-art]** -- Artwork depicting characters, objects, or themes from a specific Group of Interest. Also applies to GoI logos.
 * **[https://scpwiki.com/system:page-tags/tag/logo logo]** -- Artwork depicting one or more logos or other symbolic graphics, such as insignia, flags and coats of arms.
-* **[https://scpwiki.com/system:page-tags/tag/personnel-art personnel-art]** -- Artwork depicting specific SCP Foundation employees.
+* **[https://scpwiki.com/system:page-tags/tag/personnel-art personnel-art]** -- Artwork depicting specific Foundation employees.
 * **[https://scpwiki.com/system:page-tags/tag/poster poster]** -- Artwork depicting a poster, infographic or advertisement, using a combination of images and words to convey information.
 * **[https://scpwiki.com/system:page-tags/tag/scp-art scp-art]** -- Artwork depicting one or more SCP objects or entities.
 * **[https://scpwiki.com/system:page-tags/tag/tale-art tale-art]** -- Artwork created as a depiction of a specific tale on the SCP Wiki.
@@ -1304,7 +1305,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/tickle-monster tickle-monster]** -- The Tickle Monster, aka [https://scp-wiki.wikidot.com/scp-999 SCP-999].
 * **[https://scpwiki.com/system:page-tags/tag/the-kumiho the-kumiho]** -- The nine-tailed kumiho/gumiho, aka [https://scp-wiki.wikidot.com/scp-953 SCP-953].
 * **[https://scpwiki.com/system:page-tags/tag/the-sculpture the-sculpture]** -- The Sculpture, aka [https://scp-wiki.wikidot.com/scp-173 SCP-173].
-* **[https://scpwiki.com/system:page-tags/tag/the-specter the-specter]** -- The Specter, aka [https://scp-wiki.wikidot.com/scp-4944 SCP-4944].
+* **[https://scpwiki.com/system:page-tags/tag/the-specter the-specter]** -- The Specter, aka [https://scp-wiki.wikidot.com/scp-4494 SCP-4494].
 * **[https://scpwiki.com/system:page-tags/tag/too-spooky too-spooky]** -- Too Spooky, aka [https://scp-wiki.wikidot.com/scp-2006 SCP-2006].
 
 +++ Persons of Interest
