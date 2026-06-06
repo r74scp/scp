@@ -1440,7 +1440,8 @@ Tags for all events on the wiki, including contests.
 * **[https://scpwiki.com/system:page-tags/tag/af2014 af2014]** -- Part of the [https://scp-wiki.wikidot.com/april-fools-2014 Super Cute Pets!] 2014 April Fool's prank.
 * **[https://scpwiki.com/system:page-tags/tag/game-day game-day]** -- Part of the [https://scp-wiki.wikidot.com/gamedayindex Game Day] project.
 * **[https://scpwiki.com/system:page-tags/tag/pridefest2024 pridefest2024]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest 2024 Pride festival].
-* **[https://scpwiki.com/system:page-tags/tag/pridefest2025 pridefest2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/pridefest-2025 2025 pride festival]
+* **[https://scpwiki.com/system:page-tags/tag/pridefest2025 pridefest2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/pridefest-2025 2025 pride festival].
+* **[https://scpwiki.com/system:page-tags/tag/pridefest2026 pridefest2026]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/pridefest-2026 2026 pride festival].
 * **[https://scpwiki.com/system:page-tags/tag/news-prompt news-prompt]** -- An article following a writing prompt from site news.
 * **[https://scpwiki.com/system:page-tags/tag/nightmarefest nightmarefest]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/nightmarefest NIGHTMAREFEST].
 * **[https://scpwiki.com/system:page-tags/tag/spring-cleaning24 spring-cleaning24]** -- An entry to the [https://scp-wiki.wikidot.com/deer-college-spring-cleaning-event 2024 Spring Cleaning Event].
