@@ -2334,7 +2334,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/桑名博士|桑名博士]]]** - 桑名博士。
 * **[[[/system:page-tags/tag/諸知博士|諸知博士]]]** - 諸知博士。
 * **[[[/system:page-tags/tag/白子博士|白子博士]]]** - 白子博士。
-* **[[[/system:page-tags/tag/津軽みのり|津軽みのり]]]** - 津軽みのり研究員。
+* **[[[/system:page-tags/tag/津軽みのり|津軽みのり]]]** - 津軽 みのり研究員。
 * **[[[/system:page-tags/tag/土橋博士|土橋博士]]]** - 土橋博士。
 * **[[[/system:page-tags/tag/天王寺博士|天王寺博士]]]** - 天王寺博士。
 * **[[[/system:page-tags/tag/虎屋博士|虎屋博士]]]** - 虎屋博士。
@@ -2353,8 +2353,9 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/エージェント・応神|エージェント・応神]]]** - エージェント・応神。
 * **[[[/system:page-tags/tag/エージェント・上波|エージェント・上波]]]** - エージェント・上波。
 * **[[[/system:page-tags/tag/エージェント・海野|エージェント・海野]]]** - エージェント・海野。
-* **[[[/system:page-tags/tag/梅田綾|梅田綾]]]** - エージェント・梅田綾。
+* **[[[/system:page-tags/tag/梅田綾|梅田綾]]]** - エージェント・梅田 綾。
 * **[[[/system:page-tags/tag/エージェント・来栖|エージェント・来栖]]]** - エージェント・来栖。
+* **[[[/system:page-tags/tag/エージェント・後醍醐勾|エージェント・後醍醐勾]]]** - エージェント・後醍醐 勾。
 * **[[[/system:page-tags/tag/エージェント・イヴァノフ|エージェント・イヴァノフ]]]** - エージェント・イヴァノフ。
 * **[[[/system:page-tags/tag/エージェント・西塔|エージェント・西塔]]]** - エージェント・西塔。
 * **[[[/system:page-tags/tag/エージェント・桜庭|エージェント・桜庭]]]** - エージェント・桜庭。
@@ -2363,11 +2364,11 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/エージェント・井戸田|エージェント・井戸田]]]**  - エージェント・井戸田、あるいは"反ミーム師匠"。
 * **[[[/system:page-tags/tag/エージェント・谷崎|エージェント・谷崎]]]** - エージェント・谷崎。
 * **[[[/system:page-tags/tag/エージェント・戸神|エージェント・戸神]]]** - エージェント・戸神。
-* **[[[/system:page-tags/tag/エージェント・那澤なごむ|エージェント・那澤なごむ]]]** - エージェント・那澤なごむ。
+* **[[[/system:page-tags/tag/エージェント・那澤なごむ|エージェント・那澤なごむ]]]** - エージェント・那澤 なごむ。
 * **[[[/system:page-tags/tag/エージェント・榾火|エージェント・榾火]]]** - エージェント・榾火。
 * **[[[/system:page-tags/tag/エージェント・亦好|エージェント・亦好]]]** - エージェント・亦好。
 * **[[[/system:page-tags/tag/エージェント・斑座|エージェント・斑座]]]** - エージェント・斑座。
-* **[[[/system:page-tags/tag/萌里菻|萌里菻]]]** - エージェント・萌里菻。
+* **[[[/system:page-tags/tag/萌里菻|萌里菻]]]** - エージェント・萌里 菻。
 * **[[[/system:page-tags/tag/エージェント・ヤマトモ|エージェント・ヤマトモ]]]** - エージェント・ヤマトモ。
 
 +++ 財団のその他職員-JP
@@ -2390,9 +2391,9 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 +++ 要注意人物/アノマリー-JP
 * **[[[/system:page-tags/tag/アヒージョ|アヒージョ]]]** - アヒージョ、あるいは[[[SCP-1129-JP]]]。
-* **[[[/system:page-tags/tag/日奉茜|日奉茜]]]** - 日奉茜。
-* **[[[/system:page-tags/tag/日奉薮|日奉薮]]]** - 日奉薮 (日奉藪)。
-* **[[[/system:page-tags/tag/凍霧陽|凍霧陽]]]** - 凍霧陽。
+* **[[[/system:page-tags/tag/日奉茜|日奉茜]]]** - 日奉 茜。
+* **[[[/system:page-tags/tag/日奉薮|日奉薮]]]** - 日奉 薮 (日奉 藪)。
+* **[[[/system:page-tags/tag/凍霧陽|凍霧陽]]]** - 凍霧 陽。
 * **[[[/system:page-tags/tag/ウェイター|ウェイター]]]** - 「弟の食料品」のウェイター。
 * **[[[/system:page-tags/tag/scp-014-jp-ex-1|scp-014-jp-ex-1]]]** - [[[SCP-014-JP-EX|SCP-014-JP-EX-1]]]。
 * **[[[/system:page-tags/tag/scp-014-jp-j|scp-014-jp-j]]]** - [[[SCP-014-JP-J]]]。
@@ -2400,14 +2401,14 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/scp-964-jp|scp-964-jp]]]** - [[[SCP-964-JP]]]。
 * **[[[/system:page-tags/tag/scp-1134-jp|scp-1134-jp]]]** - 勝、または[[[SCP-1134-JP]]]。
 * **[[[/system:page-tags/tag/scp-2050-jp-a|scp-2050-jp-a]]]** - [[[SCP-2050-JP]]]-A。
-* **[[[/system:page-tags/tag/御蓮寺恋治|御蓮寺恋治]]]** - 御蓮寺恋治。
+* **[[[/system:page-tags/tag/御蓮寺恋治|御蓮寺恋治]]]** - 御蓮寺 恋治。
 * **[[[/system:page-tags/tag/カイ|カイ]]]** - カイ、あるいはD-1228。
 * **[[[/system:page-tags/tag/隠し包丁のスニーク|隠し包丁のスニーク]]]** - 隠し包丁のスニーク。
 * **[[[/system:page-tags/tag/karkaroff|karkaroff]]]** - karkaroff。
 * **[[[/system:page-tags/tag/くだん・バンシー|くだん・バンシー]]]** - [[[SCP-1146-JP]]]で登場する存在、通称「くだん・バンシー」。
 * **[[[/system:page-tags/tag/久能尚史|久能尚史]]]** - 久能 尚史。
-* **[[[/system:page-tags/tag/消照闇子|消照闇子]]]** - 消照闇子、または[[[SCP-835-JP]]]。
-* **[[[/system:page-tags/tag/犀賀六巳|犀賀六巳]]]** - 犀賀六巳。
+* **[[[/system:page-tags/tag/消照闇子|消照闇子]]]** - 消照 闇子、または[[[SCP-835-JP]]]。
+* **[[[/system:page-tags/tag/犀賀六巳|犀賀六巳]]]** - 犀賀 六巳。
 * **[[[/system:page-tags/tag/西行|西行]]]** - [[[SCP-571-JP]]]。
 * **[[[/system:page-tags/tag/寿司の意思|寿司の意思]]]** - 寿司の意思。
 * **[[[/system:page-tags/tag/タカオ|タカオ]]]** - タカオ、あるいはD-1028。
@@ -2415,10 +2416,10 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/田中先生|田中先生]]]** - [[[SCP-1045-JP]]]、あるいは"田中先生"。
 * **[[[/system:page-tags/tag/出刃包丁のウィーク|出刃包丁のウィーク]]]** - 出刃包丁のウィーク。
 * **[[[/system:page-tags/tag/ドクター・トラヤー|ドクター・トラヤー]]]** - ドクター・トラヤー。
-* **[[[/system:page-tags/tag/難波謙司|難波謙司]]]** - 難波謙司。
+* **[[[/system:page-tags/tag/難波謙司|難波謙司]]]** - 難波 謙司。
 * **[[[/system:page-tags/tag/ねこです|ねこです]]]** - [[[SCP-040-JP]]]で言及される存在、通称「ねこ」。
-* **[[[/system:page-tags/tag/広末サマンサ|広末サマンサ]]]** - 広末サマンサ。
-* **[[[/system:page-tags/tag/広末孝行|広末孝行]]]** - 広末孝行。
+* **[[[/system:page-tags/tag/広末サマンサ|広末サマンサ]]]** - 広末 サマンサ。
+* **[[[/system:page-tags/tag/広末孝行|広末孝行]]]** - 広末 孝行。
 * **[[[/system:page-tags/tag/マックス|マックス]]]** - マックス。
 * **[[[/system:page-tags/tag/闇親方|闇親方]]]** - 闇、あるいは栄。
 
@@ -2991,6 +2992,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/spring-cleaning24|spring-cleaning24]]]** //(spring-cleaning24)// - [[[deer-college-spring-cleaning-event|2024年春の大掃除イベント]]]。
 
 * **[[[/system:page-tags/tag/pridefest2025|pridefest2025]]]** //(pridefest2025)// - 非公式企画の[[[pridefest-2025|2025年プライドフェスティバル]]]。
+
+* **[[[/system:page-tags/tag/pridefest2026|pridefest2026]]]** //(pridefest2026)// - 非公式企画の[[[pridefest-2026|2026年プライドフェスティバル]]]。
 
 [[/tab]][!--EN--]
 [[tab JP]]
