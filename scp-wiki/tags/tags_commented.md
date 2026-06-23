@@ -1001,6 +1001,8 @@ The following applies to all tags in this category:
  * //Requires 'unusual-incidents-unit'//
 * **[https://scpwiki.com/system:page-tags/tag/_valravn _valravn]** -- An article following the Valravn Corporation format.
  * //Requires 'valravn'//
+* **[https://scpwiki.com/system:page-tags/tag/_vikander-kneed _vikander-kneed]** -- An article following the Vikander-Kneed Technical Media format.
+ * //Requires 'vikander-kneed'//
 * **[https://scpwiki.com/system:page-tags/tag/_wandsmen _wandsmen]** -- An article following the Wandsmen format.
  * //Requires 'wandsmen'//
 * **[https://scpwiki.com/system:page-tags/tag/_wilsons-wildlife _wilsons-wildlife]** -- An article following the Wilsons' Wildlife format.
