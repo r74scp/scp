@@ -11881,7 +11881,7 @@
     },
     {
         "id": 1524,
-        "tag": "サイト-yod",
+        "tag": "サイト-lamedh",
         "trans": "lamedh",
         "desc": "サイト-Lamedh。",
         "type": "セキュリティ施設-FR",
@@ -11893,6 +11893,15 @@
         "tag": "サイト-tav",
         "trans": "tav",
         "desc": "サイト-Tav。",
+        "type": "セキュリティ施設-FR",
+        "category": "FR",
+        "list": ""
+    },
+    {
+        "id": 1526,
+        "tag": "サイト-yod",
+        "trans": "yod",
+        "desc": "サイト-Yod。",
         "type": "セキュリティ施設-FR",
         "category": "FR",
         "list": ""
