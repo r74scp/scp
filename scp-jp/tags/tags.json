@@ -8085,7 +8085,7 @@
         "id": 1093,
         "tag": "デルタ-t",
         "trans": "delta-t",
-        "desc": "財団の超時間機構、[[[welcome-to-delta-t|デルタ-T (Δt)]]]。",
+        "desc": "財団の超時間機構である研究・収容チーム[[[welcome-to-delta-t|デルタ-T (Δt)]]]、もしくは時間異常部門。",
         "type": "部門-EN",
         "category": "EN",
         "list": ""
@@ -8202,7 +8202,7 @@
         "id": 1106,
         "tag": "戦術神学部門",
         "trans": "tactical-theology",
-        "desc": "戦術神学部門。",
+        "desc": "[[[tactical-theology-hub|戦術神学部門]]]。",
         "type": "部門-EN",
         "category": "EN",
         "list": ""
@@ -8229,7 +8229,7 @@
         "id": 1109,
         "tag": "残された希望",
         "trans": "last-hope",
-        "desc": "機動部隊アルファ-9 (\"残された希望\")。",
+        "desc": "[[[task-forces#alpha-9|機動部隊アルファ-9 (\"残された希望\")]]]。",
         "type": "部隊-EN",
         "category": "EN",
         "list": ""
@@ -8355,7 +8355,7 @@
         "id": 1123,
         "tag": "戦術求解部門",
         "trans": "",
-        "desc": "戦術求解部門。",
+        "desc": "[[[department-of-tactical-solving-hub|戦術求解部門]]]。",
         "type": "部門-JP",
         "category": "JP",
         "list": ""

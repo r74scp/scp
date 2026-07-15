@@ -1844,7 +1844,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/継続部門|継続部門]]]** //(continuity-dept)// - [[[department-of-continuity-hub|継続部門]]]。
 * **[[[/system:page-tags/tag/解体部門|解体部門]]]** //(decommissioning-dept)// - [[[decom-dept-hub|解体部門]]]。
 * **[[[/system:page-tags/tag/削除部門|削除部門]]]** //(deletions-dept)// - [[[deleted|削除部門]]]。
-* **[[[/system:page-tags/tag/デルタ-t|デルタ-t]]]** //(delta-t)// - 財団の超時間機構、[[[welcome-to-delta-t|デルタ-T (Δt)]]]。
+* **[[[/system:page-tags/tag/デルタ-t|デルタ-t]]]** //(delta-t)// - 財団の超時間機構である研究・収容チーム[[[welcome-to-delta-t|デルタ-T (Δt)]]]、もしくは時間異常部門。
 * **[[[/system:page-tags/tag/番外部門|番外部門]]]** //(department-of-other)// - 番外部門、ジョークSCPを扱う。
 * **[[[/system:page-tags/tag/倫理委員会|倫理委員会]]]** //(ethics-committee)// - 倫理委員会。
 * **[[[/system:page-tags/tag/交流課|交流課]]]** //(engagement-division)// - [[[anomalous-entity-engagement-division-hub|異常存在交流課 (AEED)]]]。
@@ -1857,7 +1857,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/調達・清算部門|調達・清算部門]]]** //(procurement-liquidation-dept)// - 調達・清算部門。
 * **[[[/system:page-tags/tag/raisa|raisa]]]** //(raisa)// - 記録・情報保安管理局/記録情報セキュリティ管理室。
 * **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 超現実部門。
-* **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - 戦術神学部門。
+* **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - [[[tactical-theology-hub|戦術神学部門]]]。
 * **[[[/system:page-tags/tag/電気通信監視室|電気通信監視室]]]** //(telecom-office)// - [[[telecommunications-monitoring-office-hub|電気通信監視室]]]。
 * **[[[/system:page-tags/tag/非現実部門|非現実部門]]]** //(unreality-dept)// - [[[unreality-hub|非現実部門]]]。
 
@@ -1866,7 +1866,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 
 +++ 部隊-EN
 
-* **[[[/system:page-tags/tag/残された希望|残された希望]]]** //(last-hope)// - 機動部隊アルファ-9 ("残された希望")。
+* **[[[/system:page-tags/tag/残された希望|残された希望]]]** //(last-hope)// - [[[task-forces#alpha-9|機動部隊アルファ-9 ("残された希望")]]]。
 * **[[[/system:page-tags/tag/角度研削者|角度研削者]]]** //(angle-grinders)// - [[[mtf-theta-90-hub-page|機動部隊シータ-90 ("角度研削者")]]]。
 * **[[[/system:page-tags/tag/サムサラ|サムサラ]]]** //(samsara)// - [[[task-forces#tau-5|機動部隊タウ-5 ("サムサラ")]]]。
 
@@ -1890,7 +1890,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/匡済部門|匡済部門]]]** - [[[rehabilitation-department-hub|匡済部門]]]。
 * **[[[/system:page-tags/tag/欺瞞部門|欺瞞部門]]]** - 欺瞞部門。
 * **[[[/system:page-tags/tag/葬祭部門|葬祭部門]]]** - 葬祭部門。
-* **[[[/system:page-tags/tag/戦術求解部門|戦術求解部門]]]** - 戦術求解部門。
+* **[[[/system:page-tags/tag/戦術求解部門|戦術求解部門]]]** - [[[department-of-tactical-solving-hub|戦術求解部門]]]。
 
 +++ フロント-JP
 それぞれの詳細は[[[front-jp|]]]を参照してください。
