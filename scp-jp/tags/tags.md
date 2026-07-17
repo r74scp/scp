@@ -3092,6 +3092,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/4000jp|4000jp]]]** - [[[scp4000jp-contest-hub|SCP-4000-JPコンテスト]]]。
 
 * **[[[/system:page-tags/tag/ビギナーズコンテスト|ビギナーズコンテスト]]]** - [[[beginner-s-contest-2026|ビギナーズコンテスト2026]]]。
+
+* **[[[/system:page-tags/tag/夢コン26|夢コン26]]]** - [[[yumecontest2026-hub|夢のコンテスト2026]]]。
 @@ @@
 
 +++ キャンペーン-JP
