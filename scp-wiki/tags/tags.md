@@ -121,6 +121,7 @@ Miscellaneous major page tags that are not top-level tags.
 * **[https://scpwiki.com/system:page-tags/tag/group-hub group-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a specific [https://scp-wiki.wikidot.com/groups-of-interest Group of Interest], [https://scp-wiki.wikidot.com/departments Department] or [https://scp-wiki.wikidot.com/task-forces Mobile Task Force]. May also be a //canon-hub// or //series-hub//.
  * //Requires 'hub'//
 * **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
+* **[https://scpwiki.com/system:page-tags/tag/lost-series lost-series]** -- Part of the [https://scp-wiki.wikidot.com/lost-scp-series Lost SCP Series].
 * **[https://scpwiki.com/system:page-tags/tag/policy policy]** -- Page contains actionable site rules and policy.
 * **[https://scpwiki.com/system:page-tags/tag/required required]** -- Guides that are part of the required reading for joining the SCP Wiki.
 * **[https://scpwiki.com/system:page-tags/tag/series-hub series-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a series of connected articles, which may include tales, SCPs and GoI Formats.
