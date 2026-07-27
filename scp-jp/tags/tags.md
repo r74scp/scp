@@ -1355,6 +1355,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/d-is-not-for|d-is-not-for]]]** - [[[d-is-not-for-hub|D is NOT for...]]]。
 * **[[[/system:page-tags/tag/生典|生典]]]** - [[[seiten-hub|生典]]]。
 * **[[[/system:page-tags/tag/eve-aic-tales|eve-aic-tales]]]** - [[[eve-aic|Eve.aic]]]。
+* **[[[/system:page-tags/tag/霊実体研究部門|霊実体研究部門]]]** - [[[reijittai|霊実体研究部門]]]。
 
 +++ 合作連作-JP
 
@@ -1385,6 +1386,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/海鷗銜鑰|海鷗銜鑰]]]** //(海鸥衔钥)// - [[[seagull-hub|海鷗銜鑰]]]。
 [!--* **[[[/system:page-tags/tag/|]]]** //(奇妙夜之下)// - [[[before-wonder-night|]]]。--]
 * **[[[/system:page-tags/tag/万劫歴数|万劫歴数]]]** //(万劫历数)// - [[[the-kismet-ephemeris-of-kalpas-hub|万劫歴数]]]。
+* **[[[/system:page-tags/tag/我らこそ戦争|我らこそ戦争]]]** //(吾等即战争)// - [[[bellum-sumus-hub|我らこそ戦争]]]。
 
 [[/tab]][!--CN--]
 [[tab FR]]
@@ -2011,6 +2013,7 @@ DIRAハブはカノンハブに掲載されているが、タグの方は部門�
 
 * **[[[/system:page-tags/tag/巫俗部門|巫俗部門]]]** //(무속학부)// - 巫俗部門。
 * **[[[/system:page-tags/tag/存在論部門|存在論部門]]]** //(존재학부)// - [[[department-of-ontology|存在論部門]]]。
+* **[[[/system:page-tags/tag/天文学部門|天文学部門]]]** //(천문학부)// - 天文学部門。
 * **[[[/system:page-tags/tag/woi研究課|woi研究課]]]** //(woi연구과)// - WoI研究課。
 
 [[/tab]][!--KO--]
@@ -3339,6 +3342,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/2024霊異月間|2024霊異月間]]]** //(2024灵异月)// - [[[psychic-month-hub|2024年"魑魅浮光"月間テーマイベント]]]。
 
+* **[[[/system:page-tags/tag/2025幻想月間|2025幻想月間]]]** //(2025幻想月)// - [[[fantasy-month-hub|2025"幻兆預言"月間テーマイベント]]]。
+
 [!--
 ★未申請
 * **[[[/system:page-tags/tag/人类之后|人类之后]]]** //(人类之后)// - [[[halloween-event-2018|2018ハロウィンイベント"人类之后"]]]。
@@ -3582,6 +3587,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/imgexcon25|imgexcon25]]]** //(imgexcon25)// - [[[imgexcon25|画像交換コンテスト2025]]]。
 
 * **[[[/system:page-tags/tag/vn-zh-xmas25|vn-zh-xmas25]]]** //(vn-zh-xmas25)// - [[[vn-zh-xmas25|VN-ZHプレゼント交換2025「降誕祭の館、終夜煌めく宴」]]]。
+
+* **[[[/system:page-tags/tag/goivncon26|goivncon26]]]** //(goivncon26)// - [[[goivncon2026|VN要注意団体コンテスト2026]]]。
 
 [[/tab]][!--VN--]
 [[tab Others]]
