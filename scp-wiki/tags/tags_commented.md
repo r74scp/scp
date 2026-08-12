@@ -177,6 +177,7 @@ The following applies to all tags in this category:
 * **[https://scpwiki.com/system:page-tags/tag/thaumiel thaumiel]** -- SCP is Thaumiel.
 * **[https://scpwiki.com/system:page-tags/tag/apollyon apollyon]** -- SCP is Apollyon.
 * **[https://scpwiki.com/system:page-tags/tag/archon archon]** -- SCP is Archon.
+* **[https://scpwiki.com/system:page-tags/tag/argus argus]** -- SCP is Argus.
 * **[https://scpwiki.com/system:page-tags/tag/cernunnos cernunnos]** -- SCP is Cernunnos.
 * **[https://scpwiki.com/system:page-tags/tag/ticonderoga ticonderoga]** -- SCP is Ticonderoga.
 * **[https://scpwiki.com/system:page-tags/tag/neutralized neutralized]** -- SCP has been Neutralized.
@@ -797,6 +798,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 * **[https://scpwiki.com/system:page-tags/tag/folklore-dept folklore-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/department-of-mythology-and-folkloristics-hub Department of Mythology and Folkloristics].
 * **[https://scpwiki.com/system:page-tags/tag/geology-dept geology-dept]** -- Featuring or related to the Department of Geology.
 * **[https://scpwiki.com/system:page-tags/tag/last-hope last-hope]** -- Featuring or related to MTF Alpha-9, "Last Hope".
+* **[https://scpwiki.com/system:page-tags/tag/mathematics-dept mathematics-dept]** -- Featuring or related to the [https://scp-wiki.wikidot.com/math-department-hub Mathematics Department].
 * **[https://scpwiki.com/system:page-tags/tag/miscommunications miscommunications]** -- Featuring or related to the [https://scp-wiki.wikidot.com/domc-hub Department of Miscommunications].
 * **[https://scpwiki.com/system:page-tags/tag/pataphysics-dept pataphysics-dept]** -- Featuring or related to the Pataphysics Department.
 * **[https://scpwiki.com/system:page-tags/tag/procurement-liquidation-dept procurement-liquidation-dept]** -- Featuring or related to the Department of Procurement and Liquidation.
@@ -1098,6 +1100,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/deadlined deadlined]** -- Part of the [https://scp-wiki.wikidot.com/deadlined-hub Deadlined] series.
 * **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Part of the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] series.
 * **[https://scpwiki.com/system:page-tags/tag/eternal-mxtape eternal-mxtape]** -- Part of the [https://scp-wiki.wikidot.com/the-eternal-mxtape Eternal MxTape] series.
+* **[https://scpwiki.com/system:page-tags/tag/ever-after ever-after]** -- Part of the [https://scp-wiki.wikidot.com/ever-after-hub Ever After] series.
 * **[https://scpwiki.com/system:page-tags/tag/goc-casefiles goc-casefiles]** -- Part of the [https://scp-wiki.wikidot.com/goc-hub-page#casefiles Global Occult Coalition Casefiles].
 * **[https://scpwiki.com/system:page-tags/tag/harbinger harbinger]** -- Part of the HARBINGER series.
 * **[https://scpwiki.com/system:page-tags/tag/hecatoncheires-cycle hecatoncheires-cycle]** -- Part of the [https://scp-wiki.wikidot.com/hecatoncheires-cycle-hub Hecatoncheires Cycle].
@@ -1110,12 +1113,13 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Part of or relating to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
-* **[https://scpwiki.com/system:page-tags/tag/opus-confidant opus-confidant]** -- Part of the OpusConfident parody series.
+* **[https://scpwiki.com/system:page-tags/tag/opus-confidant opus-confidant]** -- Part of the OpusConfidant parody series.
 * **[https://scpwiki.com/system:page-tags/tag/parawatch-true-crime parawatch-true-crime]** -- Part of the Parawatch True Crime series presented by [https://scp-wiki.wikidot.com/crewtime crewtime].
 * **[https://scpwiki.com/system:page-tags/tag/phobia-anthology phobia-anthology]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-2024 Phobia SCP anthology].
 * **[https://scpwiki.com/system:page-tags/tag/palisade palisade]** -- Part of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
-* **[https://scpwiki.com/system:page-tags/tag/project-crossover project-crossover]** -- Part of [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
+* **[https://scpwiki.com/system:page-tags/tag/philia-anthology philia-anthology]** -- Part of the [totally-legit-scp-anthology-2025 2025 Philia Anthology].
 * **[https://scpwiki.com/system:page-tags/tag/phoenix-nightingale-magpies phoenix-nightingale-magpies]** -- Part of [https://scp-wiki.wikidot.com/florence-thorne-hub The Phoenix, The Nightingale, & The Magpies] series.
+* **[https://scpwiki.com/system:page-tags/tag/project-crossover project-crossover]** -- Part of [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Part of [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
 * **[https://scpwiki.com/system:page-tags/tag/red-queens-race red-queens-race]** -- Part of the [https://scp-wiki.wikidot.com/red-queen-s-race Red Queen's Race] series.
 * **[https://scpwiki.com/system:page-tags/tag/run-the-river-red run-the-river-red]** -- Part of the [https://scp-wiki.wikidot.com/run-the-river-red-hub Run the River Red] series.
@@ -1125,6 +1129,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/team-bird team-bird]** -- Part of the [https://scp-wiki.wikidot.com/bird Team Bird] series.
 * **[https://scpwiki.com/system:page-tags/tag/time-after-time-password time-after-time-password]** -- Part of the [https://scp-wiki.wikidot.com/the-time-after-time-password-hub Time After Time Password] series.
 * **[https://scpwiki.com/system:page-tags/tag/the-twin-sites the-twin-sites]** -- Part of the [https://scp-wiki.wikidot.com/twin-sites-hub Twin Sites] series.
+* **[https://scpwiki.com/system:page-tags/tag/thirteen-thorns thirteen-thorns]** -- Part of the [https://scp-wiki.wikidot.com/thirteen-thorns-hub Thirteen Thorns] series.
 * **[https://scpwiki.com/system:page-tags/tag/tree-of-life tree-of-life]** -- Part of the [https://scpwiki.com/scp-anthology-2025 2025 SCP Anthology], themed around the Tree of Life from Kabbalah.
 * **[https://scpwiki.com/system:page-tags/tag/untitled-series untitled-series]** -- Part of an untitled [https://scp-wiki.wikidot.com/unreality-hub Unreality Department] series.
 * **[https://scpwiki.com/system:page-tags/tag/veil-upon-veil veil-upon-veil]** -- Part of the Veil Upon Veil series.
@@ -1174,6 +1179,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/director-diaghilev director-diaghilev]** -- Director Ruslav Diaghilev, of the Alchemy Department.
 * **[https://scpwiki.com/system:page-tags/tag/director-gillespie director-gillespie]** -- Director Gillespie, of Site-77.
 * **[https://scpwiki.com/system:page-tags/tag/director-graham director-graham]** -- Director Thomas Graham, of Site 17.
+* **[https://scpwiki.com/system:page-tags/tag/director-house director-house]** -- Director Randall  House, of Site-666.
 * **[https://scpwiki.com/system:page-tags/tag/director-mcinnis director-mcinnis]** -- Dr. Allan J. McInnis, Director of Site-43.
 * **[https://scpwiki.com/system:page-tags/tag/director-mctiriss director-mctiriss]** -- Director Kate McTiriss, commanding Foundation operations in [https://scp-wiki.wikidot.com/the-gulf The Gulf].
 * **[https://scpwiki.com/system:page-tags/tag/director-metanoia director-metanoia]** -- Director Amelie R. Metanoia, of the Anomalous Entity Engagement Division (AEED).
@@ -1215,6 +1221,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-rydderech doctor-rydderech]** -- Dr. Wynn Rydderech, co-founder of Site-43. Contained as [https://scp-wiki.wikidot.com/scp-5520 SCP-5520].
 * **[https://scpwiki.com/system:page-tags/tag/doctor-scranton doctor-scranton]** -- Dr. Robert Scranton, inventor of the Scranton Reality Anchor. Imprisoned by [https://scp-wiki.wikidot.com/scp-3001 SCP-3001].
 * **[https://scpwiki.com/system:page-tags/tag/doctor-shaw doctor-shaw]** -- Dr. Elias Blake Shaw, aka SCP-963.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-sherman doctor-sherman]** -- Dr. Theron Sherman, researcher and Director of Site-42.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sinclair doctor-sinclair]** -- Dr. Katherine Sinclair, thaumaturge at Site-87.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sokolsky doctor-sokolsky]** -- Dr. Daniil Sokolsky, ETTRA Chief at Site-43.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sorts doctor-sorts]** -- Dr. Johannes Sorts, memetic specialist.
@@ -1391,6 +1398,7 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/eurtec eurtec]** -- Set in or related to the metropolis of Eurtec.
 * **[https://scpwiki.com/system:page-tags/tag/hong-shing hong-shing]** -- Set in or related to the extradimensional city of Hong Shing, connecting baseline reality (the Left Phase) to a universe filled with ionizing radiation (the Right Phase).
 * **[https://scpwiki.com/system:page-tags/tag/hy-brasil hy-brasil]** -- Set in or related to the vanishing island of [https://scp-wiki.wikidot.com/nx-03 Hy-Brasil].
+* **[https://scpwiki.com/system:page-tags/tag/infinite-furniture-store infinite-furniture-store]** -- Set in or related to [https://scp-wiki.wikidot.com/scp-3008 SCP-3008], the Infinite Ikea.
 * **[https://scpwiki.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/dossier-lph La Rue Macabre].
 * **[https://scpwiki.com/system:page-tags/tag/little-havana little-havana]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/larue-hub Little Havana].
 * **[https://scpwiki.com/system:page-tags/tag/noosphere noosphere]** -- Related to the Noösphere, a conceptual space consisting of the totality of human knowledge and thought.
