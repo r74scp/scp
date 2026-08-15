@@ -1258,6 +1258,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/怪奇銘々伝|怪奇銘々伝]]]** - [[[kaiki-meimeiden-hub|怪奇銘々伝]]]。
 * **[[[/system:page-tags/tag/実技試験|実技試験]]]** - [[[practical-examination-hub|実技試験]]]。
 * **[[[/system:page-tags/tag/晴れの休みは上野巡りへ|晴れの休みは上野巡りへ]]]** - [[[ueno-tour-hub|晴れの休みは上野巡りへ]]]。
+* **[[[/system:page-tags/tag/定命種エミュレータ事例集|定命種エミュレータ事例集]]]** - [[[mortal-emulator-hub|定命種エミュレータ事例集]]]。
 
 [[/tab]][!--JP--]
 [[tab RU]]
@@ -1502,6 +1503,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 * **[[[/system:page-tags/tag/生典|生典]]]** - [[[seiten-hub|生典]]]。
 * **[[[/system:page-tags/tag/eve-aic-tales|eve-aic-tales]]]** - [[[eve-aic|Eve.aic]]]。
 * **[[[/system:page-tags/tag/霊実体研究部門|霊実体研究部門]]]** - [[[reijittai|霊実体研究部門]]]。
+* **[[[/system:page-tags/tag/カーディナル・レッド|カーディナル・レッド]]]** - [[[cardinal-red-hub|カーディナル・レッド]]]。
 
 +++ 合作連作-JP
 
@@ -1821,9 +1823,8 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 @@ @@
 
 +++ 準要注意団体-KO
-
-* **[[[/system:page-tags/tag/西天カントリークラブ|西天カントリークラブ]]]** //(서천-컨트리클럽)// - 西天カントリークラブ。
-* **[[[/system:page-tags/tag/世乙加|世乙加]]]** //(세을가)// - 世乙加。
+* **[[[/system:page-tags/tag/西天カントリークラブ|西天カントリークラブ]]]** //(서천-컨트리클럽)// - [[[seocheon-cc-hub|西天カントリークラブ]]]。
+* **[[[/system:page-tags/tag/世乙加|世乙加]]]** //(세을가)// - [[[seulga-hub|世乙加]]]。
 
 [!--
 ★未申請。関連記事未翻訳。
@@ -2004,6 +2005,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 
 +++ 正要注意団体-PT
 それぞれの詳細は[[[grupos-de-interesse|]]]を参照してください。
+
 * **[[[/system:page-tags/tag/ブラジル超常現象監督局|ブラジル超常現象監督局]]]** //(superintendência-brasileira)// - ブラジル超常現象監督局。
 * **[[[/system:page-tags/tag/異常科学アカデミー|異常科学アカデミー]]]** //(academia-científica)// - 異常科学アカデミー。
 * **[[[/system:page-tags/tag/テクノタウマトルゴス|テクノタウマトルゴス]]]** //(tecnotaumaturgos)// - テクノタウマトルゴス。
@@ -2053,7 +2055,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所に関係�
 [[tab Others]]
 
 +++ 正要注意団体-INT
-* **[[[/system:page-tags/tag/ハイヴ|ハイヴ]]]** //(hive)// - [[[*the-hive-hub|ザ・ハイヴ]]]。
+* **[[[/system:page-tags/tag/ハイヴ|ハイヴ]]]** //(hive)// - [[[the-hive-hub|ザ・ハイヴ]]]。
 
 [!--
 ★GoI-SLハブにはタグが掲載されているが、これらのタグはSL支部では使用例が存在していない。そのためJP側でもタグは実装しない。
@@ -2095,7 +2097,7 @@ http://scp-slovenija.wikidot.com/is-arhiva
 * **[[[/system:page-tags/tag/誤伝達部門|誤伝達部門]]]** //(miscommunications)// - [[[domc-hub|誤伝達部門]]]。
 * **[[[/system:page-tags/tag/空想科学部門|空想科学部門]]]** //(pataphysics-dept)// - 空想科学部門。
 * **[[[/system:page-tags/tag/調達・清算部門|調達・清算部門]]]** //(procurement-liquidation-dept)// - 調達・清算部門。
-* **[[[/system:page-tags/tag/raisa|raisa]]]** //(raisa)// - 記録・情報保安管理局/記録情報セキュリティ管理室。
+* **[[[/system:page-tags/tag/raisa|raisa]]]** //(raisa)// - 記録・情報保安管理局/記録情報セキュリティ管理室 (RAISA)。
 * **[[[/system:page-tags/tag/超現実部門|超現実部門]]]** //(surrealistics-dept)// - 超現実部門。
 * **[[[/system:page-tags/tag/戦術神学部門|戦術神学部門]]]** //(tactical-theology)// - [[[tactical-theology-hub|戦術神学部門]]]。
 * **[[[/system:page-tags/tag/電気通信監視室|電気通信監視室]]]** //(telecom-office)// - [[[telecommunications-monitoring-office-hub|電気通信監視室]]]。
@@ -2127,7 +2129,7 @@ http://scp-slovenija.wikidot.com/is-arhiva
 * **[[[/system:page-tags/tag/形式部門|形式部門]]]** - [[[formality-department-hub|形式部門]]]。
 * **[[[/system:page-tags/tag/異常発見部門|異常発見部門]]]** - [[[anomaly-discovering-department-hub|異常発見部門]]]。
 * **[[[/system:page-tags/tag/墓碑部門|墓碑部門]]]** - [[[department-of-tombstone-hub|墓碑部門]]]。
-* **[[[/system:page-tags/tag/巷説部門|巷説部門]]]** - 巷説部門。
+* **[[[/system:page-tags/tag/巷説部門|巷説部門]]]** - [[[department-of-hearsay|巷説部門]]]。
 * **[[[/system:page-tags/tag/一般部門|一般部門]]]** - 一般部門。
 * **[[[/system:page-tags/tag/廃棄部門|廃棄部門]]]** - 廃棄部門。
 * **[[[/system:page-tags/tag/匡済部門|匡済部門]]]** - [[[rehabilitation-department-hub|匡済部門]]]。
@@ -2150,12 +2152,14 @@ http://scp-slovenija.wikidot.com/is-arhiva
 [!--[[tab RU]]
 
 +++ 部門-RU
+
 * **[[[/system:page-tags/tag/dira|dira]]]** //(dira)// - [[[dira-hub|内部調査分析部門 (DIRA)]]]。
 DIRAハブはカノンハブに掲載されているが、タグの方は部門タグとしてリストに掲載されている。どっちだ
 [[/tab]]RU--]
 [[tab KO]]
 
 +++ 部門-KO
+それぞれの詳細は[[[departments-ko|財団内部部門-KO]]]を参照してください。
 
 * **[[[/system:page-tags/tag/巫俗部門|巫俗部門]]]** //(무속학부)// - 巫俗部門。
 * **[[[/system:page-tags/tag/存在論部門|存在論部門]]]** //(존재학부)// - [[[department-of-ontology|存在論部門]]]。
@@ -2166,6 +2170,7 @@ DIRAハブはカノンハブに掲載されているが、タグの方は部門�
 [[tab CN]]
 
 +++ 部門-CN
+それぞれの詳細は[[[departments-cn|財団内部部門-CN]]]を参照してください。
 
 * **[[[/system:page-tags/tag/論理部門|論理部門]]]** //(逻辑部)// - [[[dol-hub|財団論理部門]]]。 
 * **[[[/system:page-tags/tag/異常宗教表現部門|異常宗教表現部門]]]** //(异常宗教表现部)// - [[[ared-hub|異常宗教表現部門]]]。
@@ -2206,11 +2211,14 @@ DIRAハブはカノンハブに掲載されているが、タグの方は部門�
 [[tab ZH]]
 
 +++ 部門-ZH
-SCP-ZHでは要注意団体に分類されています。
+それぞれの詳細は[[[departments-zh|財団内部部門-ZH]]]を参照してください。
 
 * **[[[/system:page-tags/tag/三垣|三垣]]]** //(三垣)// - [[[three-enclosures-hub|三垣]]]。
 
 [!--
+* **[[[/system:page-tags/tag/都異部門|都異部門]]]** //(都異部門)// - [[[urban-legend-department|]]]基金會都市傳說型異常應對部門，簡稱為都異部門。
+* **[[[/system:page-tags/tag/SRR部|SRR部]]]** //(SRR部)// - [[[systematic-restoration-and-recollection-department|]]]系統還原與追溯部門(簡稱SRR)為RAISA-ZH的子部門之一。
+
 +++ 部隊-ZH
 ★未申請。
 * **[[[/system:page-tags/tag/天紀-17|天紀-17]]]** //(天紀-17)// - 標註在與MTF 天紀-17 ("金融封鎖")相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
@@ -2595,6 +2603,9 @@ SCPユニバースを彩るキャラクターたちのタグです。
 +++ 財団職員-KO
 * **[[[/system:page-tags/tag/エージェント・パク・イェジ|エージェント・パク・イェジ]]]** //(박예지-요원)// - エージェント・パク・イェジ。
 
++++ 要注意人物-KO
+* **[[[/system:page-tags/tag/ホヤ|ホヤ]]]** //(호야)// - [[span class="ruby"]]狐也[[span class="rt"]]ホヤ[[/span]][[/span]]。
+
 [[/tab]][!--KO--]
 [!--[[tab CN]]
 [[/tab]]CN--]
@@ -2654,17 +2665,23 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 それぞれの詳細は[[[dossier-personajes|職員・人物ファイル-ES]]]を参照してください。
 
-+++ キャラクター-ES
++++ 財団職員-ES
 
 * **[[[/system:page-tags/tag/アンドレス・モンドラゴン|アンドレス・モンドラゴン]]]** //(andrés-mondragón)// - アンドレス・モンドラゴン研究員。
 * **[[[/system:page-tags/tag/ボルハ・ドゥウェル|ボルハ・ドゥウェル]]]** //(borja-dowell)// - ボルハ・ドゥウェル。
-* **[[[/system:page-tags/tag/ダンテ|ダンテ]]]** //(dante)// - ダンテ。
 * **[[[/system:page-tags/tag/フォン・ブラウン博士|フォン・ブラウン博士]]]** //(dr-von-braun)// - フォン・ブラウン博士。
 * **[[[/system:page-tags/tag/ルイサ・ヴァンデル|ルイサ・ヴァンデル]]]** //(luisa-vander)// - ルイサ・ヴァンデル。
+* **[[[/system:page-tags/tag/リチャード・バーナード|リチャード・バーナード]]]** //(richard-barnard)// - リチャード・バーナード博士、またの名を"リーチ"。
+
++++ SCPオブジェクト-ES
 * **[[[/system:page-tags/tag/マーウ|マーウ]]]** //(marw)// - マーウ探偵、通称[[[SCP-ES-234]]]。
+
++++ 要注意人物-ES
+
+* **[[[/system:page-tags/tag/ダンテ|ダンテ]]]** //(dante)// - ダンテ。
 * **[[[/system:page-tags/tag/マクシムス|マクシムス]]]** //(maximus)// - マクシムス。
 * **[[[/system:page-tags/tag/テレサ・バルバラ|テレサ・バルバラ]]]** //(teresa-bárbara)// - テレサ・バルバラ。
-* **[[[/system:page-tags/tag/リチャード・バーナード|リチャード・バーナード]]]** //(richard-barnard)// - リチャード・バーナード博士、またの名を"リーチ"。
+
 [!--
 ★未申請
 * **[[[/system:page-tags/tag/richard-dunwich|richard-dunwich]]]** //(richard-dunwich)// - Investigador Asistente Prelator Richard Dunwich。
@@ -2674,14 +2691,20 @@ SCPユニバースを彩るキャラクターたちのタグです。
 [[tab TH]]
 
 +++ キャラクター-TH
+
 * **[[[/system:page-tags/tag/トムソン&フェイマス|トムソン&フェイマス]]]** //(tomson-famous)// - トムソン博士とフェイマス博士。
 
 [[/tab]][!--TH--]
 [[tab DE]]
 
 +++ キャラクター-DE
+
 * **[[[/system:page-tags/tag/エージェント・ピーターソン|エージェント・ピーターソン]]]** //(agent-peterson)// - エージェント・アリス・ピーターソン。
 * **[[[/system:page-tags/tag/ファウスト博士|ファウスト博士]]]** //(doktor-faust)// - ステファン・ファウスト博士。
+
+[!--DEの職員・人物ファイルらしきものはENとURLが重複している。
+http://scp-wiki-de.wikidot.com/personnel-and-character-dossier
+--]
 
 [[/tab]][!--DE--]
 [[tab IT]]
@@ -3312,7 +3335,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 +++ コンテスト-KO
 
-* **[[[/system:page-tags/tag/2015財団放送コンテスト|2015財団放送コンテスト]]]** //(2015-재단방송경연)// - [[[foundation-broadcast-conest-temp|2015財団放送コンテスト]]]。
+* **[[[/system:page-tags/tag/2015-財団放送コンテスト|2015財団放送コンテスト]]]** //(2015-재단방송경연)// - [[[foundation-broadcast-conest-temp|2015財団放送コンテスト]]]。
 
 * **[[[/system:page-tags/tag/2016-漫画コンテスト|2016-漫画コンテスト]]]** //(2016-카툰경연)// - [[[foundation-cartoon-contest-2016|2016財団漫画コンテスト]]]。
 
@@ -3328,7 +3351,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/2020-10コンテスト|2020-10コンテスト]]]** //(2020-10경연)// - [[[bimonthly-contests-2020|2020年度隔月コンテスト]]]の10月度部門のタグです。
 
-* **[[[/system:page-tags/tag/2020-メタタイトルコンテスト|2020-メタタイトルコンテスト]]]** //(2020-별칭경연)// - [[[title-contest-hub|2020年メタタイトルコンテスト]]]。
+* **[[[/system:page-tags/tag/2020-メタタイトルコンテスト|2020-メタタイトルコンテスト]]]** //(2020-별칭경연)// - [[[title-contest-hub|2020メタタイトルコンテスト]]]。
 
 * **[[[samcheonri-contest|三千里コンテスト]]]**
  * **[[[/system:page-tags/tag/三千里-江原コンテスト|三千里-江原コンテスト]]]** //(삼천리-강원)// - [[[samcheonri-contest-gangwon|第十一回「江原特別自治道・未収復江原道」]]]。
@@ -3339,33 +3362,33 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/2023-絶対コンテスト|2023-絶対コンテスト]]]** //(2023-절대평가)// - [[[2023-jd-contest-hub|絶対評価コンテスト]]]。
 
-* **[[[/system:page-tags/tag/2024-メタタイトルコンテスト|2024-メタタイトルコンテスト]]]** //(2024-별칭경연)// - [[[title-contest-hub-2024|第三回メタタイトルコンテスト]]]。
+* **[[[/system:page-tags/tag/2024-メタタイトルコンテスト|2024-メタタイトルコンテスト]]]** //(2024-별칭경연)// - [[[title-contest-hub-2024|2024第三回メタタイトルコンテスト]]]。
 
-* **[[[/system:page-tags/tag/2024-年末コンテスト-ko|2024-年末コンテスト-ko]]]** //(2024-연말경연-ko)// - [[[12thanniversarycontest|12周年の年末コンテスト「気候」]]]。
+* **[[[/system:page-tags/tag/2024-年末コンテスト|2024-年末コンテスト]]]** //(2024-연말경연-ko)// - [[[12thanniversarycontest|12周年の年末コンテスト「気候」]]]。
 
-* **[[[/system:page-tags/tag/2025-短編コンテスト|2025-短編コンテスト]]]** //(2025-단편경연-ko)// - [[[short-contest-2025|2025年短編コンテスト]]]。
+* **[[[/system:page-tags/tag/2025-短編コンテスト|2025-短編コンテスト]]]** //(2025-단편경연-ko)// - [[[short-contest-2025|2025短編コンテスト]]]。
 
 * **[[[/system:page-tags/tag/2025-即興コンテスト|2025-即興コンテスト]]]** //(2025-즉흥경연-ko)// - [[[2025-2weeks-writing-hub|2025即興コンテスト]]]。
 
 [!--★タグ内のハイフンを残すものと残さないものが混在しているので、いずれ修整したい。--]
 [!--
 ★未申請。
-* **[[[/system:page-tags/tag/2016財団放送コンテスト|2016財団放送コンテスト]]]** //(2016-재단방송경연)// - [[[foundation-broadcast|2016財団放送コンテスト]]]。
-* **[[[/system:page-tags/tag/2017再建コンテスト|2017再建コンテスト]]]** //(2017-재건경연)// - [[[reconstruction-contest-hub|2017再建コンテスト]]]。
-* **[[[/system:page-tags/tag/2019師弟コンテスト|2019師弟コンテスト]]]** //(2019-멘토&멘티)// - [[[mentor-mentee-contest|2019師弟コンテスト]]]。
-* **[[[/system:page-tags/tag/2019要注意団体ko|2019要注意団体ko]]]** //(2019-요주의단체ko)// - [[[goi-ko-contest-2019|2019要注意団体-KOコンテスト]]]。
-* **[[[/system:page-tags/tag/2019クリスマスコンテスト|2019クリスマスコンテスト]]]** //(2019-성탄경연)// - [[[contest-ko-christmas-2019|2019クリスマスコンテスト]]]。
+* **[[[/system:page-tags/tag/2016-財団放送コンテスト|2016-財団放送コンテスト]]]** //(2016-재단방송경연)// - [[[foundation-broadcast|2016財団放送コンテスト]]]。
+* **[[[/system:page-tags/tag/2017-再建コンテスト|2017-再建コンテスト]]]** //(2017-재건경연)// - [[[reconstruction-contest-hub|2017再建コンテスト]]]。
+* **[[[/system:page-tags/tag/2019-師弟コンテスト|2019-師弟コンテスト]]]** //(2019-멘토&멘티)// - [[[mentor-mentee-contest|2019師弟コンテスト]]]。
+* **[[[/system:page-tags/tag/2019-要注意団体コンテスト|2019-要注意団体コンテスト]]]** //(2019-요주의단체ko)// - [[[goi-ko-contest-2019|2019要注意団体-KOコンテスト]]]。
+* **[[[/system:page-tags/tag/2019-クリスマスコンテスト|2019-クリスマスコンテスト]]]** //(2019-성탄경연)// - [[[contest-ko-christmas-2019|2019クリスマスコンテスト]]]。
 ★未申請。タグリスト-KO未掲載。
-* **[[[/system:page-tags/tag/2013ノレマイン誕生日祝典|2013ノレマイン誕生日祝典]]]** //(2013-노래마인-생일축전)// - [[[birthday-shfoakdls|2013ノレマイン誕生日祝典]]]。
-* **[[[/system:page-tags/tag/2020外部文書コンテスト|2020外部文書コンテスト]]]** //(2020-외부문서경연)// - [[[external-documents-contest-2020|2020外部文書コンテスト]]]。
+* **[[[/system:page-tags/tag/2013-ノレマイン-誕生日祝典|2013-ノレマイン-誕生日祝典]]]** //(2013-노래마인-생일축전)// - [[[birthday-shfoakdls|誕生日祝典 - ノレマイン]]]。
+* **[[[/system:page-tags/tag/2020-外部文書コンテスト|2020-外部文書コンテスト]]]** //(2020-외부문서경연)// - [[[external-documents-contest-2020|2020外部文書コンテスト]]]。
 * **[[[/system:page-tags/tag/2020-06コンテスト|2020-06コンテスト]]]** //(2020-06경연)// - [[[bimonthly-contests-2020|2020年度隔月コンテスト]]]の6月度部門のタグです。
 
 * **[[[/system:page-tags/tag/888ko|888ko]]]** //(888ko)// - [[[scp888kocontesthub|8周年記念SCP-888-KOコンテスト]]]。
-* **[[[/system:page-tags/tag/2021二人三脚|2021二人三脚]]]** //(2021-2인3각)// - [[[2g3a-contest-hub|2021年二人三脚コンテスト]]]。
+* **[[[/system:page-tags/tag/2021-二人三脚|2021-二人三脚]]]** //(2021-2인3각)// - [[[2g3a-contest-hub|2021年二人三脚コンテスト]]]。
 
 * **[[[/system:page-tags/tag/2022-メタタイトルコンテスト|2022-メタタイトルコンテスト]]]** //(2022-별칭경연)// - [[[title-contest-hub-2022|第二回メタタイトルコンテスト]]]。
 
-* **[[[/system:page-tags/tag/2023-年末コンテスト-ko|2023-年末コンテスト-ko]]]** //(2023-연말경연-ko)// - [[[11thanniversarycontest|11周年の年末コンテスト「クリーチャー」]]]。
+* **[[[/system:page-tags/tag/2023-年末コンテスト|2023-年末コンテスト]]]** //(2023-연말경연-ko)// - [[[11thanniversarycontest|11周年の年末コンテスト「クリーチャー」]]]。
 
 * [[[samcheonri-contest|三千里コンテスト]]]用のタグ
  * **[[[/system:page-tags/tag/三千里-済州コンテスト|三千里-済州コンテスト]]]** //(삼천리-제주)// - [[[samcheonri-contest-jeju|第一回「済州道」]]]。
@@ -3391,7 +3414,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/2012-devan-誕生日祝典|2012-devan-誕生日祝典]]]** //(2012-데반-생일축전)// - [[[old:birthday-devan|誕生日祝典 - Devan]]]。
 
-* **[[[/system:page-tags/tag/2023-ハンガウィ祝典|2023-ハンガウィ祝典]]]** //(2023-한가위축연)// - [[[midautumn-festival-2023|2023-ハンガウィ祝典]]]。
+* **[[[/system:page-tags/tag/2023-ハンガウィ祝典|2023-ハンガウィ祝典]]]** //(2023-한가위축연)// - [[[midautumn-festival-2023|2023ハンガウィ祝典]]]。
 
 [[/tab]][!--KO--]
 [[tab CN]]
@@ -3489,6 +3512,10 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/2024霊異月間|2024霊異月間]]]** //(2024灵异月)// - [[[psychic-month-hub|2024年"魑魅浮光"月間テーマイベント]]]。
 
 * **[[[/system:page-tags/tag/2025幻想月間|2025幻想月間]]]** //(2025幻想月)// - [[[fantasy-month-hub|2025"幻兆預言"月間テーマイベント]]]。
+
+* **[[[/system:page-tags/tag/2025愚人コンテスト|2025愚人コンテスト]]]** //(2025愚人竞赛)// - [[[af-cn-2025|2025年"帝の勅命、伝達す──またの名をテーマテーマコンテスト"]]]。
+
+* **[[[/system:page-tags/tag/2026家具城|2026家具城]]]** //(2026家具城)// - [[[zhongfen-nazotoki-furniture-centre|2026年"謎解き家具城"プロジェクト]]]。
 
 [!--
 ★未申請
@@ -3664,6 +3691,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/csコンテスト6|csコンテスト6]]]** //(cs-soutěž-6)// - [[[cs-contest-vi-hub|SCP-CSコンテスト6]]]。
 
+* **[[[/system:page-tags/tag/csクリシェコンテスト2|csクリシェコンテスト2]]]** //(cs-soutěž-klišé-2)// - [[[cs-contest-klise-2-hub|SCP-CS第2回クリシェコンテスト]]]。
+
 * **[[[/system:page-tags/tag/2025再誕コンテスト|2025再誕コンテスト]]]** //(soutěž-znovuzrození2025)//  - [[[soutez-znovuzrozeni2025-hub|2025再誕コンテスト]]]。
 
 [!--
@@ -3735,6 +3764,8 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/vn-zh-xmas25|vn-zh-xmas25]]]** //(vn-zh-xmas25)// - [[[vn-zh-xmas25|VN-ZHプレゼント交換2025「降誕祭の館、終夜煌めく宴」]]]。
 
 * **[[[/system:page-tags/tag/goivncon26|goivncon26]]]** //(goivncon26)// - [[[goivncon2026|VN要注意団体コンテスト2026]]]。
+
+* **[[[/system:page-tags/tag/200-vn|200-vn]]]** //(200-vn)// - [[[scp200vncontesthub|SCP-200-VNコンテスト]]]。
 
 [[/tab]][!--VN--]
 [[tab Others]]
