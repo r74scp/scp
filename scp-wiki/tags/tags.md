@@ -916,6 +916,8 @@ The following applies to all tags in this category:
 
 [[/div]]
 
+* **[https://scpwiki.com/system:page-tags/tag/_accelerate-the-future _accelerate-the-future]** -- An article following the Accelerate The Future format.
+ * //Requires 'accelerate-the-future'//
 * **[https://scpwiki.com/system:page-tags/tag/_alexylva _alexylva]** -- An article following the Alexylva University format.
  * //Requires 'alexylva'//
 * **[https://scpwiki.com/system:page-tags/tag/_ambrose-restaurant _ambrose-restaurant]** -- An article following the Ambrose Restaurants format.
@@ -1462,9 +1464,9 @@ Tags for all events on the wiki, including contests.
 * **[https://scpwiki.com/system:page-tags/tag/_graveyard-shift _graveyard-shift]** -- An entry to the 'Graveyard Shift' category of the unofficial NIGHTMAREFEST.
  * //Requires 'nightmarefest'//
 
-+++ Contests
++++ Official Contests
 
-Tags for contests and the articles submitted to them.
+Tags for official contests organized by SCP Wiki staff, and the articles submitted to them.
 
 * **[https://scpwiki.com/system:page-tags/tag/1000 1000]** -- An entry to the [https://scp-wiki.wikidot.com/scp1000contesthub SCP-1000 Contest] (Folktales and Urban Legends).
 * **[https://scpwiki.com/system:page-tags/tag/2000 2000]** -- An entry to the [https://scp-wiki.wikidot.com/scp2000contesthub SCP-2000 Contest] (Science Fiction).
@@ -1547,6 +1549,12 @@ Tags for contests and the articles submitted to them.
 * **[https://scpwiki.com/system:page-tags/tag/wrathcon2024 wrathcon2024]** -- A reposted entry to [https://scp-wiki.wikidot.com/wrathcon2024 Wrathcon 2024]
 * **[https://scpwiki.com/system:page-tags/tag/publicdomaincon2025 publicdomaincon2025]** -- An entry to the [https://scp-wiki.wikidot.com/pdcontest2025 2025 Public Domain Contest].
 * **[https://scpwiki.com/system:page-tags/tag/classiccon2025 classiccon2025]** -- An entry to the [https://scp-wiki.wikidot.com/classic-con 2025 Classic Contest].
+* **[https://scpwiki.com/system:page-tags/tag/goicon-2026 goicon-2026]** -- An entry to the [https://scp-wiki.wikidot.com/goicon-2026 2026 Groups of Interest Contest].
+
++++ Unofficial Contests
+
+Tags for contests not officially organized by SCP Wiki Staff, and the articles submitted to them.
+
 * **[https://scpwiki.com/system:page-tags/tag/memecon2021-unofficial memecon2021-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].
 * **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
 * **[https://scpwiki.com/system:page-tags/tag/spook-nico-2024-unofficial spook-nico-2024-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/spook-nico-unnoficial-2024 2024 Spook Nico contest].
