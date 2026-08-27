@@ -43,7 +43,7 @@ The following tags are for pages that contain fiction.
 
 * **[https://scpwiki.com/system:page-tags/tag/scp scp]** -- All SCP articles from the main blocks should be tagged with //scp//, including [https://scp-wiki.wikidot.com/scp-international translated SCP articles from other branches], [https://scp-wiki.wikidot.com/scp-001 001 proposals], and [https://scp-wiki.wikidot.com/joke-scps joke] (-J), [https://scp-wiki.wikidot.com/archived-scps archived] (-ARC) and [https://scp-wiki.wikidot.com/scp-ex explained] (-EX) SCPs. Articles using the SCP format but posted outside the main blocks as a //tale// may be tagged with //foundation-format// instead.
  * //Requires any of category 'object-class'//
- * //Conflicts with 'foundation-format'//
+ * //Conflicts with 'scp-format'//
 * **[https://scpwiki.com/system:page-tags/tag/goi-format goi-format]** -- Written from the perspective of a specific Group of Interest, and conforms to the format or formats laid out in that GoI's hub page. GoI Formats should also be tagged with the tag of their GoI, as well as the underscore tag for that group's GoI format.
  * //Requires any of category 'goi-format'//
 * **[https://scpwiki.com/system:page-tags/tag/tale tale]** -- Any fiction that is set in the SCP universe but is not an SCP, GoI Format, site page or supplement.
@@ -159,6 +159,9 @@ Tags for noting specific content.
 * **[https://scpwiki.com/system:page-tags/tag/video video]** -- Pages with one or more video files attached or embedded.
  * //Supersedes 'animated'//
 * **[https://scpwiki.com/system:page-tags/tag/_adult _adult]** -- Denotes mature content, readers aged 18 or over should view at their own discretion. Content tagged as adult should be given an [https://scp-wiki.wikidot.com/component:adult-content-warning Adult Content Warning], as explained in the [https://scp-wiki.wikidot.com/adult-content-warning-guide Adult Content Warning Guide].
+* **[https://scpwiki.com/system:page-tags/tag/_image _image]** -- This temporary tag should be applied to any new article that include one or more images, as an indicator to the [https://05command.wikidot.com/license-experts-main Licensing Team] that there are images whose license status need to be confirmed and/or verified. Licensing information should be included by the author in the [https://scp-wiki.wikidot.com/component:license-box License Box component]. Licensing will remove the _image tag and replace it with the _cc tag (or, if images are removed, no tag at all) when appropriate.
+ * //Conflicts with '_cc'//
+ * //Superseded by '_cc'//
 * **[https://scpwiki.com/system:page-tags/tag/_listpages _listpages]** -- A tag to denote that this page is an LPT article. LPT (ListPages Presented Text) means that the article presents its content through offsets served via ListPages.
 
 [[/tab]]
@@ -654,33 +657,40 @@ Describes the genre of an article.
  * //Compare with 'absurdism'//
 * **[https://scpwiki.com/system:page-tags/tag/xenofiction xenofiction]** -- Told from a non-human perspective, such as an alien, an animal, a monster or a machine.
 
-+++ Themes
++++ Genre Elements
 
-Describes the major themes of an article.
+Describes specific story elements or character types associated with specific genres.
 
 * **[https://scpwiki.com/system:page-tags/tag/alien alien]** -- Features extraterrestrial life, typically intelligent beings originating from a planet other than Earth.
  * //Often used with 'science-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/artificial-intelligence artificial-intelligence]** -- Features artificial intelligence, and on anomalies that have AI or affect AIs.
  * //Often used with 'science-fiction'//
-* **[https://scpwiki.com/system:page-tags/tag/bureaucracy bureaucracy]** -- Focuses on the administration, management and official procedures of an organisation.
 * **[https://scpwiki.com/system:page-tags/tag/demon demon]** -- Features supernatural entities traditionally associated with evil, temptation and Hell.
  * //Often used with 'fantasy'//
 * **[https://scpwiki.com/system:page-tags/tag/faerie faerie]** -- Features fairies, fae or the fair folk, supernatural entities inspired by European folklore.
  * //Often used with 'fantasy'//
 * **[https://scpwiki.com/system:page-tags/tag/ghost ghost]** -- Features ghosts, the spirits of the dead, often referred to as spectral entities by the Foundation.
+* **[https://scpwiki.com/system:page-tags/tag/murder-monster murder-monster]** -- Features an inhuman anomaly that is hostile to human life.
+ * //Often used with 'horror'//
+* **[https://scpwiki.com/system:page-tags/tag/superhero superhero]** -- Features superheroes or supervillains. These characters typically have secret identities, costumes and supernatural powers.
+* **[https://scpwiki.com/system:page-tags/tag/time-travel time-travel]** -- Features travel to or from the past or future.
+ * //Often used with 'science-fiction'//
+* **[https://scpwiki.com/system:page-tags/tag/vampire vampire]** -- Features vampires, undead beings that consume blood and have specific weaknesses, or creatures described as similar to them.
+ * //Often used with 'fantasy', and 'horror'//
+
++++ Themes
+
+Describes the major themes of an article.
+
+* **[https://scpwiki.com/system:page-tags/tag/bureaucracy bureaucracy]** -- Focuses on the administration, management and official procedures of an organisation.
 * **[https://scpwiki.com/system:page-tags/tag/historical historical]** -- Focuses on historical events, or on anomalies with historical significance.
  * //Compare with 'period-piece'//
 * **[https://scpwiki.com/system:page-tags/tag/journalism journalism]** -- Focuses on journalists, professional reviewers, news reports or news articles.
 * **[https://scpwiki.com/system:page-tags/tag/legal legal]** -- Focuses on law, legal proceedings, and legal documents.
 * **[https://scpwiki.com/system:page-tags/tag/lgbtq lgbtq]** -- Focuses on LGBTQ+ themes, culture or history. Possible examples include portrayal of gay and lesbian relationships, depiction of asexuality and bisexuality, and exploration of trans, queer and agender identities.
-* **[https://scpwiki.com/system:page-tags/tag/murder-monster murder-monster]** -- Features an inhuman anomaly that is hostile to human life.
- * //Often used with 'horror'//
 * **[https://scpwiki.com/system:page-tags/tag/mythological mythological]** -- Features creatures, events and practices drawn from a specific mythology, outside of structured religious practice.
  * //Compare with 'fantasy', and 'religious-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/political political]** -- Focuses on politicians, diplomats or the political process.
-* **[https://scpwiki.com/system:page-tags/tag/superhero superhero]** -- Features superheroes or supervillains. These characters typically have secret identities, costumes and supernatural powers.
-* **[https://scpwiki.com/system:page-tags/tag/time-travel time-travel]** -- Features travel to or from the past or future.
- * //Often used with 'science-fiction'//
 
 +++ Setting
 
@@ -717,15 +727,19 @@ Describes the style of an article. These tags may only be applied to tales, and 
  * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/first-person first-person]** -- Told from a first-person perspective ("I did").
  * //Requires 'tale'//
-* **[https://scpwiki.com/system:page-tags/tag/foundation-format foundation-format]** -- Told in the form of an SCP document.
- * //Requires 'tale'//
- * //Conflicts with 'scp'//
+* **[https://scpwiki.com/system:page-tags/tag/foundation-document foundation-document]** -- Told in the format of a document created by the Foundation, other than an SCP article.
+ * //Often used with 'worldbuilding'//
+ * //Superseded by 'scp-format'//
 * **[https://scpwiki.com/system:page-tags/tag/journal journal]** -- Told in the form of an in-universe journal, written while events happen.
  * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/no-dialogue no-dialogue]** -- Contains no spoken dialogue.
  * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/orientation orientation]** -- Styled as an orientation lecture.
  * //Requires 'tale'//
+* **[https://scpwiki.com/system:page-tags/tag/scp-format scp-format]** -- A tale containing or fully written in the style of an SCP article.
+ * //Requires 'tale'//
+ * //Conflicts with 'scp'//
+ * //Supersedes 'foundation-document'//
 * **[https://scpwiki.com/system:page-tags/tag/second-person second-person]** -- Told from a second-person perspective ("you did").
  * //Requires 'tale'//
 * **[https://scpwiki.com/system:page-tags/tag/worldbuilding worldbuilding]** -- Focuses on conveying information about the setting, often taking the form of an in-universe document.
@@ -839,6 +853,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/deer-college deer-college]** -- Featuring or related to the [https://scp-wiki.wikidot.com/deer-college-hub Deer College] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/dr-wondertainment dr-wondertainment]** -- Featuring or related to the [https://scp-wiki.wikidot.com/dr-wondertainment-hub Dr. Wondertainment] person or group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/factory factory]** -- Featuring or related to [https://scp-wiki.wikidot.com/factory-hub The Factory] group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/febris-pharmaceuticals febris-pharmaceuticals]** -- Featuring or related to [https://scp-wiki.wikidot.com/febris-hub The Febris Pharmaceuticals] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/fifthist fifthist]** -- Featuring or related to [https://scp-wiki.wikidot.com/fifthist-hub The Fifth Church] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/gamers-against-weed gamers-against-weed]** -- Featuring or related to the [https://scp-wiki.wikidot.com/gamers-against-weed-hub Gamers Against Weed] (GAW) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/giftschreiber giftschreiber]** -- Featuring or related to the Giftschreiber (Poison Writers) group of interest.
@@ -1087,7 +1102,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 [[tab Series]]
 ++ Series
 
-Tags for a series of connected articles, which may be SCPs, tales or GoI Formats, and may or may not have their own Hub page.
+Tags for a series of connected articles, which may be SCPs, tales, GoI Formats or essays, and may or may not have their own Hub page.
 
 * **[https://scpwiki.com/system:page-tags/tag/8000-dead-rats 8000-dead-rats]** -- Part of the [https://scp-wiki.wikidot.com/8000-dead-rats-hub 8000 Dead Rats] series.
 * **[https://scpwiki.com/system:page-tags/tag/abcs-of-death abcs-of-death]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-hub ABC's of Death SCP anthology].
@@ -1105,6 +1120,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/collector-tale collector-tale]** -- Part of the [https://scp-wiki.wikidot.com/tales-of-mr-collector Tales of Mr. Collector] series.
 * **[https://scpwiki.com/system:page-tags/tag/cycle-of-seasons cycle-of-seasons]** -- Part of the [https://scp-wiki.wikidot.com/cycle-of-seasons-hub Cycle of Seasons] series.
 * **[https://scpwiki.com/system:page-tags/tag/deadlined deadlined]** -- Part of the [https://scp-wiki.wikidot.com/deadlined-hub Deadlined] series.
+* **[https://scpwiki.com/system:page-tags/tag/declass declass]** -- Part of the [https://scp-wiki.wikidot.com/scpdeclassified SCP Declassified] essay series.
 * **[https://scpwiki.com/system:page-tags/tag/etdp etdp]** -- Part of the [https://scp-wiki.wikidot.com/etdp-hub-page Et Tam Deum Petivi] series.
 * **[https://scpwiki.com/system:page-tags/tag/eternal-mxtape eternal-mxtape]** -- Part of the [https://scp-wiki.wikidot.com/the-eternal-mxtape Eternal MxTape] series.
 * **[https://scpwiki.com/system:page-tags/tag/ever-after ever-after]** -- Part of the [https://scp-wiki.wikidot.com/ever-after-hub Ever After] series.
@@ -1144,6 +1160,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/whore-of-blood whore-of-blood]** -- Part of the [https://scp-wiki.wikidot.com/whore-of-blood-hub Whore of Blood] series.
 * **[https://scpwiki.com/system:page-tags/tag/w-i-t-c-h w-i-t-c-h]** -- Part of the Weaving Imperceptible Threads Continuity.
 * **[https://scpwiki.com/system:page-tags/tag/with-the-old-gods with-the-old-gods]** -- Part of the [https://scp-wiki.wikidot.com/with-the-old-gods-hub With the Old Gods] series.
+* **[https://scpwiki.com/system:page-tags/tag/woman-of-stone-and-blood woman-of-stone-and-blood]** -- Part of the [https://scp-wiki.wikidot.com/woman-of-stone-and-blood Woman Of Stone And Blood] series.
 * **[https://scpwiki.com/system:page-tags/tag/wrong-tomorrow wrong-tomorrow]** -- Part of the [https://scp-wiki.wikidot.com/wrong-tomorrow-hub Wrong Tomorrow] series.
 * **[https://scpwiki.com/system:page-tags/tag/yggdrasil-s-surveyor yggdrasil-s-surveyor]** -- Part of the cross-canon [https://scp-wiki.wikidot.com/yggdrasils-surveyor Yggdrasil's Surveyor] series.
 
@@ -1386,8 +1403,15 @@ Powerful anomalous entities, which some might call gods.
 * **[https://scpwiki.com/system:page-tags/tag/hanged-king hanged-king]** -- The Hanged King of Alagadda.
 * **[https://scpwiki.com/system:page-tags/tag/pangloss pangloss]** -- Pangloss, mythical figure and leaver of notes.
 * **[https://scpwiki.com/system:page-tags/tag/queen-mab queen-mab]** -- Queen Mab, a Fae tyrant and goddess.
-* **[https://scpwiki.com/system:page-tags/tag/the-serpent the-serpent]** -- The Serpent, mythical ruler of the Wanderer's Library and namesake of the Serpent's Hand.
-* **[https://scpwiki.com/system:page-tags/tag/yaldabaoth yaldabaoth]** -- Yaldabaoth the demiurge, also known as Važjuma by followers of sarkicism, the reviled creator of the physical universe.
+* **[https://scpwiki.com/system:page-tags/tag/the-serpent the-serpent]** -- The Serpent, mythical ruler of the [https://scp-wiki.wikidot.com/wanderers-library-hub Wanderer's Library] and namesake of the [https://scp-wiki.wikidot.com/serpent-s-hand-hub Serpent's Hand].
+* **[https://scpwiki.com/system:page-tags/tag/yaldabaoth yaldabaoth]** -- Yaldabaoth the demiurge, also known as Važjuma by followers of [https://scp-wiki.wikidot.com/sarkicism-hub Sarkicism], the reviled creator of the physical universe.
+
++++ Objects
+
+Inanimate objects with significant appearances in articles, 
+
+* **[https://scpwiki.com/system:page-tags/tag/refining-clockworks refining-clockworks]** -- [https://scp-wiki.wikidot.com/scp-914 SCP-914], the Clockworks that reshape and refine objects placed inside them.
+* **[https://scpwiki.com/system:page-tags/tag/telekill telekill]** -- [https://scp-wiki.wikidot.com/scp-148 SCP-148], the "Telekill" alloy.
 
 [[/tab]]
 [[tab Locations]]
@@ -1400,6 +1424,7 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/alagadda alagadda]** -- Set in or related to the kingdom of Alagadda, the domain of the Hanged King.
 * **[https://scpwiki.com/system:page-tags/tag/amoni-ram amoni-ram]** -- Set in or related to the city-state of Amoni-Ram, capital of the ancient Mekhanite Empire.
 * **[https://scpwiki.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- Set in or related to the Free Port of Backdoor Soho.
+* **[https://scpwiki.com/system:page-tags/tag/corbenic corbenic]** -- Set in or related to [https://scp-wiki.wikidot.com/scp-2922 SCP-2922-C], the extradimensional afterlife of Corbenic.
 * **[https://scpwiki.com/system:page-tags/tag/deus-ex-machina deus-ex-machina]** -- Related to the Foundation's world-rebooting machine, [https://scp-wiki.wikidot.com/scp-2000 SCP-2000].
 * **[https://scpwiki.com/system:page-tags/tag/esterberg esterberg]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/esterberg-city-wikipedia Esterberg]
 * **[https://scpwiki.com/system:page-tags/tag/eurtec eurtec]** -- Set in or related to the metropolis of Eurtec.
@@ -1409,6 +1434,7 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/dossier-lph La Rue Macabre].
 * **[https://scpwiki.com/system:page-tags/tag/little-havana little-havana]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/larue-hub Little Havana].
 * **[https://scpwiki.com/system:page-tags/tag/noosphere noosphere]** -- Related to the Noösphere, a conceptual space consisting of the totality of human knowledge and thought.
+* **[https://scpwiki.com/system:page-tags/tag/the-stairwell the-stairwell]** -- Set in or related to [https://scp-wiki.wikidot.com/scp-087 SCP-087], the Stairwell.
 * **[https://scpwiki.com/system:page-tags/tag/three-portlands three-portlands]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/three-portlands-hub Three Portlands].
 * **[https://scpwiki.com/system:page-tags/tag/undervegas undervegas]** -- Set in or related to the demonic city of [https://scp-wiki.wikidot.com/undervegas-hub Undervegas].
 * **[https://scpwiki.com/system:page-tags/tag/wanderers-library wanderers-library]** -- Set in or related to the universe-connecting [https://scp-wiki.wikidot.com/wanderers-library-hub Wanderer's Library].
@@ -1435,9 +1461,6 @@ These tags are added only used by SCP Wiki staff, and are intended to designate 
  * //Conflicts with '_image'//
  * //Supersedes '_image'//
 * **[https://scpwiki.com/system:page-tags/tag/_cc4 _cc4]** -- This tag indicates that the page includes an image licensed under CC4. __This tag should **only** be added by a member of the Licensing team__. This tag conflicts with _image.
-* **[https://scpwiki.com/system:page-tags/tag/_image _image]** -- This is a temporary tag that the tagging team applies to new articles that include one or more images, irrespective of whatever licensing information is provided by the author. This tag acts as an indicator to the Licensing team that there are images whose license status need to be confirmed and/or verified. Licensing will remove the _image tag and replace it with the _cc tag (or, if images are removed, no tag at all) when appropriate.
- * //Conflicts with '_cc'//
- * //Superseded by '_cc'//
 * **[https://scpwiki.com/system:page-tags/tag/_licensebox _licensebox]** -- Used for pages which have a standard license info block.
 * **[https://scpwiki.com/system:page-tags/tag/_theme-temp _theme-temp]** -- Temporary tag used for marking old theme locations while they were moved from the {{component:}} category to the {{theme:}} category.
 
