@@ -161,7 +161,7 @@ Tags for noting specific content.
 * **[https://scpwiki.com/system:page-tags/tag/_adult _adult]** -- Denotes mature content, readers aged 18 or over should view at their own discretion. Content tagged as adult should be given an [https://scp-wiki.wikidot.com/component:adult-content-warning Adult Content Warning], as explained in the [https://scp-wiki.wikidot.com/adult-content-warning-guide Adult Content Warning Guide].
 * **[https://scpwiki.com/system:page-tags/tag/_image _image]** -- This temporary tag should be applied to any new article that include one or more images, as an indicator to the [https://05command.wikidot.com/license-experts-main Licensing Team] that there are images whose license status need to be confirmed and/or verified. Licensing information should be included by the author in the [https://scp-wiki.wikidot.com/component:license-box License Box component]. Licensing will remove the _image tag and replace it with the _cc tag (or, if images are removed, no tag at all) when appropriate.
  * //Conflicts with '_cc'//
- * //Superseded by '_cc'//
+ * //Superseded by '_cc', and '_cc4'//
 * **[https://scpwiki.com/system:page-tags/tag/_listpages _listpages]** -- A tag to denote that this page is an LPT article. LPT (ListPages Presented Text) means that the article presents its content through offsets served via ListPages.
 
 [[/tab]]
@@ -659,7 +659,7 @@ Describes the genre of an article.
 
 +++ Genre Elements
 
-Describes specific story elements or character types associated with specific genres.
+Describes specific story elements or character types, generally associated with specific genres.
 
 * **[https://scpwiki.com/system:page-tags/tag/alien alien]** -- Features extraterrestrial life, typically intelligent beings originating from a planet other than Earth.
  * //Often used with 'science-fiction'//
@@ -853,7 +853,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/deer-college deer-college]** -- Featuring or related to the [https://scp-wiki.wikidot.com/deer-college-hub Deer College] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/dr-wondertainment dr-wondertainment]** -- Featuring or related to the [https://scp-wiki.wikidot.com/dr-wondertainment-hub Dr. Wondertainment] person or group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/factory factory]** -- Featuring or related to [https://scp-wiki.wikidot.com/factory-hub The Factory] group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/febris-pharmaceuticals febris-pharmaceuticals]** -- Featuring or related to [https://scp-wiki.wikidot.com/febris-hub The Febris Pharmaceuticals] group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/febris-pharmaceuticals febris-pharmaceuticals]** -- Featuring or related to the Italian [https://scp-wiki.wikidot.com/febris-hub Febris Pharmaceuticals] (Febris Farmaceutica) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/fifthist fifthist]** -- Featuring or related to [https://scp-wiki.wikidot.com/fifthist-hub The Fifth Church] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/gamers-against-weed gamers-against-weed]** -- Featuring or related to the [https://scp-wiki.wikidot.com/gamers-against-weed-hub Gamers Against Weed] (GAW) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/giftschreiber giftschreiber]** -- Featuring or related to the Giftschreiber (Poison Writers) group of interest.
@@ -868,10 +868,10 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/hunters-black-lodge hunters-black-lodge]** -- Featuring or related to the Hunter's Black Lodge, a neo-sarkic crime syndicate first described in [https://scp-wiki.wikidot.com/scp-2408 SCP-2408].
 * **[https://scpwiki.com/system:page-tags/tag/icsut icsut]** -- Featuring or related to the International Center for the Study of Unified Thaumatology, member of the GOC's Council of 108.
 * **[https://scpwiki.com/system:page-tags/tag/ijamea ijamea]** -- Featuring or related to the [https://scp-wiki.wikidot.com/ijamea-hub Imperial Japanese Anomalous Matters Examination Agency] group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/joicl joicl]** -- Featuring or related to the Japanese Organism Improvement and Creation Laboratory group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/joicl joicl]** -- Featuring or related to the Japanese Organism Improvement and Creation Laboratory (JOICL) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/just-girly-things just-girly-things]** -- Featuring or related to the [https://scp-wiki.wikidot.com/just-girly-things-hub Just Girly Things] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/madao madao]** -- Featuring or related to the Italian [https://scp-wiki.wikidot.com/hub-madao Medicean Academy of Occult Art] (Medicea Accademia Dell'Arte Occulta) group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/mages-academy mages-academy]** -- Featuring or related to the German [https://scp-wiki.wikidot.com/magierakademie-hub Mages Academy] group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/mages-academy mages-academy]** -- Featuring or related to the German [https://scp-wiki.wikidot.com/magierakademie-hub Mages Academy] (Magierakedemie) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/manna-charitable-foundation manna-charitable-foundation]** -- Featuring or related to the [https://scp-wiki.wikidot.com/manna-charitable-foundation-hub Manna Charitable Foundation] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/marshall-carter-and-dark marshall-carter-and-dark]** -- Featuring or related to the [https://scp-wiki.wikidot.com/marshall-carter-and-dark-hub Marshall, Carter, and Dark Ltd.] (MC&D) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/maxwellism maxwellism]** -- Featuring or related to the Church of Maxwellism faction of the Church of the Broken God group of interest.
@@ -885,7 +885,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/pentagram pentagram]** -- Featuring or related to PENTAGRAM group of interest, the occult branch of the USA's Department of Defense.
 * **[https://scpwiki.com/system:page-tags/tag/prometheus prometheus]** -- Featuring or related to the [https://scp-wiki.wikidot.com/prometheus-labs-hub Prometheus Labs] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/pseudogenesis pseudogenesis]** -- Featuring or related to the [https://scp-wiki.wikidot.com/prometheus-labs-hub Pseudogenesis Productions ] group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/sapphire sapphire]** -- Featuring or related to the French [https://scp-wiki.wikidot.com/saphir-centre SAPPHIRE] group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/sapphire sapphire]** -- Featuring or related to the French [https://scp-wiki.wikidot.com/saphir-centre SAPPHIRE] (SAPHIR) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/sarkic sarkic]** -- Featuring or related to [https://scp-wiki.wikidot.com/sarkicism-hub Sarkicism] and the Sarkic Cult groups of interest.
 * **[https://scpwiki.com/system:page-tags/tag/scarlet-king scarlet-king]** -- Featuring or related to The Scarlet King, or the [https://scp-wiki.wikidot.com/cotsk-hub Children of the Scarlet King] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/second-hytoth second-hytoth]** -- Featuring or related to the [https://scp-wiki.wikidot.com/second-hytoth-hub Church of the Second Hytoth] group of interest.
@@ -961,6 +961,8 @@ The following applies to all tags in this category:
  * //Requires 'eric'//
 * **[https://scpwiki.com/system:page-tags/tag/_factory _factory]** -- An article following the Factory format.
  * //Requires 'factory'//
+* **[https://scpwiki.com/system:page-tags/tag/_febris-pharmaceuticals _febris-pharmaceuticals]** -- An article following the Febris Pharmaceuticals format.
+ * //Requires 'febris-pharmaceuticals'//
 * **[https://scpwiki.com/system:page-tags/tag/_fifthist _fifthist]** -- An article following the Fifthist format.
  * //Requires 'fifthist'//
 * **[https://scpwiki.com/system:page-tags/tag/_gamers-against-weed _gamers-against-weed]** -- An article following the Gamers Against Weed format.
@@ -1102,7 +1104,7 @@ Tags for canons from the Canon Hub and the articles that take place in their set
 [[tab Series]]
 ++ Series
 
-Tags for a series of connected articles, which may be SCPs, tales, GoI Formats or essays, and may or may not have their own Hub page.
+Tags for a series of connected articles, which may be SCPs, tales or GoI Formats, and may or may not have their own Hub page.
 
 * **[https://scpwiki.com/system:page-tags/tag/8000-dead-rats 8000-dead-rats]** -- Part of the [https://scp-wiki.wikidot.com/8000-dead-rats-hub 8000 Dead Rats] series.
 * **[https://scpwiki.com/system:page-tags/tag/abcs-of-death abcs-of-death]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-hub ABC's of Death SCP anthology].
@@ -1134,6 +1136,7 @@ Tags for a series of connected articles, which may be SCPs, tales, GoI Formats o
 * **[https://scpwiki.com/system:page-tags/tag/manhattan-crisis manhattan-crisis]** -- Part of the international [https://scp-wiki.wikidot.com/1998-911-hub Manhattan Crisis] series.
 * **[https://scpwiki.com/system:page-tags/tag/mundus-liberari mundus-liberari]** -- Part of the [https://scp-wiki.wikidot.com/mundus-liberari Mundus, Liberari] series.
 * **[https://scpwiki.com/system:page-tags/tag/new-faces new-faces]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-new-faces-hub Resurrection: New Faces] series.
+* **[https://scpwiki.com/system:page-tags/tag/no-wave no-wave]** -- Part of the [https://scp-wiki.wikidot.com/no-wave No Wave] series.
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Part of or relating to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
 * **[https://scpwiki.com/system:page-tags/tag/opus-confidant opus-confidant]** -- Part of the OpusConfidant parody series.
@@ -1408,10 +1411,10 @@ Powerful anomalous entities, which some might call gods.
 
 +++ Objects
 
-Inanimate objects with significant appearances in articles, 
+Inanimate objects with significant appearances in articles.
 
-* **[https://scpwiki.com/system:page-tags/tag/refining-clockworks refining-clockworks]** -- [https://scp-wiki.wikidot.com/scp-914 SCP-914], the Clockworks that reshape and refine objects placed inside them.
-* **[https://scpwiki.com/system:page-tags/tag/telekill telekill]** -- [https://scp-wiki.wikidot.com/scp-148 SCP-148], the "Telekill" alloy.
+* **[https://scpwiki.com/system:page-tags/tag/refining-clockworks refining-clockworks]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-914 SCP-914], the Clockworks that reshape and refine objects placed inside them.
+* **[https://scpwiki.com/system:page-tags/tag/telekill telekill]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-148 SCP-148], the "Telekill" alloy.
 
 [[/tab]]
 [[tab Locations]]
@@ -1457,10 +1460,11 @@ These tags are added only used by SCP Wiki staff, and are intended to designate 
 * **[https://scpwiki.com/system:page-tags/tag/metadata metadata]** -- Designates pages with meta information about articles.
 * **[https://scpwiki.com/system:page-tags/tag/unlisted unlisted]** -- Article has been unlisted from the SCP wiki.
 * **[https://scpwiki.com/system:page-tags/tag/_crom-hidden _crom-hidden]** -- Article cannot be searched for by crom.
-* **[https://scpwiki.com/system:page-tags/tag/_cc _cc]** -- This tag indicates that all images on the page in question have been demonstrated to be fully compliant with current licensing policy. __This tag should **only** be added by a member of the Licensing team__. This tag conflicts with _image.
+* **[https://scpwiki.com/system:page-tags/tag/_cc _cc]** -- This tag indicates that all images on the page in question have been demonstrated to be fully compliant with current licensing policy. __This tag should **only** be added by a member of the Licensing team__.
  * //Conflicts with '_image'//
  * //Supersedes '_image'//
-* **[https://scpwiki.com/system:page-tags/tag/_cc4 _cc4]** -- This tag indicates that the page includes an image licensed under CC4. __This tag should **only** be added by a member of the Licensing team__. This tag conflicts with _image.
+* **[https://scpwiki.com/system:page-tags/tag/_cc4 _cc4]** -- This tag indicates that the page includes an image licensed under CC4. __This tag should **only** be added by a member of the Licensing team__.
+ * //Supersedes '_image'//
 * **[https://scpwiki.com/system:page-tags/tag/_licensebox _licensebox]** -- Used for pages which have a standard license info block.
 * **[https://scpwiki.com/system:page-tags/tag/_theme-temp _theme-temp]** -- Temporary tag used for marking old theme locations while they were moved from the {{component:}} category to the {{theme:}} category.
 
@@ -1478,14 +1482,7 @@ Tags for all events on the wiki, including contests.
 * **[https://scpwiki.com/system:page-tags/tag/pridefest2025 pridefest2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/pridefest-2025 2025 Pride festival].
 * **[https://scpwiki.com/system:page-tags/tag/pridefest2026 pridefest2026]** -- An entry to the [https://scp-wiki.wikidot.com/pridefest-2026 2026 Pride festival].
 * **[https://scpwiki.com/system:page-tags/tag/news-prompt news-prompt]** -- An article following a writing prompt from site news.
-* **[https://scpwiki.com/system:page-tags/tag/nightmarefest nightmarefest]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/nightmarefest NIGHTMAREFEST].
 * **[https://scpwiki.com/system:page-tags/tag/spring-cleaning24 spring-cleaning24]** -- An entry to the [https://scp-wiki.wikidot.com/deer-college-spring-cleaning-event 2024 Spring Cleaning Event].
-* **[https://scpwiki.com/system:page-tags/tag/_townhouse _townhouse]** -- An entry to the 'Townhouse' category of the unofficial NIGHTMAREFEST.
- * //Requires 'nightmarefest'//
-* **[https://scpwiki.com/system:page-tags/tag/_the-bureaucrat _the-bureaucrat]** -- An entry to the 'The Bureaucrat' category of the unofficial NIGHTMAREFEST.
- * //Requires 'nightmarefest'//
-* **[https://scpwiki.com/system:page-tags/tag/_graveyard-shift _graveyard-shift]** -- An entry to the 'Graveyard Shift' category of the unofficial NIGHTMAREFEST.
- * //Requires 'nightmarefest'//
 
 +++ Official Contests
 
@@ -1572,6 +1569,7 @@ Tags for official contests organized by SCP Wiki staff, and the articles submitt
 * **[https://scpwiki.com/system:page-tags/tag/wrathcon2024 wrathcon2024]** -- A reposted entry to [https://scp-wiki.wikidot.com/wrathcon2024 Wrathcon 2024]
 * **[https://scpwiki.com/system:page-tags/tag/publicdomaincon2025 publicdomaincon2025]** -- An entry to the [https://scp-wiki.wikidot.com/pdcontest2025 2025 Public Domain Contest].
 * **[https://scpwiki.com/system:page-tags/tag/classiccon2025 classiccon2025]** -- An entry to the [https://scp-wiki.wikidot.com/classic-con 2025 Classic Contest].
+* **[https://scpwiki.com/system:page-tags/tag/sportscon2026 sportscon2026]** -- An entry to the [https://scp-wiki.wikidot.com/sportscon 2026 SPORTS Contest].
 * **[https://scpwiki.com/system:page-tags/tag/goicon-2026 goicon-2026]** -- An entry to the [https://scp-wiki.wikidot.com/goicon-2026 2026 Groups of Interest Contest].
 
 +++ Unofficial Contests
@@ -1579,6 +1577,13 @@ Tags for official contests organized by SCP Wiki staff, and the articles submitt
 Tags for contests not officially organized by SCP Wiki Staff, and the articles submitted to them.
 
 * **[https://scpwiki.com/system:page-tags/tag/memecon2021-unofficial memecon2021-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/memecon-unofficial 2021 MEMECON].
+* **[https://scpwiki.com/system:page-tags/tag/nightmarefest nightmarefest]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/nightmarefest 2021 NIGHTMAREFEST].
+* **[https://scpwiki.com/system:page-tags/tag/_townhouse _townhouse]** -- An entry to the 'Townhouse' category of the unofficial 2021 NIGHTMAREFEST.
+ * //Requires 'nightmarefest'//
+* **[https://scpwiki.com/system:page-tags/tag/_the-bureaucrat _the-bureaucrat]** -- An entry to the 'The Bureaucrat' category of the unofficial 2021 NIGHTMAREFEST.
+ * //Requires 'nightmarefest'//
+* **[https://scpwiki.com/system:page-tags/tag/_graveyard-shift _graveyard-shift]** -- An entry to the 'Graveyard Shift' category of the unofficial 2021 NIGHTMAREFEST.
+ * //Requires 'nightmarefest'//
 * **[https://scpwiki.com/system:page-tags/tag/romcon2023-unofficial romcon2023-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/romcon 2023 RomCon]: an SCP OCT.
 * **[https://scpwiki.com/system:page-tags/tag/spook-nico-2024-unofficial spook-nico-2024-unofficial]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/spook-nico-unnoficial-2024 2024 Spook Nico contest].
 * **[https://scpwiki.com/system:page-tags/tag/intcanoncon2025 intcanoncon2025]** -- An entry to the unofficial [https://scp-wiki.wikidot.com/international-canon-contest 2025 International Canon contest].
