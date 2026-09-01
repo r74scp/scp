@@ -3121,6 +3121,8 @@ http://scp-wiki-de.wikidot.com/personnel-and-character-dossier
 
 * **[[[/system:page-tags/tag/sportscon2026|sportscon2026]]]** //(sportscon2026)// - [[[sportscon|2026年スポーツコンテスト]]]。
 
+* **[[[/system:page-tags/tag/goicon-2026|goicon-2026]]]** //(goicon-2026)// - [[[goicon-2026|2026年要注意団体コンテスト]]]。
+
 * **[[[/system:page-tags/tag/memecon2021-unofficial|memecon2021-unofficial]]]** //(memecon2021-unofficial)// - 非公式企画の[[[memecon-unofficial|2021年ミームコンテスト]]]。
 
 * **[[[/system:page-tags/tag/romcon2023-unofficial|romcon2023-unofficial]]]** //(romcon2023-unofficial)// - 非公式企画の[[[romcon|2023年ロマンスコンテスト]]]: SCPオリキャラトーナメント。
