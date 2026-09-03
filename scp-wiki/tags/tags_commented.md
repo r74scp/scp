@@ -482,7 +482,7 @@ Tags that describe where the SCP is or where it comes from, or that apply to SCP
 * **[https://scpwiki.com/system:page-tags/tag/geological geological]** -- SCP is or affects natural geological formations (such as caves, cliffs, mountains, valleys, or volcanoes) or significant geological events (such as earthquakes, landslides, or sinkholes).
  * //Superseded by 'planet'//
 * **[https://scpwiki.com/system:page-tags/tag/island island]** -- SCP is or affects islands, archipelagos or similar formations.
-* **[https://scpwiki.com/system:page-tags/tag/library library]** -- SCP is, or is otherwise related to or affects libraries, defined as a room or building containing books for people to read or borrow.
+* **[https://scpwiki.com/system:page-tags/tag/library library]** -- SCP is a library, or affects or is otherwise related to libraries, defined as a room or building containing books for people to read or borrow.
 * **[https://scpwiki.com/system:page-tags/tag/location location]** -- SCP is a unique geographical location.
  * //Superseded by 'city'//
 * **[https://scpwiki.com/system:page-tags/tag/meteorological meteorological]** -- SCP is, affects, or is affected by significant weather events.
@@ -492,6 +492,7 @@ Tags that describe where the SCP is or where it comes from, or that apply to SCP
 * **[https://scpwiki.com/system:page-tags/tag/planet planet]** -- SCP is, resembles, or affects a planet, which may or may not be our planet.
  * //Often used with 'extraterrestrial'//
  * //Supersedes 'geological'//
+* **[https://scpwiki.com/system:page-tags/tag/restaurant restaurant]** -- SCP is a restaurant, or affects or is related to restaurants, defined as a place where meals are served to paying customers.
 * **[https://scpwiki.com/system:page-tags/tag/satellite satellite]** -- SCP is a small natural or artificial satellite orbiting Earth or another celestial body.
  * //Often used with 'extraterrestrial'//
  * //Superseded by 'moon'//
@@ -677,12 +678,13 @@ Describes specific story elements or character types, generally associated with 
 
 Describes the major themes of an article.
 
+* **[https://scpwiki.com/system:page-tags/tag/academic academic]** -- Focuses on academic research and discussion, such as the inclusion of excerpts from one or more scholarly papers or lectures.
 * **[https://scpwiki.com/system:page-tags/tag/bureaucracy bureaucracy]** -- Focuses on the administration, management and official procedures of an organisation.
 * **[https://scpwiki.com/system:page-tags/tag/historical historical]** -- Focuses on historical events, or on anomalies with historical significance.
  * //Compare with 'period-piece'//
 * **[https://scpwiki.com/system:page-tags/tag/journalism journalism]** -- Focuses on journalists, professional reviewers, news reports or news articles.
 * **[https://scpwiki.com/system:page-tags/tag/legal legal]** -- Focuses on law, legal proceedings, and legal documents.
-* **[https://scpwiki.com/system:page-tags/tag/lgbtq lgbtq]** -- Focuses on LGBTQ+ themes, culture or history. Possible examples include portrayal of gay and lesbian relationships, depiction of asexuality and bisexuality, and exploration of trans, queer and agender identities.
+* **[https://scpwiki.com/system:page-tags/tag/lgbtq lgbtq]** -- Features LGBTQ+ themes, culture or history. Possible examples include portrayal of gay and lesbian relationships, depiction of asexuality and bisexuality, and exploration of trans, queer and agender identities.
 * **[https://scpwiki.com/system:page-tags/tag/mythological mythological]** -- Features creatures, events and practices drawn from a specific mythology, outside of structured religious practice.
  * //Compare with 'fantasy', and 'religious-fiction'//
 * **[https://scpwiki.com/system:page-tags/tag/political political]** -- Focuses on politicians, diplomats or the political process.
@@ -847,6 +849,7 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/daevite daevite]** -- Featuring or related to [https://scp-wiki.wikidot.com/daevite-hub the Daevites].
 * **[https://scpwiki.com/system:page-tags/tag/deer-college deer-college]** -- Featuring or related to the [https://scp-wiki.wikidot.com/deer-college-hub Deer College] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/dr-wondertainment dr-wondertainment]** -- Featuring or related to the [https://scp-wiki.wikidot.com/dr-wondertainment-hub Dr. Wondertainment] person or group of interest.
+* **[https://scpwiki.com/system:page-tags/tag/directorate-k directorate-k]** -- Featuring or related to Directorate K, an organized conspiracy documented as [https://scp-wiki.wikidot.com/scp-1659 SCP-1659].
 * **[https://scpwiki.com/system:page-tags/tag/factory factory]** -- Featuring or related to [https://scp-wiki.wikidot.com/factory-hub The Factory] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/febris-pharmaceuticals febris-pharmaceuticals]** -- Featuring or related to the Italian [https://scp-wiki.wikidot.com/febris-hub Febris Pharmaceuticals] (Febris Farmaceutica) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/fifthist fifthist]** -- Featuring or related to [https://scp-wiki.wikidot.com/fifthist-hub The Fifth Church] group of interest.
@@ -912,6 +915,7 @@ These tags are used to designate pages that prominently feature a group of anoma
 * **[https://scpwiki.com/system:page-tags/tag/mister mister]** -- Featuring or relating to the anomalous individuals known as "Little Misters".
 * **[https://scpwiki.com/system:page-tags/tag/nameless nameless]** -- Featuring or related to the Nameless, or the Fae, as outlined in [https://scp-wiki.wikidot.com/scp-4000 SCP-4000].
 * **[https://scpwiki.com/system:page-tags/tag/pattern-screamer pattern-screamer]** -- Featuring or related to pattern screamers, entities that do not exist.
+* **[https://scpwiki.com/system:page-tags/tag/with-many-voices with-many-voices]** -- Featuring or relating to instances of [https://scp-wiki.wikidot.com/scp-939 SCP-939], predators that mimic the voices of past victims to lure in prey.
 
 [[/tab]]
 [[tab GoI Formats]]
@@ -1408,7 +1412,9 @@ Powerful anomalous entities, which some might call gods.
 
 Inanimate objects with significant appearances in articles.
 
+* **[https://scpwiki.com/system:page-tags/tag/missing-number missing-number]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-033 SCP-033], the missing number, aka  "Theta Prime".
 * **[https://scpwiki.com/system:page-tags/tag/refining-clockworks refining-clockworks]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-914 SCP-914], the Clockworks that reshape and refine objects placed inside them.
+* **[https://scpwiki.com/system:page-tags/tag/self-keeping-secret self-keeping-secret]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-055 SCP-055], a "self-keeping secret" or antimeme that causes people to forget all information about it.
 * **[https://scpwiki.com/system:page-tags/tag/telekill telekill]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-148 SCP-148], the "Telekill" alloy.
 
 [[/tab]]
@@ -1424,8 +1430,9 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- Set in or related to the Free Port of Backdoor Soho.
 * **[https://scpwiki.com/system:page-tags/tag/corbenic corbenic]** -- Set in or related to [https://scp-wiki.wikidot.com/scp-2922 SCP-2922-C], the extradimensional afterlife of Corbenic.
 * **[https://scpwiki.com/system:page-tags/tag/deus-ex-machina deus-ex-machina]** -- Related to the Foundation's world-rebooting machine, [https://scp-wiki.wikidot.com/scp-2000 SCP-2000].
+* **[https://scpwiki.com/system:page-tags/tag/eastern-samothrace eastern-samothrace]** -- Set in or related to [https://scp-wiki.wikidot.com/scp-1173 SCP-1173], the debateably real Islamic Republic of Eastern Samothrace.
 * **[https://scpwiki.com/system:page-tags/tag/esterberg esterberg]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/esterberg-city-wikipedia Esterberg]
-* **[https://scpwiki.com/system:page-tags/tag/eurtec eurtec]** -- Set in or related to the metropolis of Eurtec.
+* **[https://scpwiki.com/system:page-tags/tag/eurtec eurtec]** -- Set in or related to the paranormal metropolis of Eurtec.
 * **[https://scpwiki.com/system:page-tags/tag/hong-shing hong-shing]** -- Set in or related to the extradimensional city of Hong Shing, connecting baseline reality (the Left Phase) to a universe filled with ionizing radiation (the Right Phase).
 * **[https://scpwiki.com/system:page-tags/tag/hy-brasil hy-brasil]** -- Set in or related to the vanishing island of [https://scp-wiki.wikidot.com/nx-03 Hy-Brasil].
 * **[https://scpwiki.com/system:page-tags/tag/infinite-furniture-store infinite-furniture-store]** -- Set in or related to [https://scp-wiki.wikidot.com/scp-3008 SCP-3008], the Infinite Ikea.
