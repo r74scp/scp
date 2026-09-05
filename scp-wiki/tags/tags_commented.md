@@ -848,8 +848,8 @@ These tags are used to designate pages that prominently feature a Group of Inter
 * **[https://scpwiki.com/system:page-tags/tag/cogwork-orthodoxy cogwork-orthodoxy]** -- Featuring or related to the Cogwork Orthodox Church faction of the Church of the Broken God group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/daevite daevite]** -- Featuring or related to [https://scp-wiki.wikidot.com/daevite-hub the Daevites].
 * **[https://scpwiki.com/system:page-tags/tag/deer-college deer-college]** -- Featuring or related to the [https://scp-wiki.wikidot.com/deer-college-hub Deer College] group of interest.
-* **[https://scpwiki.com/system:page-tags/tag/dr-wondertainment dr-wondertainment]** -- Featuring or related to the [https://scp-wiki.wikidot.com/dr-wondertainment-hub Dr. Wondertainment] person or group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/directorate-k directorate-k]** -- Featuring or related to Directorate K, an organized conspiracy documented as [https://scp-wiki.wikidot.com/scp-1659 SCP-1659].
+* **[https://scpwiki.com/system:page-tags/tag/dr-wondertainment dr-wondertainment]** -- Featuring or related to the [https://scp-wiki.wikidot.com/dr-wondertainment-hub Dr. Wondertainment] person or group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/factory factory]** -- Featuring or related to [https://scp-wiki.wikidot.com/factory-hub The Factory] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/febris-pharmaceuticals febris-pharmaceuticals]** -- Featuring or related to the Italian [https://scp-wiki.wikidot.com/febris-hub Febris Pharmaceuticals] (Febris Farmaceutica) group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/fifthist fifthist]** -- Featuring or related to [https://scp-wiki.wikidot.com/fifthist-hub The Fifth Church] group of interest.
@@ -1347,10 +1347,10 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/big-cheese-horace big-cheese-horace]** -- Big Cheese Horace of the Fifthists
 * **[https://scpwiki.com/system:page-tags/tag/brainy-brian brainy-brian]** -- Brainy Brian of Wondertainment/MC&D, also known as "Doctor Neurosis".
 * **[https://scpwiki.com/system:page-tags/tag/chaz-ambrose chaz-ambrose]** -- Chaz Ambrose, founder of Ambrose Restaurants.
-* **[https://scpwiki.com/system:page-tags/tag/dado dado]** -- [https://scp-wiki.wikidot.com/dado-hub dado] is taking care of u in dis one. u no worry.
+* **[https://scpwiki.com/system:page-tags/tag/dado dado]** -- [https://scp-wiki.wikidot.com/dado-hub dado] is fine business selling pills that do 2 u exactly what u ask dado 4. sry for mispels uppercase key broke.
 * **[https://scpwiki.com/system:page-tags/tag/damien-nowak damien-nowak]** -- Damien Nowak, cult leader.
 * **[https://scpwiki.com/system:page-tags/tag/dc-al-fine dc-al-fine]** -- D.C. al Fine, Undersecretary-General of the Global Occult Coalition.
-* **[https://scpwiki.com/system:page-tags/tag/eric eric]** -- Eric, a mysterious creator of anomalies.
+* **[https://scpwiki.com/system:page-tags/tag/eric eric]** -- Eric, a mysterious creator of anomalies, usually resembling toys made by a child.
 * **[https://scpwiki.com/system:page-tags/tag/esther-kogan esther-kogan]** -- Esther Kogan, aka lesbian_gengar of Gamers Against Weed.
 * **[https://scpwiki.com/system:page-tags/tag/faeowynn-wilson faeowynn-wilson]** -- Faeowynn "Fae" Wilson, of Wilson's Wildlife Solutions.
 * **[https://scpwiki.com/system:page-tags/tag/finnegan finnegan]** -- Finnegan, anartist.
@@ -1368,7 +1368,7 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/kindness kindness]** -- A kind man.
 * **[https://scpwiki.com/system:page-tags/tag/legate-trunnion legate-trunnion]** -- Legate Trunnion, prophet of the Cogwork Orthodoxy.
 * **[https://scpwiki.com/system:page-tags/tag/lewitt-zairi-family lewitt-zairi-family]** -- The Lewitt Zairi Family, of the Horizon Initiative.
-* **[https://scpwiki.com/system:page-tags/tag/lovataar lovataar]** -- Lovataar, the ex-daeva princess who became one of the Klavigars.
+* **[https://scpwiki.com/system:page-tags/tag/lovataar lovataar]** -- Lovataar, the ex-daeva princess who became one of the four Klavigars of Sarkicism.
 * **[https://scpwiki.com/system:page-tags/tag/lucas-monaco lucas-monaco]** -- Lucas Monaco, employee of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/manny manny]** -- Manny, aka The Man With the Upside Down Face at Herman Fuller's Circus of the Disquieting.
 * **[https://scpwiki.com/system:page-tags/tag/mari-macphaerson mari-macphaerson]** -- Mari MacPhaerson, the VP of Public Relations for Vikander-Kneed Technical Studies.
@@ -1408,15 +1408,6 @@ Powerful anomalous entities, which some might call gods.
 * **[https://scpwiki.com/system:page-tags/tag/the-serpent the-serpent]** -- The Serpent, mythical ruler of the [https://scp-wiki.wikidot.com/wanderers-library-hub Wanderer's Library] and namesake of the [https://scp-wiki.wikidot.com/serpent-s-hand-hub Serpent's Hand].
 * **[https://scpwiki.com/system:page-tags/tag/yaldabaoth yaldabaoth]** -- Yaldabaoth the demiurge, also known as Važjuma by followers of [https://scp-wiki.wikidot.com/sarkicism-hub Sarkicism], the reviled creator of the physical universe.
 
-+++ Objects
-
-Inanimate objects with significant appearances in articles.
-
-* **[https://scpwiki.com/system:page-tags/tag/missing-number missing-number]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-033 SCP-033], the missing number, aka  "Theta Prime".
-* **[https://scpwiki.com/system:page-tags/tag/refining-clockworks refining-clockworks]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-914 SCP-914], the Clockworks that reshape and refine objects placed inside them.
-* **[https://scpwiki.com/system:page-tags/tag/self-keeping-secret self-keeping-secret]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-055 SCP-055], a "self-keeping secret" or antimeme that causes people to forget all information about it.
-* **[https://scpwiki.com/system:page-tags/tag/telekill telekill]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-148 SCP-148], the "Telekill" alloy.
-
 [[/tab]]
 [[tab Locations]]
 ++ Locations
@@ -1429,7 +1420,6 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/amoni-ram amoni-ram]** -- Set in or related to the city-state of Amoni-Ram, capital of the ancient Mekhanite Empire.
 * **[https://scpwiki.com/system:page-tags/tag/backdoor-soho backdoor-soho]** -- Set in or related to the Free Port of Backdoor Soho.
 * **[https://scpwiki.com/system:page-tags/tag/corbenic corbenic]** -- Set in or related to [https://scp-wiki.wikidot.com/scp-2922 SCP-2922-C], the extradimensional afterlife of Corbenic.
-* **[https://scpwiki.com/system:page-tags/tag/deus-ex-machina deus-ex-machina]** -- Related to the Foundation's world-rebooting machine, [https://scp-wiki.wikidot.com/scp-2000 SCP-2000].
 * **[https://scpwiki.com/system:page-tags/tag/eastern-samothrace eastern-samothrace]** -- Set in or related to [https://scp-wiki.wikidot.com/scp-1173 SCP-1173], the debateably real Islamic Republic of Eastern Samothrace.
 * **[https://scpwiki.com/system:page-tags/tag/esterberg esterberg]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/esterberg-city-wikipedia Esterberg]
 * **[https://scpwiki.com/system:page-tags/tag/eurtec eurtec]** -- Set in or related to the paranormal metropolis of Eurtec.
@@ -1443,6 +1433,18 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/three-portlands three-portlands]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/three-portlands-hub Three Portlands].
 * **[https://scpwiki.com/system:page-tags/tag/undervegas undervegas]** -- Set in or related to the demonic city of [https://scp-wiki.wikidot.com/undervegas-hub Undervegas].
 * **[https://scpwiki.com/system:page-tags/tag/wanderers-library wanderers-library]** -- Set in or related to the universe-connecting [https://scp-wiki.wikidot.com/wanderers-library-hub Wanderer's Library].
+
+[[/tab]]
+[[tab Objects]]
+++ Objects
+
+Inanimate objects with significant appearances in articles. Includes SCP objects that are not listed as Characters or Locations.
+
+* **[https://scpwiki.com/system:page-tags/tag/deus-ex-machina deus-ex-machina]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-2000 SCP-2000], the Foundation's world-rebooting machine.
+* **[https://scpwiki.com/system:page-tags/tag/missing-number missing-number]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-033 SCP-033], the missing number, aka  "Theta Prime".
+* **[https://scpwiki.com/system:page-tags/tag/refining-clockworks refining-clockworks]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-914 SCP-914], the Clockworks that reshape and refine objects placed inside them.
+* **[https://scpwiki.com/system:page-tags/tag/self-keeping-secret self-keeping-secret]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-055 SCP-055], a "self-keeping secret" or antimeme that causes people to forget all information about it.
+* **[https://scpwiki.com/system:page-tags/tag/telekill telekill]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-148 SCP-148], the "Telekill" alloy.
 
 [[/tab]]
 [[tab Staff Process]]
