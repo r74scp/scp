@@ -1147,7 +1147,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/parawatch-true-crime parawatch-true-crime]** -- Part of the Parawatch True Crime series presented by [https://scp-wiki.wikidot.com/crewtime crewtime].
 * **[https://scpwiki.com/system:page-tags/tag/phobia-anthology phobia-anthology]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-2024 Phobia SCP anthology].
 * **[https://scpwiki.com/system:page-tags/tag/palisade palisade]** -- Part of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
-* **[https://scpwiki.com/system:page-tags/tag/philia-anthology philia-anthology]** -- Part of the [totally-legit-scp-anthology-2025 2025 Philia Anthology].
+* **[https://scpwiki.com/system:page-tags/tag/philia-anthology philia-anthology]** -- Part of the comedic [https://scpwiki.com/system:page-tags/tag/totally-legit-scp-anthology-2025 2025 Philia Anthology].
 * **[https://scpwiki.com/system:page-tags/tag/phoenix-nightingale-magpies phoenix-nightingale-magpies]** -- Part of [https://scp-wiki.wikidot.com/florence-thorne-hub The Phoenix, The Nightingale, & The Magpies] series.
 * **[https://scpwiki.com/system:page-tags/tag/project-crossover project-crossover]** -- Part of [https://scp-wiki.wikidot.com/crossoverprojectindex Project Crossover].
 * **[https://scpwiki.com/system:page-tags/tag/project-thaumiel project-thaumiel]** -- Part of [https://scp-wiki.wikidot.com/thaumiel Project Thaumiel].
