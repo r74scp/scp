@@ -958,6 +958,8 @@ The following applies to all tags in this category:
  * //Requires 'chicago-spirit'//
 * **[https://scpwiki.com/system:page-tags/tag/_daevite _daevite]** -- An article following the Daevite format.
  * //Requires 'daevite'//
+* **[https://scpwiki.com/system:page-tags/tag/_dark-sushi _dark-sushi]** -- An article following the Dark Sushi format.
+ * //Requires 'dark-sushi'//
 * **[https://scpwiki.com/system:page-tags/tag/_deer-college _deer-college]** -- An article following the Deer College format.
  * //Requires 'deer-college'//
 * **[https://scpwiki.com/system:page-tags/tag/_dr-wondertainment _dr-wondertainment]** -- An article following the Dr. Wondertainment format.
@@ -1253,7 +1255,7 @@ Employees of the Foundation.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-roget doctor-roget]** -- Dr. Ralph Roget, of Site-77.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-rydderech doctor-rydderech]** -- Dr. Wynn Rydderech, co-founder of Site-43. Contained as [https://scp-wiki.wikidot.com/scp-5520 SCP-5520].
 * **[https://scpwiki.com/system:page-tags/tag/doctor-scranton doctor-scranton]** -- Dr. Robert Scranton, inventor of the Scranton Reality Anchor. Imprisoned by [https://scp-wiki.wikidot.com/scp-3001 SCP-3001].
-* **[https://scpwiki.com/system:page-tags/tag/doctor-shaw doctor-shaw]** -- Dr. Elias Blake Shaw, aka SCP-963.
+* **[https://scpwiki.com/system:page-tags/tag/doctor-shaw doctor-shaw]** -- Dr. Elias Blake Shaw.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sherman doctor-sherman]** -- Dr. Theron Sherman, researcher and Director of Site-42.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sinclair doctor-sinclair]** -- Dr. Katherine Sinclair, thaumaturge at Site-87.
 * **[https://scpwiki.com/system:page-tags/tag/doctor-sokolsky doctor-sokolsky]** -- Dr. Daniil Sokolsky, ETTRA Chief at Site-43.
