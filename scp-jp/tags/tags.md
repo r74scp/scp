@@ -838,7 +838,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
  * 必ず//東弊重工//タグと併用してください。
 * **[[[/system:page-tags/tag/_ttt社|_ttt社]]]** - トリスメギストス・トランスレーション&トランスポーテーションのGoIフォーマット記事に付与されるタグです。
  * 必ず//ttt社//タグと併用してください。
-* **[[[/system:page-tags/tag/_日本生類創研|_日本生類創研]]]** - 日本生類創研のGoIフォーマット記事に付与されるタグです。
+* **[[[/system:page-tags/tag/_日本生類創研|_日本生類創研]]]** - [[[joicl-hub|日本生類創研]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//日本生類創研//タグと併用してください。
 * **[[[/system:page-tags/tag/_jagpato|_jagpato]]]** - [[[jagpato-hub|日本超常組織平和友好条約機構]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//jagpato//タグと併用してください。
@@ -852,6 +852,8 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
  * 必ず//酩酊街//タグと併用してください。
 * **[[[/system:page-tags/tag/_ライフラフト|_ライフラフト]]]** - [[[liferaft-hub|ライフラフト]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//ライフラフト//タグと併用してください。
+* **[[[/system:page-tags/tag/_理外研|_理外研]]]** - 理外研のGoIフォーマット記事に付与されるタグです。
+ * 必ず//理外研//タグと併用してください。
 * **[[[/system:page-tags/tag/_闇寿司|_闇寿司]]]** - [[[yamizushi-hub|闇寿司]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//闇寿司//タグと併用してください。
 * **[[[/system:page-tags/tag/_夢見テクノロジー|_夢見テクノロジー]]]** - 夢見テクノロジーのGoIフォーマット記事に付与されるタグです。
@@ -866,6 +868,8 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
  * 必ず//グリーン・スパロウ財団//タグと併用してください。
 * **[[[/system:page-tags/tag/_ニルヴァーナ|_ニルヴァーナ]]]** //(_nirvana)// - [[[nirvana-hub|ニルヴァーナ]]]のGoIフォーマット記事に付与されるタグです。
  * 必ず//ニルヴァーナ//タグと併用してください。
+* **[[[/system:page-tags/tag/_彼岸|_彼岸]]]** //(_彼岸)// - 彼岸のGoIフォーマット記事に付与されるタグです。
+ * 必ず//彼岸//タグと併用してください。
 
 ++ 要注意団体-FR
 * **[[[/system:page-tags/tag/_saphir|_saphir]]]** //(_saphir)// - [[[saphir-centre|神秘主義終焉のための無神論者協会 (SAPHIR)]]]のGoIフォーマット記事に付与されるタグです。
@@ -1459,6 +1463,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/愛好症アンソロジー|愛好症アンソロジー]]]** //(philia-anthology)// - [[[totally-legit-scp-anthology-2025|愛好症アンソロジー2025]]]。
 * **[[[/system:page-tags/tag/project-crossover|project-crossover]]]** //(project-crossover)// - [[[crossoverprojectindex|クロスオーバープロジェクト]]]。
 * **[[[/system:page-tags/tag/project-thaumiel|project-thaumiel]]]** //(project-thaumiel)// - [[[thaumiel|プロジェクトThaumiel]]]。
+* **[[[/system:page-tags/tag/赤の女王の競争|赤の女王の競争]]]** //(red-queens-race)// - [[[red-queen-s-race|赤の女王の競争]]]。
 * **[[[/system:page-tags/tag/大河は赤に染められる|大河は赤に染められる]]]** //(run-the-river-red)// - [[[run-the-river-red-hub|大河は赤に染められる]]]。
 * **[[[/system:page-tags/tag/tales-of-the-mosaic|tales-of-the-mosaic]]]** //(tales-of-the-mosaic)// - [[[tales-of-the-mosaic|Tales of the Mosaic]]]。
 * **[[[/system:page-tags/tag/team-bird|team-bird]]]** //(team-bird)// - [[[bird|チームバード]]]。
@@ -1757,6 +1762,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/超電救助隊hero|超電救助隊hero]]]** - [[[hyper-electric-rescue-organization-hub|超電救助隊HERO]]]。
 * **[[[/system:page-tags/tag/pamwac|pamwac]]]** - [[[pamwac-hub|アニメキャラクターと結婚するための研究計画局(PAMWAC)]]]。
 * **[[[/system:page-tags/tag/シュトルヒ運輸|シュトルヒ運輸]]]** - シュトルヒ運輸。
+* **[[[/system:page-tags/tag/理外研|理外研]]]** - 理外研。
 
 @@ @@
 
@@ -1774,7 +1780,6 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/有村組|有村組]]]** - 有村組。
 * **[[[/system:page-tags/tag/葦の輪|葦の輪]]]** - 葦の輪。
 * **[[[/system:page-tags/tag/夏鳥思想連盟|夏鳥思想連盟]]]** - 夏鳥思想連盟。
-* **[[[/system:page-tags/tag/理外研|理外研]]]** - 理外研。
 * **[[[/system:page-tags/tag/yakushi|yakushi‬]]]** - 医療産業連合Yakushi‬。
 * **[[[/system:page-tags/tag/みどりのだいち|みどりのだいち]]]** - みどりのだいちプロジェクト。
 * **[[[/system:page-tags/tag/超工家電|超工家電]]]** - 超工家電。
@@ -2898,6 +2903,7 @@ http://scp-wiki-de.wikidot.com/personnel-and-character-dossier
 * **[[[/system:page-tags/tag/サイト-cn-10086|サイト-cn-10086]]]** //(site-cn-10086)// - サイト-CN-10086。
 * **[[[/system:page-tags/tag/エリア-cn-07|エリア-cn-07]]]** //(area-cn-07)// - [[[area-cn-07|エリア-CN-07]]]。
 * **[[[/system:page-tags/tag/エリア-cn-15|エリア-cn-15]]]** //(area-cn-15)// - [[[area-cn-15|エリア-CN-15]]]。
+* **[[[/system:page-tags/tag/エリア-cn-22|エリア-cn-22]]]** //(area-cn-22)// - エリア-CN-22。
 
 [!--★CNに合わせて並び替え--]
 [!--
