@@ -2167,7 +2167,6 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ジャンゴ・ブリッジ博士|ジャンゴ・ブリッジ博士]]]** //(django-bridge)// - ジャンゴ・ブリッジ博士。
 * **[[[/system:page-tags/tag/アシュワース博士|アシュワース博士]]]** //(doctor-asheworth)// - ダニエル・アシュワース博士。
 * **[[[/system:page-tags/tag/ブランク博士|ブランク博士]]]** //(doctor-blank)// - サイト-43の歴史家、ハロルド・R・ブランク博士。
-* **[[[/system:page-tags/tag/ブライト博士|ブライト博士]]]** //(doctor-bright)// - ブライト博士、別名[[[SCP-963]]]。
 * **[[[/system:page-tags/tag/シメリアン博士|シメリアン博士]]]** //(doctor-cimmerian)// - シメリアン博士。
 * **[[[/system:page-tags/tag/クレフ博士|クレフ博士]]]** //(doctor-clef)// - アルト・クレフ博士、元世界オカルト連合工作員エージェント・ウクレレであり、対現実改変者のエキスパート。
 * **[[[/system:page-tags/tag/ダン博士|ダン博士]]]** //(doctor-dan)// - [[[SCP-096]]]担当のダン・███████博士。
@@ -2239,6 +2238,10 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/記録管理人|記録管理人]]]** //(the-archivist)// - [[span class="ruby"]]記録管理人[[span class="rt"]]ジ・アーキビスト[[/span]][[/span]]、通称O5-10。
 * **[[[/system:page-tags/tag/yossarian-leiner|yossarian-leiner]]]** //(yossarian-leiner)// - 戦術神学部門の管理官、ヨッサリアン・レイナー/レナー。
 * **[[[/system:page-tags/tag/ジン・桐生|ジン・桐生]]]** //(zyn-kiryu)// - [[[kiryu-labs-hub|桐生研究所]]]のジン・桐生研究員。
+
+以下のタグについては、特定の他支部の項を参照してください。
+
+* **[[[/system:page-tags/tag/ブライト博士|ブライト博士]]]** - JP側で独自に登録されたタグです。キャラクター-JPの項を参照してください。
 
 @@ @@
 
@@ -2469,6 +2472,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 以下は他支部で作成されたキャラクターを、JP側で独自にタグ登録したものです。運用ルールの差異から区別して掲載しています。詳細はタグガイドの[[[tag-guide#toc16|こちらの項目]]]を参照してください。
 
 * **[[[/system:page-tags/tag/ドリームマン|ドリームマン]]]** - ドリームマン、通称[[[SCP-990]]]。
+* **[[[/system:page-tags/tag/ブライト博士|ブライト博士]]]** - ブライト博士、別名[[[SCP-963]]]。
 * **[[[/system:page-tags/tag/私たちを見守るもの|私たちを見守るもの]]]** -私たちを見守るもの、通称[[[SCP-4999]]]。
 
 [[/tab]]
