@@ -1313,6 +1313,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/コールド・スタート|コールド・スタート]]]** //(冷启动)// - [[[cold-start-hub|コールド・スタート]]]。
 * **[[[/system:page-tags/tag/meme主義|meme主義]]]** //(meme主义)// - [[[the-accelerationism|MEME主義]]]。
 * **[[[/system:page-tags/tag/セントラル・キッチン|セントラル・キッチン]]]** //(中央厨房)// - [[[kitchen-cn|セントラル・キッチン]]]。※[[[kitchen|本来のURL]]]からENのtaleとの衝突により変更している。
+* **[[[/system:page-tags/tag/祈蹟|祈蹟]]]** //(祈冀)// - [[[wish-for-miracle-hub|祈蹟]]]。
 
 [[/tab]][!--CN--]
 [[tab FR]]
@@ -1401,6 +1402,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/神異博覧会|神異博覧会]]]** //(神異博覽會)// - [[[taiwan-miracle-exposition|神異博覧会1935]]]。
 * **[[[/system:page-tags/tag/転生計画|転生計画]]]** //(轉世計劃)// - 転生計画。
 * **[[[/system:page-tags/tag/物理少年|物理少年]]]** //(物理少年)// - 物理少年。
+* **[[[/system:page-tags/tag/燦藍天穹|燦藍天穹]]]** //(燦藍天穹)// - [[[azure-skydome-hub|燦藍天穹]]]。
 
 [[/tab]][!--ZH--]
 [[tab VN]]
