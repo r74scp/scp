@@ -3623,7 +3623,7 @@
         "id": 589,
         "tag": "未認可支部",
         "trans": "",
-        "desc": "上のいずれでもない言語版のサイトから翻訳されたオリジナルのページに付与されるタグです。[[[http://scp-int.wikidot.com/unofficial:language-incubator-hub|SCP-UN]]](少数言語インキュベータ)[[footnote]] SCP-INT(国際翻訳アーカイブ)内のサブプロジェクト。活動的な支部が現存しない言語での翻訳・創作を投稿するプラットフォームを提供し、新たな支部作成に向けて援助することを目的としています。 [[/footnote]]に投稿された作品も含まれます。新規作成は翻訳を含めて基本的に認められていません。",
+        "desc": "上のいずれでもない言語版のサイトから翻訳されたオリジナルのページに付与されるタグです。[[[https://scp-int.wikidot.com/unofficial:language-incubator-hub|SCP-UN]]](少数言語インキュベータ)[[footnote]] SCP-INT(国際翻訳アーカイブ)内のサブプロジェクト。活動的な支部が現存しない言語での翻訳・創作を投稿するプラットフォームを提供し、新たな支部作成に向けて援助することを目的としています。 [[/footnote]]に投稿された作品も含まれます。新規作成は翻訳を含めて基本的に認められていません。",
         "category": "支部",
         "list": "",
         "type": ""
@@ -4210,7 +4210,7 @@
         "id": 697,
         "tag": "元記事削除",
         "trans": "",
-        "desc": "翻訳元のページが削除されてしまったページに付与されるタグです。そのようなページは{{old:}}カテゴリに移動されます。条件を満たすもののこれらの適用が為されていないページを発見したら、[http://ja.scp-wiki.net/forum/t-2282637/ こちら]で報告してください。",
+        "desc": "翻訳元のページが削除されてしまったページに付与されるタグです。そのようなページは{{old:}}カテゴリに移動されます。条件を満たすもののこれらの適用が為されていないページを発見したら、[https://scp-jp.wikidot.com/forum/t-2282637/ こちら]で報告してください。",
         "category": "ウィキ運営用",
         "list": "",
         "type": ""
@@ -12888,7 +12888,7 @@
         "id": 1682,
         "tag": "1000",
         "trans": "1000",
-        "desc": "[[[http://www.scp-wiki.net/forum/t-376556|SCP-1000コンテスト]]]。",
+        "desc": "[[[https://scp-wiki.wikidot.com/forum/t-376556|SCP-1000コンテスト]]]。",
         "type": "コンテスト-EN",
         "category": "EN",
         "list": ""
@@ -14049,7 +14049,7 @@
         "id": 1812,
         "tag": "ハロウィン2017",
         "trans": "",
-        "desc": "[[[http://scp-jp.wikidot.com/forum/t-4111918|チャレンジ:ハロウィン記事執筆!]]]。",
+        "desc": "[[[https://scp-jp.wikidot.com/forum/t-4111918|チャレンジ:ハロウィン記事執筆!]]]。",
         "type": "キャンペーン-JP",
         "category": "JP",
         "list": ""
@@ -15435,7 +15435,7 @@
         "id": 1968,
         "tag": "_ライセンスボックス",
         "trans": "_licensebox",
-        "desc": "ライセンスボックスが付いており、[[[http://scp-wiki.wikidot.com/licensing-master-list|Licensing Master List]]]から詳細な権利情報を確認できるページであることを示すタグです。",
+        "desc": "ライセンスボックスが付いており、[[[https://scp-wiki.wikidot.com/licensing-master-list|Licensing Master List]]]から詳細な権利情報を確認できるページであることを示すタグです。",
         "type": "EN",
         "category": "使用されていないタグ",
         "list": ""
@@ -15957,7 +15957,7 @@
         "id": 2029,
         "tag": "カノン外",
         "trans": "fuori-dal-canone",
-        "desc": "IT支部の[[[http://fondazionescp.wikidot.com/hub-della-branca-italiana|標準カノン]]]から外れた記事に付与されるタグです。SCP記事には付与されません。",
+        "desc": "IT支部の[[[https://fondazionescp.wikidot.com/hub-della-branca-italiana|標準カノン]]]から外れた記事に付与されるタグです。SCP記事には付与されません。",
         "type": "IT",
         "category": "使用されていないタグ",
         "list": ""

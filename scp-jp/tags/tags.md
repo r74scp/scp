@@ -15,19 +15,19 @@
 [[div_ class="rate-box-with-credit-button"]]
 [[module Rate]]
 [[div_ class="creditButton"]]
-[[a href="#u-credit-view" class="fa fa-info" style="position:relative;"]][[image http://scp-jp.wikidot.com/local--files/nav:side/blank.png title="クレジットを表示する" style="position:absolute;height:100%;width:100%;top:0;left:0;"]][[/a]]
+[[a href="#u-credit-view" class="fa fa-info" style="position:relative;"]][[image https://scp-jp.wikidot.com/local--files/nav:side/blank.png title="クレジットを表示する" style="position:absolute;height:100%;width:100%;top:0;left:0;"]][[/a]]
 [[/div]]
 [[/div]]
 [[/div]]
 [[div_ class="rateBox heritage-wrap" [[iftags -殿堂入り]]style="display:none;"[[/iftags]]]]
 [[div_ class="heritage-rating-module"]]
 [[div_ class="heritage-emblem"]]
-[[image http://scp-jp.wdfiles.com/local--files/component:heritage-rating/scp-heritage-v3.png link="[[iftags +殿堂入り +en]]archived:heritage-collection[[/iftags]][[iftags +殿堂入り +jp]]heritage-collection-jp[[/iftags]][[iftags +殿堂入り +fr]]patrimoine-francais-de-la-fondation-scp[[/iftags]]" style="max-width: none;"]]
+[[image https://scp-jp.wdfiles.com/local--files/component:heritage-rating/scp-heritage-v3.png link="[[iftags +殿堂入り +en]]archived:heritage-collection[[/iftags]][[iftags +殿堂入り +jp]]heritage-collection-jp[[/iftags]][[iftags +殿堂入り +fr]]patrimoine-francais-de-la-fondation-scp[[/iftags]]" style="max-width: none;"]]
 [[/div]]
 [[module Rate]]
 [[/div]]
 [[div_ class="creditButton"]]
-[[a href="#u-credit-view" class="fa fa-info" style="position:relative;"]][[image http://scp-jp-sandbox2.wikidot.com/local--files/nav:side/blank.png title="クレジットを表示する" style="position:absolute;height:100%;width:100%;top:0;left:0;"]][[/a]]
+[[a href="#u-credit-view" class="fa fa-info" style="position:relative;"]][[image https://scp-jp-sandbox2.wikidot.com/local--files/nav:side/blank.png title="クレジットを表示する" style="position:absolute;height:100%;width:100%;top:0;left:0;"]][[/a]]
 [[/div]]
 [[/div]]
 [[/div]]
@@ -66,7 +66,7 @@
 [[div_ [[iftags +殿堂入り]]style="display: flex;"[[/iftags]] class="Dendo"]]
 [[div_ class="heritage-rating-module"]]
 [[div_ class="heritage-emblem"]]
-[[image http://scp-jp.wdfiles.com/local--files/component:heritage-rating/scp-heritage-v3.png link="[[iftags +殿堂入り +en]]heritage-collection-arc[[/iftags]][[iftags +殿堂入り +fr]]patrimoine-francais-de-la-fondation-scp[[/iftags]][[iftags +殿堂入り +jp]]heritage-collection-jp[[/iftags]]" style=" max-width: none;"]]
+[[image https://scp-jp.wdfiles.com/local--files/component:heritage-rating/scp-heritage-v3.png link="[[iftags +殿堂入り +en]]heritage-collection-arc[[/iftags]][[iftags +殿堂入り +fr]]patrimoine-francais-de-la-fondation-scp[[/iftags]][[iftags +殿堂入り +jp]]heritage-collection-jp[[/iftags]]" style=" max-width: none;"]]
 [[/div]]
 [[module Rate]]
 [[/div]]
@@ -977,7 +977,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/int|int]]]** - SCP-INT(各支部英訳アーカイブ)から翻訳されたオリジナルのページに付与されるタグです。
 
 ++ その他
-* ,,︁,,,,,,**[[[/system:page-tags/tag/未認可支部|未認可支部]]]** - 上のいずれでもない言語版のサイトから翻訳されたオリジナルのページに付与されるタグです。[[[http://scp-int.wikidot.com/unofficial:language-incubator-hub|SCP-UN]]](少数言語インキュベータ)[[footnote]] SCP-INT(国際翻訳アーカイブ)内のサブプロジェクト。活動的な支部が現存しない言語での翻訳・創作を投稿するプラットフォームを提供し、新たな支部作成に向けて援助することを目的としています。 [[/footnote]]に投稿された作品も含まれます。新規作成は翻訳を含めて基本的に認められていません。
+* ,,︁,,,,,,**[[[/system:page-tags/tag/未認可支部|未認可支部]]]** - 上のいずれでもない言語版のサイトから翻訳されたオリジナルのページに付与されるタグです。[[[https://scp-int.wikidot.com/unofficial:language-incubator-hub|SCP-UN]]](少数言語インキュベータ)[[footnote]] SCP-INT(国際翻訳アーカイブ)内のサブプロジェクト。活動的な支部が現存しない言語での翻訳・創作を投稿するプラットフォームを提供し、新たな支部作成に向けて援助することを目的としています。 [[/footnote]]に投稿された作品も含まれます。新規作成は翻訳を含めて基本的に認められていません。
 * ,,︁,,,,,,**[[[/system:page-tags/tag/外部ウィキアーカイブ|外部ウィキアーカイブ]]]** - SCP財団Wiki外部のサイトから和訳・転載された記事に付与されるタグです。//外部ウィキアーカイブ//タグが付与されるページには、翻訳元の言語に相当する支部タグを併用される必要があります。新規作成は翻訳を含めて基本的に認められていません。
 
 [[/tab]]
@@ -1142,7 +1142,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 
 * ,,,,,,,,**[[[/system:page-tags/tag/アーカイブ済み|アーカイブ済み]]]** //(archived)// - 置き換えられたり、廃止されたり、非アクティブになったものの参照のためにアーカイブされているページに付与されるタグです。//scp//ではないアーカイブされたページは{{archived:}}カテゴリに移動されます。
 
-* ,,︁,,**[[[/system:page-tags/tag/元記事削除|元記事削除]]]** - 翻訳元のページが削除されてしまったページに付与されるタグです。そのようなページは{{old:}}カテゴリに移動されます。条件を満たすもののこれらの適用が為されていないページを発見したら、[http://ja.scp-wiki.net/forum/t-2282637/ こちら]で報告してください。
+* ,,︁,,**[[[/system:page-tags/tag/元記事削除|元記事削除]]]** - 翻訳元のページが削除されてしまったページに付与されるタグです。そのようなページは{{old:}}カテゴリに移動されます。条件を満たすもののこれらの適用が為されていないページを発見したら、[https://scp-jp.wikidot.com/forum/t-2282637/ こちら]で報告してください。
 
 * ,,︁,,**[[[/system:page-tags/tag/削除通知|削除通知]]]** - 何らかの理由により削除の通知が行われた記事に対して付与されるタグです。詳細は[[[deletions-guide|]]]を参照してください。
 
@@ -2076,8 +2076,8 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 
 [!--
 ★GoI-SLハブにはタグが掲載されているが、これらのタグはSL支部では使用例が存在していない。そのためJP側でもタグは実装しない。
-http://scp-jp.wikidot.com/is-arhiva
-http://scp-slovenija.wikidot.com/is-arhiva
+https://scp-jp.wikidot.com/is-arhiva
+https://scp-slovenija.wikidot.com/is-arhiva
 --]
 
 [[/tab]]
@@ -2239,9 +2239,9 @@ DIRAハブはカノンハブに掲載されているが、タグの方は部門�
 
 +++ 部隊-ZH
 ★未申請。
-* **[[[/system:page-tags/tag/天紀-17|天紀-17]]]** //(天紀-17)// - 標註在與MTF 天紀-17 ("金融封鎖")相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
-* **[[[/system:page-tags/tag/長垣-4|長垣-4]]]** //(長垣-4)// - 標註在與JTF 長垣-4 ("冷卻系統")相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
-* **[[[/system:page-tags/tag/少微-12|少微-12]]]** //(少微-12)// - 標註在與MTF 少微-12 ("三段論證")相關的[[[http://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
+* **[[[/system:page-tags/tag/天紀-17|天紀-17]]]** //(天紀-17)// - 標註在與MTF 天紀-17 ("金融封鎖")相關的[[[https://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
+* **[[[/system:page-tags/tag/長垣-4|長垣-4]]]** //(長垣-4)// - 標註在與JTF 長垣-4 ("冷卻系統")相關的[[[https://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
+* **[[[/system:page-tags/tag/少微-12|少微-12]]]** //(少微-12)// - 標註在與MTF 少微-12 ("三段論證")相關的[[[https://scp-zh-tr.wikidot.com/task-forces-zh|頁面]]]上。
 --]
 
 [[/tab]][!--ZH--]
@@ -2727,7 +2727,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ファウスト博士|ファウスト博士]]]** //(doktor-faust)// - ステファン・ファウスト博士。
 
 [!--DEの職員・人物ファイルらしきものはENとURLが重複している。
-http://scp-wiki-de.wikidot.com/personnel-and-character-dossier
+https://scp-wiki-de.wikidot.com/personnel-and-character-dossier
 --]
 
 [[/tab]][!--DE--]
@@ -3042,7 +3042,7 @@ http://scp-wiki-de.wikidot.com/personnel-and-character-dossier
 
 +++ コンテスト-EN
 
-* **[[[/system:page-tags/tag/1000|1000]]]** //(1000)// - [[[http://www.scp-wiki.net/forum/t-376556|SCP-1000コンテスト]]]。
+* **[[[/system:page-tags/tag/1000|1000]]]** //(1000)// - [[[https://scp-wiki.wikidot.com/forum/t-376556|SCP-1000コンテスト]]]。
 
 * **[[[/system:page-tags/tag/2000|2000]]]** //(2000)// - [[[scp2000contesthub|SCP-2000コンテスト]]]。
 
@@ -3314,7 +3314,7 @@ http://scp-wiki-de.wikidot.com/personnel-and-character-dossier
 
 * **[[[/system:page-tags/tag/af2017|af2017]]]** - AF-2017-JP。
 
-* **[[[/system:page-tags/tag/ハロウィン2017|ハロウィン2017]]]** - [[[http://scp-jp.wikidot.com/forum/t-4111918|チャレンジ:ハロウィン記事執筆!]]]。
+* **[[[/system:page-tags/tag/ハロウィン2017|ハロウィン2017]]]** - [[[https://scp-jp.wikidot.com/forum/t-4111918|チャレンジ:ハロウィン記事執筆!]]]。
 
 * **[[[/system:page-tags/tag/af2018|af2018]]]** - AF-2018-JP。
 
@@ -3895,7 +3895,7 @@ SCP-ENだけではなく、他支部でも使用されている場合があり�
 
 * **[[[/system:page-tags/tag/_画像|_画像]]]** //(_image)// - 使用されている画像の出展情報・ライセンス情報が正確かどうか、EN側のスタッフが確認中のページであることを表すタグです。
 
-* **[[[/system:page-tags/tag/_ライセンスボックス|_ライセンスボックス]]]** //(_licensebox)// - ライセンスボックスが付いており、[[[http://scp-wiki.wikidot.com/licensing-master-list|Licensing Master List]]]から詳細な権利情報を確認できるページであることを示すタグです。
+* **[[[/system:page-tags/tag/_ライセンスボックス|_ライセンスボックス]]]** //(_licensebox)// - ライセンスボックスが付いており、[[[https://scp-wiki.wikidot.com/licensing-master-list|Licensing Master List]]]から詳細な権利情報を確認できるページであることを示すタグです。
 
 * **[[[/system:page-tags/tag/_テーマ移行|_テーマ移行]]]** //(_theme-temp)// - 古い//コンポーネント//ページを//テーマ//ページに移行するにあたって設置されるタグです。
 
@@ -4017,7 +4017,7 @@ SCP-ENだけではなく、他支部でも使用されている場合があり�
 
 * **[[[/system:page-tags/tag/クラスなし|クラスなし]]]** //(senza-classe)// - オブジェクトクラスが設定されていないSCP記事に付与されるタグです。//esoteric-class//に置換してください。
 
-* **[[[/system:page-tags/tag/カノン外|カノン外]]]** //(fuori-dal-canone)// - IT支部の[[[http://fondazionescp.wikidot.com/hub-della-branca-italiana|標準カノン]]]から外れた記事に付与されるタグです。SCP記事には付与されません。
+* **[[[/system:page-tags/tag/カノン外|カノン外]]]** //(fuori-dal-canone)// - IT支部の[[[https://fondazionescp.wikidot.com/hub-della-branca-italiana|標準カノン]]]から外れた記事に付与されるタグです。SCP記事には付与されません。
 
 * **[[[/system:page-tags/tag/_p|_p]]]** //(_p)// - IT支部がSNS上の公式アカウントにおいて紹介した記事に付与されます。
 
@@ -4255,32 +4255,32 @@ UncontainedはそのSCPが未収容であることを示すためのクラスで
 
 * [[[tag-guide|]]]
 * [[[tag-search|]]]
-* [*http://05command-ja.wikidot.com/old-tag-list 廃止タグ一覧]
+* [*https://05command-ja.wikidot.com/old-tag-list 廃止タグ一覧]
 * [[[tag-translator|]]]
- * [*http://scp-jp-sandbox2.wikidot.com/guideline:tag-honyaku タグ国際版][運用停止]
+ * [*https://scp-jp-sandbox2.wikidot.com/guideline:tag-honyaku タグ国際版][運用停止]
 * [[[workbench:illegal-tag-monitoring|]]]
 
 ----
 
-* [*http://05command.wikidot.com/tech-hub-tag-list タグリスト-EN]
-* [*http://scp-int.wikidot.com/tag-guide タグリスト-INT]
+* [*https://05command.wikidot.com/tech-hub-tag-list タグリスト-EN]
+* [*https://scp-int.wikidot.com/tag-guide タグリスト-INT]
 * [*http://scpfoundation.net/tag-guide タグリスト-RU]
  * [*http://scpfoundation.net/tag-guide-en タグリスト-RU/翻訳用]
 * [*http://ko.scp-wiki.net/tag-guide タグリスト-KO]
  * [*http://ko.scp-wiki.net/translate:tags タグリスト-KO/翻訳用]
-* [*http://scp-wiki-cn.wikidot.com/tag-guide タグリスト-CN]
-* [*http://fondationscp.wikidot.com/guide-des-tags タグリスト-FR]
-* [*http://scp-pl.wikidot.com/tag-list タグリスト-PL]
-* [*http://lafundacionscp.wikidot.com/tag-guide タグリスト-ES]
-* [*http://scp-th.wikidot.com/tag-list タグリスト-TH]
-* [*http://scp-wiki-de.wikidot.com/tag-guide タグリスト-DE]
-* [*http://fondazionescp.wikidot.com/tag-guide タグリスト-IT]
-* [*http://scp-ukrainian.wikidot.com/tag-guide タグリスト-UA]
-* [*http://scp-pt-br.wikidot.com/guia-de-tags タグリスト-PT/BR]
+* [*https://scp-wiki-cn.wikidot.com/tag-guide タグリスト-CN]
+* [*https://fondationscp.wikidot.com/guide-des-tags タグリスト-FR]
+* [*https://scp-pl.wikidot.com/tag-list タグリスト-PL]
+* [*https://lafundacionscp.wikidot.com/tag-guide タグリスト-ES]
+* [*https://scp-th.wikidot.com/tag-list タグリスト-TH]
+* [*https://scp-wiki-de.wikidot.com/tag-guide タグリスト-DE]
+* [*https://fondazionescp.wikidot.com/tag-guide タグリスト-IT]
+* [*https://scp-ukrainian.wikidot.com/tag-guide タグリスト-UA]
+* [*https://scp-pt-br.wikidot.com/guia-de-tags タグリスト-PT/BR]
 * --タグリスト-CS--
-* [*http://scp-zh-tr.wikidot.com/tag-guide タグリスト-ZH/TR]
-* [*http://scp-vn.wikidot.com/tag-guide タグリスト-VN]
- * [*http://scp-vn.wikidot.com/tag-guide-for-translator タグリスト-VN/翻訳用]
+* [*https://scp-zh-tr.wikidot.com/tag-guide タグリスト-ZH/TR]
+* [*https://scp-vn.wikidot.com/tag-guide タグリスト-VN]
+ * [*https://scp-vn.wikidot.com/tag-guide-for-translator タグリスト-VN/翻訳用]
 
 [[/tab]]
 [[/tabview]]
@@ -4292,12 +4292,12 @@ UncontainedはそのSCPが未収容であることを示すためのクラスで
 [!-- 
 当ページはフラグメントページを使用しています。
 以下はその一覧です。
-http://scp-jp.wikidot.com/fragment:tag-list-basic
-http://scp-jp.wikidot.com/fragment:tag-list-series
-http://scp-jp.wikidot.com/fragment:tag-list-universe
-http://scp-jp.wikidot.com/fragment:tag-list-event
-http://scp-jp.wikidot.com/fragment:tag-list-unused
-http://scp-jp.wikidot.com/fragment:tag-list-faq
+https://scp-jp.wikidot.com/fragment:tag-list-basic
+https://scp-jp.wikidot.com/fragment:tag-list-series
+https://scp-jp.wikidot.com/fragment:tag-list-universe
+https://scp-jp.wikidot.com/fragment:tag-list-event
+https://scp-jp.wikidot.com/fragment:tag-list-unused
+https://scp-jp.wikidot.com/fragment:tag-list-faq
 --]
 
 [[module CSS]]
