@@ -1136,6 +1136,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/harbinger harbinger]** -- Part of the HARBINGER series.
 * **[https://scpwiki.com/system:page-tags/tag/hecatoncheires-cycle hecatoncheires-cycle]** -- Part of the [https://scp-wiki.wikidot.com/hecatoncheires-cycle-hub Hecatoncheires Cycle].
 * **[https://scpwiki.com/system:page-tags/tag/i-didnt-forget i-didnt-forget]** -- Part of the [https://scp-wiki.wikidot.com/i-didn-t-forget-hub I Didn't Forget] series.
+* **[https://scpwiki.com/system:page-tags/tag/indivisible indivisible]** -- Part of the [https://scp-wiki.wikidot.com/indivisible-hub Indivisible] series.
 * **[https://scpwiki.com/system:page-tags/tag/integration-program integration-program]** -- Part of the [https://scp-wiki.wikidot.com/integration-program-hub Integration Program] series.
 * **[https://scpwiki.com/system:page-tags/tag/in-saffron-sands in-saffron-sands]** -- Part of the [https://scp-wiki.wikidot.com/saffronsands-hub In Saffron Sands] series.
 * **[https://scpwiki.com/system:page-tags/tag/kiryu-labs kiryu-labs]** -- Part of the [https://scp-wiki.wikidot.com/kiryu-labs-hub Kiryu Labs] series.
@@ -1444,6 +1445,7 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/three-portlands three-portlands]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/three-portlands-hub Three Portlands].
 * **[https://scpwiki.com/system:page-tags/tag/undervegas undervegas]** -- Set in or related to the demonic city of [https://scp-wiki.wikidot.com/undervegas-hub Undervegas].
 * **[https://scpwiki.com/system:page-tags/tag/wanderers-library wanderers-library]** -- Set in or related to the universe-connecting [https://scp-wiki.wikidot.com/wanderers-library-hub Wanderer's Library].
+* **[https://scpwiki.com/system:page-tags/tag/wonder-world wonder-world]** -- Set in or related to the fantastical extradimensional city of [https://scp-wiki.wikidot.com/wonder-world-dossier Wonder World!™] (pronounced tee-em), created by Dr. Wondertainment.
 
 [[/tab]]
 [[tab Objects]]
