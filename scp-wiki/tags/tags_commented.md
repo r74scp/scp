@@ -104,22 +104,29 @@ Miscellaneous major page tags that are not top-level tags.
 * **[https://scpwiki.com/system:page-tags/tag/001-proposal 001-proposal]** -- For articles proposing a possible [https://scp-wiki.wikidot.com/scp-001 SCP-001] object. SCPs tagged with this tag should also be tagged with their standard object class tag, or //esoteric-class// if applicable.
  * //Often used with 'scp'//
 * **[https://scpwiki.com/system:page-tags/tag/archived archived]** -- Pages which have been archived due to having been superseded, obsoleted, or inactivity. These pages should also be moved to the {{archived:}} category so they retain the 'archived page' notice and are locked from edits. See [https://scp-wiki.wikidot.com/archived-scps Archived Pages] for more information on archival.
-* **[https://scpwiki.com/system:page-tags/tag/canon-hub canon-hub]** -- Used for hubs which represent a [https://scp-wiki.wikidot.com/canon-hub canon].
- * //Requires 'hub'//
- * //Supersedes 'series-hub'//
 * **[https://scpwiki.com/system:page-tags/tag/co-authored co-authored]** -- Pages that are the result of two or more authors working together, but are not open to additions from other members (unless otherwise specified).
 * **[https://scpwiki.com/system:page-tags/tag/collaboration collaboration]** -- Pages that are or were open to additions from any site member, with the caveat that staff and the original author reserve the right to modify or delete entries found to be subpar, or close entries entirely.
-* **[https://scpwiki.com/system:page-tags/tag/contest contest]** -- Pages created for the purpose of community contests. This should be used in conjunction with //hub// in the case of entry listings, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
- * //Requires 'hub'//
 * **[https://scpwiki.com/system:page-tags/tag/explained explained]** -- [https://scp-wiki.wikidot.com/scp-ex Explained ] (-EX) SCPs are a special type of //scp//, although //explained// can be used as an object class on any SCP. Articles that use Explained as an Object Class should be tagged with their previous object class tag, if it is included in the article.
  * //Requires 'scp'//
-* **[https://scpwiki.com/system:page-tags/tag/group-hub group-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a specific [https://scp-wiki.wikidot.com/groups-of-interest Group of Interest], [https://scp-wiki.wikidot.com/departments Department] or [https://scp-wiki.wikidot.com/task-forces Mobile Task Force]. May also be a //canon-hub// or //series-hub//.
- * //Requires 'hub'//
 * **[https://scpwiki.com/system:page-tags/tag/joke joke]** -- Pages which are considered 'jokes' or explicitly 'out-of-universe'. Joke pages can be parodies of any page type, and should be tagged as such a page usually would. See [https://scp-wiki.wikidot.com/joke-scps Joke SCPs] for more information on Joke pages.
 * **[https://scpwiki.com/system:page-tags/tag/lost-series lost-series]** -- Part of the [https://scp-wiki.wikidot.com/lost-scp-series Lost SCP Series].
 * **[https://scpwiki.com/system:page-tags/tag/policy policy]** -- Page contains actionable site rules and policy.
 * **[https://scpwiki.com/system:page-tags/tag/required required]** -- Guides that are part of the required reading for joining the SCP Wiki.
-* **[https://scpwiki.com/system:page-tags/tag/series-hub series-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a series of connected articles, which may include tales, SCPs and GoI Formats.
+
++++ Hub pages
+
+Tags that describe the content of a //hub// page.
+
+* **[https://scpwiki.com/system:page-tags/tag/canon-hub canon-hub]** -- Used for hubs which represent a [https://scp-wiki.wikidot.com/canon-hub canon].
+ * //Requires 'hub'//
+ * //Supersedes 'series-hub'//
+* **[https://scpwiki.com/system:page-tags/tag/contest contest]** -- Pages created for the purpose of community contests. This should be used in conjunction with //hub// on the page listing the rules and the contest entries, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
+ * //Requires 'hub'//
+* **[https://scpwiki.com/system:page-tags/tag/group-hub group-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a specific [https://scp-wiki.wikidot.com/groups-of-interest Group of Interest], [https://scp-wiki.wikidot.com/departments Department] or [https://scp-wiki.wikidot.com/task-forces Mobile Task Force]. May also be a //canon-hub// or //series-hub//.
+ * //Requires 'hub'//
+* **[https://scpwiki.com/system:page-tags/tag/podcast podcast]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a podcast, an ongoing or concluded audio series.
+ * //Requires 'hub'//
+* **[https://scpwiki.com/system:page-tags/tag/series-hub series-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a series of connected articles, which may include tales, SCPs, GoI Formats, artworks or essays.
  * //Requires 'hub'//
  * //Superseded by 'canon-hub'//
 
@@ -1110,6 +1117,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/8000-dead-rats 8000-dead-rats]** -- Part of the [https://scp-wiki.wikidot.com/8000-dead-rats-hub 8000 Dead Rats] series.
 * **[https://scpwiki.com/system:page-tags/tag/abcs-of-death abcs-of-death]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-hub ABC's of Death SCP anthology].
 * **[https://scpwiki.com/system:page-tags/tag/admonition admonition]** -- Part of the [https://scp-wiki.wikidot.com/admonition Admonition] series.
+* **[https://scpwiki.com/system:page-tags/tag/american-dreams american-dreams]** -- Part of the [https://scp-wiki.wikidot.com/american-dreams-hub American Dreams] series.
 * **[https://scpwiki.com/system:page-tags/tag/anabasis anabasis]** -- Part of the [https://scp-wiki.wikidot.com/anabasis-hub Anabasis] series.
 * **[https://scpwiki.com/system:page-tags/tag/animal-hospital animal-hospital]** -- Part of the [https://scp-wiki.wikidot.com/animal-hospital-hub ANIMAL HOSPITAL] series.
 * **[https://scpwiki.com/system:page-tags/tag/ao-tale ao-tale]** -- Part of the [https://scp-wiki.wikidot.com/ao-hub Tales of Anomalous Items] series, consisting of stories about anomalous objects.
@@ -1341,6 +1349,7 @@ SCP Objects with their own character tags.
 * **[https://scpwiki.com/system:page-tags/tag/the-old-man the-old-man]** -- Features The Old Man, aka [https://scp-wiki.wikidot.com/scp-106 SCP-106].
 * **[https://scpwiki.com/system:page-tags/tag/the-sculpture the-sculpture]** -- Features The Sculpture, aka [https://scp-wiki.wikidot.com/scp-173 SCP-173].
 * **[https://scpwiki.com/system:page-tags/tag/the-specter the-specter]** -- Features The Specter, aka [https://scp-wiki.wikidot.com/scp-4494 SCP-4494].
+* **[https://scpwiki.com/system:page-tags/tag/the-young-girl the-young-girl]** -- Features The Young Girl, aka [https://scp-wiki.wikidot.com/scp-053 SCP-053].
 * **[https://scpwiki.com/system:page-tags/tag/tickle-monster tickle-monster]** -- Features The Tickle Monster, aka [https://scp-wiki.wikidot.com/scp-999 SCP-999].
 * **[https://scpwiki.com/system:page-tags/tag/too-spooky too-spooky]** -- Features Too Spooky, aka [https://scp-wiki.wikidot.com/scp-2006 SCP-2006].
 
@@ -1434,7 +1443,7 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 * **[https://scpwiki.com/system:page-tags/tag/hy-brasil hy-brasil]** -- Set in or related to the vanishing island of [https://scp-wiki.wikidot.com/nx-03 Hy-Brasil].
 * **[https://scpwiki.com/system:page-tags/tag/infinite-furniture-store infinite-furniture-store]** -- Set in or related to [https://scp-wiki.wikidot.com/scp-3008 SCP-3008], the Infinite Ikea.
 * **[https://scpwiki.com/system:page-tags/tag/la-rue-macabre la-rue-macabre]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/dossier-lph La Rue Macabre].
-* **[https://scpwiki.com/system:page-tags/tag/little-havana little-havana]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/larue-hub Little Havana].
+* **[https://scpwiki.com/system:page-tags/tag/little-havana little-havana]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/dossier-lph Little Havana].
 * **[https://scpwiki.com/system:page-tags/tag/noosphere noosphere]** -- Related to the Noösphere, a conceptual space consisting of the totality of human knowledge and thought.
 * **[https://scpwiki.com/system:page-tags/tag/the-stairwell the-stairwell]** -- Set in or related to [https://scp-wiki.wikidot.com/scp-087 SCP-087], the Stairwell.
 * **[https://scpwiki.com/system:page-tags/tag/three-portlands three-portlands]** -- Set in or related to the Free Port of [https://scp-wiki.wikidot.com/three-portlands-hub Three Portlands].
