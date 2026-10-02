@@ -127,6 +127,10 @@ Tags that describe the content of a //hub// page.
  * //Supersedes 'series-hub'//
 * **[https://scpwiki.com/system:page-tags/tag/contest contest]** -- Pages created for the purpose of community contests. This should be used in conjunction with //hub// on the page listing the rules and the contest entries, and should not be used on the entries themselves. These contests are only created by staff or with staff permission.
  * //Requires 'hub'//
+ * //Conflicts with 'event'//
+* **[https://scpwiki.com/system:page-tags/tag/event event]** -- Pages created for the purpose of non-competitive community events. This should be used in conjunction with //hub// on the page listing the rules and the contest entries, and should not be used on the entries themselves.
+ * //Requires 'hub'//
+ * //Conflicts with 'contest'//
 * **[https://scpwiki.com/system:page-tags/tag/group-hub group-hub]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a specific [https://scp-wiki.wikidot.com/groups-of-interest Group of Interest], [https://scp-wiki.wikidot.com/departments Department] or [https://scp-wiki.wikidot.com/task-forces Mobile Task Force]. May also be a //canon-hub// or //series-hub//.
  * //Requires 'hub'//
 * **[https://scpwiki.com/system:page-tags/tag/podcast podcast]** -- Utilized in conjunction with the //hub// tag to designate that this hub represents a podcast, an ongoing or concluded audio series.
