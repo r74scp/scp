@@ -1601,6 +1601,7 @@ Tags for official contests organized by SCP Wiki staff, and the articles submitt
 * **[https://scpwiki.com/system:page-tags/tag/classiccon2025 classiccon2025]** -- An entry to the [https://scp-wiki.wikidot.com/classic-con 2025 Classic Contest].
 * **[https://scpwiki.com/system:page-tags/tag/sportscon2026 sportscon2026]** -- An entry to the [https://scp-wiki.wikidot.com/sportscon 2026 SPORTS Contest].
 * **[https://scpwiki.com/system:page-tags/tag/goicon-2026 goicon-2026]** -- An entry to the [https://scp-wiki.wikidot.com/goicon-2026 2026 Groups of Interest Contest].
+* **[https://scpwiki.com/system:page-tags/tag/creepypastacon2026 creepypastacon2026]** -- An entry to the [https://scp-wiki.wikidot.com/creepypastacon-2026 Creepypasta Con 2026].
 
 +++ Unofficial Contests
 
