@@ -1064,7 +1064,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/政治|政治]]]** //(political)// - 政治家や外交官、政治的プロセスに焦点を当てた作品。
  * __SCP-JPオリジナル記事での使用に関しては、アトリビュートタグ「政治家」を参照してください。__
 * **[[[/system:page-tags/tag/スーパーヒーロー|スーパーヒーロー]]]** //(superhero)// - スーパーヒーローやスーパーヴィランが登場する作品。これらのキャラクターは通常、素性の秘匿、コスチューム、超自然的な能力といった特徴を有します。
-* **[[[/system:page-tags/tag/タイムトラベル|タイムトラベル]]]** //(time-travel)// -過去や未来へのタイムトラベルに焦点を当てた作品。
+* **[[[/system:page-tags/tag/タイムトラベル|タイムトラベル]]]** //(time-travel)// - 過去や未来へのタイムトラベルに焦点を当てた作品。
  * 適切ならば//サイエンスフィクション//タグと併用してください。
  * SCP記事では、適切ならば//時間//や//未来// (アトリビュートタグ) が併用されます。
 * **[[[/system:page-tags/tag/台湾原住民|台湾原住民]]]** //(台灣原住民)// - SCP-ZH独自のジャンルタグです。実在する、ないしはかつて実在していた台湾原住民族[[footnote]] 台湾原住民 / 台湾原住民族は現地の呼称であり、国内でも台湾研究者などの間で使用される場合があります。現地では“先住民”は既に滅んだ民族を指す語であるため、避けられます。以上の点を踏まえて、ここでは「台湾原住民」訳を採用しています。 [[/footnote]]を扱った作品。架空の民族 (SCP-ZH-098に登場する「守望族」など) は対象になりません。//zh//が併用される場合にのみ使用できます。
@@ -1113,14 +1113,14 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/報告書形式|報告書形式]]]** //(scp-format)// - SCP報告書の形式で綴られた作品。財団の公式文書であっても、SCP報告書形式でない場合は該当しません。
  * 必ず//tale//タグと併用されねばなりません。
  * //scp//タグとは併用できません。
-* **[[[/system:page-tags/tag/日記体|日記体]]]** //(journal)// -  日記体小説と呼ばれる、作中世界の日記や日誌の体裁で、当時起きていた出来事を描写した作品。
+* **[[[/system:page-tags/tag/日記体|日記体]]]** //(journal)// - 日記体小説と呼ばれる、作中世界の日記や日誌の体裁で、当時起きていた出来事を描写した作品。
  * 必ず//tale//タグと併用されねばなりません。
-* **[[[/system:page-tags/tag/非対話|非対話]]]** //(no-dialogue)//  - セリフや会話のシーンが含まれない作品。
+* **[[[/system:page-tags/tag/非対話|非対話]]]** //(no-dialogue)// - セリフや会話のシーンが含まれない作品。
  * 必ず//tale//タグと併用されねばなりません。
 * **[[[/system:page-tags/tag/オリエンテーション|オリエンテーション]]]** //(orientation)// - オリエンテーション講義の形式をとった作品。
  * 必ず//tale//タグと併用されねばなりません。
  * __SCP-JPオリジナル記事での使用に関しては、Taleシリーズ-ENタグ「orientation」を参照してください。__
-* **[[[/system:page-tags/tag/二人称|二人称]]]** //(second-person)//  - 二人称視点で描写した (「あなたは～した」等) 作品。
+* **[[[/system:page-tags/tag/二人称|二人称]]]** //(second-person)// - 二人称視点で描写した (「あなたは～した」等) 作品。
  * 必ず//tale//タグと併用されねばなりません。
 * **[[[/system:page-tags/tag/世界観構築|世界観構築]]]** //(worldbuilding)// - 世界観に関する情報を伝えることに焦点を当てた作品。多くの場合、作中世界における文書の体裁をとります。
  * 必ず//tale//タグと併用されねばなりません。
@@ -1151,7 +1151,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 
 * ,,︁,,**[[[/system:page-tags/tag/差し止め通知|差し止め通知]]]** - ライセンス表記不備などの理由で将来的に画像が差し止めされる可能性があるページに付与されるタグです。
 
-* **[[[/system:page-tags/tag/_イベント1|_イベント1]]]** / **[[[/system:page-tags/tag/_イベント2|_イベント2]]]**  / **[[[/system:page-tags/tag/_イベント3|_イベント3]]]** / **[[[/system:page-tags/tag/_イベント4|_イベント4]]]** / **[[[/system:page-tags/tag/_イベント5|_イベント5]]]** - SCP-JP上で開催されるイベントにおけるエントリー部門などを識別するためのタグです。使用される場合、そのイベントのハブに用法が別途記載されます。
+* **[[[/system:page-tags/tag/_イベント1|_イベント1]]]** / **[[[/system:page-tags/tag/_イベント2|_イベント2]]]** / **[[[/system:page-tags/tag/_イベント3|_イベント3]]]** / **[[[/system:page-tags/tag/_イベント4|_イベント4]]]** / **[[[/system:page-tags/tag/_イベント5|_イベント5]]]** - SCP-JP上で開催されるイベントにおけるエントリー部門などを識別するためのタグです。使用される場合、そのイベントのハブに用法が別途記載されます。
 
 * ,,,,**[[[/system:page-tags/tag/外部連携|外部連携]]]** - Wikidot外部のツールと連携して機能を提供しているページに付与されるタグです。
 [[/tab]]
@@ -1486,7 +1486,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/なぜいい天気だと言ったのか|なぜいい天気だと言ったのか]]]** - [[[why-did-they-say-its-a-beautiful-day-in-the-quiet-world-hub|そしてこの世の終わりが来て、静かなる世界で彼はなぜいい天気だと言ったのか？]]]。
 * **[[[/system:page-tags/tag/poi-1933|poi-1933]]]** - [[[miyazawakenji-hub|PoI-1933]]]。
 * **[[[/system:page-tags/tag/妙麗寺|妙麗寺]]]** - [[[myo-rei-ji|妙麗寺]]]。
-* **[[[/system:page-tags/tag/doden|doden]]]** -  [[[doden|Døden]]]。
+* **[[[/system:page-tags/tag/doden|doden]]]** - [[[doden|Døden]]]。
 * **[[[/system:page-tags/tag/忘却のアディウム|忘却のアディウム]]]** - [[[oblivion-adium|忘却のアディウム]]]。
 * **[[[/system:page-tags/tag/q9alt|q9alt]]]** - [[[q9alt-hub|Q9ALT]]]。
 * **[[[/system:page-tags/tag/コウプスコウパス|コウプスコウパス]]]** - [[[corpse-corpus-hub|コウプス・コウパス]]]。
@@ -1623,7 +1623,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/サメ殴りセンター|サメ殴りセンター]]]** //(shark-punching-center)// - [[[spc-hub|サメ殴りセンター (SPC)]]]。
 * **[[[/system:page-tags/tag/三ツ月イニシアチブ|三ツ月イニシアチブ]]]** //(three-moons-initiative)// - [[[three-moons-initiative-hub|三ツ月イニシアチブ]]]。
 * **[[[/system:page-tags/tag/トトレイソフト|トトレイソフト]]]** //(totleighsoft)// - 異常なソフトウェア開発企業、[[[totleighsoft-hub|トトレイソフト]]]。
-* **[[[/system:page-tags/tag/異常積荷委員会|異常積荷委員会]]]** (//unusual-cargo//) - [[[unusual-cargo-hub|異常積荷委員会]]]。
+* **[[[/system:page-tags/tag/異常積荷委員会|異常積荷委員会]]]** //(unusual-cargo)// - [[[unusual-cargo-hub|異常積荷委員会]]]。
 * **[[[/system:page-tags/tag/異常事件課|異常事件課]]]** //(unusual-incidents-unit)// - [[[unusual-incidents-unit-hub|連邦捜査局 (FBI) 異常事件課 (UIU)]]]。
 * **[[[/system:page-tags/tag/ヴァルラウン|ヴァルラウン]]]** //(valravn)// - [[[valravn-corporation-hub|ヴァルラウン・コーポレーション]]]。
 * **[[[/system:page-tags/tag/ヴィキャンデル・ニード|ヴィキャンデル・ニード]]]** //(vikander-kneed)// - [[[vikander-kneed-technical-media-hub|ヴィキャンデル=ニード・テクニカル・メディア]]]。
@@ -1642,7 +1642,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/ギフトシュライバー|ギフトシュライバー]]]** //(giftschreiber)// - [[span class="ruby"]]毒筆家[[span class="rt"]]ギフトシュライバー[[/span]][[/span]]。
 * **[[[/system:page-tags/tag/金帳汗国|金帳汗国]]]** //(golden-horde)// - 金帳汗国。
 * **[[[/system:page-tags/tag/ハンターの黒きロッジ|ハンターの黒きロッジ]]]** //(hunters-black-lodge)// - ハンターの黒きロッジ、[[[SCP-2408]]]で初めて描写されたネオ-サーキック犯罪シンジケート。
-* **[[[/system:page-tags/tag/icsut|icsut]]]** (//icsut//) - 国際統一奇跡論研究センター (ICSUT)。
+* **[[[/system:page-tags/tag/icsut|icsut]]]** //(icsut)// - 国際統一奇跡論研究センター (ICSUT)。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。要注意領域-ENの項目も参照してください。
 * **[[[/system:page-tags/tag/マクスウェリズム|マクスウェリズム]]]** //(maxwellism)// - 壊れた神の教会の一派閥、マクスウェリズム教会。
 * **[[[/system:page-tags/tag/監督真司令部|監督真司令部]]]** //(obearwatch)// - [[span class="ruby"]]監督真司令部[[span class="rt"]]かんと**くま**しれいぶ[[/span]][[/span]]
@@ -1728,7 +1728,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/有村組|有村組]]]** - 有村組。
 * **[[[/system:page-tags/tag/葦の輪|葦の輪]]]** - 葦の輪。
 * **[[[/system:page-tags/tag/夏鳥思想連盟|夏鳥思想連盟]]]** - 夏鳥思想連盟。
-* **[[[/system:page-tags/tag/yakushi|yakushi‬]]]** - 医療産業連合Yakushi‬。
+* **[[[/system:page-tags/tag/yakushi|yakushi]]]** - 医療産業連合Yakushi‬。
 * **[[[/system:page-tags/tag/みどりのだいち|みどりのだいち]]]** - みどりのだいちプロジェクト。
 * **[[[/system:page-tags/tag/超工家電|超工家電]]]** - 超工家電。
 * **[[[/system:page-tags/tag/艦政本部対超常課|艦政本部対超常課]]]** - 艦政本部対超常課。
@@ -2088,7 +2088,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 +++ 部門-CN
 それぞれの詳細は[[[departments-cn|財団内部部門-CN]]]を参照してください。
 
-* **[[[/system:page-tags/tag/論理部門|論理部門]]]** //(逻辑部)// - [[[dol-hub|財団論理部門]]]。 
+* **[[[/system:page-tags/tag/論理部門|論理部門]]]** //(逻辑部)// - [[[dol-hub|財団論理部門]]]。
 * **[[[/system:page-tags/tag/異常宗教表現部門|異常宗教表現部門]]]** //(异常宗教表现部)// - [[[ared-hub|異常宗教表現部門]]]。
 
 以下のタグについては、特定の他支部の項を参照してください。
@@ -2100,7 +2100,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 
 +++ 部門-PL
 
-* **[[[/system:page-tags/tag/監査官|監査官]]]** //(inkwizytorzy)// - 財団の[[span class="ruby"]]監査官[[span class="rt"]]インクイジター[[/span]][[/span]]。 
+* **[[[/system:page-tags/tag/監査官|監査官]]]** //(inkwizytorzy)// - 財団の[[span class="ruby"]]監査官[[span class="rt"]]インクイジター[[/span]][[/span]]。
 
 [[/tab]]
 [[tab ZH]]
@@ -2191,7 +2191,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ライト博士|ライト博士]]]** //(doctor-light)// - ソフィア・N・ライト博士。
 * **[[[/system:page-tags/tag/リリハンメル博士|リリハンメル博士]]]** //(doctor-lillihammer)// - リリアン・S・リリハンメル博士。
 * **[[[/system:page-tags/tag/マン博士|マン博士]]]** //(doctor-mann)// - エヴァレット・マン博士。
-* **[[[/system:page-tags/tag/マクドクトラート博士|マクドクトラート博士]]]**//(doctor-mcdoctorate)// - プレースホルダー・マクドクトラート博士。かつての名前はネイサン・ヴァリス管理官。
+* **[[[/system:page-tags/tag/マクドクトラート博士|マクドクトラート博士]]]** //(doctor-mcdoctorate)// - プレースホルダー・マクドクトラート博士。かつての名前はネイサン・ヴァリス管理官。
 * **[[[/system:page-tags/tag/ゴ博士|ゴ博士]]]** //(doctor-ngo)// - サイト-43の主席精神科医、ニュン・タィン・ゴ博士。
 * **[[[/system:page-tags/tag/オコリー博士|オコリー博士]]]** //(doctor-okorie)// - ウド・オコリー博士、イギリスからの移住者で、魔法ゴミの無毒化に関する長く名高い家系の末裔。
 * **[[[/system:page-tags/tag/レインデルス博士|レインデルス博士]]]** //(doctor-reynders)// - イルゼ・レインデルス博士、元[[[SCP-5616]]]。
@@ -2280,7 +2280,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/サウエルスエソル|サウエルスエソル]]]** //(sauelsuesor)// - サウエルスエソル、通称[[[SCP-179]]](SCP-ES-026)。
 * **[[[/system:page-tags/tag/シャイガイ|シャイガイ]]]** //(shy-guy)// - シャイガイ、通称[[[SCP-096]]]。
 * **[[[/system:page-tags/tag/シガーロス|シガーロス]]]** //(sigurross)// - シガーロス・ステファンズドッティル、通称[[[SCP-239]]]。
-* **[[[/system:page-tags/tag/年頃のガイア |年頃のガイア]]]** //(teenage-gaea)// - メリ、通称[[[SCP-166]]] (改稿後のもののみを指す)。
+* **[[[/system:page-tags/tag/年頃のガイア|年頃のガイア]]]** //(teenage-gaea)// - メリ、通称[[[SCP-166]]] (改稿後のもののみを指す)。
 * **[[[/system:page-tags/tag/scp-2521|scp-2521]]]** //(ten-dots)// - [[[SCP-2521]]]。
 * **[[[/system:page-tags/tag/オールドマン|オールドマン]]]** //(the-old-man)// - オールドマン、通称[[[SCP-106]]]。
 * **[[[/system:page-tags/tag/くすぐりオバケ|くすぐりオバケ]]]** //(tickle-monster)// - くすぐりオバケ、通称[[[SCP-999]]]。
@@ -2408,7 +2408,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/エージェント・桜庭|エージェント・桜庭]]]** - エージェント・桜庭。
 * **[[[/system:page-tags/tag/エージェント・差前|エージェント・差前]]]** - エージェント・差前。
 * **[[[/system:page-tags/tag/エージェント・許|エージェント・許]]]** - エージェント・許さん。
-* **[[[/system:page-tags/tag/エージェント・井戸田|エージェント・井戸田]]]**  - エージェント・井戸田、あるいは"反ミーム師匠"。
+* **[[[/system:page-tags/tag/エージェント・井戸田|エージェント・井戸田]]]** - エージェント・井戸田、あるいは"反ミーム師匠"。
 * **[[[/system:page-tags/tag/エージェント・谷崎|エージェント・谷崎]]]** - エージェント・谷崎。
 * **[[[/system:page-tags/tag/エージェント・戸神|エージェント・戸神]]]** - エージェント・戸神。
 * **[[[/system:page-tags/tag/エージェント・那澤なごむ|エージェント・那澤なごむ]]]** - エージェント・那澤 なごむ。
@@ -2445,7 +2445,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ウェイター|ウェイター]]]** - 「弟の食料品」のウェイター。
 * **[[[/system:page-tags/tag/scp-014-jp-ex-1|scp-014-jp-ex-1]]]** - [[[SCP-014-JP-EX|SCP-014-JP-EX-1]]]。
 * **[[[/system:page-tags/tag/scp-014-jp-j|scp-014-jp-j]]]** - [[[SCP-014-JP-J]]]。
-* **[[[/system:page-tags/tag/scp-210-jp|scp-210-jp ]]]** - [[[SCP-210-JP]]]。
+* **[[[/system:page-tags/tag/scp-210-jp|scp-210-jp]]]** - [[[SCP-210-JP]]]。
 * **[[[/system:page-tags/tag/scp-964-jp|scp-964-jp]]]** - [[[SCP-964-JP]]]。
 * **[[[/system:page-tags/tag/scp-1134-jp|scp-1134-jp]]]** - 勝、または[[[SCP-1134-JP]]]。
 * **[[[/system:page-tags/tag/scp-2050-jp-a|scp-2050-jp-a]]]** - [[[SCP-2050-JP]]]-A。
@@ -2476,7 +2476,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/ドリームマン|ドリームマン]]]** - ドリームマン、通称[[[SCP-990]]]。
 * **[[[/system:page-tags/tag/ブライト博士|ブライト博士]]]** - ブライト博士、別名[[[SCP-963]]]。
-* **[[[/system:page-tags/tag/私たちを見守るもの|私たちを見守るもの]]]** -私たちを見守るもの、通称[[[SCP-4999]]]。
+* **[[[/system:page-tags/tag/私たちを見守るもの|私たちを見守るもの]]]** - 私たちを見守るもの、通称[[[SCP-4999]]]。
 
 [[/tab]]
 [[tab RU]]
@@ -2624,12 +2624,12 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/アディトゥム|アディトゥム]]]** //(adytum)// - カルマクタマとして知られるサーキック帝国の中心都市、アディトゥム。
 * **[[[/system:page-tags/tag/アラガッダ|アラガッダ]]]** //(alagadda)// - アラガッダ。
 * **[[[/system:page-tags/tag/バックドア・ソーホー|バックドア・ソーホー]]]** //(backdoor-soho)// - バックドア・ソーホー。
-* **[[[/system:page-tags/tag/コルベニク|コルベニク]]]** //(corbenic)// -  [[[SCP-2922|SCP-2922-C]]]、異次元に存在する死後の世界であるコルベニク。
+* **[[[/system:page-tags/tag/コルベニク|コルベニク]]]** //(corbenic)// - [[[SCP-2922|SCP-2922-C]]]、異次元に存在する死後の世界であるコルベニク。
 * **[[[/system:page-tags/tag/機械仕掛けの神|機械仕掛けの神]]]** //(deus-ex-machina)// - 財団の世界再起動装置、[[[SCP-2000]]]。
 * **[[[/system:page-tags/tag/エスターバーグ|エスターバーグ]]]** //(esterberg)// - フリーポートの1つ、[[[esterberg-city-wikipedia|エスターバーグ]]]。
-* **[[[/system:page-tags/tag/ユーテック|ユーテック]]]** (//eurtec//) - ユーテック。
+* **[[[/system:page-tags/tag/ユーテック|ユーテック]]]** //(eurtec)// - ユーテック。
 * **[[[/system:page-tags/tag/ハイ・ブラジル|ハイ・ブラジル]]]** //(hy-brasil)// - [[[nx-03|ハイ・ブラジル島]]]。
-* **[[[/system:page-tags/tag/無限の家具店|無限の家具店]]]** (//infinite-furniture-store//) - [[[SCP-3008]]]、無限のイケア。
+* **[[[/system:page-tags/tag/無限の家具店|無限の家具店]]]** //(infinite-furniture-store)// - [[[SCP-3008]]]、無限のイケア。
 * **[[[/system:page-tags/tag/ラ・リュー・マカーブラー|ラ・リュー・マカーブラー]]]** //(la-rue-macabre)// - [[[larue-hub|ラ・リュー・マカーブラー]]]。
 * **[[[/system:page-tags/tag/ノウアスフィア|ノウアスフィア]]]** //(noosphere)// - 人間の知識や思考の総体からなる概念的な圏域、ノウアスフィア。
 * **[[[/system:page-tags/tag/吹き抜けた階段|吹き抜けた階段]]]** //(the-stairwell)// - [[[SCP-087]]]、吹き抜けた階段。
@@ -2879,11 +2879,11 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/exquisite-corpse2020|exquisite-corpse2020]]]** //(exquisite-corpse2020)// - [[[exquisite-corpse-contest|2020年優美な屍骸コンテスト]]]。
 
-* **[[[/system:page-tags/tag/canon2020|canon2020]]]**//(canon2020)// - [[[canon-renaissance-contest|カノン復興コンテスト]]]。
+* **[[[/system:page-tags/tag/canon2020|canon2020]]]** //(canon2020)// - [[[canon-renaissance-contest|カノン復興コンテスト]]]。
 
-* **[[[/system:page-tags/tag/cupid2021|cupid2021]]]**//(cupid2021)// - [[[cupid-contest-2021|キューピッドコンテスト2021]]]。
+* **[[[/system:page-tags/tag/cupid2021|cupid2021]]]** //(cupid2021)// - [[[cupid-contest-2021|キューピッドコンテスト2021]]]。
 
-* **[[[/system:page-tags/tag/jam-con2021|jam-con2021]]]**//(jam-con2021)// - [[[jam-con-2021|2021年度72時間ジャムコンテスト]]]。
+* **[[[/system:page-tags/tag/jam-con2021|jam-con2021]]]** //(jam-con2021)// - [[[jam-con-2021|2021年度72時間ジャムコンテスト]]]。
  * **[[[/system:page-tags/tag/_海|_海]]]** //(_marine)// - 一日目。
  * **[[[/system:page-tags/tag/_腐敗|_腐敗]]]** //(_corruption)// - 二日目。
  * **[[[/system:page-tags/tag/_有名フラグ|_有名フラグ]]]** //(_famouslastwords)// - 三日目。
@@ -2894,7 +2894,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/coldpostcon|coldpostcon]]]** //(coldpostcon)// - [[[coldpostcon|コールドポストコンテスト]]]。
 
-* **[[[/system:page-tags/tag/goblincon2023|goblincon2023]]]** //(goblincon2023)//  - [[[goblincon|ゴブリンコンテスト]]]。
+* **[[[/system:page-tags/tag/goblincon2023|goblincon2023]]]** //(goblincon2023)// - [[[goblincon|ゴブリンコンテスト]]]。
  * **[[[/system:page-tags/tag/_goblin-76年|_goblin-76年]]]** //(_goblin-76)// - "76年"カテゴリへの参加作。
  * **[[[/system:page-tags/tag/_goblin-バグ|_goblin-バグ]]]** //(_goblin-glitch)// - "バグ"カテゴリへの参加作。
  * **[[[/system:page-tags/tag/_goblin-ゴブリン|_goblin-ゴブリン]]]** //(_goblin-goblin)// - "ゴブリン"カテゴリへの参加作。
@@ -2949,10 +2949,10 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/pridefest2024|pridefest2024]]]** //(pridefest2024)// - [[[pridefest|2024年プライドフェスティバル]]]。
 
-* **[[[/system:page-tags/tag/nightmarefest|nightmarefest]]]** (//nightmarefest//) - 非公式企画の[[[nightmarefest|ナイトメアフェスト]]]。
- * **[[[/system:page-tags/tag/_タウンハウス|_タウンハウス]]]** (//_townhouse//) - "タウンハウス"カテゴリへの参加作。
- * **[[[/system:page-tags/tag/_お役人|_お役人]]]** (//_the-bureaucrat//) - "お役人"カテゴリへの参加作。
- * **[[[/system:page-tags/tag/_夜勤|_夜勤]]]** (//_graveyard-shift//) - "夜勤"カテゴリへの参加作。
+* **[[[/system:page-tags/tag/nightmarefest|nightmarefest]]]** //(nightmarefest)// - 非公式企画の[[[nightmarefest|ナイトメアフェスト]]]。
+ * **[[[/system:page-tags/tag/_タウンハウス|_タウンハウス]]]** //(_townhouse)// - "タウンハウス"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_お役人|_お役人]]]** //(_the-bureaucrat)// - "お役人"カテゴリへの参加作。
+ * **[[[/system:page-tags/tag/_夜勤|_夜勤]]]** //(_graveyard-shift)// - "夜勤"カテゴリへの参加作。
 
 * **[[[/system:page-tags/tag/spring-cleaning24|spring-cleaning24]]]** //(spring-cleaning24)// - [[[deer-college-spring-cleaning-event|2024年春の大掃除イベント]]]。
 
@@ -3022,13 +3022,13 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/三題噺言霊競演21|三題噺言霊競演21]]]** - [[[kotodama-contest-2021|令和三年度三題噺言霊競演]]]。
 
-* **[[[/system:page-tags/tag/夜コン21|夜コン21]]]** -  [[[yorucontest2021-hub|夜のコンテスト2021]]]。
+* **[[[/system:page-tags/tag/夜コン21|夜コン21]]]** - [[[yorucontest2021-hub|夜のコンテスト2021]]]。
 
 * **[[[/system:page-tags/tag/リサイクル2021|リサイクル2021]]]** - [[[recyclecontest21|リサイクルコンテスト2021]]]。
 
 * **[[[/system:page-tags/tag/わかばコンテスト|わかばコンテスト]]]** - [[[wakaba-contest-2022|わかばコンテスト2022]]]。
 
-* **[[[/system:page-tags/tag/qコン22|qコン22]]]** -  [[[qcontest2022-hub|Qのコンテスト2022]]]。
+* **[[[/system:page-tags/tag/qコン22|qコン22]]]** - [[[qcontest2022-hub|Qのコンテスト2022]]]。
 
 * **[[[/system:page-tags/tag/3000jp|3000jp]]]** - [[[scp3000jp-contest-hub|SCP-3000-JPコンテスト]]]。
 
@@ -3126,7 +3126,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 +++ コンテスト-KO
 
-* **[[[/system:page-tags/tag/2015-財団放送コンテスト|2015財団放送コンテスト]]]** //(2015-재단방송경연)// - [[[foundation-broadcast-conest-temp|2015財団放送コンテスト]]]。
+* **[[[/system:page-tags/tag/2015-財団放送コンテスト|2015-財団放送コンテスト]]]** //(2015-재단방송경연)// - [[[foundation-broadcast-conest-temp|2015財団放送コンテスト]]]。
 
 * **[[[/system:page-tags/tag/2016-漫画コンテスト|2016-漫画コンテスト]]]** //(2016-카툰경연)// - [[[foundation-cartoon-contest-2016|2016財団漫画コンテスト]]]。
 
@@ -3382,7 +3382,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/csクリシェコンテスト2|csクリシェコンテスト2]]]** //(cs-soutěž-klišé-2)// - [[[cs-contest-klise-2-hub|SCP-CS第2回クリシェコンテスト]]]。
 
-* **[[[/system:page-tags/tag/2025再誕コンテスト|2025再誕コンテスト]]]** //(soutěž-znovuzrození2025)//  - [[[soutez-znovuzrozeni2025-hub|2025再誕コンテスト]]]。
+* **[[[/system:page-tags/tag/2025再誕コンテスト|2025再誕コンテスト]]]** //(soutěž-znovuzrození2025)// - [[[soutez-znovuzrozeni2025-hub|2025再誕コンテスト]]]。
 
 
 [[/tab]]
@@ -3395,13 +3395,13 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 * **[[[/system:page-tags/tag/2020冬季コンテストzh|2020冬季コンテストzh]]]** //(2020冬季競賽)// - ZHの[[[lunar-new-year-2020|2020冬季コンテスト]]]。
 
-* **[[[/system:page-tags/tag/2021夏季コンテストzh|2021夏季コンテストzh]]]** //(2021夏季競賽)//  - ZHの[[[summer-contest-2021|2021夏季コンテスト]]]。
+* **[[[/system:page-tags/tag/2021夏季コンテストzh|2021夏季コンテストzh]]]** //(2021夏季競賽)// - ZHの[[[summer-contest-2021|2021夏季コンテスト]]]。
 
-* **[[[/system:page-tags/tag/2023紅藍合戦|2023紅藍合戦]]]** //(2023紅藍爭霸賽)//  - [[[honglam-battle|2023紅藍合戦]]]。
+* **[[[/system:page-tags/tag/2023紅藍合戦|2023紅藍合戦]]]** //(2023紅藍爭霸賽)// - [[[honglam-battle|2023紅藍合戦]]]。
 
 * **[[[/system:page-tags/tag/2023冬季コンテストzh|2023冬季コンテストzh]]]** //(2023冬季競賽)// - ZHの[[[better-to-add-an-imaaage|2023冬季コンテスト]]]。
 
-* **[[[/system:page-tags/tag/2024夏季コンテストzh|2024夏季コンテストzh]]]** //(2024夏季競賽)//  - ZHの[[[summer-contest-2024|2024夏季コンテスト]]]。
+* **[[[/system:page-tags/tag/2024夏季コンテストzh|2024夏季コンテストzh]]]** //(2024夏季競賽)// - ZHの[[[summer-contest-2024|2024夏季コンテスト]]]。
 
 
 @@ @@
@@ -3633,15 +3633,15 @@ SCP-ENだけではなく、他支部でも使用されている場合があり�
 
 * **[[[/system:page-tags/tag/シリーズ|シリーズ]]]** //(serie)// - Taleシリーズのハブに付与されるタグです。
 
-* **[[[/system:page-tags/tag/⦿|⦿]]]** //(⦿)// / **[[[/system/page-tags/tag/o|o]]]** //(o)// / **[[[/system:page-tags/tag/oo|oo]]]** //(oo)// / **[[[/system/page-tags/tag/ooo|ooo]]]** //(ooo)// / **[[[/system:page-tags/tag/oooo|oooo]]]** //(oooo)// / **[[[/system/page-tags/tag/_o|_o]]]** //(_o)// - 記事に対するフィードバックの必要度合いを表すタグです。
+* **[[[/system:page-tags/tag/⦿|⦿]]]** //(⦿)// / **[[[/system:page-tags/tag/o|o]]]** //(o)// / **[[[/system:page-tags/tag/oo|oo]]]** //(oo)// / **[[[/system:page-tags/tag/ooo|ooo]]]** //(ooo)// / **[[[/system:page-tags/tag/oooo|oooo]]]** //(oooo)// / **[[[/system:page-tags/tag/_o|_o]]]** //(_o)// - 記事に対するフィードバックの必要度合いを表すタグです。
 
 * **[[[/system:page-tags/tag/_ncc|_ncc]]]** //(_ncc)// - サイトのライセンスと互換性がないメディアが使用されているページに付与されます。このタグが付与されたページの翻訳を行う場合、//画像差し止め//の項目を参照してください。
 
-* **[[[/system/page-tags/tag/_occ|_occ]]]** //(_occ)// - ライセンスが不明なメディアが使用されているページに付与されます。このタグが付与されたページの翻訳を行う場合、//画像差し止め//の項目を参照してください。
+* **[[[/system:page-tags/tag/_occ|_occ]]]** //(_occ)// - ライセンスが不明なメディアが使用されているページに付与されます。このタグが付与されたページの翻訳を行う場合、//画像差し止め//の項目を参照してください。
 
-* **[[[/system/page-tags/tag/_コンテスト|_コンテスト]]]** //(_wettbewerb)// - コンテストに置換してください。
+* **[[[/system:page-tags/tag/_コンテスト|_コンテスト]]]** //(_wettbewerb)// - コンテストに置換してください。
 
-* **[[[/system/page-tags/tag/_テーマ|_テーマ]]]** //(_theme)// - 何らかのCSSテーマが適用されているページであることを示します。
+* **[[[/system:page-tags/tag/_テーマ|_テーマ]]]** //(_theme)// - 何らかのCSSテーマが適用されているページであることを示します。
 
 * **[[[/system:page-tags/tag/異常利用特殊部隊|異常利用特殊部隊]]]** //(sonderkommando)// - 異常利用特殊部隊(SKP)に関連する作品に付与されます。DE支部では//skp//タグと//異常利用特殊部隊//タグの2種類が使い分けられていますが、JP支部では//skp//タグに一本化されているのでそちらへ置換してください。
 
@@ -3705,7 +3705,7 @@ SCP-ENだけではなく、他支部でも使用されている場合があり�
 
 * **[[[/system:page-tags/tag/goi一覧|goi一覧]]]** //(goi-list)// - 各支部の要注意団体一覧に付与されるタグです。
 
-* **[[[/system/page-tags/tag/o|o]]]** //(o)// / **[[[/system:page-tags/tag/oo|oo]]]** //(oo)// / **[[[/system/page-tags/tag/ooo|ooo]]]** //(ooo)// / **[[[/system:page-tags/tag/oooo|oooo]]]** //(oooo)// / **[[[/system/page-tags/tag/_o|_o]]]** //(_o)// - 記事の英文の精度に対するフィードバックの必要度合いを表すタグです。
+* **[[[/system:page-tags/tag/o|o]]]** //(o)// / **[[[/system:page-tags/tag/oo|oo]]]** //(oo)// / **[[[/system:page-tags/tag/ooo|ooo]]]** //(ooo)// / **[[[/system:page-tags/tag/oooo|oooo]]]** //(oooo)// / **[[[/system:page-tags/tag/_o|_o]]]** //(_o)// - 記事の英文の精度に対するフィードバックの必要度合いを表すタグです。
 [[/div]]
 [[/tab]]
 
@@ -3817,9 +3817,6 @@ ENではイラストをはじめとするアート作品についてJPとは異�
 
 +++* //ガイド//タグと//他支部公式//タグについて
 他支部で//guide//タグに相当するタグが付与されているページは、//ガイド//タグではなく//他支部公式//タグを付与するようにしてください。SCP-JPにおける//ガイド//タグはENとは運用方法が異なり互換性が無いため、使用しないでください。
-
-+++* //resource//タグについて
-ENで使用されている//resource//タグは、//世界観//タグに置き換えてください。
 
 +++* //policy//タグについて
 ENで使用されている//policy//タグは、//他支部公式//タグに置き換えてください。
