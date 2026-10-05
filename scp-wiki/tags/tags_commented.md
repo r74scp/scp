@@ -586,7 +586,7 @@ Tags that typically apply to objects created by humans, including **artifacts** 
 
 Any tags that do not fit into the other sections.
 
-* **[https://scpwiki.com/system:page-tags/tag/anomalous-event anomalous-event]** -- The SCP is a singular anomalous event that significantly changed reality in some way.
+* **[https://scpwiki.com/system:page-tags/tag/anomalous-event anomalous-event]** -- The SCP is a singular anomalous event that changed reality in some way.
  * //Avoid using with 'phenomenon'//
 * **[https://scpwiki.com/system:page-tags/tag/concept concept]** -- SCP is or affects a purely non-physical concept. Should not be used in conjunction with tags describing physical qualities.
 * **[https://scpwiki.com/system:page-tags/tag/exchange exchange]** -- SCP involves or is triggered by some form of exchange of physical or intangible goods, including but not limited to bartering and monetary trade.
@@ -600,7 +600,7 @@ Any tags that do not fit into the other sections.
 * **[https://scpwiki.com/system:page-tags/tag/narrative narrative]** -- SCP is, is related to, or propagates via narrative information or documents.
  * //Often used with 'meta'//
 * **[https://scpwiki.com/system:page-tags/tag/probability probability]** -- SCP alters or manipulates the probability of certain events or outcomes.
-* **[https://scpwiki.com/system:page-tags/tag/phenomenon phenomenon]** -- The SCP is an ongoing widespread phenomenon not directly linked to a physical source.
+* **[https://scpwiki.com/system:page-tags/tag/phenomenon phenomenon]** -- The SCP is an ongoing phenomenon not directly linked to a physical source.
  * //Avoid using with 'anomalous-event'//
 * **[https://scpwiki.com/system:page-tags/tag/religious religious]** -- SCP is associated with or otherwise has significance to one or more organized religions.
 * **[https://scpwiki.com/system:page-tags/tag/ritual ritual]** -- SCP is or is triggered or activated through ritualistic behavior.
@@ -841,6 +841,7 @@ These tags are used to designate pages that prominently feature a Foundation Dep
 These tags are used to designate pages that prominently feature a Group of Interest.
 
 * **[https://scpwiki.com/system:page-tags/tag/accelerate-the-future accelerate-the-future]** -- Featuring or related to Accelerate the Future.
+* **[https://scpwiki.com/system:page-tags/tag/alcur-hospital alcur-hospital]** -- Featuring or related to the [https://scp-wiki.wikidot.com/the-alcur-hospital-hub Alcur Hospital] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/alexylva alexylva]** -- Featuring or related to the [https://scp-wiki.wikidot.com/alexylva-university-hub Alexylva University] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/ambrose-restaurant ambrose-restaurant]** -- Featuring or related to the [https://scp-wiki.wikidot.com/ambrose-restaurant-hub Ambrose Restaurant] group of interest.
 * **[https://scpwiki.com/system:page-tags/tag/anderson anderson]** -- Featuring or related to the [https://scp-wiki.wikidot.com/anderson-robotics-hub Anderson Robotics] group of interest.
@@ -943,6 +944,8 @@ The following applies to all tags in this category:
 
 * **[https://scpwiki.com/system:page-tags/tag/_accelerate-the-future _accelerate-the-future]** -- An article following the Accelerate The Future format.
  * //Requires 'accelerate-the-future'//
+* **[https://scpwiki.com/system:page-tags/tag/_alcur-hospital _alcur-hospital]** -- An article following the Alcur Hospital format.
+ * //Requires 'alcur-hospital'//
 * **[https://scpwiki.com/system:page-tags/tag/_alexylva _alexylva]** -- An article following the Alexylva University format.
  * //Requires 'alexylva'//
 * **[https://scpwiki.com/system:page-tags/tag/_ambrose-restaurant _ambrose-restaurant]** -- An article following the Ambrose Restaurants format.
