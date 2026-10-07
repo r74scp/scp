@@ -1693,6 +1693,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/松明の子供達|松明の子供達]]]** //(children-of-the-torch)// - 松明の子供達。
 * **[[[/system:page-tags/tag/class-of-76|class-of-76]]]** //(class-of-76)// - [[[remembrance|Class of '76]]]。
 * **[[[/system:page-tags/tag/歯車仕掛正教|歯車仕掛正教]]]** //(cogwork-orthodoxy)// - 壊れた神の教会の一派閥、歯車仕掛正教。
+* **[[[/system:page-tags/tag/理事会k|理事会k]]]** //(directorate-k)// - 理事会K、[[[SCP-1659|SCP-1659]]]として記録されている陰謀組織。
 * **[[[/system:page-tags/tag/ギフトシュライバー|ギフトシュライバー]]]** //(giftschreiber)// - [[span class="ruby"]]毒筆家[[span class="rt"]]ギフトシュライバー[[/span]][[/span]]。
 * **[[[/system:page-tags/tag/金帳汗国|金帳汗国]]]** //(golden-horde)// - 金帳汗国。
 * **[[[/system:page-tags/tag/ハンターの黒きロッジ|ハンターの黒きロッジ]]]** //(hunters-black-lodge)// - ハンターの黒きロッジ、[[[SCP-2408]]]で初めて描写されたネオ-サーキック犯罪シンジケート。
@@ -1727,6 +1728,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 * **[[[/system:page-tags/tag/mister|mister]]]** //(mister)// - リトル・ミスターズ。
 * **[[[/system:page-tags/tag/名もなきもの|名もなきもの]]]** //(nameless)// - [[[SCP-4000]]]に登場する”名もなきもの”あるいは”妖精”。
 * **[[[/system:page-tags/tag/pattern-screamer|pattern-screamer]]]** //(pattern-screamer)// - パターン・スクリーマーズ。
+* **[[[/system:page-tags/tag/数多の声で|数多の声で]]]** //(with-many-voices)// - [[[SCP-939|SCP-939]]]、過去の犠牲者の声を模倣して獲物を誘き出す捕食者。
 
 [[/tab]][!--EN--]
 [[tab JP]]
@@ -2292,6 +2294,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ボールド管理官|ボールド管理官]]]** //(director-bold)// - 解体部門のカル・ボールド管理官。
 * **[[[/system:page-tags/tag/ボハート管理官|ボハート管理官]]]** //(director-bohart)// - サイト-333の管理官、ヴィンセント・ボハート。博士号は持たない。
 * **[[[/system:page-tags/tag/ディアギレフ管理官|ディアギレフ管理官]]]** //(director-diaghilev)// - 錬金術部門のルスラフ・ディアギレフ管理官。
+* **[[[/system:page-tags/tag/フォース管理官|フォース管理官]]]** //(director-forth)// - 時間異常部門のアリス・フォース管理官。
 * **[[[/system:page-tags/tag/ガレスピー管理官|ガレスピー管理官]]]** //(director-gillespie)// - サイト-77のガレスピー管理官。
 * **[[[/system:page-tags/tag/グラハム管理官|グラハム管理官]]]** //(director-graham)// - サイト-17の管理官、トーマス・グラハム管理官。
 * **[[[/system:page-tags/tag/ハウス管理官|ハウス管理官]]]** //(director-house)// - サイト-666の管理官、ランドール・ハウス管理官。
@@ -2398,6 +2401,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ジェフリー・クインシー・ハリソン|ジェフリー・クインシー・ハリソン]]]** //(geoffrey-quincy-harrison)// - ジェフリー・クインシー・ハリソン3世、サイト-322の経理部門に配属されている生意気なガムボール自動販売機、通称[[[SCP-5595]]]。
 * **[[[/system:page-tags/tag/グラブノック|グラブノック]]]** //(grabnok)// - グラブノック・ザ・デストロイヤー、嫌々ながらの次元旅行者、通称[[[SCP-507]]]。
 * **[[[/system:page-tags/tag/不死身の爬虫類|不死身の爬虫類]]]** //(hard-to-destroy-reptile)// - "不死身の爬虫類"、通称[[[SCP-682]]]。
+* **[[[/system:page-tags/tag/闇の心臓|闇の心臓]]]** //(heart-of-darkness)// - "闇の心臓"、通称[[[SCP-058|SCP-058]]]。
 * **[[[/system:page-tags/tag/半身猫のジョーシー|半身猫のジョーシー]]]** //(half-cat-josie)// - 半身猫のジョーシー、通称[[[SCP-529]]]。
 * **[[[/system:page-tags/tag/手描きのキャシー|手描きのキャシー]]]** //(hand-drawn-cassy)// - 手描きの"キャシー"、通称[[[SCP-085]]]。
 * **[[[/system:page-tags/tag/ヘザー・メイソン|ヘザー・メイソン]]]** //(heather-mason)// - ヘザー・メイソン、またの名を"ミズ・ビデオゲーム狂"あるいは[[[SCP-3090]]]。
@@ -2465,6 +2469,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/マニー|マニー]]]** //(manny)// - ハーマン・フラーの不気味サーカスのマニー、またの名を"逆さまの顔を持つ男"。
 * **[[[/system:page-tags/tag/マリ・マクファーソン|マリ・マクファーソン]]]** //(mari-macphaerson)// - ヴィキャンデル=ニード・テクニカル・メディアの渉外部長、マリ・マクファーソン。
 * **[[[/system:page-tags/tag/ミッドナイト|ミッドナイト]]]** //(midnight-the-cat)// - ミッドナイト、蛇の手メンバーの知性あるネコ。
+* **[[[/system:page-tags/tag/ミスター・レッド|ミスター・レッド]]]** //(mr-redd)// - ワンダーテインメント博士のリトル・ミスターの一員であるミスター・レッド (製造中止)。
 * **[[[/system:page-tags/tag/ナドックス|ナドックス]]]** //(nadox)// - サーキシズムの4人のクラヴィガルの一人、ナドックス。
 * **[[[/system:page-tags/tag/オリヴィエ・ギネス|オリヴィエ・ギネス]]]** //(olivie-gwyneth)// - [[span class="ruby"]]妖精のラウンジ[[span class="rt"]]シー・ラウンジ[[/span]][[/span]]の主任アーキビスト、オリヴィエ・ギネス。
 * **[[[/system:page-tags/tag/オロク|オロク]]]** //(orok)// - サーキシズムの4人のクラヴィガルの一人、オロク。
@@ -3838,6 +3843,8 @@ https://scp-wiki-de.wikidot.com/personnel-and-character-dossier
 
 ----
 
+[!-- その他のタグ --]
+
 + その他のタグ[[# uncategorized]]
 上のいずれの分類にも属さないタグです。
 [[div class="tab-basic"]]
@@ -4294,6 +4301,7 @@ https://scp-jp.wikidot.com/fragment:tag-list-basic
 https://scp-jp.wikidot.com/fragment:tag-list-series
 https://scp-jp.wikidot.com/fragment:tag-list-universe
 https://scp-jp.wikidot.com/fragment:tag-list-event
+https://scp-jp.wikidot.com/fragment:tag-list-other
 https://scp-jp.wikidot.com/fragment:tag-list-unused
 https://scp-jp.wikidot.com/fragment:tag-list-faq
 --]
