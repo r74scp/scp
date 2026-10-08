@@ -1283,7 +1283,7 @@ SCPの所在、由来を説明するか、あるいは特定の場所や自然�
 それぞれの概要は[[[canon-hub-ko|]]]を参照してください。
 
 * **[[[/system:page-tags/tag/朝鮮|朝鮮]]]** //(조선)// - [[[joseon-hub|朝鮮]]]。
-* **[[[/system:page-tags/tag/霧津|霧津]]]** //(무진)// - [[[mujin-yarn|霧津奇譚]]]。
+* **[[[/system:page-tags/tag/霧津奇譚|霧津奇譚]]]** //(무진기담)// - [[[mujin-yarn|霧津奇譚]]]。
 * **[[[/system:page-tags/tag/アノマリンピック|アノマリンピック]]]** //(초상올림픽)// - [[[anomalympic-hub|アノマリンピック]]]。
 
 [[/tab]][!--KO--]
@@ -2336,7 +2336,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/ライツ博士|ライツ博士]]]** //(doctor-rights)// - ライツ博士。
 * **[[[/system:page-tags/tag/リベラ博士|リベラ博士]]]** //(doctor-rivera)// - ジェシー・リベラ博士。
 * **[[[/system:page-tags/tag/ロジェ博士|ロジェ博士]]]** //(doctor-roget)// - ラルフ・ロジェ博士。
-
+* **[[[/system:page-tags/tag/doctor-rydderech|doctor-rydderech]]]** //(doctor-rydderech)// - [[[SCP-5520]]]として収容されているサイト-43の共同設立者、ウィン・リゼレフ/リーゼレッハ博士。
 * **[[[/system:page-tags/tag/スクラントン博士|スクラントン博士]]]** //(doctor-scranton)// - ロバート・スクラントン博士、スクラントン現実錨の発明者、[[[SCP-3001]]]を参照。
 * **[[[/system:page-tags/tag/シンクレア博士|シンクレア博士]]]** //(doctor-sinclair)// - キャサリン・シンクレア博士。
 * **[[[/system:page-tags/tag/シャーマン博士|シャーマン博士]]]** //(doctor-sinclair)// - セロン・シャーマン博士。研究員でありサイト-42管理官。
@@ -3359,6 +3359,8 @@ https://scp-wiki-de.wikidot.com/personnel-and-character-dossier
 * **[[[/system:page-tags/tag/af2026|af2026]]]** - AF-2026-JP。
 
 * **[[[/system:page-tags/tag/お見合い2026|お見合い2026]]]** - [[[matchmaking2026|財団日本支部お見合い計画2026]]]。
+
+* **[[[/system:page-tags/tag/xmas2026|xmas2026]]]** - [[[decore-xmastree2026-hub|デコれ！聖夜のクリスマスツリー！]]]。
 
 [[/tab]][!--JP--]
 [[tab RU]]
