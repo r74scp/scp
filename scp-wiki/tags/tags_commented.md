@@ -677,6 +677,7 @@ Describes specific story elements or character types, generally associated with 
 * **[https://scpwiki.com/system:page-tags/tag/faerie faerie]** -- Features fairies, fae or the fair folk, supernatural entities inspired by European folklore.
  * //Often used with 'fantasy'//
 * **[https://scpwiki.com/system:page-tags/tag/ghost ghost]** -- Features ghosts, the spirits of the dead, often referred to as spectral entities by the Foundation.
+* **[https://scpwiki.com/system:page-tags/tag/kaiju kaiju]** --  Features a gigantic monster, also known as a kaiju or Large Scale Aggressor. The creature may be active, dormant or deceased.
 * **[https://scpwiki.com/system:page-tags/tag/murder-monster murder-monster]** -- Features an inhuman anomaly that is hostile to human life.
  * //Often used with 'horror'//
 * **[https://scpwiki.com/system:page-tags/tag/superhero superhero]** -- Features superheroes or supervillains. These characters typically have secret identities, costumes and supernatural powers.
@@ -1158,6 +1159,7 @@ Tags for a series of connected articles, which may be SCPs, tales or GoI Formats
 * **[https://scpwiki.com/system:page-tags/tag/old-foes old-foes]** -- Part of the [https://scp-wiki.wikidot.com/resurrection-old-foes-hub Resurrection: Old Foes] series.
 * **[https://scpwiki.com/system:page-tags/tag/olympia olympia]** -- Part of or relating to the [https://scp-wiki.wikidot.com/Olympia-Project Olympia Project].
 * **[https://scpwiki.com/system:page-tags/tag/opus-confidant opus-confidant]** -- Part of the OpusConfidant parody series.
+* **[https://scpwiki.com/system:page-tags/tag/over-time over-time]** -- Part of the [https://scp-wiki.wikidot.com/over-time-hub Over Time] series.
 * **[https://scpwiki.com/system:page-tags/tag/parawatch-true-crime parawatch-true-crime]** -- Part of the Parawatch True Crime series presented by [https://scp-wiki.wikidot.com/crewtime crewtime].
 * **[https://scpwiki.com/system:page-tags/tag/phobia-anthology phobia-anthology]** -- Part of the [https://scp-wiki.wikidot.com/scp-anthology-2024 Phobia SCP anthology].
 * **[https://scpwiki.com/system:page-tags/tag/palisade palisade]** -- Part of the [https://scp-wiki.wikidot.com/project-palisade Project Palisade] series.
@@ -1466,6 +1468,7 @@ Tags indicating that a tale or SCP article takes place in a specific time or loc
 Inanimate objects with significant appearances in articles. Includes SCP objects that are not listed as Characters or Locations.
 
 * **[https://scpwiki.com/system:page-tags/tag/deus-ex-machina deus-ex-machina]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-2000 SCP-2000], the Foundation's world-rebooting machine.
+* **[https://scpwiki.com/system:page-tags/tag/i-am-a-toaster i-am-a-toaster]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-426 SCP-426], a toaster that compels people to exclusively refer to me in the first person.
 * **[https://scpwiki.com/system:page-tags/tag/missing-number missing-number]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-033 SCP-033], the missing number, aka  "Theta Prime".
 * **[https://scpwiki.com/system:page-tags/tag/refining-clockworks refining-clockworks]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-914 SCP-914], the Clockworks that reshape and refine objects placed inside them.
 * **[https://scpwiki.com/system:page-tags/tag/self-keeping-secret self-keeping-secret]** -- Features or is related to [https://scp-wiki.wikidot.com/scp-055 SCP-055], a "self-keeping secret" or antimeme that causes people to forget all information about it.
