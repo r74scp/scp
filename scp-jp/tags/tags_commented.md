@@ -2202,6 +2202,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 * **[[[/system:page-tags/tag/リベラ博士|リベラ博士]]]** //(doctor-rivera)// - ジェシー・リベラ博士。
 * **[[[/system:page-tags/tag/ロジェ博士|ロジェ博士]]]** //(doctor-roget)// - ラルフ・ロジェ博士。
 * **[[[/system:page-tags/tag/doctor-rydderech|doctor-rydderech]]]** //(doctor-rydderech)// - [[[SCP-5520]]]として収容されているサイト-43の共同設立者、ウィン・リゼレフ/リーゼレッハ博士。
+
 * **[[[/system:page-tags/tag/スクラントン博士|スクラントン博士]]]** //(doctor-scranton)// - ロバート・スクラントン博士、スクラントン現実錨の発明者、[[[SCP-3001]]]を参照。
 * **[[[/system:page-tags/tag/シンクレア博士|シンクレア博士]]]** //(doctor-sinclair)// - キャサリン・シンクレア博士。
 * **[[[/system:page-tags/tag/シャーマン博士|シャーマン博士]]]** //(doctor-sinclair)// - セロン・シャーマン博士。研究員でありサイト-42管理官。
