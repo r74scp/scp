@@ -2180,9 +2180,10 @@ DIRAハブはカノンハブに掲載されているが、タグの方は部門�
 それぞれの詳細は[[[departments-ko|財団内部部門-KO]]]を参照してください。
 
 * **[[[/system:page-tags/tag/巫俗部門|巫俗部門]]]** //(무속학부)// - 巫俗部門。
+* **[[[/system:page-tags/tag/異常芸術部門|異常芸術部門]]]** //(변칙예술학부)// - [[[department-of-anart|異常芸術部門]]]。
 * **[[[/system:page-tags/tag/存在論部門|存在論部門]]]** //(존재학부)// - [[[department-of-ontology|存在論部門]]]。
 * **[[[/system:page-tags/tag/天文学部門|天文学部門]]]** //(천문학부)// - 天文学部門。
-* **[[[/system:page-tags/tag/woi研究課|woi研究課]]]** //(woi연구과)// - WoI研究課。
+* **[[[/system:page-tags/tag/woi研究課|woi研究課]]]** //(woi연구과)// - [[[woi-research-division-hub|WoI研究課]]]。
 
 [[/tab]][!--KO--]
 [[tab CN]]
@@ -2510,6 +2511,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 +++ 財団の研究員-JP
 * **[[[/system:page-tags/tag/天宮博士|天宮博士]]]** - 天宮博士。
+* **[[[/system:page-tags/tag/ウェイブラー博士|ウェイブラー博士]]]** - ウェイブラー博士。
 * **[[[/system:page-tags/tag/宇喜田博士|宇喜田博士]]]** - 宇喜田博士。
 * **[[[/system:page-tags/tag/大和博士|大和博士]]]** - 大和博士。
 * **[[[/system:page-tags/tag/金崎研究員|金崎研究員]]]** - 金崎研究員。
@@ -2696,11 +2698,13 @@ SCPユニバースを彩るキャラクターたちのタグです。
 
 +++ 財団職員-ES
 
+* **[[[/system:page-tags/tag/アマリア・モンドラゴン|アマリア・モンドラゴン]]]** //(amalia-mondragón)// - アマリア・モンドラゴン博士、サイト-34の美術史・修復部門 部門長。
 * **[[[/system:page-tags/tag/アンドレス・モンドラゴン|アンドレス・モンドラゴン]]]** //(andrés-mondragón)// - アンドレス・モンドラゴン研究員。
 * **[[[/system:page-tags/tag/ボルハ・ドゥウェル|ボルハ・ドゥウェル]]]** //(borja-dowell)// - ボルハ・ドゥウェル。
 * **[[[/system:page-tags/tag/フォン・ブラウン博士|フォン・ブラウン博士]]]** //(dr-von-braun)// - フォン・ブラウン博士。
 * **[[[/system:page-tags/tag/ルイサ・ヴァンデル|ルイサ・ヴァンデル]]]** //(luisa-vander)// - ルイサ・ヴァンデル。
 * **[[[/system:page-tags/tag/リチャード・バーナード|リチャード・バーナード]]]** //(richard-barnard)// - リチャード・バーナード博士、またの名を"リーチ"。
+* **[[[/system:page-tags/tag/ロベルト・カスティーリョ|ロベルト・カスティーリョ]]]** //(robert-castillo)// - ロベルト・M・E・カスティーリョ博士。
 
 +++ SCPオブジェクト-ES
 * **[[[/system:page-tags/tag/マーウ|マーウ]]]** //(marw)// - マーウ探偵、通称[[[SCP-ES-234]]]。
@@ -2708,6 +2712,7 @@ SCPユニバースを彩るキャラクターたちのタグです。
 +++ 要注意人物-ES
 
 * **[[[/system:page-tags/tag/ダンテ|ダンテ]]]** //(dante)// - ダンテ。
+* **[[[/system:page-tags/tag/dimv|dimv]]]** //(d.i.m.v.)// - アナーティスト、D.I.M.V.。
 * **[[[/system:page-tags/tag/マクシムス|マクシムス]]]** //(maximus)// - マクシムス。
 * **[[[/system:page-tags/tag/テレサ・バルバラ|テレサ・バルバラ]]]** //(teresa-bárbara)// - テレサ・バルバラ。
 
@@ -3156,6 +3161,8 @@ https://scp-wiki-de.wikidot.com/personnel-and-character-dossier
 * **[[[/system:page-tags/tag/sportscon2026|sportscon2026]]]** //(sportscon2026)// - [[[sportscon|2026年スポーツコンテスト]]]。
 
 * **[[[/system:page-tags/tag/goicon-2026|goicon-2026]]]** //(goicon-2026)// - [[[goicon-2026|2026年要注意団体コンテスト]]]。
+
+* **[[[/system:page-tags/tag/creepypastacon2026|creepypastacon2026]]]** //(creepypastacon2026)// - [[[creepypastacon-2026|2026年クリーピーパスタコンテスト]]]。
 
 * **[[[/system:page-tags/tag/memecon2021-unofficial|memecon2021-unofficial]]]** //(memecon2021-unofficial)// - 非公式企画の[[[memecon-unofficial|2021年ミームコンテスト]]]。
 
@@ -3642,6 +3649,8 @@ https://scp-wiki-de.wikidot.com/personnel-and-character-dossier
 
 * **[[[/system:page-tags/tag/concurso-scp-2016|concurso-scp-2016]]]** //(concurso-scp-2016)// - [[[http://scp-es.com/forum/t-1721909/nuevo-concurso:creacion-de-un-scp-es|新コンテスト: SCP-ES執筆]]]。
 
+* **[[[/system:page-tags/tag/crc2018|crc2018]]]** //(crc2018)// - [[[concurso-de-relatos-cortos-2018|2018年短編Taleコンテスト]]]。
+
 * **[[[/system:page-tags/tag/es100|es100]]]** //(#concurso100)// - [[[concurso-scp-es-100|SCP-ES-100コンテスト]]]。
 
 * **[[[/system:page-tags/tag/colaborativo2018|colaborativo2018]]]** //(colaborativo2018)// - [[[concurso-colaborativo-2018|2018年共著コンテスト]]]。
@@ -3651,6 +3660,8 @@ https://scp-wiki-de.wikidot.com/personnel-and-character-dossier
 * **[[[/system:page-tags/tag/gdicon2020|gdicon2020]]]** //(gdicon2020)// - [[[concurso-gdi-2020|2020年GoIコンテスト]]]。
 
 * **[[[/system:page-tags/tag/es200|es200]]]** //(200con)// - [[[concurso-es-200|SCP-ES-200コンテスト]]]。
+
+* **[[[/system:page-tags/tag/ubicon-2022|ubicon-2022]]]** //(ubicon-2022)// - [[[ubicon-2022|2022年超常領域コンテスト]]]。
 
 * **[[[/system:page-tags/tag/acuaticon-2023|acuaticon-2023]]]** //(acuaticon-2023)// - 非公式企画の[[[acuaticon-2023|2023年水棲コンテスト]]]。
 
