@@ -12433,6 +12433,15 @@
     },
     {
         "id": 1628,
+        "tag": "サモトラケ東部",
+        "trans": "eastern-samothrace",
+        "desc": "[[[SCP-1173|SCP-1173]]]、実在に議論の余地があるサモトラケ東部イスラム共和国。",
+        "type": "要注意領域-EN",
+        "category": "EN",
+        "list": ""
+    },
+    {
+        "id": 1629,
         "tag": "機械仕掛けの神",
         "trans": "deus-ex-machina",
         "desc": "財団の世界再起動装置、[[[SCP-2000]]]。",
@@ -12441,7 +12450,7 @@
         "list": ""
     },
     {
-        "id": 1629,
+        "id": 1630,
         "tag": "エスターバーグ",
         "trans": "esterberg",
         "desc": "フリーポートの1つ、[[[esterberg-city-wikipedia|エスターバーグ]]]。",
@@ -12450,7 +12459,7 @@
         "list": ""
     },
     {
-        "id": 1630,
+        "id": 1631,
         "tag": "ユーテック",
         "trans": "eurtec",
         "desc": "ユーテック。",
@@ -12459,7 +12468,7 @@
         "list": ""
     },
     {
-        "id": 1631,
+        "id": 1632,
         "tag": "ハイ・ブラジル",
         "trans": "hy-brasil",
         "desc": "[[[nx-03|ハイ・ブラジル島]]]。",
@@ -12468,7 +12477,7 @@
         "list": ""
     },
     {
-        "id": 1632,
+        "id": 1633,
         "tag": "無限の家具店",
         "trans": "infinite-furniture-store",
         "desc": "[[[SCP-3008]]]、無限のイケア。",
@@ -12477,7 +12486,7 @@
         "list": ""
     },
     {
-        "id": 1634,
+        "id": 1635,
         "tag": "ノウアスフィア",
         "trans": "noosphere",
         "desc": "人間の知識や思考の総体からなる概念的な圏域、ノウアスフィア。",
@@ -12486,7 +12495,7 @@
         "list": ""
     },
     {
-        "id": 1635,
+        "id": 1636,
         "tag": "吹き抜けた階段",
         "trans": "the-stairwell",
         "desc": "[[[SCP-087]]]、吹き抜けた階段。",
@@ -12495,7 +12504,7 @@
         "list": ""
     },
     {
-        "id": 1636,
+        "id": 1637,
         "tag": "スリー・ポートランド",
         "trans": "three-portlands",
         "desc": "[[[three-portlands-hub|スリー・ポートランド]]]。",
@@ -12504,7 +12513,7 @@
         "list": ""
     },
     {
-        "id": 1637,
+        "id": 1638,
         "tag": "アンダーベガス",
         "trans": "undervegas",
         "desc": "悪魔の街、[[[undervegas-hub|アンダーベガス]]]。",
@@ -12513,7 +12522,7 @@
         "list": ""
     },
     {
-        "id": 1638,
+        "id": 1639,
         "tag": "放浪者の図書館",
         "trans": "wanderers-library",
         "desc": "[[[wanderers-library-hub|放浪者の図書館]]]。",
@@ -12522,7 +12531,7 @@
         "list": ""
     },
     {
-        "id": 1639,
+        "id": 1640,
         "tag": "ワンダー・ワールド",
         "trans": "wonder-world",
         "desc": "ワンダーテインメント博士の生み出した幻想的な異次元都市、[[[wonder-world-dossier|ワンダー・ワールド！™]]](発音は“ティー・エム”)。",
@@ -12531,7 +12540,7 @@
         "list": ""
     },
     {
-        "id": 1640,
+        "id": 1641,
         "tag": "香城",
         "trans": "hong-shing",
         "desc": "ロケーション-CNの項を参照してください。",
@@ -12540,7 +12549,7 @@
         "list": ""
     },
     {
-        "id": 1641,
+        "id": 1642,
         "tag": "ペケーニャ・ハバナ",
         "trans": "little-havana",
         "desc": "ロケーション-ESの項を参照してください。",
@@ -12549,7 +12558,7 @@
         "list": ""
     },
     {
-        "id": 1642,
+        "id": 1643,
         "tag": "穴蔵",
         "trans": "",
         "desc": "JP側で独自に登録されたタグです。ロケーション-JPの項を参照してください。",
@@ -12558,7 +12567,7 @@
         "list": ""
     },
     {
-        "id": 1643,
+        "id": 1644,
         "tag": "恋昏崎",
         "trans": "",
         "desc": "恋昏崎。",
@@ -12567,7 +12576,7 @@
         "list": ""
     },
     {
-        "id": 1644,
+        "id": 1645,
         "tag": "シガスタン",
         "trans": "",
         "desc": "シガスタン共和国。",
@@ -12576,7 +12585,7 @@
         "list": ""
     },
     {
-        "id": 1645,
+        "id": 1646,
         "tag": "サミオマリエ",
         "trans": "",
         "desc": "サミオマリエ。",
@@ -12585,7 +12594,7 @@
         "list": ""
     },
     {
-        "id": 1647,
+        "id": 1648,
         "tag": "サイト-81ka",
         "trans": "",
         "desc": "サイト-81KA。",
@@ -12594,7 +12603,7 @@
         "list": ""
     },
     {
-        "id": 1648,
+        "id": 1649,
         "tag": "サイト-81uo",
         "trans": "",
         "desc": "[[[secure-facility-dossier-site-81uo|サイト-81UO]]]。",
@@ -12603,7 +12612,7 @@
         "list": ""
     },
     {
-        "id": 1649,
+        "id": 1650,
         "tag": "サイト-81kk",
         "trans": "",
         "desc": "サイト-81KK。",
@@ -12612,7 +12621,7 @@
         "list": ""
     },
     {
-        "id": 1650,
+        "id": 1651,
         "tag": "サイト-81et",
         "trans": "",
         "desc": "サイト-81ET。",
@@ -12621,7 +12630,7 @@
         "list": ""
     },
     {
-        "id": 1652,
+        "id": 1653,
         "tag": "霧津",
         "trans": "무진",
         "desc": "霧津。",
@@ -12630,7 +12639,7 @@
         "list": ""
     },
     {
-        "id": 1654,
+        "id": 1655,
         "tag": "シウ市",
         "trans": "矽宇市",
         "desc": "[[span class=\"ruby\"]][[[the-xiyu-city-hub|矽宇市]]][[span class=\"rt\"]]シウし[[/span]][[/span]]。",
@@ -12639,7 +12648,7 @@
         "list": ""
     },
     {
-        "id": 1655,
+        "id": 1656,
         "tag": "モバイル-サイト-cn",
         "trans": "mobile-site-cn",
         "desc": "[[[mobile-site-cn|モバイル-サイト-CN]]]。",
@@ -12648,7 +12657,7 @@
         "list": ""
     },
     {
-        "id": 1656,
+        "id": 1657,
         "tag": "サイト-cn-02",
         "trans": "site-cn-02",
         "desc": "[[[site-cn-02|サイト-CN-02]]]。",
@@ -12657,7 +12666,7 @@
         "list": ""
     },
     {
-        "id": 1657,
+        "id": 1658,
         "tag": "サイト-cn-03",
         "trans": "site-cn-03",
         "desc": "[[[site-cn-03|サイト-CN-03]]]。",
@@ -12666,7 +12675,7 @@
         "list": ""
     },
     {
-        "id": 1658,
+        "id": 1659,
         "tag": "サイト-cn-06",
         "trans": "site-cn-06",
         "desc": "[[[site-cn-06|サイト-CN-06]]]。",
@@ -12675,7 +12684,7 @@
         "list": ""
     },
     {
-        "id": 1659,
+        "id": 1660,
         "tag": "サイト-cn-09",
         "trans": "site-cn-09",
         "desc": "サイト-CN-09。",
@@ -12684,7 +12693,7 @@
         "list": ""
     },
     {
-        "id": 1660,
+        "id": 1661,
         "tag": "サイト-cn-10",
         "trans": "site-cn-10",
         "desc": "サイト-CN-10。",
@@ -12693,7 +12702,7 @@
         "list": ""
     },
     {
-        "id": 1661,
+        "id": 1662,
         "tag": "サイト-cn-12",
         "trans": "site-cn-12",
         "desc": "サイト-CN-12。",
@@ -12702,7 +12711,7 @@
         "list": ""
     },
     {
-        "id": 1662,
+        "id": 1663,
         "tag": "サイト-cn-19",
         "trans": "site-cn-19",
         "desc": "[[[site-cn-19|サイト-CN-19]]]。",
@@ -12711,7 +12720,7 @@
         "list": ""
     },
     {
-        "id": 1663,
+        "id": 1664,
         "tag": "サイト-cn-21",
         "trans": "site-cn-21",
         "desc": "[[[site-cn-21|サイト-CN-21]]]。",
@@ -12720,7 +12729,7 @@
         "list": ""
     },
     {
-        "id": 1664,
+        "id": 1665,
         "tag": "サイト-cn-34",
         "trans": "site-cn-34",
         "desc": "[[[site-cn-34|サイト-CN-34]]]。",
@@ -12729,7 +12738,7 @@
         "list": ""
     },
     {
-        "id": 1665,
+        "id": 1666,
         "tag": "サイト-cn-44",
         "trans": "site-cn-44",
         "desc": "[[[site-cn-44|サイト-CN-44]]]。",
@@ -12738,7 +12747,7 @@
         "list": ""
     },
     {
-        "id": 1666,
+        "id": 1667,
         "tag": "サイト-cn-65",
         "trans": "site-cn-65",
         "desc": "[[[site-cn-65|サイト-CN-65]]]。",
@@ -12747,7 +12756,7 @@
         "list": ""
     },
     {
-        "id": 1667,
+        "id": 1668,
         "tag": "サイト-cn-71",
         "trans": "site-cn-71",
         "desc": "[[[secure-facility-",
@@ -12756,7 +12765,7 @@
         "list": ""
     },
     {
-        "id": 1668,
+        "id": 1669,
         "tag": "サイト-cn-75",
         "trans": "site-cn-75",
         "desc": "[[[site-cn-75|サイト-CN-75]]]。",
@@ -12765,7 +12774,7 @@
         "list": ""
     },
     {
-        "id": 1669,
+        "id": 1670,
         "tag": "サイト-cn-82",
         "trans": "site-cn-82",
         "desc": "[[[site-cn-82|サイト-CN-82]]]。",
@@ -12774,7 +12783,7 @@
         "list": ""
     },
     {
-        "id": 1670,
+        "id": 1671,
         "tag": "サイト-cn-91",
         "trans": "site-cn-91",
         "desc": "[[[site-cn-91|サイト-CN-91]]]。",
@@ -12783,7 +12792,7 @@
         "list": ""
     },
     {
-        "id": 1671,
+        "id": 1672,
         "tag": "サイト-cn-10086",
         "trans": "site-cn-10086",
         "desc": "サイト-CN-10086。",
@@ -12792,7 +12801,7 @@
         "list": ""
     },
     {
-        "id": 1672,
+        "id": 1673,
         "tag": "エリア-cn-07",
         "trans": "area-cn-07",
         "desc": "[[[area-cn-07|エリア-CN-07]]]。",
@@ -12801,7 +12810,7 @@
         "list": ""
     },
     {
-        "id": 1673,
+        "id": 1674,
         "tag": "エリア-cn-15",
         "trans": "area-cn-15",
         "desc": "[[[area-cn-15|エリア-CN-15]]]。",
@@ -12810,7 +12819,7 @@
         "list": ""
     },
     {
-        "id": 1674,
+        "id": 1675,
         "tag": "エリア-cn-22",
         "trans": "area-cn-22",
         "desc": "エリア-CN-22。",
@@ -12819,7 +12828,7 @@
         "list": ""
     },
     {
-        "id": 1675,
+        "id": 1676,
         "tag": "サイト-aleph",
         "trans": "aleph",
         "desc": "サイト-Aleph。",
@@ -12828,7 +12837,7 @@
         "list": ""
     },
     {
-        "id": 1676,
+        "id": 1677,
         "tag": "サイト-ayin",
         "trans": "ayin",
         "desc": "サイト-Ayin。",
@@ -12837,7 +12846,7 @@
         "list": ""
     },
     {
-        "id": 1677,
+        "id": 1678,
         "tag": "サイト-beth",
         "trans": "beth",
         "desc": "サイト-Beth。",
@@ -12846,7 +12855,7 @@
         "list": ""
     },
     {
-        "id": 1678,
+        "id": 1679,
         "tag": "サイト-ghimel",
         "trans": "ghimel",
         "desc": "サイト-Ghimel。",
@@ -12855,7 +12864,7 @@
         "list": ""
     },
     {
-        "id": 1679,
+        "id": 1680,
         "tag": "サイト-he",
         "trans": "he",
         "desc": "サイト-He。",
@@ -12864,7 +12873,7 @@
         "list": ""
     },
     {
-        "id": 1680,
+        "id": 1681,
         "tag": "サイト-kybian",
         "trans": "kybian",
         "desc": "サイト-Kybian。",
@@ -12873,7 +12882,7 @@
         "list": ""
     },
     {
-        "id": 1681,
+        "id": 1682,
         "tag": "サイト-mayim",
         "trans": "mayim",
         "desc": "サイト-Mayim。",
@@ -12882,7 +12891,7 @@
         "list": ""
     },
     {
-        "id": 1682,
+        "id": 1683,
         "tag": "サイト-lamedh",
         "trans": "lamedh",
         "desc": "サイト-Lamedh。",
@@ -12891,7 +12900,7 @@
         "list": ""
     },
     {
-        "id": 1683,
+        "id": 1684,
         "tag": "サイト-tav",
         "trans": "tav",
         "desc": "サイト-Tav。",
@@ -12900,7 +12909,7 @@
         "list": ""
     },
     {
-        "id": 1684,
+        "id": 1685,
         "tag": "サイト-yod",
         "trans": "yod",
         "desc": "サイト-Yod。",
@@ -12909,7 +12918,7 @@
         "list": ""
     },
     {
-        "id": 1685,
+        "id": 1686,
         "tag": "サイト-zayin",
         "trans": "zayin",
         "desc": "サイト-Zayin。",
@@ -12918,7 +12927,7 @@
         "list": ""
     },
     {
-        "id": 1686,
+        "id": 1687,
         "tag": "エリア-mem",
         "trans": "mem",
         "desc": "エリア-Mem。",
@@ -12927,7 +12936,7 @@
         "list": ""
     },
     {
-        "id": 1687,
+        "id": 1688,
         "tag": "エリア-shell",
         "trans": "shell",
         "desc": "エリア-Shell。",
@@ -12936,7 +12945,7 @@
         "list": ""
     },
     {
-        "id": 1688,
+        "id": 1689,
         "tag": "ブタイ",
         "trans": "butai",
         "desc": "ブタイ市。",
@@ -12945,7 +12954,7 @@
         "list": ""
     },
     {
-        "id": 1689,
+        "id": 1690,
         "tag": "ホイオヒニャ",
         "trans": "hoiohiña",
         "desc": "ホイオヒニャ。",
@@ -12954,7 +12963,7 @@
         "list": ""
     },
     {
-        "id": 1691,
+        "id": 1692,
         "tag": "トラネジャンコ",
         "trans": "tlaneyanco",
         "desc": "トラネジャンコ王国。",
@@ -12963,7 +12972,7 @@
         "list": ""
     },
     {
-        "id": 1692,
+        "id": 1693,
         "tag": "サイト-29a",
         "trans": "site29a",
         "desc": "サイト-29a。",
@@ -12972,7 +12981,7 @@
         "list": ""
     },
     {
-        "id": 1693,
+        "id": 1694,
         "tag": "サイト-20",
         "trans": "site20",
         "desc": "サイト-20。",
@@ -12981,7 +12990,7 @@
         "list": ""
     },
     {
-        "id": 1694,
+        "id": 1695,
         "tag": "サイト-r31",
         "trans": "siter31",
         "desc": "サイト-R31。",
@@ -12990,7 +12999,7 @@
         "list": ""
     },
     {
-        "id": 1695,
+        "id": 1696,
         "tag": "バイオエリア-78",
         "trans": "bioarea78",
         "desc": "バイオエリア-78。",
@@ -12999,7 +13008,7 @@
         "list": ""
     },
     {
-        "id": 1696,
+        "id": 1697,
         "tag": "ゴリチュニャ",
         "trans": "gorična",
         "desc": "FP-108 \"ゴリチュニャ\"。",
@@ -13008,7 +13017,7 @@
         "list": ""
     },
     {
-        "id": 1697,
+        "id": 1698,
         "tag": "ノヴァ・カンネ",
         "trans": "nova-cannae",
         "desc": "FP-206 \"ノヴァ・カンネ\"。",
@@ -13017,7 +13026,7 @@
         "list": ""
     },
     {
-        "id": 1698,
+        "id": 1699,
         "tag": "新茶嶺",
         "trans": "新茶嶺",
         "desc": "[[[new-cha-ling|新茶嶺]]]。",
@@ -13026,7 +13035,7 @@
         "list": ""
     },
     {
-        "id": 1699,
+        "id": 1700,
         "tag": "サイト-zh-02",
         "trans": "site-zh-02",
         "desc": "[[[site-zh-02-front|サイト-ZH-02]]]。",
@@ -13035,7 +13044,7 @@
         "list": ""
     },
     {
-        "id": 1700,
+        "id": 1701,
         "tag": "サイト-zh-12",
         "trans": "site-zh-12",
         "desc": "[[[site-zh-12|サイト-ZH-12]]]。",
@@ -13044,7 +13053,7 @@
         "list": ""
     },
     {
-        "id": 1701,
+        "id": 1702,
         "tag": "サイト-zh-16",
         "trans": "site-zh-16",
         "desc": "[[[site-zh-16|サイト-ZH-16]]]。",
@@ -13053,7 +13062,7 @@
         "list": ""
     },
     {
-        "id": 1702,
+        "id": 1703,
         "tag": "サイト-zh-25",
         "trans": "site-zh-25",
         "desc": "[[[site-zh-25|サイト-ZH-25]]]。",
@@ -13062,7 +13071,7 @@
         "list": ""
     },
     {
-        "id": 1703,
+        "id": 1704,
         "tag": "サイト-zh-26",
         "trans": "site-zh-26",
         "desc": "サイト-ZH-26。",
@@ -13071,7 +13080,7 @@
         "list": ""
     },
     {
-        "id": 1704,
+        "id": 1705,
         "tag": "サイト-zh-31",
         "trans": "site-zh-31",
         "desc": "[[[site-zh-31|サイト-ZH-31]]]。",
@@ -13080,7 +13089,7 @@
         "list": ""
     },
     {
-        "id": 1705,
+        "id": 1706,
         "tag": "サイト-zh-44",
         "trans": "site-zh-44",
         "desc": "[[[site-zh-44|サイト-ZH-44]]]。",
@@ -13089,7 +13098,7 @@
         "list": ""
     },
     {
-        "id": 1706,
+        "id": 1707,
         "tag": "サイト-zh-81",
         "trans": "site-zh-81",
         "desc": "[[[site-zh-81|サイト-ZH-81]]]。",
@@ -13098,7 +13107,7 @@
         "list": ""
     },
     {
-        "id": 1707,
+        "id": 1708,
         "tag": "サイト-zh-88",
         "trans": "site-zh-88",
         "desc": "[[[site-zh-88|サイト-ZH-88]]]。",
@@ -13107,7 +13116,7 @@
         "list": ""
     },
     {
-        "id": 1708,
+        "id": 1709,
         "tag": "intcanoncon2025",
         "trans": "intcanoncon2025",
         "desc": "非公式企画の[[[international-canon-contest|2025年国際カノンコンテスト]]]。",
@@ -13118,7 +13127,7 @@
         ]
     },
     {
-        "id": 1709,
+        "id": 1710,
         "tag": "1000",
         "trans": "1000",
         "desc": "[[[https://scp-wiki.wikidot.com/forum/t-376556|SCP-1000コンテスト]]]。",
@@ -13127,7 +13136,7 @@
         "list": ""
     },
     {
-        "id": 1710,
+        "id": 1711,
         "tag": "2000",
         "trans": "2000",
         "desc": "[[[scp2000contesthub|SCP-2000コンテスト]]]。",
@@ -13136,7 +13145,7 @@
         "list": ""
     },
     {
-        "id": 1711,
+        "id": 1712,
         "tag": "3000",
         "trans": "3000",
         "desc": "[[[scp3000contesthub|SCP-3000コンテスト]]]。",
@@ -13145,7 +13154,7 @@
         "list": ""
     },
     {
-        "id": 1712,
+        "id": 1713,
         "tag": "4000",
         "trans": "4000",
         "desc": "[[[scp4000contesthub|SCP-4000コンテスト]]]。",
@@ -13154,7 +13163,7 @@
         "list": ""
     },
     {
-        "id": 1713,
+        "id": 1714,
         "tag": "5000",
         "trans": "5000",
         "desc": "[[[scp5000contesthub|SCP-5000コンテスト]]]。",
@@ -13163,7 +13172,7 @@
         "list": ""
     },
     {
-        "id": 1714,
+        "id": 1715,
         "tag": "6000",
         "trans": "6000",
         "desc": "[[[scp6000contesthub|SCP-6000コンテスト]]]。",
@@ -13172,7 +13181,7 @@
         "list": ""
     },
     {
-        "id": 1715,
+        "id": 1716,
         "tag": "7000",
         "trans": "7000",
         "desc": "[[[scp7000contesthub|SCP-7000コンテスト]]]。",
@@ -13181,7 +13190,7 @@
         "list": ""
     },
     {
-        "id": 1716,
+        "id": 1717,
         "tag": "8000",
         "trans": "8000",
         "desc": "[[[scp8000contesthub|SCP-8000コンテスト]]]。",
@@ -13190,7 +13199,7 @@
         "list": ""
     },
     {
-        "id": 1717,
+        "id": 1718,
         "tag": "9000",
         "trans": "9000",
         "desc": "[[[scp9000contesthub|SCP-9000コンテスト]]]。",
@@ -13199,7 +13208,7 @@
         "list": ""
     },
     {
-        "id": 1718,
+        "id": 1719,
         "tag": "gbc09",
         "trans": "gbc09",
         "desc": "[[[gears-birthday-contest-2009|2009年ギアーズ博士の誕生日コンテスト]]]。",
@@ -13208,7 +13217,7 @@
         "list": ""
     },
     {
-        "id": 1719,
+        "id": 1720,
         "tag": "talecon10",
         "trans": "talecon10",
         "desc": "[[[the-great-short-story-contest-archives|グレート・ショート・ストーリー・コンテスト]]]。",
@@ -13217,7 +13226,7 @@
         "list": ""
     },
     {
-        "id": 1720,
+        "id": 1721,
         "tag": "hc2012",
         "trans": "hc2012",
         "desc": "[[[halloween-contest|2012年ハロウィンコンテスト]]]。",
@@ -13226,7 +13235,7 @@
         "list": ""
     },
     {
-        "id": 1721,
+        "id": 1722,
         "tag": "nyc2013",
         "trans": "nyc2013",
         "desc": "[[[new-years-contest|2013年ニューイヤー・カノンコンテスト]]]。",
@@ -13235,7 +13244,7 @@
         "list": ""
     },
     {
-        "id": 1722,
+        "id": 1723,
         "tag": "five-questions",
         "trans": "five-questions",
         "desc": "[[[five-questions|5つの謎コンテスト]]]。",
@@ -13244,7 +13253,7 @@
         "list": ""
     },
     {
-        "id": 1723,
+        "id": 1724,
         "tag": "tc2013",
         "trans": "tc2013",
         "desc": "[[[*time-contest|2013年タイムコンテスト]]]。",
@@ -13253,7 +13262,7 @@
         "list": ""
     },
     {
-        "id": 1724,
+        "id": 1725,
         "tag": "uac2014",
         "trans": "uac2014",
         "desc": "[[[under-appreciated-contest|2014年”正しく評価されていないSCP”コンテスト]]]。",
@@ -13262,7 +13271,7 @@
         "list": ""
     },
     {
-        "id": 1725,
+        "id": 1726,
         "tag": "dc2014",
         "trans": "dc2014",
         "desc": "[[[dystopia-contest|2014年ディストピアコンテスト]]]。",
@@ -13271,7 +13280,7 @@
         "list": ""
     },
     {
-        "id": 1726,
+        "id": 1727,
         "tag": "goi2014",
         "trans": "goi2014",
         "desc": "[[[goi-contest-2014|2014年要注意団体コンテスト]]]。",
@@ -13280,7 +13289,7 @@
         "list": ""
     },
     {
-        "id": 1727,
+        "id": 1728,
         "tag": "rei2015",
         "trans": "rei2015",
         "desc": "[[[reimagining-contest|2015年再解釈コンテスト]]]。",
@@ -13289,7 +13298,7 @@
         "list": ""
     },
     {
-        "id": 1728,
+        "id": 1729,
         "tag": "sc2015",
         "trans": "sc2015",
         "desc": "[[[short-works-contest|2015年短編コンテスト]]]。",
@@ -13298,7 +13307,7 @@
         "list": ""
     },
     {
-        "id": 1729,
+        "id": 1730,
         "tag": "af2016",
         "trans": "af2016",
         "desc": "[[[an-incredibly-important-announcement|2016年エイプリルフールの事件、\"Crack Fiction\"コンテスト]]]。",
@@ -13307,7 +13316,7 @@
         "list": ""
     },
     {
-        "id": 1730,
+        "id": 1731,
         "tag": "mtf2016",
         "trans": "mtf2016",
         "desc": "[[[mobile-task-force-contest|2016年機動部隊コンテスト]]]。",
@@ -13316,7 +13325,7 @@
         "list": ""
     },
     {
-        "id": 1731,
+        "id": 1732,
         "tag": "d-con2016",
         "trans": "d-con2016",
         "desc": "[[[d-class-contest|2016年Dクラスコンテスト]]]。",
@@ -13325,7 +13334,7 @@
         "list": ""
     },
     {
-        "id": 1732,
+        "id": 1733,
         "tag": "hiscon2017",
         "trans": "hiscon2017",
         "desc": "[[[history-contest|2017年歴史コンテスト]]]。",
@@ -13334,7 +13343,7 @@
         "list": ""
     },
     {
-        "id": 1733,
+        "id": 1734,
         "tag": "art2017",
         "trans": "art2017",
         "desc": "[[[social-media-art-contest|2017アートコンテスト]]]。",
@@ -13343,7 +13352,7 @@
         "list": ""
     },
     {
-        "id": 1734,
+        "id": 1735,
         "tag": "jam-con2018",
         "trans": "jam-con2018",
         "desc": "[[[72-hour-jam-contest|2018年72時間ジャムコンテスト]]]。",
@@ -13352,7 +13361,7 @@
         "list": ""
     },
     {
-        "id": 1735,
+        "id": 1736,
         "tag": "_マーダーミステリー",
         "trans": "_murder-mystery",
         "desc": "一日目。",
@@ -13361,7 +13370,7 @@
         "list": ""
     },
     {
-        "id": 1736,
+        "id": 1737,
         "tag": "_トロピカル",
         "trans": "_tropical",
         "desc": "二日目。",
@@ -13370,7 +13379,7 @@
         "list": ""
     },
     {
-        "id": 1737,
+        "id": 1738,
         "tag": "_暗い嵐の夜",
         "trans": "_dark-and-stormy",
         "desc": "三日目。",
@@ -13379,7 +13388,7 @@
         "list": ""
     },
     {
-        "id": 1738,
+        "id": 1739,
         "tag": "halloween2018",
         "trans": "halloween2018",
         "desc": "[[[halloween-contest-2018|2018年ハロウィンコンテスト]]]。",
@@ -13388,7 +13397,7 @@
         "list": ""
     },
     {
-        "id": 1739,
+        "id": 1740,
         "tag": "doomsday2018",
         "trans": "doomsday2018",
         "desc": "[[[doomsday-contest|2018年終末の日コンテスト]]]。",
@@ -13397,7 +13406,7 @@
         "list": ""
     },
     {
-        "id": 1740,
+        "id": 1741,
         "tag": "jam-con2019",
         "trans": "jam-con2019",
         "desc": "[[[144-hour-jam-contest|2019年144時間ジャムコンテスト]]]。",
@@ -13406,7 +13415,7 @@
         "list": ""
     },
     {
-        "id": 1741,
+        "id": 1742,
         "tag": "_シャギードッグ",
         "trans": "_shaggy-dog",
         "desc": "一日目。",
@@ -13415,7 +13424,7 @@
         "list": ""
     },
     {
-        "id": 1742,
+        "id": 1743,
         "tag": "_パルプ・フィクション",
         "trans": "_pulp-fiction",
         "desc": "二日目。",
@@ -13424,7 +13433,7 @@
         "list": ""
     },
     {
-        "id": 1743,
+        "id": 1744,
         "tag": "_全ては夢",
         "trans": "_all-a-dream",
         "desc": "三日目。",
@@ -13433,7 +13442,7 @@
         "list": ""
     },
     {
-        "id": 1744,
+        "id": 1745,
         "tag": "cliche2019",
         "trans": "cliche2019",
         "desc": "[[[cliche-con-2019|クリシェコンテスト2019]]]。",
@@ -13442,7 +13451,7 @@
         "list": ""
     },
     {
-        "id": 1745,
+        "id": 1746,
         "tag": "collab-con2019",
         "trans": "collab-con2019",
         "desc": "[[[collaboration-contest|共著コンテスト2019]]]。",
@@ -13451,7 +13460,7 @@
         "list": ""
     },
     {
-        "id": 1746,
+        "id": 1747,
         "tag": "jam-con2020",
         "trans": "jam-con2020",
         "desc": "[[[144-hour-jam-contest-two|2020年144時間ジャムコンテスト]]]。",
@@ -13460,7 +13469,7 @@
         "list": ""
     },
     {
-        "id": 1747,
+        "id": 1748,
         "tag": "_大爆発",
         "trans": "_explosions",
         "desc": "一日目。",
@@ -13469,7 +13478,7 @@
         "list": ""
     },
     {
-        "id": 1748,
+        "id": 1749,
         "tag": "_美味しい",
         "trans": "_delicious",
         "desc": "二日目。",
@@ -13478,7 +13487,7 @@
         "list": ""
     },
     {
-        "id": 1749,
+        "id": 1750,
         "tag": "_見た目以上",
         "trans": "_meets-the-eye",
         "desc": "三日目。",
@@ -13487,7 +13496,7 @@
         "list": ""
     },
     {
-        "id": 1750,
+        "id": 1751,
         "tag": "exquisite-corpse2020",
         "trans": "exquisite-corpse2020",
         "desc": "[[[exquisite-corpse-contest|2020年優美な屍骸コンテスト]]]。",
@@ -13496,7 +13505,7 @@
         "list": ""
     },
     {
-        "id": 1751,
+        "id": 1752,
         "tag": "canon2020",
         "trans": "canon2020",
         "desc": "[[[canon-renaissance-contest|カノン復興コンテスト]]]。",
@@ -13505,7 +13514,7 @@
         "list": ""
     },
     {
-        "id": 1752,
+        "id": 1753,
         "tag": "cupid2021",
         "trans": "cupid2021",
         "desc": "[[[cupid-contest-2021|キューピッドコンテスト2021]]]。",
@@ -13514,7 +13523,7 @@
         "list": ""
     },
     {
-        "id": 1753,
+        "id": 1754,
         "tag": "jam-con2021",
         "trans": "jam-con2021",
         "desc": "[[[jam-con-2021|2021年度72時間ジャムコンテスト]]]。",
@@ -13523,7 +13532,7 @@
         "list": ""
     },
     {
-        "id": 1754,
+        "id": 1755,
         "tag": "_海",
         "trans": "_marine",
         "desc": "一日目。",
@@ -13532,7 +13541,7 @@
         "list": ""
     },
     {
-        "id": 1755,
+        "id": 1756,
         "tag": "_腐敗",
         "trans": "_corruption",
         "desc": "二日目。",
@@ -13541,7 +13550,7 @@
         "list": ""
     },
     {
-        "id": 1756,
+        "id": 1757,
         "tag": "_有名フラグ",
         "trans": "_famouslastwords",
         "desc": "三日目。",
@@ -13550,7 +13559,7 @@
         "list": ""
     },
     {
-        "id": 1757,
+        "id": 1758,
         "tag": "halloweencon2022",
         "trans": "halloweencon2022",
         "desc": "[[[halloween-con-2022|2022年ハロウィンコンテスト]]]。",
@@ -13559,7 +13568,7 @@
         "list": ""
     },
     {
-        "id": 1758,
+        "id": 1759,
         "tag": "departmentcon2022",
         "trans": "departmentcon2022",
         "desc": "[[[department-contest|2022年部門コンテスト]]]。",
@@ -13568,7 +13577,7 @@
         "list": ""
     },
     {
-        "id": 1759,
+        "id": 1760,
         "tag": "coldpostcon",
         "trans": "coldpostcon",
         "desc": "[[[coldpostcon|コールドポストコンテスト]]]。",
@@ -13577,7 +13586,7 @@
         "list": ""
     },
     {
-        "id": 1760,
+        "id": 1761,
         "tag": "goblincon2023",
         "trans": "goblincon2023",
         "desc": "[[[goblincon|ゴブリンコンテスト]]]。",
@@ -13586,7 +13595,7 @@
         "list": ""
     },
     {
-        "id": 1761,
+        "id": 1762,
         "tag": "_goblin-76年",
         "trans": "_goblin-76",
         "desc": "\"76年\"カテゴリへの参加作。",
@@ -13595,7 +13604,7 @@
         "list": ""
     },
     {
-        "id": 1762,
+        "id": 1763,
         "tag": "_goblin-バグ",
         "trans": "_goblin-glitch",
         "desc": "\"バグ\"カテゴリへの参加作。",
@@ -13604,7 +13613,7 @@
         "list": ""
     },
     {
-        "id": 1763,
+        "id": 1764,
         "tag": "_goblin-ゴブリン",
         "trans": "_goblin-goblin",
         "desc": "\"ゴブリン\"カテゴリへの参加作。",
@@ -13613,7 +13622,7 @@
         "list": ""
     },
     {
-        "id": 1764,
+        "id": 1765,
         "tag": "_goblin-バトロワ",
         "trans": "_goblin-royale",
         "desc": "\"バトロワ\"カテゴリへの参加作。",
@@ -13622,7 +13631,7 @@
         "list": ""
     },
     {
-        "id": 1765,
+        "id": 1766,
         "tag": "_goblin-削除",
         "trans": "_goblin-deletions",
         "desc": "\"削除\"カテゴリへの参加作。",
@@ -13631,7 +13640,7 @@
         "list": ""
     },
     {
-        "id": 1766,
+        "id": 1767,
         "tag": "remixcon2023",
         "trans": "remixcon2023",
         "desc": "[[[remixcon2023|2023年リミックスコンテスト]]]。",
@@ -13640,7 +13649,7 @@
         "list": ""
     },
     {
-        "id": 1767,
+        "id": 1768,
         "tag": "visual-archives2024",
         "trans": "visual-archives2024",
         "desc": "[[[visual-archives-art-contest|2024年ビジュアルアーカイブアートコンテスト]]]。",
@@ -13649,7 +13658,7 @@
         "list": ""
     },
     {
-        "id": 1768,
+        "id": 1769,
         "tag": "publicdomaincon2025",
         "trans": "publicdomaincon2025",
         "desc": "[[[pdcontest2025|2025年パブリックドメインコンテスト]]]。",
@@ -13658,7 +13667,7 @@
         "list": ""
     },
     {
-        "id": 1769,
+        "id": 1770,
         "tag": "classiccon2025",
         "trans": "classiccon2025",
         "desc": "[[[classic-con|2025年クラシックコンテスト]]]。",
@@ -13667,7 +13676,7 @@
         "list": ""
     },
     {
-        "id": 1770,
+        "id": 1771,
         "tag": "sportscon2026",
         "trans": "sportscon2026",
         "desc": "[[[sportscon|2026年スポーツコンテスト]]]。",
@@ -13676,7 +13685,7 @@
         "list": ""
     },
     {
-        "id": 1771,
+        "id": 1772,
         "tag": "goicon-2026",
         "trans": "goicon-2026",
         "desc": "[[[goicon-2026|2026年要注意団体コンテスト]]]。",
@@ -13685,7 +13694,7 @@
         "list": ""
     },
     {
-        "id": 1772,
+        "id": 1773,
         "tag": "creepypastacon2026",
         "trans": "creepypastacon2026",
         "desc": "[[[creepypastacon-2026|2026年クリーピーパスタコンテスト]]]。",
@@ -13694,7 +13703,7 @@
         "list": ""
     },
     {
-        "id": 1773,
+        "id": 1774,
         "tag": "memecon2021-unofficial",
         "trans": "memecon2021-unofficial",
         "desc": "非公式企画の[[[memecon-unofficial|2021年ミームコンテスト]]]。",
@@ -13703,7 +13712,7 @@
         "list": ""
     },
     {
-        "id": 1774,
+        "id": 1775,
         "tag": "romcon2023-unofficial",
         "trans": "romcon2023-unofficial",
         "desc": "非公式企画の[[[romcon|2023年ロマンスコンテスト]]]: SCPオリキャラトーナメント。",
@@ -13712,7 +13721,7 @@
         "list": ""
     },
     {
-        "id": 1775,
+        "id": 1776,
         "tag": "paracon2023-unofficial",
         "trans": "paracon2023-unofficial",
         "desc": "非公式企画の[[[https://scp-wiki.wikidot.com/forum/t-16423302/unofficial-paracon-2023| 2023年パラウォッチコンテスト]]]。",
@@ -13721,7 +13730,7 @@
         "list": ""
     },
     {
-        "id": 1776,
+        "id": 1777,
         "tag": "spook-nico-2024-unofficial",
         "trans": "spook-nico-2024-unofficial",
         "desc": "非公式企画の[[[spook-nico-2024-unofficial|2024年Nicoを怖がらせようコンテスト]]]。",
@@ -13730,7 +13739,7 @@
         "list": ""
     },
     {
-        "id": 1778,
+        "id": 1779,
         "tag": "dumbcon2026-unofficial",
         "trans": "dumbcon2026-unofficial",
         "desc": "非公式企画の[[[dumbcon|2026年アホコンテスト]]]。",
@@ -13739,7 +13748,7 @@
         "list": ""
     },
     {
-        "id": 1779,
+        "id": 1780,
         "tag": "timjc2026-unofficial",
         "trans": "timjc2026-unofficial",
         "desc": "非公式企画の[[[timjc|2026年これが私の]]][[span class=\"ruby\"]][[[timjc|推し曲]]][[span class=\"rt\"]]ジャム[[/span]][[/span]][[[timjc|コンテスト]]]。",
@@ -13748,7 +13757,7 @@
         "list": ""
     },
     {
-        "id": 1780,
+        "id": 1781,
         "tag": "goi2019",
         "trans": "goi2019",
         "desc": "コンテスト-INT (Otherタグ内) の項を参照してください。",
@@ -13757,7 +13766,7 @@
         "list": ""
     },
     {
-        "id": 1781,
+        "id": 1782,
         "tag": "lorecon2023",
         "trans": "lorecon2023",
         "desc": "コンテスト-INT (Otherタグ内) の項を参照してください。",
@@ -13766,7 +13775,7 @@
         "list": ""
     },
     {
-        "id": 1782,
+        "id": 1783,
         "tag": "173fest",
         "trans": "173fest",
         "desc": "[[[173-festival|173フェスティバル]]]。",
@@ -13775,7 +13784,7 @@
         "list": ""
     },
     {
-        "id": 1783,
+        "id": 1784,
         "tag": "art-exchange",
         "trans": "art-exchange",
         "desc": "[[[art-exchange-hub|Annual Holiday Art Exchange]]]。",
@@ -13784,7 +13793,7 @@
         "list": ""
     },
     {
-        "id": 1784,
+        "id": 1785,
         "tag": "af2014",
         "trans": "af2014",
         "desc": "[[[april-fools-2014|2014年エイプリルフールの事件、\"Super Cute Pets!\"]]]。",
@@ -13793,7 +13802,7 @@
         "list": ""
     },
     {
-        "id": 1785,
+        "id": 1786,
         "tag": "game-day",
         "trans": "game-day",
         "desc": "[[[gamedayindex|Game Day]]]。",
@@ -13802,7 +13811,7 @@
         "list": ""
     },
     {
-        "id": 1786,
+        "id": 1787,
         "tag": "pridefest2024",
         "trans": "pridefest2024",
         "desc": "[[[pridefest|2024年プライドフェスティバル]]]。",
@@ -13811,7 +13820,7 @@
         "list": ""
     },
     {
-        "id": 1787,
+        "id": 1788,
         "tag": "nightmarefest",
         "trans": "nightmarefest",
         "desc": "非公式企画の[[[nightmarefest|ナイトメアフェスト]]]。",
@@ -13820,7 +13829,7 @@
         "list": ""
     },
     {
-        "id": 1788,
+        "id": 1789,
         "tag": "_タウンハウス",
         "trans": "_townhouse",
         "desc": "\"タウンハウス\"カテゴリへの参加作。",
@@ -13829,7 +13838,7 @@
         "list": ""
     },
     {
-        "id": 1789,
+        "id": 1790,
         "tag": "_お役人",
         "trans": "_the-bureaucrat",
         "desc": "\"お役人\"カテゴリへの参加作。",
@@ -13838,7 +13847,7 @@
         "list": ""
     },
     {
-        "id": 1790,
+        "id": 1791,
         "tag": "_夜勤",
         "trans": "_graveyard-shift",
         "desc": "\"夜勤\"カテゴリへの参加作。",
@@ -13847,7 +13856,7 @@
         "list": ""
     },
     {
-        "id": 1791,
+        "id": 1792,
         "tag": "spring-cleaning24",
         "trans": "spring-cleaning24",
         "desc": "[[[deer-college-spring-cleaning-event|2024年春の大掃除イベント]]]。",
@@ -13856,7 +13865,7 @@
         "list": ""
     },
     {
-        "id": 1792,
+        "id": 1793,
         "tag": "pridefest2025",
         "trans": "pridefest2025",
         "desc": "非公式企画の[[[pridefest-2025|2025年プライドフェスティバル]]]。",
@@ -13865,7 +13874,7 @@
         "list": ""
     },
     {
-        "id": 1793,
+        "id": 1794,
         "tag": "pridefest2026",
         "trans": "pridefest2026",
         "desc": "非公式企画の[[[pridefest-2026|2026年プライドフェスティバル]]]。",
@@ -13874,7 +13883,7 @@
         "list": ""
     },
     {
-        "id": 1794,
+        "id": 1795,
         "tag": "173jp",
         "trans": "",
         "desc": "[[[scp173jpcontesthub|SCP-173-JPコンテスト]]]。",
@@ -13883,7 +13892,7 @@
         "list": ""
     },
     {
-        "id": 1795,
+        "id": 1796,
         "tag": "フォトコンテスト",
         "trans": "",
         "desc": "[[[photo-contest|SCP財団日本設立一周年記念フォトコンテスト]]]。",
@@ -13892,7 +13901,7 @@
         "list": ""
     },
     {
-        "id": 1796,
+        "id": 1797,
         "tag": "2014ハロウィン企画",
         "trans": "",
         "desc": "[[[2014-haloween-kikaku-hub-byboatob|2014ハロウィン企画]]]。",
@@ -13901,7 +13910,7 @@
         "list": ""
     },
     {
-        "id": 1797,
+        "id": 1798,
         "tag": "無名職員は語る",
         "trans": "",
         "desc": "[[[nameless-staff-tales2015winter|tale大会「“無名”職員は語る」]]]。",
@@ -13910,7 +13919,7 @@
         "list": ""
     },
     {
-        "id": 1798,
+        "id": 1799,
         "tag": "2周年goiコンテスト",
         "trans": "",
         "desc": "[[[2th-goi-contest|SCP財団Wiki設立二周年企画",
@@ -13919,7 +13928,7 @@
         "list": ""
     },
     {
-        "id": 1799,
+        "id": 1800,
         "tag": "2周年goiコンテスト遅刻投稿",
         "trans": "",
         "desc": "遅刻投稿。",
@@ -13928,7 +13937,7 @@
         "list": ""
     },
     {
-        "id": 1800,
+        "id": 1801,
         "tag": "2016イラストコンテスト",
         "trans": "",
         "desc": "[[[2016-illust-contest|3周年記念イラストコンテスト]]]。",
@@ -13937,7 +13946,7 @@
         "list": ""
     },
     {
-        "id": 1801,
+        "id": 1802,
         "tag": "1000jp",
         "trans": "",
         "desc": "[[[scp1000jp-contest-hub|SCP-1000-JPコンテスト]]]。",
@@ -13946,7 +13955,7 @@
         "list": ""
     },
     {
-        "id": 1802,
+        "id": 1803,
         "tag": "財団職員the-origin",
         "trans": "",
         "desc": "[[[personnel-the-origin-hub|年末年始Taleコンテスト「財団職員 the Origin」 ]]]。",
@@ -13955,7 +13964,7 @@
         "list": ""
     },
     {
-        "id": 1803,
+        "id": 1804,
         "tag": "新人執筆者コンテスト",
         "trans": "",
         "desc": "[[[newface-contest-hub|新人執筆者コンテスト]]]。",
@@ -13964,7 +13973,7 @@
         "list": ""
     },
     {
-        "id": 1804,
+        "id": 1805,
         "tag": "cross17jp",
         "trans": "",
         "desc": "[[[crosscontest|クロスコンテスト'17]]]。",
@@ -13973,7 +13982,7 @@
         "list": ""
     },
     {
-        "id": 1805,
+        "id": 1806,
         "tag": "デスコン17",
         "trans": "",
         "desc": "[[[deathcontest|4年目の死のコンテスト]]]。",
@@ -13982,7 +13991,7 @@
         "list": ""
     },
     {
-        "id": 1806,
+        "id": 1807,
         "tag": "1600字17",
         "trans": "",
         "desc": "[[[1600con17|1600文字コンテスト]]]。",
@@ -13991,7 +14000,7 @@
         "list": ""
     },
     {
-        "id": 1807,
+        "id": 1808,
         "tag": "recyclecon17",
         "trans": "",
         "desc": "[[[recyclecontest17|リサイクルコンテスト2017]]]。",
@@ -14000,7 +14009,7 @@
         "list": ""
     },
     {
-        "id": 1808,
+        "id": 1809,
         "tag": "recyclecon17遅刻組",
         "trans": "",
         "desc": "遅刻作品。",
@@ -14009,7 +14018,7 @@
         "list": ""
     },
     {
-        "id": 1809,
+        "id": 1810,
         "tag": "ベンチャーコンテスト",
         "trans": "",
         "desc": "[[[venture-contest-2018|ベンチャーコンテスト2018]]]。",
@@ -14018,7 +14027,7 @@
         "list": ""
     },
     {
-        "id": 1810,
+        "id": 1811,
         "tag": "ワルコン18",
         "trans": "",
         "desc": "[[[warucontest|5年目の悪のコンテスト]]]。",
@@ -14027,7 +14036,7 @@
         "list": ""
     },
     {
-        "id": 1811,
+        "id": 1812,
         "tag": "bbc18",
         "trans": "",
         "desc": "[[[bbc18|棍棒での殴り合いコンテスト]]]。",
@@ -14036,7 +14045,7 @@
         "list": ""
     },
     {
-        "id": 1812,
+        "id": 1813,
         "tag": "リサイクル2019",
         "trans": "",
         "desc": "[[[recyclecontest19|リサイクルコンテスト2019]]]。",
@@ -14045,7 +14054,7 @@
         "list": ""
     },
     {
-        "id": 1813,
+        "id": 1814,
         "tag": "1200字19",
         "trans": "",
         "desc": "[[[1200-taletaletale-hub|1200字掌編企画2019]]]。",
@@ -14054,7 +14063,7 @@
         "list": ""
     },
     {
-        "id": 1814,
+        "id": 1815,
         "tag": "無コン19",
         "trans": "",
         "desc": "[[[mucon19|無のコンテスト]]]。",
@@ -14063,7 +14072,7 @@
         "list": ""
     },
     {
-        "id": 1815,
+        "id": 1816,
         "tag": "ジャムコン2019",
         "trans": "",
         "desc": "[[[72-hour-jam-contest-jp-2019|72時間ジャムコンテストJP-2019]]]。",
@@ -14072,7 +14081,7 @@
         "list": ""
     },
     {
-        "id": 1816,
+        "id": 1817,
         "tag": "2000jp",
         "trans": "",
         "desc": "[[[scp2000jp-contest-hub|SCP-2000-JPコンテスト]]]。",
@@ -14081,7 +14090,7 @@
         "list": ""
     },
     {
-        "id": 1817,
+        "id": 1818,
         "tag": "ルーキーコンテスト",
         "trans": "",
         "desc": "[[[rookie-s-contest-2020|ルーキーコンテスト2020]]]。",
@@ -14090,7 +14099,7 @@
         "list": ""
     },
     {
-        "id": 1818,
+        "id": 1819,
         "tag": "嘘コン20",
         "trans": "",
         "desc": "[[[usocontest2020-hub|嘘のコンテスト2020]]]。",
@@ -14099,7 +14108,7 @@
         "list": ""
     },
     {
-        "id": 1819,
+        "id": 1820,
         "tag": "チームコン20",
         "trans": "",
         "desc": "[[[teamcontest-2020-hub|チームコンテスト2020]]]。",
@@ -14108,7 +14117,7 @@
         "list": ""
     },
     {
-        "id": 1820,
+        "id": 1821,
         "tag": "財団職員id",
         "trans": "",
         "desc": "[[[the-identity-2020-hub|Taleコンテスト「財団職員 The Identity」]]]。",
@@ -14117,7 +14126,7 @@
         "list": ""
     },
     {
-        "id": 1821,
+        "id": 1822,
         "tag": "素手喧嘩コン21",
         "trans": "",
         "desc": "[[[sutegorocontest-2021-hub|素手喧嘩コンテスト]]]。",
@@ -14126,7 +14135,7 @@
         "list": ""
     },
     {
-        "id": 1822,
+        "id": 1823,
         "tag": "三題噺言霊競演21",
         "trans": "",
         "desc": "[[[kotodama-contest-2021|令和三年度三題噺言霊競演]]]。",
@@ -14135,7 +14144,7 @@
         "list": ""
     },
     {
-        "id": 1823,
+        "id": 1824,
         "tag": "夜コン21",
         "trans": "",
         "desc": "[[[yorucontest2021-hub|夜のコンテスト2021]]]。",
@@ -14144,7 +14153,7 @@
         "list": ""
     },
     {
-        "id": 1824,
+        "id": 1825,
         "tag": "リサイクル2021",
         "trans": "",
         "desc": "[[[recyclecontest21|リサイクルコンテスト2021]]]。",
@@ -14153,7 +14162,7 @@
         "list": ""
     },
     {
-        "id": 1825,
+        "id": 1826,
         "tag": "わかばコンテスト",
         "trans": "",
         "desc": "[[[wakaba-contest-2022|わかばコンテスト2022]]]。",
@@ -14162,7 +14171,7 @@
         "list": ""
     },
     {
-        "id": 1826,
+        "id": 1827,
         "tag": "qコン22",
         "trans": "",
         "desc": "[[[qcontest2022-hub|Qのコンテスト2022]]]。",
@@ -14171,7 +14180,7 @@
         "list": ""
     },
     {
-        "id": 1827,
+        "id": 1828,
         "tag": "3000jp",
         "trans": "",
         "desc": "[[[scp3000jp-contest-hub|SCP-3000-JPコンテスト]]]。",
@@ -14180,7 +14189,7 @@
         "list": ""
     },
     {
-        "id": 1828,
+        "id": 1829,
         "tag": "ジャムコン2023",
         "trans": "",
         "desc": "[[[72-hour-jam-contest-jp-2023|72時間ジャムコンテストJP-2023]]]。",
@@ -14189,7 +14198,7 @@
         "list": ""
     },
     {
-        "id": 1829,
+        "id": 1830,
         "tag": "ショート2023",
         "trans": "",
         "desc": "[[[shortcontest23|ショートコンテスト2023]]]。",
@@ -14198,7 +14207,7 @@
         "list": ""
     },
     {
-        "id": 1830,
+        "id": 1831,
         "tag": "xコン23",
         "trans": "",
         "desc": "[[[xcontest2023-hub|Xのコンテスト2023]]]。",
@@ -14207,7 +14216,7 @@
         "list": ""
     },
     {
-        "id": 1831,
+        "id": 1832,
         "tag": "チームコン23",
         "trans": "",
         "desc": "[[[teamcontest-2023-hub|チームコンテスト2023]]]。",
@@ -14216,7 +14225,7 @@
         "list": ""
     },
     {
-        "id": 1832,
+        "id": 1833,
         "tag": "ジョンドゥコン24",
         "trans": "",
         "desc": "[[[john-doe-contest-2024|ジョン・ドゥコンテスト2024]]]。",
@@ -14225,7 +14234,7 @@
         "list": ""
     },
     {
-        "id": 1833,
+        "id": 1834,
         "tag": "新星コンテスト",
         "trans": "",
         "desc": "[[[shinsei-contest-2024|新星コンテスト2024]]]。",
@@ -14234,7 +14243,7 @@
         "list": ""
     },
     {
-        "id": 1834,
+        "id": 1835,
         "tag": "恐怖コン24",
         "trans": "",
         "desc": "[[[terror-contest-2024|恐怖のコンテスト2024]]]。",
@@ -14243,7 +14252,7 @@
         "list": ""
     },
     {
-        "id": 1835,
+        "id": 1836,
         "tag": "bbc24",
         "trans": "",
         "desc": "[[[bbc24|棍棒での殴り合いコンテスト2024]]]。",
@@ -14252,7 +14261,7 @@
         "list": ""
     },
     {
-        "id": 1836,
+        "id": 1837,
         "tag": "occon",
         "trans": "",
         "desc": "[[[occon25|オブジェクトクラス最強決定戦]]]。",
@@ -14261,7 +14270,7 @@
         "list": ""
     },
     {
-        "id": 1837,
+        "id": 1838,
         "tag": "時コン25",
         "trans": "",
         "desc": "[[[tokicontest2025-hub|時のコンテスト2025]]]。",
@@ -14270,7 +14279,7 @@
         "list": ""
     },
     {
-        "id": 1838,
+        "id": 1839,
         "tag": "4000jp",
         "trans": "",
         "desc": "[[[scp4000jp-contest-hub|SCP-4000-JPコンテスト]]]。",
@@ -14279,7 +14288,7 @@
         "list": ""
     },
     {
-        "id": 1839,
+        "id": 1840,
         "tag": "ビギナーズコンテスト",
         "trans": "",
         "desc": "[[[beginner-s-contest-2026|ビギナーズコンテスト2026]]]。",
@@ -14288,7 +14297,7 @@
         "list": ""
     },
     {
-        "id": 1840,
+        "id": 1841,
         "tag": "夢コン26",
         "trans": "",
         "desc": "[[[yumecontest2026-hub|夢のコンテスト2026]]]。",
@@ -14297,7 +14306,7 @@
         "list": ""
     },
     {
-        "id": 1841,
+        "id": 1842,
         "tag": "非公式800字掌編企画",
         "trans": "",
         "desc": "[[[800-taletale|非公式800字tale参加作品]]]。",
@@ -14306,7 +14315,7 @@
         "list": ""
     },
     {
-        "id": 1842,
+        "id": 1843,
         "tag": "2014年年末企画",
         "trans": "",
         "desc": "[[[2014-the-last-day|2014年大晦日企画]]]。",
@@ -14315,7 +14324,7 @@
         "list": ""
     },
     {
-        "id": 1843,
+        "id": 1844,
         "tag": "2015年末終末記事大会",
         "trans": "",
         "desc": "[[[2015-nenmatu-syu-matu|2015年末　終末記事企画！]]]。",
@@ -14324,7 +14333,7 @@
         "list": ""
     },
     {
-        "id": 1844,
+        "id": 1845,
         "tag": "af2016-jp",
         "trans": "",
         "desc": "[[[aprilfool2016|AF-2016-JP]]]。",
@@ -14333,7 +14342,7 @@
         "list": ""
     },
     {
-        "id": 1845,
+        "id": 1846,
         "tag": "非公式1200字掌編企画",
         "trans": "",
         "desc": "[[[1200-taletale-hub|非公式1200字掌編企画]]]。",
@@ -14342,7 +14351,7 @@
         "list": ""
     },
     {
-        "id": 1846,
+        "id": 1847,
         "tag": "コトダマtale祭り",
         "trans": "",
         "desc": "[[[kotodama-tale-fes|コトダマTale祭り ]]]。",
@@ -14351,7 +14360,7 @@
         "list": ""
     },
     {
-        "id": 1847,
+        "id": 1848,
         "tag": "af2017",
         "trans": "",
         "desc": "AF-2017-JP。",
@@ -14360,7 +14369,7 @@
         "list": ""
     },
     {
-        "id": 1848,
+        "id": 1849,
         "tag": "ハロウィン2017",
         "trans": "",
         "desc": "[[[https://scp-jp.wikidot.com/forum/t-4111918|チャレンジ:ハロウィン記事執筆!]]]。",
@@ -14369,7 +14378,7 @@
         "list": ""
     },
     {
-        "id": 1849,
+        "id": 1850,
         "tag": "af2018",
         "trans": "",
         "desc": "AF-2018-JP。",
@@ -14378,7 +14387,7 @@
         "list": ""
     },
     {
-        "id": 1850,
+        "id": 1851,
         "tag": "af2019",
         "trans": "",
         "desc": "AF-2019-JP。",
@@ -14387,7 +14396,7 @@
         "list": ""
     },
     {
-        "id": 1851,
+        "id": 1852,
         "tag": "af2020",
         "trans": "",
         "desc": "AF-2020-JP。",
@@ -14396,7 +14405,7 @@
         "list": ""
     },
     {
-        "id": 1852,
+        "id": 1853,
         "tag": "クロスリンクキャンペーン",
         "trans": "",
         "desc": "[[[crosslink-campaign-2020|クロスリンクキャンペーン2020]]]。",
@@ -14405,7 +14414,7 @@
         "list": ""
     },
     {
-        "id": 1853,
+        "id": 1854,
         "tag": "af2021",
         "trans": "",
         "desc": "AF-2021-JP及び適正価格コンテスト。",
@@ -14414,7 +14423,7 @@
         "list": ""
     },
     {
-        "id": 1854,
+        "id": 1855,
         "tag": "お団子21",
         "trans": "",
         "desc": "[[[pile-up-dumplings-2021|十五夜お団子フェスティバル2021]]]。",
@@ -14423,7 +14432,7 @@
         "list": ""
     },
     {
-        "id": 1855,
+        "id": 1856,
         "tag": "お見合い2021",
         "trans": "",
         "desc": "[[[matchmaking2021|財団日本支部お見合い計画2021]]]。",
@@ -14432,7 +14441,7 @@
         "list": ""
     },
     {
-        "id": 1856,
+        "id": 1857,
         "tag": "af2022",
         "trans": "",
         "desc": "AF-2022-JP。",
@@ -14441,7 +14450,7 @@
         "list": ""
     },
     {
-        "id": 1857,
+        "id": 1858,
         "tag": "af2023",
         "trans": "",
         "desc": "AF-2023-JP。",
@@ -14450,7 +14459,7 @@
         "list": ""
     },
     {
-        "id": 1858,
+        "id": 1859,
         "tag": "オーバーホールキャンペーン",
         "trans": "",
         "desc": "[[[overhaul-campaign|オーバーホール・キャンペーン]]]。",
@@ -14459,7 +14468,7 @@
         "list": ""
     },
     {
-        "id": 1859,
+        "id": 1860,
         "tag": "オーバーロードキャンペーン",
         "trans": "",
         "desc": "[[[overlord-campaign|オーバーロード・キャンペーン]]]。",
@@ -14468,7 +14477,7 @@
         "list": ""
     },
     {
-        "id": 1860,
+        "id": 1861,
         "tag": "オーバービルドキャンペーン",
         "trans": "",
         "desc": "[[[overbuild-campaign|オーバービルド・キャンペーン]]]。",
@@ -14477,7 +14486,7 @@
         "list": ""
     },
     {
-        "id": 1861,
+        "id": 1862,
         "tag": "オーバーフローキャンペーン",
         "trans": "",
         "desc": "[[[overflow-campaign|オーバーフロー・キャンペーン]]]。",
@@ -14486,7 +14495,7 @@
         "list": ""
     },
     {
-        "id": 1862,
+        "id": 1863,
         "tag": "af2024",
         "trans": "",
         "desc": "AF-2024-JP。",
@@ -14495,7 +14504,7 @@
         "list": ""
     },
     {
-        "id": 1863,
+        "id": 1864,
         "tag": "エッセイキャンペーン",
         "trans": "",
         "desc": "[[[essay-campaign-2024|新星応援！キラキラエッセイキャンペーン]]]。",
@@ -14504,7 +14513,7 @@
         "list": ""
     },
     {
-        "id": 1864,
+        "id": 1865,
         "tag": "af2025",
         "trans": "",
         "desc": "AF-2025-JP。",
@@ -14513,7 +14522,7 @@
         "list": ""
     },
     {
-        "id": 1865,
+        "id": 1866,
         "tag": "災禍転福キャンペーン",
         "trans": "",
         "desc": "[[[saikatenpuku-campaign-hub|災禍転福キャンペーン]]]。",
@@ -14522,7 +14531,7 @@
         "list": ""
     },
     {
-        "id": 1866,
+        "id": 1867,
         "tag": "af2026",
         "trans": "",
         "desc": "AF-2026-JP。",
@@ -14531,7 +14540,7 @@
         "list": ""
     },
     {
-        "id": 1867,
+        "id": 1868,
         "tag": "お見合い2026",
         "trans": "",
         "desc": "[[[matchmaking2026|財団日本支部お見合い計画2026]]]。",
@@ -14540,7 +14549,7 @@
         "list": ""
     },
     {
-        "id": 1868,
+        "id": 1869,
         "tag": "xmas2026",
         "trans": "",
         "desc": "[[[decore-xmastree2026-hub|デコれ！聖夜のクリスマスツリー！]]]。",
@@ -14549,7 +14558,7 @@
         "list": ""
     },
     {
-        "id": 1869,
+        "id": 1870,
         "tag": "掌編コンテスト2023",
         "trans": "мс_малый_объект2023 / мс_малый_рассказ2023",
         "desc": "[[[small-form-contest-iii-last-wish| 第22回コンテスト: 掌編コンIII「最後の願い」]]]。",
@@ -14558,7 +14567,7 @@
         "list": ""
     },
     {
-        "id": 1870,
+        "id": 1871,
         "tag": "2015-財団放送コンテスト",
         "trans": "2015-재단방송경연",
         "desc": "[[[foundation-broadcast-conest-temp|2015財団放送コンテスト]]]。",
@@ -14567,7 +14576,7 @@
         "list": ""
     },
     {
-        "id": 1871,
+        "id": 1872,
         "tag": "2016-漫画コンテスト",
         "trans": "2016-카툰경연",
         "desc": "[[[foundation-cartoon-contest-2016|2016財団漫画コンテスト]]]。",
@@ -14576,7 +14585,7 @@
         "list": ""
     },
     {
-        "id": 1872,
+        "id": 1873,
         "tag": "2017-世界滅亡コンテスト",
         "trans": "2017-세계멸망경연",
         "desc": "[[[eow-contest|2017世界滅亡コンテスト]]]。",
@@ -14585,7 +14594,7 @@
         "list": ""
     },
     {
-        "id": 1873,
+        "id": 1874,
         "tag": "2018-短編コンテスト",
         "trans": "2018-단편경연",
         "desc": "[[[short-contest-2018|2018短編コンテスト]]]。",
@@ -14594,7 +14603,7 @@
         "list": ""
     },
     {
-        "id": 1874,
+        "id": 1875,
         "tag": "2018-犯罪コンテスト",
         "trans": "2018-범죄경연",
         "desc": "[[[2018-crime-contest|犯罪コンテスト]]]。",
@@ -14603,7 +14612,7 @@
         "list": ""
     },
     {
-        "id": 1875,
+        "id": 1876,
         "tag": "2020-04コンテスト",
         "trans": "2020-04경연",
         "desc": "[[[bimonthly-contests-2020|2020年度隔月コンテスト]]]の4月度部門のタグです。",
@@ -14612,7 +14621,7 @@
         "list": ""
     },
     {
-        "id": 1876,
+        "id": 1877,
         "tag": "2020-08コンテスト",
         "trans": "2020-08경연",
         "desc": "[[[bimonthly-contests-2020|2020年度隔月コンテスト]]]の8月度部門のタグです。",
@@ -14621,7 +14630,7 @@
         "list": ""
     },
     {
-        "id": 1877,
+        "id": 1878,
         "tag": "2020-10コンテスト",
         "trans": "2020-10경연",
         "desc": "[[[bimonthly-contests-2020|2020年度隔月コンテスト]]]の10月度部門のタグです。",
@@ -14630,7 +14639,7 @@
         "list": ""
     },
     {
-        "id": 1878,
+        "id": 1879,
         "tag": "2020-メタタイトルコンテスト",
         "trans": "2020-별칭경연",
         "desc": "[[[title-contest-hub|2020メタタイトルコンテスト]]]。",
@@ -14639,7 +14648,7 @@
         "list": ""
     },
     {
-        "id": 1879,
+        "id": 1880,
         "tag": "三千里-江原コンテスト",
         "trans": "삼천리-강원",
         "desc": "[[[samcheonri-contest-gangwon|第十一回「江原特別自治道・未収復江原道」]]]。",
@@ -14648,7 +14657,7 @@
         "list": ""
     },
     {
-        "id": 1880,
+        "id": 1881,
         "tag": "2021-即興コンテスト",
         "trans": "2021-즉흥경연-ko",
         "desc": "[[[3day-writting-hub|2021即興コンテスト]]]。",
@@ -14657,7 +14666,7 @@
         "list": ""
     },
     {
-        "id": 1881,
+        "id": 1882,
         "tag": "1000ko",
         "trans": "1000ko",
         "desc": "[[[scp1000kocontesthub|SCP-1000-KOコンテスト]]]。",
@@ -14666,7 +14675,7 @@
         "list": ""
     },
     {
-        "id": 1882,
+        "id": 1883,
         "tag": "2023-絶対コンテスト",
         "trans": "2023-절대평가",
         "desc": "[[[2023-jd-contest-hub|絶対評価コンテスト]]]。",
@@ -14675,7 +14684,7 @@
         "list": ""
     },
     {
-        "id": 1883,
+        "id": 1884,
         "tag": "2024-メタタイトルコンテスト",
         "trans": "2024-별칭경연",
         "desc": "[[[title-contest-hub-2024|2024第三回メタタイトルコンテスト]]]。",
@@ -14684,7 +14693,7 @@
         "list": ""
     },
     {
-        "id": 1884,
+        "id": 1885,
         "tag": "2024-年末コンテスト",
         "trans": "2024-연말경연-ko",
         "desc": "[[[12thanniversarycontest|12周年の年末コンテスト「気候」]]]。",
@@ -14693,7 +14702,7 @@
         "list": ""
     },
     {
-        "id": 1885,
+        "id": 1886,
         "tag": "2025-短編コンテスト",
         "trans": "2025-단편경연-ko",
         "desc": "[[[short-contest-2025|2025短編コンテスト]]]。",
@@ -14702,7 +14711,7 @@
         "list": ""
     },
     {
-        "id": 1886,
+        "id": 1887,
         "tag": "2025-即興コンテスト",
         "trans": "2025-즉흥경연-ko",
         "desc": "[[[2025-2weeks-writing-hub|2025即興コンテスト]]]。",
@@ -14711,7 +14720,7 @@
         "list": ""
     },
     {
-        "id": 1887,
+        "id": 1888,
         "tag": "2012-devan-誕生日祝典",
         "trans": "2012-데반-생일축전",
         "desc": "[[[old:birthday-devan|誕生日祝典 - Devan]]]。",
@@ -14720,7 +14729,7 @@
         "list": ""
     },
     {
-        "id": 1888,
+        "id": 1889,
         "tag": "2023-ハンガウィ祝典",
         "trans": "2023-한가위축연",
         "desc": "[[[midautumn-festival-2023|2023ハンガウィ祝典]]]。",
@@ -14729,7 +14738,7 @@
         "list": ""
     },
     {
-        "id": 1889,
+        "id": 1890,
         "tag": "cn1000",
         "trans": "cn1000",
         "desc": "[[[scpcn1000contesthub|SCP-CN-1000コンテスト]]]。",
@@ -14738,7 +14747,7 @@
         "list": ""
     },
     {
-        "id": 1890,
+        "id": 1891,
         "tag": "cn2000",
         "trans": "cn2000",
         "desc": "[[[scpcn2000contesthub|SCP-CN-2000コンテスト]]]。",
@@ -14747,7 +14756,7 @@
         "list": ""
     },
     {
-        "id": 1891,
+        "id": 1892,
         "tag": "cn3000",
         "trans": "cn3000",
         "desc": "[[[scpcn3000contesthub|SCP-CN-3000コンテスト]]]。",
@@ -14756,7 +14765,7 @@
         "list": ""
     },
     {
-        "id": 1892,
+        "id": 1893,
         "tag": "cn4000",
         "trans": "cn4000",
         "desc": "[[[scpcn4000contesthub|SCP-CN-4000コンテスト]]]。",
@@ -14765,7 +14774,7 @@
         "list": ""
     },
     {
-        "id": 1893,
+        "id": 1894,
         "tag": "春節コンテスト",
         "trans": "春节竞赛",
         "desc": "[[[chinese-new-year-contest|2014年春節Taleコンテスト]]]。",
@@ -14774,7 +14783,7 @@
         "list": ""
     },
     {
-        "id": 1894,
+        "id": 1895,
         "tag": "2014夏休みコンテスト",
         "trans": "2014暑期竞赛",
         "desc": "[[[summer-contest-2014|2014夏休み“马上回来”コンテスト]]]。",
@@ -14783,7 +14792,7 @@
         "list": ""
     },
     {
-        "id": 1895,
+        "id": 1896,
         "tag": "2015夏季コンテスト",
         "trans": "2015夏季征文",
         "desc": "[[[summer-contest-2015|\"平行世界の財団\"コンテスト]]]。",
@@ -14792,7 +14801,7 @@
         "list": ""
     },
     {
-        "id": 1896,
+        "id": 1897,
         "tag": "2017冬季コンテスト",
         "trans": "2017冬季征文",
         "desc": "[[[amnestic-contest|\"記憶処理\"コンテスト]]]。",
@@ -14801,7 +14810,7 @@
         "list": ""
     },
     {
-        "id": 1897,
+        "id": 1898,
         "tag": "2018冬季コンテスト",
         "trans": "2018冬季征文",
         "desc": "[[[winter-contest-2018|2018春節看図執筆コンテスト]]]。",
@@ -14810,7 +14819,7 @@
         "list": ""
     },
     {
-        "id": 1898,
+        "id": 1899,
         "tag": "2019新人コンテスト",
         "trans": "2019新人竞赛",
         "desc": "[[[prime-contest-hub|2019\"新起之秀\"新人コンテスト]]]。",
@@ -14819,7 +14828,7 @@
         "list": ""
     },
     {
-        "id": 1899,
+        "id": 1900,
         "tag": "2020夏季コンテスト",
         "trans": "2020夏季征文",
         "desc": "[[[summer-contest-2020|2020夏季\"古代伝説\"コンテスト]]]。",
@@ -14828,7 +14837,7 @@
         "list": ""
     },
     {
-        "id": 1900,
+        "id": 1901,
         "tag": "2020冬季コンテスト",
         "trans": "2020冬季征文",
         "desc": "[[[winter-contest-2020|2020冬季“获奖感言”コンテスト]]]。",
@@ -14837,7 +14846,7 @@
         "list": ""
     },
     {
-        "id": 1901,
+        "id": 1902,
         "tag": "2020画廊コンテスト",
         "trans": "2020画廊大赛",
         "desc": "[[[gallery-writing|2020画廊コンテスト]]]。",
@@ -14846,7 +14855,7 @@
         "list": ""
     },
     {
-        "id": 1902,
+        "id": 1903,
         "tag": "2021新人コンテスト",
         "trans": "2021新人竞赛",
         "desc": "[[[smash-crazy-pigeons|2021年“殴打疯鸽”新人コンテスト]]]。",
@@ -14855,7 +14864,7 @@
         "list": ""
     },
     {
-        "id": 1903,
+        "id": 1904,
         "tag": "2021反復コンテスト",
         "trans": "2021迭代竞赛",
         "desc": "[[[iteration-contest-2021|2021反復原稿募集コンテスト]]]。",
@@ -14864,7 +14873,7 @@
         "list": ""
     },
     {
-        "id": 1904,
+        "id": 1905,
         "tag": "2022デジタルゲームコンテスト",
         "trans": "2022电子游戏竞赛",
         "desc": "[[[2022-cn-game-crossover-contest-hub|2022デジタルゲームコンテスト]]]。",
@@ -14873,7 +14882,7 @@
         "list": ""
     },
     {
-        "id": 1905,
+        "id": 1906,
         "tag": "2022夏季コンテスト",
         "trans": "2022夏季征文",
         "desc": "[[[summer-contest-2022|2022夏季\"陥穽\"コンテスト]]]。",
@@ -14882,7 +14891,7 @@
         "list": ""
     },
     {
-        "id": 1906,
+        "id": 1907,
         "tag": "2022冬季コンテスト",
         "trans": "2022冬季征文",
         "desc": "[[[winter-contest-2022|2022冬季“寻物/失物启事”コンテスト]]]。",
@@ -14891,7 +14900,7 @@
         "list": ""
     },
     {
-        "id": 1907,
+        "id": 1908,
         "tag": "2023カノンコンテスト",
         "trans": "2023设定竞赛",
         "desc": "[[[2023-canon-contest-hub|2023\"欠落\"カノンコンテスト]]]。",
@@ -14900,7 +14909,7 @@
         "list": ""
     },
     {
-        "id": 1908,
+        "id": 1909,
         "tag": "2023撕咬コンテスト",
         "trans": "2023撕咬竞赛",
         "desc": "[[[teeth-claws-combat-hub|狠撕猛咬コンテスト]]]。",
@@ -14909,7 +14918,7 @@
         "list": ""
     },
     {
-        "id": 1909,
+        "id": 1910,
         "tag": "2023夏季コンテスト",
         "trans": "2023夏季征文",
         "desc": "[[[summer-contest-2023|2023夏季\"黒箱\"コンテスト]]]。",
@@ -14918,7 +14927,7 @@
         "list": ""
     },
     {
-        "id": 1910,
+        "id": 1911,
         "tag": "2024怪談コンテスト",
         "trans": "2024怪谈竞赛",
         "desc": "[[[summer-contest-2023|2024怪談コンテスト]]]。",
@@ -14927,7 +14936,7 @@
         "list": ""
     },
     {
-        "id": 1911,
+        "id": 1912,
         "tag": "2024沈黙ショートコンテスト",
         "trans": "2024噤声短文竞赛",
         "desc": "[[[short-contest-hub|2024沈黙ショートコンテスト]]]。",
@@ -14936,7 +14945,7 @@
         "list": ""
     },
     {
-        "id": 1912,
+        "id": 1913,
         "tag": "2024新鋭コンテスト",
         "trans": "2024新秀竞赛",
         "desc": "[[[newbee2024|2024\"風雲再起\"新鋭コンテスト]]]。",
@@ -14945,7 +14954,7 @@
         "list": ""
     },
     {
-        "id": 1913,
+        "id": 1914,
         "tag": "2025冬季コンテスト",
         "trans": "2025冬季征文",
         "desc": "[[[winter-contest-2025|2025冬季\"諫言\"コンテスト]]]。",
@@ -14954,7 +14963,7 @@
         "list": ""
     },
     {
-        "id": 1914,
+        "id": 1915,
         "tag": "2025goifコンテスト",
         "trans": "2025goif竞赛",
         "desc": "[[[goif-contest-hub|2025\"博戯\"GoIFコンテスト]]]。",
@@ -14963,7 +14972,7 @@
         "list": ""
     },
     {
-        "id": 1915,
+        "id": 1916,
         "tag": "2025夏季コンテスト",
         "trans": "2025夏季征文",
         "desc": "[[[summer-contest-2025|2025夏季\"復刻\"コンテスト]]]。",
@@ -14972,7 +14981,7 @@
         "list": ""
     },
     {
-        "id": 1916,
+        "id": 1917,
         "tag": "2025新鋭コンテスト",
         "trans": "2025新秀竞赛",
         "desc": "[[[newbee2025|2025“群雄逐鹿”新鋭コンテスト]]]。",
@@ -14981,7 +14990,7 @@
         "list": ""
     },
     {
-        "id": 1917,
+        "id": 1918,
         "tag": "秦漢財団",
         "trans": "秦汉基金会",
         "desc": "[[[halloween-event-2017|2017ハロウィンイベント\"秦漢財団\"]]]。",
@@ -14990,7 +14999,7 @@
         "list": ""
     },
     {
-        "id": 1918,
+        "id": 1919,
         "tag": "看図説話-薫衣草",
         "trans": "看图说话-薰衣草",
         "desc": "[[[picture-writing-levender|看図執筆: シーズン-薫衣草]]]。",
@@ -14999,7 +15008,7 @@
         "list": ""
     },
     {
-        "id": 1919,
+        "id": 1920,
         "tag": "看図説話-香蒲",
         "trans": "看图说话-香蒲",
         "desc": "[[[picture-writing-cattail|看図執筆: シーズン-香蒲]]]。",
@@ -15008,7 +15017,7 @@
         "list": ""
     },
     {
-        "id": 1920,
+        "id": 1921,
         "tag": "看図説話-粉蝶花",
         "trans": "看图说话-粉蝶花",
         "desc": "[[[picture-writing-babyblueeyes|看図執筆: シーズン-粉蝶花]]]。",
@@ -15017,7 +15026,7 @@
         "list": ""
     },
     {
-        "id": 1921,
+        "id": 1922,
         "tag": "看図説話-鬼百合",
         "trans": "看图说话-鬼百合",
         "desc": "[[[picture-writing-tiger-lily|看図執筆: シーズン-鬼百合]]]。",
@@ -15026,7 +15035,7 @@
         "list": ""
     },
     {
-        "id": 1922,
+        "id": 1923,
         "tag": "看図説話-待宵草",
         "trans": "看图说话-待宵草",
         "desc": "[[[picture-writing-oenothera|看図執筆: シーズン-待宵草]]]。",
@@ -15035,7 +15044,7 @@
         "list": ""
     },
     {
-        "id": 1923,
+        "id": 1924,
         "tag": "2020愚人コンテスト",
         "trans": "2020愚人竞赛",
         "desc": "[[[2020-waifu-contest|2020年WAIFUコンテスト]]]。",
@@ -15044,7 +15053,7 @@
         "list": ""
     },
     {
-        "id": 1924,
+        "id": 1925,
         "tag": "2024霊異月間",
         "trans": "2024灵异月",
         "desc": "[[[psychic-month-hub|2024年\"魑魅浮光\"月間テーマイベント]]]。",
@@ -15053,7 +15062,7 @@
         "list": ""
     },
     {
-        "id": 1925,
+        "id": 1926,
         "tag": "2025幻想月間",
         "trans": "2025幻想月",
         "desc": "[[[fantasy-month-hub|2025\"幻兆預言\"月間テーマイベント]]]。",
@@ -15062,7 +15071,7 @@
         "list": ""
     },
     {
-        "id": 1926,
+        "id": 1927,
         "tag": "2025愚人コンテスト",
         "trans": "2025愚人竞赛",
         "desc": "[[[af-cn-2025|2025年\"帝の勅命、伝達す──またの名をテーマテーマコンテスト\"]]]。",
@@ -15071,7 +15080,7 @@
         "list": ""
     },
     {
-        "id": 1927,
+        "id": 1928,
         "tag": "2026家具城",
         "trans": "2026家具城",
         "desc": "[[[zhongfen-nazotoki-furniture-centre|2026年\"謎解き家具城\"プロジェクト]]]。",
@@ -15080,7 +15089,7 @@
         "list": ""
     },
     {
-        "id": 1928,
+        "id": 1929,
         "tag": "c2fr2014",
         "trans": "c2fr2014",
         "desc": "[[[le-concours-des-2-ans-de-la-fondation|財団フランス支部2周年のコンテスト]]]。",
@@ -15089,7 +15098,7 @@
         "list": ""
     },
     {
-        "id": 1929,
+        "id": 1930,
         "tag": "c3fr2015",
         "trans": "c3fr2015",
         "desc": "[[[concours-des-trois-ans-de-la-branche-francaise|フランス支部3周年のコンテスト]]]。",
@@ -15098,7 +15107,7 @@
         "list": ""
     },
     {
-        "id": 1930,
+        "id": 1931,
         "tag": "500語未満コンテスト",
         "trans": "-500",
         "desc": "[[[concours-du-scp-de-moins-de-500-mots|500語未満コンテスト]]]。",
@@ -15107,7 +15116,7 @@
         "list": ""
     },
     {
-        "id": 1931,
+        "id": 1932,
         "tag": "c4fr2016",
         "trans": "c4fr2016",
         "desc": "[[[le-concours-des-quatre-ans|4周年のコンテスト]]]。",
@@ -15116,7 +15125,7 @@
         "list": ""
     },
     {
-        "id": 1932,
+        "id": 1933,
         "tag": "nme2017",
         "trans": "nme2017",
         "desc": "[[[concours-nos-meilleurs-ennemis|コンテスト:我々の最高の敵]]]。",
@@ -15125,7 +15134,7 @@
         "list": ""
     },
     {
-        "id": 1933,
+        "id": 1934,
         "tag": "c5fr2017",
         "trans": "c5fr2017",
         "desc": "[[[le-concours-des-cinq-ans|5周年のコンテスト]]]。",
@@ -15134,7 +15143,7 @@
         "list": ""
     },
     {
-        "id": 1934,
+        "id": 1935,
         "tag": "c6fr2018",
         "trans": "c6fr2018",
         "desc": "[[[le-concours-des-six-ans|6周年のコンテスト]]]。",
@@ -15143,7 +15152,7 @@
         "list": ""
     },
     {
-        "id": 1935,
+        "id": 1936,
         "tag": "xks2018",
         "trans": "xks2018",
         "desc": "[[[concours-xkeme-siecle]]]。",
@@ -15152,7 +15161,7 @@
         "list": ""
     },
     {
-        "id": 1936,
+        "id": 1937,
         "tag": "ch2019",
         "trans": "ch2019",
         "desc": "[[[concours-halloween-2019]]]。",
@@ -15161,7 +15170,7 @@
         "list": ""
     },
     {
-        "id": 1937,
+        "id": 1938,
         "tag": "c8fr2020",
         "trans": "c8fr2020",
         "desc": "[[[le-concours-des-huit-ans|8周年のコンテスト]]]。",
@@ -15170,7 +15179,7 @@
         "list": ""
     },
     {
-        "id": 1938,
+        "id": 1939,
         "tag": "c404fr",
         "trans": "c404fr",
         "desc": "[[[le-concours-des-404-ans|ERREUR(フランス支部404周年コンテスト)]]]。",
@@ -15179,7 +15188,7 @@
         "list": ""
     },
     {
-        "id": 1939,
+        "id": 1940,
         "tag": "ch2022",
         "trans": "ch2022",
         "desc": "[[[concours-halloween-2022|]]]。",
@@ -15188,7 +15197,7 @@
         "list": ""
     },
     {
-        "id": 1940,
+        "id": 1941,
         "tag": "chalete2024",
         "trans": "chalete2024",
         "desc": "[[[chalete2024|]]]。",
@@ -15197,7 +15206,7 @@
         "list": ""
     },
     {
-        "id": 1941,
+        "id": 1942,
         "tag": "pl200",
         "trans": "pl200",
         "desc": "[[[konkurs-pl-200|SCP-PL-200コンテスト「責任」]]]。",
@@ -15206,7 +15215,7 @@
         "list": ""
     },
     {
-        "id": 1942,
+        "id": 1943,
         "tag": "crackfic2022",
         "trans": "crackfic2022",
         "desc": "[[[haszyszofikcyjnokonkurs|クラックフィクションコンテスト]]]。",
@@ -15215,7 +15224,7 @@
         "list": ""
     },
     {
-        "id": 1943,
+        "id": 1944,
         "tag": "goif2023",
         "trans": "goif2023",
         "desc": "[[[konkurs-formatow-goi-2023|第二回GoIFコンテスト]]]。",
@@ -15224,7 +15233,7 @@
         "list": ""
     },
     {
-        "id": 1944,
+        "id": 1945,
         "tag": "goipl2021",
         "trans": "goipl2021",
         "desc": "[[[konkurs-goi-pl-2021|GoI-PLコンテスト2021]]]。",
@@ -15233,7 +15242,7 @@
         "list": ""
     },
     {
-        "id": 1945,
+        "id": 1946,
         "tag": "kw2021",
         "trans": "kw2021",
         "desc": "[[[konkurs-wakacyjny-2021|夏季コンテスト2021]]]。",
@@ -15242,7 +15251,7 @@
         "list": ""
     },
     {
-        "id": 1946,
+        "id": 1947,
         "tag": "syl2020",
         "trans": "syl2020",
         "desc": "[[[inicjatywy-sylwestrowe|2020年大晦日執筆チャレンジ]]]。",
@@ -15251,7 +15260,7 @@
         "list": ""
     },
     {
-        "id": 1947,
+        "id": 1948,
         "tag": "syl2021",
         "trans": "syl2021",
         "desc": "[[[inicjatywy-sylwestrowe|2021年大晦日執筆チャレンジ]]]。",
@@ -15260,7 +15269,7 @@
         "list": ""
     },
     {
-        "id": 1948,
+        "id": 1949,
         "tag": "halloween-2013",
         "trans": "halloween-2013",
         "desc": "[[[concurso-de-halloween|ハロウィンコンテスト]]]。",
@@ -15269,7 +15278,7 @@
         "list": ""
     },
     {
-        "id": 1949,
+        "id": 1950,
         "tag": "concurso-historia-2014",
         "trans": "concurso-historia-2014",
         "desc": "[[[concurso-historia-2014|2014年4月の歴史コンテスト]]]。",
@@ -15278,7 +15287,7 @@
         "list": ""
     },
     {
-        "id": 1950,
+        "id": 1951,
         "tag": "concurso-relatos-2015",
         "trans": "concurso-relatos-2015",
         "desc": "[[[concurso-relatos-2015|2015年公式短編Taleコンテスト]]]。",
@@ -15287,7 +15296,7 @@
         "list": ""
     },
     {
-        "id": 1951,
+        "id": 1952,
         "tag": "concurso-scp-2016",
         "trans": "concurso-scp-2016",
         "desc": "[[[http://scp-es.com/forum/t-1721909/nuevo-concurso:creacion-de-un-scp-es|新コンテスト: SCP-ES執筆]]]。",
@@ -15296,7 +15305,7 @@
         "list": ""
     },
     {
-        "id": 1952,
+        "id": 1953,
         "tag": "crc2018",
         "trans": "crc2018",
         "desc": "[[[concurso-de-relatos-cortos-2018|2018年短編Taleコンテスト]]]。",
@@ -15305,7 +15314,7 @@
         "list": ""
     },
     {
-        "id": 1953,
+        "id": 1954,
         "tag": "es100",
         "trans": "#concurso100",
         "desc": "[[[concurso-scp-es-100|SCP-ES-100コンテスト]]]。",
@@ -15314,7 +15323,7 @@
         "list": ""
     },
     {
-        "id": 1954,
+        "id": 1955,
         "tag": "colaborativo2018",
         "trans": "colaborativo2018",
         "desc": "[[[concurso-colaborativo-2018|2018年共著コンテスト]]]。",
@@ -15323,7 +15332,7 @@
         "list": ""
     },
     {
-        "id": 1955,
+        "id": 1956,
         "tag": "exploracion2019",
         "trans": "exploracion2019",
         "desc": "[[[concurso-exploracion-2019|2019年探査コンテスト]]]。",
@@ -15332,7 +15341,7 @@
         "list": ""
     },
     {
-        "id": 1956,
+        "id": 1957,
         "tag": "gdicon2020",
         "trans": "gdicon2020",
         "desc": "[[[concurso-gdi-2020|2020年GoIコンテスト]]]。",
@@ -15341,7 +15350,7 @@
         "list": ""
     },
     {
-        "id": 1957,
+        "id": 1958,
         "tag": "es200",
         "trans": "200con",
         "desc": "[[[concurso-es-200|SCP-ES-200コンテスト]]]。",
@@ -15350,7 +15359,7 @@
         "list": ""
     },
     {
-        "id": 1958,
+        "id": 1959,
         "tag": "ubicon-2022",
         "trans": "ubicon-2022",
         "desc": "[[[ubicon-2022|2022年超常領域コンテスト]]]。",
@@ -15359,7 +15368,7 @@
         "list": ""
     },
     {
-        "id": 1959,
+        "id": 1960,
         "tag": "acuaticon-2023",
         "trans": "acuaticon-2023",
         "desc": "非公式企画の[[[acuaticon-2023|2023年水棲コンテスト]]]。",
@@ -15368,7 +15377,7 @@
         "list": ""
     },
     {
-        "id": 1960,
+        "id": 1961,
         "tag": "scp-100-de",
         "trans": "scp-100-de",
         "desc": "[[[scp-100-de-wettbewerb|SCP-100-DEコンテスト]]]。",
@@ -15377,7 +15386,7 @@
         "list": ""
     },
     {
-        "id": 1961,
+        "id": 1962,
         "tag": "scp-200-de",
         "trans": "scp-200-de",
         "desc": "[[[scp-200-de-wettbewerb|SCP-200-DEコンテスト]]]。",
@@ -15386,7 +15395,7 @@
         "list": ""
     },
     {
-        "id": 1962,
+        "id": 1963,
         "tag": "goiコンテスト",
         "trans": "goi-wettbewerb",
         "desc": "[[[goi-wettbewerb-2017|GoIコンテスト2017]]]。",
@@ -15395,7 +15404,7 @@
         "list": ""
     },
     {
-        "id": 1963,
+        "id": 1964,
         "tag": "halloween-19-de",
         "trans": "halloween-19-de",
         "desc": "[[[halloween-wettbewerb-2019|ハロウィンコンテスト2019]]]。",
@@ -15404,7 +15413,7 @@
         "list": ""
     },
     {
-        "id": 1964,
+        "id": 1965,
         "tag": "halloween-20-de",
         "trans": "halloween-20-de",
         "desc": "[[[halloween-wettbewerb-2020|ハロウィンコンテスト2020]]]。",
@@ -15413,7 +15422,7 @@
         "list": ""
     },
     {
-        "id": 1965,
+        "id": 1966,
         "tag": "valentinstag2021",
         "trans": "valentinstag2021",
         "desc": "[[[valentinstag-event|バレンタインデーイベント2021]]]。",
@@ -15422,7 +15431,7 @@
         "list": ""
     },
     {
-        "id": 1966,
+        "id": 1967,
         "tag": "scp-300-de",
         "trans": "scp-300-de",
         "desc": "[[[halloween-wettbewerb-2022|ハロウィンコンテスト2022/SCP-300-DEコンテスト]]]。",
@@ -15431,7 +15440,7 @@
         "list": ""
     },
     {
-        "id": 1967,
+        "id": 1968,
         "tag": "歴史コンテスト",
         "trans": "concursohistorico",
         "desc": "[[[concurso-historico-2020|2020年歴史コンテスト]]]。",
@@ -15440,7 +15449,7 @@
         "list": ""
     },
     {
-        "id": 1968,
+        "id": 1969,
         "tag": "csコンテスト1",
         "trans": "cs-soutěž-1",
         "desc": "[[[cz-contest-i-hub|SCP-CSコンテスト1]]]。",
@@ -15449,7 +15458,7 @@
         "list": ""
     },
     {
-        "id": 1969,
+        "id": 1970,
         "tag": "csコンテスト2",
         "trans": "cs-soutěž-2",
         "desc": "[[[cz-contest-ii-hub|SCP-CSコンテスト2]]]。",
@@ -15458,7 +15467,7 @@
         "list": ""
     },
     {
-        "id": 1970,
+        "id": 1971,
         "tag": "csコンテスト3",
         "trans": "cs-soutěž-3",
         "desc": "[[[cz-contest-iii-hub|SCP-CSコンテスト3]]]。",
@@ -15467,7 +15476,7 @@
         "list": ""
     },
     {
-        "id": 1971,
+        "id": 1972,
         "tag": "csコンテスト4",
         "trans": "cs-soutěž-4",
         "desc": "[[[cz-contest-iv-hub|SCP-CSコンテスト4]]]。",
@@ -15476,7 +15485,7 @@
         "list": ""
     },
     {
-        "id": 1972,
+        "id": 1973,
         "tag": "csコンテスト5",
         "trans": "cs-soutěž-5",
         "desc": "[[[cz-contest-v-hub|SCP-CSコンテスト5]]]。",
@@ -15485,7 +15494,7 @@
         "list": ""
     },
     {
-        "id": 1973,
+        "id": 1974,
         "tag": "csコンテスト6",
         "trans": "cs-soutěž-6",
         "desc": "[[[cs-contest-vi-hub|SCP-CSコンテスト6]]]。",
@@ -15494,7 +15503,7 @@
         "list": ""
     },
     {
-        "id": 1974,
+        "id": 1975,
         "tag": "csクリシェコンテスト2",
         "trans": "cs-soutěž-klišé-2",
         "desc": "[[[cs-contest-klise-2-hub|SCP-CS第2回クリシェコンテスト]]]。",
@@ -15503,7 +15512,7 @@
         "list": ""
     },
     {
-        "id": 1975,
+        "id": 1976,
         "tag": "2025再誕コンテスト",
         "trans": "soutěž-znovuzrození2025",
         "desc": "[[[soutez-znovuzrozeni2025-hub|2025再誕コンテスト]]]。",
@@ -15512,7 +15521,7 @@
         "list": ""
     },
     {
-        "id": 1976,
+        "id": 1977,
         "tag": "2019回憶コンテスト",
         "trans": "2019回憶競賽",
         "desc": "[[[2019-memories|2019回憶コンテスト]]]。",
@@ -15521,7 +15530,7 @@
         "list": ""
     },
     {
-        "id": 1977,
+        "id": 1978,
         "tag": "2020冬季コンテストzh",
         "trans": "2020冬季競賽",
         "desc": "ZHの[[[lunar-new-year-2020|2020冬季コンテスト]]]。",
@@ -15530,7 +15539,7 @@
         "list": ""
     },
     {
-        "id": 1978,
+        "id": 1979,
         "tag": "2021夏季コンテストzh",
         "trans": "2021夏季競賽",
         "desc": "ZHの[[[summer-contest-2021|2021夏季コンテスト]]]。",
@@ -15539,7 +15548,7 @@
         "list": ""
     },
     {
-        "id": 1979,
+        "id": 1980,
         "tag": "2023紅藍合戦",
         "trans": "2023紅藍爭霸賽",
         "desc": "[[[honglam-battle|2023紅藍合戦]]]。",
@@ -15548,7 +15557,7 @@
         "list": ""
     },
     {
-        "id": 1980,
+        "id": 1981,
         "tag": "2023冬季コンテストzh",
         "trans": "2023冬季競賽",
         "desc": "ZHの[[[better-to-add-an-imaaage|2023冬季コンテスト]]]。",
@@ -15557,7 +15566,7 @@
         "list": ""
     },
     {
-        "id": 1981,
+        "id": 1982,
         "tag": "2024夏季コンテストzh",
         "trans": "2024夏季競賽",
         "desc": "ZHの[[[summer-contest-2024|2024夏季コンテスト]]]。",
@@ -15566,7 +15575,7 @@
         "list": ""
     },
     {
-        "id": 1982,
+        "id": 1983,
         "tag": "2020金字塔登り",
         "trans": "2020攀爬金字塔",
         "desc": "[[[climb-the-pyramid|集まれ！金字塔登攀隊]]]。",
@@ -15575,7 +15584,7 @@
         "list": ""
     },
     {
-        "id": 1983,
+        "id": 1984,
         "tag": "2020聖夜相守",
         "trans": "2020聖夜相守",
         "desc": "[[[christmas-event2|聖夜相守 - もう一夜]]]。",
@@ -15584,7 +15593,7 @@
         "list": ""
     },
     {
-        "id": 1984,
+        "id": 1985,
         "tag": "100-vn",
         "trans": "100-vn",
         "desc": "[[[scp100vncontesthub|SCP-100-VNコンテスト]]]。",
@@ -15593,7 +15602,7 @@
         "list": ""
     },
     {
-        "id": 1985,
+        "id": 1986,
         "tag": "collabcon-2022-vn",
         "trans": "collabcon-2022-vn",
         "desc": "[[[collabcon-2022-hub|共著コンテスト2022]]]。",
@@ -15602,7 +15611,7 @@
         "list": ""
     },
     {
-        "id": 1986,
+        "id": 1987,
         "tag": "childhoodcon2023",
         "trans": "childhoodcon2023",
         "desc": "[[[childhoodcon2023|幼少期コンテスト2023]]]。",
@@ -15611,7 +15620,7 @@
         "list": ""
     },
     {
-        "id": 1987,
+        "id": 1988,
         "tag": "trinitycon2023",
         "trans": "trinitycon2023",
         "desc": "[[[trinitycon2023|トリニティコンテスト2023]]]。",
@@ -15620,7 +15629,7 @@
         "list": ""
     },
     {
-        "id": 1988,
+        "id": 1989,
         "tag": "cupidcon24-vn",
         "trans": "cupidcon24-vn",
         "desc": "[[[cupidcon2024|キューピッドコンテスト2024]]]。",
@@ -15629,7 +15638,7 @@
         "list": ""
     },
     {
-        "id": 1989,
+        "id": 1990,
         "tag": "imgexcon25",
         "trans": "imgexcon25",
         "desc": "[[[imgexcon25|画像交換コンテスト2025]]]。",
@@ -15638,7 +15647,7 @@
         "list": ""
     },
     {
-        "id": 1990,
+        "id": 1991,
         "tag": "vn-zh-xmas25",
         "trans": "vn-zh-xmas25",
         "desc": "[[[vn-zh-xmas25|VN-ZHプレゼント交換2025「降誕祭の館、終夜煌めく宴」]]]。",
@@ -15647,7 +15656,7 @@
         "list": ""
     },
     {
-        "id": 1991,
+        "id": 1992,
         "tag": "goivncon26",
         "trans": "goivncon26",
         "desc": "[[[goivncon2026|VN要注意団体コンテスト2026]]]。",
@@ -15656,7 +15665,7 @@
         "list": ""
     },
     {
-        "id": 1992,
+        "id": 1993,
         "tag": "200-vn",
         "trans": "200-vn",
         "desc": "[[[scp200vncontesthub|SCP-200-VNコンテスト]]]。",
@@ -15665,7 +15674,7 @@
         "list": ""
     },
     {
-        "id": 1994,
+        "id": 1995,
         "tag": "intcon2023",
         "trans": "intcon2023",
         "desc": "[[[international-collaboration-contest-2023|国際共著コンテスト2023]]]。",
@@ -15674,7 +15683,7 @@
         "list": ""
     },
     {
-        "id": 1996,
+        "id": 1997,
         "tag": "halloween-2019",
         "trans": "halloween-2019",
         "desc": "[[[halloween-2019|ハロウィン2019]]]。",
@@ -15683,7 +15692,7 @@
         "list": ""
     },
     {
-        "id": 1997,
+        "id": 1998,
         "tag": "1stanniv",
         "trans": "1stanniv",
         "desc": "[[[1st-anniversary-contest|一周年記念コンテスト]]]。",
@@ -15692,7 +15701,7 @@
         "list": ""
     },
     {
-        "id": 1998,
+        "id": 1999,
         "tag": "contest-j-1-2019",
         "trans": "contest-j-1-2019",
         "desc": "[[[contest-sl-j-1-2019|”SL-J 2019”コンテスト]]]。",
@@ -15701,7 +15710,7 @@
         "list": ""
     },
     {
-        "id": 1999,
+        "id": 2000,
         "tag": "始のいろは",
         "trans": "",
         "desc": "アンソロジー「[/iroha-the-begining-hub 始のいろは]」。",
@@ -15710,7 +15719,7 @@
         "type": ""
     },
     {
-        "id": 2000,
+        "id": 2001,
         "tag": "scp漢字ドリル",
         "trans": "",
         "desc": "アンソロジー「[/scp-kanji-drill-hub SCP漢字ドリル]」。",
@@ -15719,7 +15728,7 @@
         "type": ""
     },
     {
-        "id": 2001,
+        "id": 2002,
         "tag": "t-arot",
         "trans": "",
         "desc": "アンソロジー「[/tarot-in-a-caramel-box Tale - Artwork Resonance On Tarot]」。",
@@ -15728,7 +15737,7 @@
         "type": ""
     },
     {
-        "id": 2002,
+        "id": 2003,
         "tag": "ポリシー",
         "trans": "policy",
         "desc": "実用的なサイト上のルールやポリシーを掲載するページに付与されるタグです。JPでは//他支部公式//タグに置換してください。",
@@ -15737,7 +15746,7 @@
         "list": ""
     },
     {
-        "id": 2003,
+        "id": 2004,
         "tag": "アーティスト",
         "trans": "artist",
         "desc": "アーティストのプロフィールページに付与されるタグです。JPでは//アートワーク//タグに置換してください。[#faq 翻訳に関するFAQ「アーティストタグについて」]も参照してください。",
@@ -15746,7 +15755,7 @@
         "list": ""
     },
     {
-        "id": 2004,
+        "id": 2005,
         "tag": "著作紹介",
         "trans": "more-by",
         "desc": "著者ごとに取得できる、簡易的な著作一覧のページに付与されるタグです。著者ページとは異なり、他のページから呼び出すかたちで読者に同著者の作品を紹介するために使用されます。なお、これらのページはJPでは使用されていません。",
@@ -15755,7 +15764,7 @@
         "list": ""
     },
     {
-        "id": 2005,
+        "id": 2006,
         "tag": "_taleハブ",
         "trans": "_tale-hub",
         "desc": "特定のカノン/Taleシリーズのハブであることを示すタグです。//ハブ//タグと同時に使用されます。",
@@ -15764,7 +15773,7 @@
         "list": ""
     },
     {
-        "id": 2006,
+        "id": 2007,
         "tag": "改稿中",
         "trans": "in-rewrite",
         "desc": "ENの管理用タグであり、[[[https://scp-wiki.wikidot.com/rewrite-guide|改稿制度]]]に従って改稿されている途中のページに付与されます。このタグが付与されたページの翻訳は見合わせてください。",
@@ -15773,7 +15782,7 @@
         "list": ""
     },
     {
-        "id": 2007,
+        "id": 2008,
         "tag": "改稿可能",
         "trans": "rewritable",
         "desc": "ENの管理用タグで、[[[https://scp-wiki.wikidot.com/rewrite-guide|改稿制度]]]に従って使用されます。評価が低かったり、内容が古くなっていたりする以外の理由で、他のユーザーによる改稿が認められている記事に付与されます。",
@@ -15782,7 +15791,7 @@
         "list": ""
     },
     {
-        "id": 2008,
+        "id": 2009,
         "tag": "削除投票中",
         "trans": "in-deletion",
         "desc": "ENの管理用タグであり、JPの//削除通知//に相当します。このタグが付与されたページの翻訳は見合わせてください。",
@@ -15791,7 +15800,7 @@
         "list": ""
     },
     {
-        "id": 2009,
+        "id": 2010,
         "tag": "_cc",
         "trans": "_cc",
         "desc": "ページ内のコンテンツすべてが適切なライセンスの下使用されていることが確認されたことを表すタグです。ただし、この確認はEN側のスタッフによるものであるため、当タグが付いていてもJP側の基準に従い画像が差し止められる場合があります。詳しくは[[[image-use-policy|画像利用ポリシー]]]を参照してください。",
@@ -15800,7 +15809,7 @@
         "list": ""
     },
     {
-        "id": 2010,
+        "id": 2011,
         "tag": "_画像",
         "trans": "_image",
         "desc": "使用されている画像の出展情報・ライセンス情報が正確かどうか、EN側のスタッフが確認中のページであることを表すタグです。",
@@ -15809,7 +15818,7 @@
         "list": ""
     },
     {
-        "id": 2011,
+        "id": 2012,
         "tag": "_ライセンスボックス",
         "trans": "_licensebox",
         "desc": "ライセンスボックスが付いており、[[[https://scp-wiki.wikidot.com/licensing-master-list|Licensing Master List]]]から詳細な権利情報を確認できるページであることを示すタグです。",
@@ -15818,7 +15827,7 @@
         "list": ""
     },
     {
-        "id": 2012,
+        "id": 2013,
         "tag": "_テーマ移行",
         "trans": "_theme-temp",
         "desc": "古い//コンポーネント//ページを//テーマ//ページに移行するにあたって設置されるタグです。",
@@ -15827,7 +15836,7 @@
         "list": ""
     },
     {
-        "id": 2013,
+        "id": 2014,
         "tag": "クロスリンク",
         "trans": "crosslink",
         "desc": "EN側のスタッフがクロスリンク追加を提案中のページに使用されるタグです。",
@@ -15836,7 +15845,7 @@
         "list": ""
     },
     {
-        "id": 2014,
+        "id": 2015,
         "tag": "_ru",
         "trans": "_ru",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15845,7 +15854,7 @@
         "list": ""
     },
     {
-        "id": 2015,
+        "id": 2016,
         "tag": "_ko",
         "trans": "_ko",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15854,7 +15863,7 @@
         "list": ""
     },
     {
-        "id": 2016,
+        "id": 2017,
         "tag": "_cn",
         "trans": "_cn",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15863,7 +15872,7 @@
         "list": ""
     },
     {
-        "id": 2017,
+        "id": 2018,
         "tag": "_fr",
         "trans": "_fr",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15872,7 +15881,7 @@
         "list": ""
     },
     {
-        "id": 2018,
+        "id": 2019,
         "tag": "_pl",
         "trans": "_pl",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15881,7 +15890,7 @@
         "list": ""
     },
     {
-        "id": 2019,
+        "id": 2020,
         "tag": "_es",
         "trans": "_es",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15890,7 +15899,7 @@
         "list": ""
     },
     {
-        "id": 2020,
+        "id": 2021,
         "tag": "_th",
         "trans": "_th",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15899,7 +15908,7 @@
         "list": ""
     },
     {
-        "id": 2021,
+        "id": 2022,
         "tag": "_jp",
         "trans": "_jp",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15908,7 +15917,7 @@
         "list": ""
     },
     {
-        "id": 2022,
+        "id": 2023,
         "tag": "_de",
         "trans": "_de",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15917,7 +15926,7 @@
         "list": ""
     },
     {
-        "id": 2023,
+        "id": 2024,
         "tag": "_it",
         "trans": "_it",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15926,7 +15935,7 @@
         "list": ""
     },
     {
-        "id": 2024,
+        "id": 2025,
         "tag": "_ua",
         "trans": "_ua",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15935,7 +15944,7 @@
         "list": ""
     },
     {
-        "id": 2025,
+        "id": 2026,
         "tag": "_pt",
         "trans": "_pt",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15944,7 +15953,7 @@
         "list": ""
     },
     {
-        "id": 2026,
+        "id": 2027,
         "tag": "_zh",
         "trans": "_zh",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15953,7 +15962,7 @@
         "list": ""
     },
     {
-        "id": 2027,
+        "id": 2028,
         "tag": "_vn",
         "trans": "_vn",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15962,7 +15971,7 @@
         "list": ""
     },
     {
-        "id": 2028,
+        "id": 2029,
         "tag": "_el",
         "trans": "_el",
         "desc": "//インターナショナル//と併用して、そのページがどの支部から翻訳されたものかを表す隠しタグです。JPでは既に支部タグがあるため、使用されていません。",
@@ -15971,7 +15980,7 @@
         "list": ""
     },
     {
-        "id": 2029,
+        "id": 2030,
         "tag": "オブジェクト",
         "trans": "объект",
         "desc": "//scp//タグに置換してください。",
@@ -15980,7 +15989,7 @@
         "list": ""
     },
     {
-        "id": 2030,
+        "id": 2031,
         "tag": "オブジェクトtale",
         "trans": "объект_рассказ",
         "desc": "SCP報告書の形態をしたTaleに付与されるタグです。//tale//タグに置換してください。",
@@ -15989,7 +15998,7 @@
         "list": ""
     },
     {
-        "id": 2031,
+        "id": 2032,
         "tag": "エッセイ・ガイド",
         "trans": "очерк_руководство",
         "desc": "//エッセイ//あるいは//他支部公式//に置換してください。",
@@ -15998,7 +16007,7 @@
         "list": ""
     },
     {
-        "id": 2032,
+        "id": 2033,
         "tag": "ロア",
         "trans": "лор",
         "desc": "//世界観//と//他支部公式//に置換してください。ただし、[[[log-of-anomalous-items-ru|Anomalousアイテム一覧-RU]]]等、他の分類のほうがより適切と判断されるページはスタッフによって分類を差し替えられる可能性があります。",
@@ -16007,7 +16016,7 @@
         "list": ""
     },
     {
-        "id": 2033,
+        "id": 2034,
         "tag": "警告",
         "trans": "предупреждение",
         "desc": "//見出し//タグに置換してください。",
@@ -16016,7 +16025,7 @@
         "list": ""
     },
     {
-        "id": 2034,
+        "id": 2035,
         "tag": "その他",
         "trans": "прочие_материалы",
         "desc": "RU支部における既存のページ分類から外れたページに付与されるタグです。JPでは適切なメジャータグに置換してください。どのタグに当てはまるか判断できかねる場合は、タグ専任チームにご連絡ください。",
@@ -16025,7 +16034,7 @@
         "list": ""
     },
     {
-        "id": 2035,
+        "id": 2036,
         "tag": "クラスなし",
         "trans": "не_назначен",
         "desc": "オブジェクトクラスが設定されていないSCP記事に付与されるタグです。//esoteric-class//に置換してください。",
@@ -16034,7 +16043,7 @@
         "list": ""
     },
     {
-        "id": 2036,
+        "id": 2037,
         "tag": "-v",
         "trans": "-v",
         "desc": "//アーカイブ済み//タグと併用されるタグで、末尾が-VのSCP記事に使用されます。JPでは//アーカイブ済み//タグのみを付与してください。",
@@ -16043,7 +16052,7 @@
         "list": ""
     },
     {
-        "id": 2037,
+        "id": 2038,
         "tag": "ru-tale",
         "trans": "ru-tale",
         "desc": "RU支部のTale一覧を管理するために使用されているタグです。",
@@ -16052,7 +16061,7 @@
         "list": ""
     },
     {
-        "id": 2038,
+        "id": 2039,
         "tag": "ru_en",
         "trans": "ru_en",
         "desc": "RUからENに英訳転載されたページに付与されるタグです。//インターナショナル//タグに置換してください。",
@@ -16061,7 +16070,7 @@
         "list": ""
     },
     {
-        "id": 2039,
+        "id": 2040,
         "tag": "日誌",
         "trans": "дневник",
         "desc": "日記、あるいはその抜粋の形態をした//tale//に付与されるタグです。",
@@ -16070,7 +16079,7 @@
         "list": ""
     },
     {
-        "id": 2040,
+        "id": 2041,
         "tag": "wanderers-library",
         "trans": "Библиотека_Странников",
         "desc": "「放浪者の図書館」に関係するすべてのページに付与されます。これには要注意領域タグである//放浪者の図書館//の付与されるページのみならず、外部の創作コミュニティ「Wanderers' Library」から翻訳されたページも含まれます。",
@@ -16079,7 +16088,7 @@
         "list": ""
     },
     {
-        "id": 2041,
+        "id": 2042,
         "tag": "コンテスト受賞",
         "trans": "победитель",
         "desc": "RU支部の各コンテストで部門受賞を収めた記事に付与されます。",
@@ -16088,7 +16097,7 @@
         "list": ""
     },
     {
-        "id": 2042,
+        "id": 2043,
         "tag": "改稿作品",
         "trans": "재작성",
         "desc": "KO支部のオリジナル作品が改稿された際に付与されるタグです。",
@@ -16097,7 +16106,7 @@
         "list": ""
     },
     {
-        "id": 2043,
+        "id": 2044,
         "tag": "オリジナル",
         "trans": "原创",
         "desc": "CN支部の独自コンテンツであることを示すタグです。//cn//に置換してください。",
@@ -16106,7 +16115,7 @@
         "list": ""
     },
     {
-        "id": 2044,
+        "id": 2045,
         "tag": "チャプター",
         "trans": "章节",
         "desc": "章ごとに子ページとしてページを分割している//tale//に付与されるタグです。",
@@ -16115,7 +16124,7 @@
         "list": ""
     },
     {
-        "id": 2045,
+        "id": 2046,
         "tag": "本部掲載",
         "trans": "主站收录",
         "desc": "SCP-ENに英訳された//cn//ページに付与されるタグです。//インターナショナル//に置換してください。",
@@ -16124,7 +16133,7 @@
         "list": ""
     },
     {
-        "id": 2046,
+        "id": 2047,
         "tag": "scp機密解除",
         "trans": "scp解密",
         "desc": "外部のSCP解説コミュニティ「SCPDeclassified」から翻訳されたページ、およびそれらのページに倣ってCN支部内で作成されたページに付与されるタグです。英語圏の元コミュニティから翻訳されたものに関しては//外部ウィキアーカイブ//に置換され、またライセンス上の懸念があるため、JP支部への重訳投稿は認められません。",
@@ -16133,7 +16142,7 @@
         "list": ""
     },
     {
-        "id": 2047,
+        "id": 2048,
         "tag": "wanderers",
         "trans": "wanderers",
         "desc": "外部の創作コミュニティ「Wanderers' Library」から翻訳されたページ、およびそれらのページに倣ってCN内で作成されたページに付与されるタグです。英語圏の元コミュニティから翻訳されたものに関しては//外部ウィキアーカイブ//に置換されるため、JP支部への重訳投稿は基本的に認められません。",
@@ -16142,7 +16151,7 @@
         "list": ""
     },
     {
-        "id": 2048,
+        "id": 2049,
         "tag": "画像権利保留",
         "trans": "图像保留权利",
         "desc": "CC BY-SA 3.0に適合しないものの、CNの画像利用ポリシーに則っている画像が使用されているページに付与されるタグです。このタグが付与されたページの翻訳を行う場合、//画像差し止め//の項目を参照してください。",
@@ -16151,7 +16160,7 @@
         "list": ""
     },
     {
-        "id": 2049,
+        "id": 2050,
         "tag": "殿堂入り-fr",
         "trans": "patrimoine-fr",
         "desc": "//殿堂入り//に置換してください。",
@@ -16160,7 +16169,7 @@
         "list": ""
     },
     {
-        "id": 2050,
+        "id": 2051,
         "tag": "合作-fr",
         "trans": "collaboration-fr",
         "desc": "//合作//に置換してください。",
@@ -16169,7 +16178,7 @@
         "list": ""
     },
     {
-        "id": 2052,
+        "id": 2053,
         "tag": "映像作品",
         "trans": "film",
         "desc": "映像が主体の、または映像が使用された作品であることを示すタグです。//tale//等の適切なメジャータグをつけたうえで、//映像添付//タグに置換してください。",
@@ -16178,7 +16187,7 @@
         "list": ""
     },
     {
-        "id": 2053,
+        "id": 2054,
         "tag": "vo",
         "trans": "vo",
         "desc": "JPの//元記事削除//に相当します。ただし、ES支部のオリジナル記事に付与されている場合は、//アーカイブ済み//タグに置換してください。",
@@ -16187,7 +16196,7 @@
         "list": ""
     },
     {
-        "id": 2054,
+        "id": 2055,
         "tag": "scp-regional",
         "trans": "scp-regional",
         "desc": "カノン-ES 「[[[i-57-hub|施設-57]]]」に属するSCPのうち、「ラテンアメリカ地域評議会」や「ルゾフォニア地域評議会」以外の地域評議会が収容しているSCPの報告書に付与されるタグです。",
@@ -16196,7 +16205,7 @@
         "list": ""
     },
     {
-        "id": 2055,
+        "id": 2056,
         "tag": "scp-th",
         "trans": "scp-th",
         "desc": "//scp//タグに置換してください。",
@@ -16205,7 +16214,7 @@
         "list": ""
     },
     {
-        "id": 2056,
+        "id": 2057,
         "tag": "tale-th",
         "trans": "tale-th",
         "desc": "//tale//タグに置換してください。",
@@ -16214,7 +16223,7 @@
         "list": ""
     },
     {
-        "id": 2057,
+        "id": 2058,
         "tag": "ドイツ語",
         "trans": "deutsch",
         "desc": "DEで使用されている、独自コンテンツであることを示すタグです。//de//に置き換えてください。",
@@ -16223,7 +16232,7 @@
         "list": ""
     },
     {
-        "id": 2058,
+        "id": 2059,
         "tag": "背景",
         "trans": "hintergrund",
         "desc": "財団など、とりわけ財団ドイツ語支部に関する背景設定を記載したページに使われるタグです。//tale//などの適切なメジャータグに置換してください。",
@@ -16232,7 +16241,7 @@
         "list": ""
     },
     {
-        "id": 2059,
+        "id": 2060,
         "tag": "データシート",
         "trans": "datenblatt",
         "desc": "財団内部の技術文書として、何らかの機器等についての設定を記載した作品に使用されるタグです。//tale//などの適切なメジャータグに置換してください。",
@@ -16241,7 +16250,7 @@
         "list": ""
     },
     {
-        "id": 2060,
+        "id": 2061,
         "tag": "デリバティブ",
         "trans": "detivat",
         "desc": "既存のSCP記事を何らかの[[[canon-hub-de|カノン]]]に合わせて書き直したかたちの作品に付与されるタグです。//goi-format//タグと併用されていない場合は、//derivat//タグを//goi-format//に置換したうえで投稿してください。[#faq 翻訳に関するFAQ「DEの一部カノンで使用されるscp相当のタグについて」]も参照してください。",
@@ -16250,7 +16259,7 @@
         "list": ""
     },
     {
-        "id": 2062,
+        "id": 2063,
         "tag": "goi視点",
         "trans": "goi-sichtweise",
         "desc": "要注意団体視点のTaleに使われるタグです。GoIフォーマットではないので注意してください。",
@@ -16259,7 +16268,7 @@
         "list": ""
     },
     {
-        "id": 2063,
+        "id": 2064,
         "tag": "朗読添付",
         "trans": "vertont",
         "desc": "朗読音声が用意されているページであることを示すタグです。ページ内で音声が使用されている場合を除き、//音声添付//タグへの置換は必要ありません。",
@@ -16268,7 +16277,7 @@
         "list": ""
     },
     {
-        "id": 2064,
+        "id": 2065,
         "tag": "カノン",
         "trans": "kanon",
         "desc": "カノンのハブに付与されるタグです。",
@@ -16277,7 +16286,7 @@
         "list": ""
     },
     {
-        "id": 2065,
+        "id": 2066,
         "tag": "シリーズ",
         "trans": "serie",
         "desc": "Taleシリーズのハブに付与されるタグです。",
@@ -16286,7 +16295,7 @@
         "list": ""
     },
     {
-        "id": 2066,
+        "id": 2067,
         "tag": "o",
         "trans": "o",
         "desc": "記事に対するフィードバックの必要度合いを表すタグです。",
@@ -16295,7 +16304,7 @@
         "list": ""
     },
     {
-        "id": 2067,
+        "id": 2068,
         "tag": "oo",
         "trans": "oo",
         "desc": "記事に対するフィードバックの必要度合いを表すタグです。",
@@ -16304,7 +16313,7 @@
         "list": ""
     },
     {
-        "id": 2068,
+        "id": 2069,
         "tag": "ooo",
         "trans": "ooo",
         "desc": "記事に対するフィードバックの必要度合いを表すタグです。",
@@ -16313,7 +16322,7 @@
         "list": ""
     },
     {
-        "id": 2069,
+        "id": 2070,
         "tag": "oooo",
         "trans": "oooo",
         "desc": "記事に対するフィードバックの必要度合いを表すタグです。",
@@ -16322,7 +16331,7 @@
         "list": ""
     },
     {
-        "id": 2070,
+        "id": 2071,
         "tag": "_o",
         "trans": "_o",
         "desc": "記事に対するフィードバックの必要度合いを表すタグです。",
@@ -16331,7 +16340,7 @@
         "list": ""
     },
     {
-        "id": 2071,
+        "id": 2072,
         "tag": "_ncc",
         "trans": "_ncc",
         "desc": "サイトのライセンスと互換性がないメディアが使用されているページに付与されます。このタグが付与されたページの翻訳を行う場合、//画像差し止め//の項目を参照してください。",
@@ -16340,7 +16349,7 @@
         "list": ""
     },
     {
-        "id": 2072,
+        "id": 2073,
         "tag": "_occ",
         "trans": "_occ",
         "desc": "ライセンスが不明なメディアが使用されているページに付与されます。このタグが付与されたページの翻訳を行う場合、//画像差し止め//の項目を参照してください。",
@@ -16349,7 +16358,7 @@
         "list": ""
     },
     {
-        "id": 2073,
+        "id": 2074,
         "tag": "_コンテスト",
         "trans": "_wettbewerb",
         "desc": "コンテストに置換してください。",
@@ -16358,7 +16367,7 @@
         "list": ""
     },
     {
-        "id": 2074,
+        "id": 2075,
         "tag": "_テーマ",
         "trans": "_theme",
         "desc": "何らかのCSSテーマが適用されているページであることを示します。",
@@ -16367,7 +16376,7 @@
         "list": ""
     },
     {
-        "id": 2075,
+        "id": 2076,
         "tag": "異常利用特殊部隊",
         "trans": "sonderkommando",
         "desc": "異常利用特殊部隊(SKP)に関連する作品に付与されます。DE支部では//skp//タグと//異常利用特殊部隊//タグの2種類が使い分けられていますが、JP支部では//skp//タグに一本化されているのでそちらへ置換してください。",
@@ -16376,7 +16385,7 @@
         "list": ""
     },
     {
-        "id": 2076,
+        "id": 2077,
         "tag": "天と地",
         "trans": "himmel-und-erde",
         "desc": "「天と地」カノンに関連する作品に付与されます。カノン-DE「青玉色の空」の改訂版のタグですが、DE支部での改訂が進んでおらず長らく//青玉色の空//タグと共存している状態であるため、完了までの暫定的な措置として非使用のタグとします。",
@@ -16385,7 +16394,7 @@
         "list": ""
     },
     {
-        "id": 2078,
+        "id": 2079,
         "tag": "カノン外",
         "trans": "fuori-dal-canone",
         "desc": "IT支部の[[[https://fondazionescp.wikidot.com/hub-della-branca-italiana|標準カノン]]]から外れた記事に付与されるタグです。SCP記事には付与されません。",
@@ -16394,7 +16403,7 @@
         "list": ""
     },
     {
-        "id": 2079,
+        "id": 2080,
         "tag": "_p",
         "trans": "_p",
         "desc": "IT支部がSNS上の公式アカウントにおいて紹介した記事に付与されます。",
@@ -16403,7 +16412,7 @@
         "list": ""
     },
     {
-        "id": 2081,
+        "id": 2082,
         "tag": "メタクラス",
         "trans": "метаклас",
         "desc": "オブジェクトクラスがオブジェクト自身の影響を受けて設定されている場合に付与されます。//esoteric-class//に置換してください。",
@@ -16412,7 +16421,7 @@
         "list": ""
     },
     {
-        "id": 2083,
+        "id": 2084,
         "tag": "_oo",
         "trans": "_oo",
         "desc": "記事に対するフィードバックの必要度合いを表すタグです。",
@@ -16421,7 +16430,7 @@
         "list": ""
     },
     {
-        "id": 2084,
+        "id": 2085,
         "tag": "_ooo",
         "trans": "_ooo",
         "desc": "記事に対するフィードバックの必要度合いを表すタグです。",
@@ -16430,7 +16439,7 @@
         "list": ""
     },
     {
-        "id": 2085,
+        "id": 2086,
         "tag": "_oooo",
         "trans": "_oooo",
         "desc": "記事に対するフィードバックの必要度合いを表すタグです。",
@@ -16439,7 +16448,7 @@
         "list": ""
     },
     {
-        "id": 2086,
+        "id": 2087,
         "tag": "_ooooo",
         "trans": "_ooooo",
         "desc": "記事に対するフィードバックの必要度合いを表すタグです。",
@@ -16448,7 +16457,7 @@
         "list": ""
     },
     {
-        "id": 2087,
+        "id": 2088,
         "tag": "_oooooo",
         "trans": "_oooooo",
         "desc": "記事に対するフィードバックの必要度合いを表すタグです。",
@@ -16457,7 +16466,7 @@
         "list": ""
     },
     {
-        "id": 2088,
+        "id": 2089,
         "tag": "チェコ語",
         "trans": "české",
         "desc": "CS支部で使用されている、独自コンテンツであることを示すタグです。//cs//に置き換えてください。",
@@ -16466,7 +16475,7 @@
         "list": ""
     },
     {
-        "id": 2089,
+        "id": 2090,
         "tag": "スロバキア語",
         "trans": "slovenské",
         "desc": "CS支部で使用されている、独自コンテンツであることを示すタグです。//sk//に置き換えてください。",
@@ -16475,7 +16484,7 @@
         "list": ""
     },
     {
-        "id": 2090,
+        "id": 2091,
         "tag": "訳者ページ",
         "trans": "překladatel",
         "desc": "翻訳者とその翻訳作品を紹介するページに付与されるタグです。//著者ページ//に置換してください。",
@@ -16484,7 +16493,7 @@
         "list": ""
     },
     {
-        "id": 2092,
+        "id": 2093,
         "tag": "チャレンジ活動",
         "trans": "挑戰活動",
         "desc": "//プロジェクト//に置換してください。",
@@ -16493,7 +16502,7 @@
         "list": ""
     },
     {
-        "id": 2095,
+        "id": 2096,
         "tag": "scp-vn",
         "trans": "scp-vn",
         "desc": "//scp//タグに置換してください。",
@@ -16502,7 +16511,7 @@
         "list": ""
     },
     {
-        "id": 2096,
+        "id": 2097,
         "tag": "goi-format-vn",
         "trans": "tài-liệu-goi-vn",
         "desc": "//goi-format//タグに置換してください。",
@@ -16511,7 +16520,7 @@
         "list": ""
     },
     {
-        "id": 2097,
+        "id": 2098,
         "tag": "tale-vn",
         "trans": "truyện-vn",
         "desc": "//tale//タグに置換してください。",
@@ -16520,7 +16529,7 @@
         "list": ""
     },
     {
-        "id": 2098,
+        "id": 2099,
         "tag": "補足-vn",
         "trans": "bổ-sung-vn",
         "desc": "//補足//タグに置換してください。",
@@ -16529,7 +16538,7 @@
         "list": ""
     },
     {
-        "id": 2099,
+        "id": 2100,
         "tag": "サイト-vn",
         "trans": "điểm-vn",
         "desc": "//サイト//タグに置換してください。",
@@ -16538,7 +16547,7 @@
         "list": ""
     },
     {
-        "id": 2100,
+        "id": 2101,
         "tag": "エッセイ-vn",
         "trans": "luận-vn",
         "desc": "//エッセイ//タグに置換してください。",
@@ -16547,7 +16556,7 @@
         "list": ""
     },
     {
-        "id": 2101,
+        "id": 2102,
         "tag": "コンテスト-vn",
         "trans": "cuộc-thi-vn",
         "desc": "//コンテスト//タグに置換してください。",
@@ -16556,7 +16565,7 @@
         "list": ""
     },
     {
-        "id": 2103,
+        "id": 2104,
         "tag": "goi一覧",
         "trans": "goi-list",
         "desc": "各支部の要注意団体一覧に付与されるタグです。",

@@ -2835,6 +2835,7 @@ https://scp-wiki-de.wikidot.com/personnel-and-character-dossier
 * **[[[/system:page-tags/tag/アラガッダ|アラガッダ]]]** //(alagadda)// - アラガッダ。
 * **[[[/system:page-tags/tag/バックドア・ソーホー|バックドア・ソーホー]]]** //(backdoor-soho)// - バックドア・ソーホー。
 * **[[[/system:page-tags/tag/コルベニク|コルベニク]]]** //(corbenic)// - [[[SCP-2922|SCP-2922-C]]]、異次元に存在する死後の世界であるコルベニク。
+* **[[[/system:page-tags/tag/サモトラケ東部|サモトラケ東部]]]** //(eastern-samothrace)// - [[[SCP-1173|SCP-1173]]]、実在に議論の余地があるサモトラケ東部イスラム共和国。
 * **[[[/system:page-tags/tag/機械仕掛けの神|機械仕掛けの神]]]** //(deus-ex-machina)// - 財団の世界再起動装置、[[[SCP-2000]]]。
 * **[[[/system:page-tags/tag/エスターバーグ|エスターバーグ]]]** //(esterberg)// - フリーポートの1つ、[[[esterberg-city-wikipedia|エスターバーグ]]]。
 * **[[[/system:page-tags/tag/ユーテック|ユーテック]]]** //(eurtec)// - ユーテック。
