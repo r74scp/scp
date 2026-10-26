@@ -440,7 +440,6 @@ Tags that apply to the physical properties or effects of entities, objects or ph
 * **[https://scpwiki.com/system:page-tags/tag/light light]** -- SCP is triggered, activated, or propagated by or otherwise related to the presence or absence of visible light.
 * **[https://scpwiki.com/system:page-tags/tag/liquid liquid]** -- SCP is or generates a liquid.
 * **[https://scpwiki.com/system:page-tags/tag/loop loop]** -- SCP exhibits or is engaged in a repeating loop of activity.
-* **[https://scpwiki.com/system:page-tags/tag/magnetic magnetic]** -- SCP is magnetic or exhibits traits of magnetic charge and/or attraction.
 * **[https://scpwiki.com/system:page-tags/tag/microscopic microscopic]** -- SCP is too small to be seen or otherwise meaningfully observed by the naked eye.
  * //Compare with 'miniature'//
 * **[https://scpwiki.com/system:page-tags/tag/miniature miniature]** -- SCP is much smaller than objects it resembles.
