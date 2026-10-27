@@ -1126,6 +1126,7 @@ Tags for a series of connected articles, which may be SCPs, tales, GoI Formats, 
 * **[https://scpwiki.com/system:page-tags/tag/8000-dead-rats 8000-dead-rats]** -- Part of the [https://scpwiki.com/8000-dead-rats-hub 8000 Dead Rats] series.
 * **[https://scpwiki.com/system:page-tags/tag/abcs-of-death abcs-of-death]** -- Part of the [https://scpwiki.com/scp-anthology-hub ABC's of Death SCP anthology].
 * **[https://scpwiki.com/system:page-tags/tag/admonition admonition]** -- Part of the [https://scpwiki.com/admonition Admonition] series.
+* **[https://scpwiki.com/system:page-tags/tag/aleph-series aleph-series]** -- Part of the [https://scp-wiki.wikidot.com/aleph-hub Aleph] series.
 * **[https://scpwiki.com/system:page-tags/tag/american-dreams american-dreams]** -- Part of the [https://scpwiki.com/american-dreams-hub American Dreams] series.
 * **[https://scpwiki.com/system:page-tags/tag/anabasis anabasis]** -- Part of the [https://scpwiki.com/anabasis-hub Anabasis] series.
 * **[https://scpwiki.com/system:page-tags/tag/animal-hospital animal-hospital]** -- Part of the [https://scpwiki.com/animal-hospital-hub ANIMAL HOSPITAL] series.
@@ -1406,6 +1407,7 @@ Other individuals involved in the anomalous.
 * **[https://scpwiki.com/system:page-tags/tag/percival-darke percival-darke]** -- Features Percival Darke, aka the Deathless Merchant of London, founder of Marshall, Carter and Dark.
 * **[https://scpwiki.com/system:page-tags/tag/polaricecraps polaricecraps]** -- Features Polaricecraps of Gamers Against Weed.
 * **[https://scpwiki.com/system:page-tags/tag/professor-aw professor-aw]** -- Features Professor A.W., inventor and creator of curiosities.
+* **[https://scpwiki.com/system:page-tags/tag/professor-funtastic professor-funtastic]** -- Features Professor Funtastic, a purveyor of knock-off, cheap quality, and dubiously sourced products.
 * **[https://scpwiki.com/system:page-tags/tag/richard-chappell richard-chappell]** -- Features Richard Davis Chappell, founder of the Chicago Spirit.
 * **[https://scpwiki.com/system:page-tags/tag/robert-bumaro robert-bumaro]** -- Features Robert Bumaro, prophet of Mekhane.
 * **[https://scpwiki.com/system:page-tags/tag/robert-carter robert-carter]** -- Features Robert Carter of Marshall, Carter and Dark.
